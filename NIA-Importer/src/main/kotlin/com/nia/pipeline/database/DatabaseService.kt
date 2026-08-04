@@ -20,6 +20,35 @@ class DatabaseService {
             "Connected to SQLite database: $databasePath"
         }
 
+        createTables()
+
+    }
+
+    private fun createTables() {
+
+        val sql = """
+            CREATE TABLE IF NOT EXISTS crime_incidents (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                incident_number TEXT,
+                offense TEXT,
+                offense_description TEXT,
+                date_occurred TEXT,
+                year INTEGER,
+                latitude REAL,
+                longitude REAL,
+                address TEXT,
+                precinct TEXT
+            );
+        """.trimIndent()
+
+        connection!!.createStatement().use { statement ->
+            statement.execute(sql)
+        }
+
+        Log.logger.info {
+            "Verified table: crime_incidents"
+        }
+
     }
 
     fun shutdown() {
