@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "145495",
+    "businessName": "B \u0026 D PARTY STORES INC.",
+    "address": "8974 Sand Beach Rd, Harbor Beach, MI 48441-9332",
+    "city": "Harbor Beach",
+    "zipCode": "48441",
+    "latitude": 43.841127496208,
+    "longitude": -82.664127988039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291763",
+    "businessName": "SCHEURER FAMILY PHARMACY - HARBOR BEACH",
+    "address": "114 S Huron Ave, Harbor Beach, MI 48441-1201",
+    "city": "Harbor Beach",
+    "zipCode": "48441",
+    "latitude": 43.844403944471,
+    "longitude": -82.651312735349,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

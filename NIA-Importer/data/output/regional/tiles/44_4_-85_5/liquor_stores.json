@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0283504",
+    "businessName": "MANTON TRAILS LLC",
+    "address": "9889 N 39 Rd, Manton, MI 49663-8717",
+    "city": "Liberty Twp",
+    "zipCode": "49663",
+    "latitude": 44.478410009438,
+    "longitude": -85.436553143013,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281754",
+    "businessName": "MANTON MINI MART II, INC",
+    "address": "305 W Main St, Manton, MI 49663-8050",
+    "city": "Manton",
+    "zipCode": "49663",
+    "latitude": 44.410785301162,
+    "longitude": -85.400417743616,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0261517",
+    "businessName": "PARMA TRAVEL CENTER",
+    "address": "12301 W Michigan Ave, Parma, MI 49269-9575",
+    "city": "Parma Twp",
+    "zipCode": "49269",
+    "latitude": 42.267316340167,
+    "longitude": -84.623907992734,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282169",
+    "businessName": "QUANTUM MAGIC LLC",
+    "address": "12250 W Michigan Ave, Parma, MI 49269-9575",
+    "city": "Parma Twp",
+    "zipCode": "49269",
+    "latitude": 42.266819498693,
+    "longitude": -84.622292341269,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

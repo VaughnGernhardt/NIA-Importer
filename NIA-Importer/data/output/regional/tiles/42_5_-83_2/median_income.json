@@ -1,0 +1,38 @@
+[
+  {
+    "zipCode": "48017",
+    "medianHouseholdIncome": 88812,
+    "latitude": 42.536689,
+    "longitude": -83.150389
+  },
+  {
+    "zipCode": "48071",
+    "medianHouseholdIncome": 69503,
+    "latitude": 42.507259,
+    "longitude": -83.10337
+  },
+  {
+    "zipCode": "48073",
+    "medianHouseholdIncome": 91627,
+    "latitude": 42.519181,
+    "longitude": -83.164361
+  },
+  {
+    "zipCode": "48083",
+    "medianHouseholdIncome": 90794,
+    "latitude": 42.55701,
+    "longitude": -83.116767
+  },
+  {
+    "zipCode": "48084",
+    "medianHouseholdIncome": 107098,
+    "latitude": 42.560629,
+    "longitude": -83.175582
+  },
+  {
+    "zipCode": "48098",
+    "medianHouseholdIncome": 164759,
+    "latitude": 42.598433,
+    "longitude": -83.17845
+  }
+]

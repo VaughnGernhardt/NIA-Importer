@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800009916",
+    "propertyName": "BENSON HILLS APARTMENTS",
+    "latitude": 42.74933399932356,
+    "longitude": -84.41200100034764,
+    "assistedUnits": 70,
+    "totalUnits": 226
+  },
+  {
+    "propertyId": "800010056",
+    "propertyName": "DEERPATH",
+    "latitude": 42.74856499894828,
+    "longitude": -84.4546480001333,
+    "assistedUnits": 126,
+    "totalUnits": 126
+  },
+  {
+    "propertyId": "800010068",
+    "propertyName": "EAST GLEN APARTMENTS",
+    "latitude": 42.753237998871256,
+    "longitude": -84.46261600010959,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800033920",
+    "propertyName": "EDGEWOOD VILLAGE",
+    "latitude": 42.761627999383975,
+    "longitude": -84.46836600036056,
+    "assistedUnits": 126,
+    "totalUnits": 135
+  },
+  {
+    "propertyId": "800010156",
+    "propertyName": "GRANGE ACRES I",
+    "latitude": 42.759966999233676,
+    "longitude": -84.41128499994707,
+    "assistedUnits": 81,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800010157",
+    "propertyName": "GRANGE ACRES II",
+    "latitude": 42.75884499929405,
+    "longitude": -84.41340700031122,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800010158",
+    "propertyName": "GRANGE ACRES III/IV",
+    "latitude": 42.75625199901084,
+    "longitude": -84.41411299976774,
+    "assistedUnits": 176,
+    "totalUnits": 176
+  }
+]

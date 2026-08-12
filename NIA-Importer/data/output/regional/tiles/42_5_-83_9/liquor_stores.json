@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "153853",
+    "businessName": "HOWELL LIQUOR SHOP",
+    "address": "4689 E Grand River Ave, Howell, MI 48843-6581",
+    "city": "Genoa Twp",
+    "zipCode": "48843",
+    "latitude": 42.581792870682,
+    "longitude": -83.860101855875,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270904",
+    "businessName": "JONNA/S MARKET",
+    "address": "4986 Chilson Rd, Howell, MI 48843-9453",
+    "city": "Genoa Twp",
+    "zipCode": "48843",
+    "latitude": 42.527230050215,
+    "longitude": -83.862170914792,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279891",
+    "businessName": "MKJ FOOD MART, LLC",
+    "address": "5580-5582 E GRAND RIVER AVE, HOWELL, MI 48843",
+    "city": "Genoa Twp",
+    "zipCode": "48843",
+    "latitude": 42.57639109745,
+    "longitude": -83.842497293715,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

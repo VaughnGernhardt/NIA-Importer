@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "159855",
+    "businessName": "45 BOTELLO\u0027S PARTY STORE",
+    "address": "15791 Lake Michigan Dr, West Olive, MI 49460-9543",
+    "city": "Grand Haven Twp",
+    "zipCode": "49460",
+    "latitude": 42.972213681932,
+    "longitude": -86.178504718886,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140259",
+    "businessName": "WEST OLIVE ONE STOP",
+    "address": "8471 W Olive Rd, West Olive, MI 49460-9605",
+    "city": "Port Sheldon Twp",
+    "zipCode": "49460",
+    "latitude": 42.922232338649,
+    "longitude": -86.148824077176,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

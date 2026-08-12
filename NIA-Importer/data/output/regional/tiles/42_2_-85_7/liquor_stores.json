@@ -1,0 +1,232 @@
+[
+  {
+    "businessId": "0282276",
+    "businessName": "BRONCO MART",
+    "address": "2905 STADIUM DR, KALAMAZOO, MI 49008-1591",
+    "city": "Kalamazoo",
+    "zipCode": "49008",
+    "latitude": 42.272121439597,
+    "longitude": -85.626150751182,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166580",
+    "businessName": "D \u0026 W #1575",
+    "address": "2103 Parkview Ave, Kalamazoo, MI 49008-3925",
+    "city": "Kalamazoo",
+    "zipCode": "49008",
+    "latitude": 42.259650928823,
+    "longitude": -85.614990107552,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270515",
+    "businessName": "DRAKE PARTY STORE LLC",
+    "address": "4717 W Kl Ave, Kalamazoo, MI 49006-6160",
+    "city": "Kalamazoo",
+    "zipCode": "49006",
+    "latitude": 42.277800142982,
+    "longitude": -85.646754511765,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282866",
+    "businessName": "MUNCHIE MART",
+    "address": "3626 W Michigan Ave, Kalamazoo, MI 49006-5440",
+    "city": "Kalamazoo",
+    "zipCode": "49006",
+    "latitude": 42.278215632076,
+    "longitude": -85.633990589851,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270342",
+    "businessName": "THE DEN PARTY STORE",
+    "address": "2917 Howard St, Kalamazoo, MI 49006-5620",
+    "city": "Kalamazoo",
+    "zipCode": "49006",
+    "latitude": 42.282469119012,
+    "longitude": -85.621852125928,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11337",
+    "businessName": "TIFFANY\u0027S WINE AND SPIRITS",
+    "address": "1714 W Main St, Kalamazoo, MI 49006-3180",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49006",
+    "latitude": 42.294237811871,
+    "longitude": -85.609831021779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269569",
+    "businessName": "WEST MAIN PARTY STORE",
+    "address": "2029 W Main St, Kalamazoo, MI 49006-3086",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49006",
+    "latitude": 42.294673070133,
+    "longitude": -85.614470628105,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238611",
+    "businessName": "BRONCO LIQUOR",
+    "address": "5034 W Kl Ave, Kalamazoo, MI 49009-1601",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.278181739016,
+    "longitude": -85.648830396841,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237845",
+    "businessName": "COSTCO WHOLESALE #1191",
+    "address": "5100 Century Ave, Kalamazoo, MI 49006-5714",
+    "city": "Oshtemo Twp",
+    "zipCode": "49006",
+    "latitude": 42.271008756557,
+    "longitude": -85.649975891649,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12240",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "6430 Stadium Dr, Kalamazoo, MI 49009-2016",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.259954645946,
+    "longitude": -85.676156429338,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10051",
+    "businessName": "HARDING\u0027S MARKETPLACE",
+    "address": "5161 W Main St, Kalamazoo, MI 49009-1003",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.296189436963,
+    "longitude": -85.651172127086,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228115",
+    "businessName": "MEG-BEV",
+    "address": "6619 W Main St, Kalamazoo, MI 49009-8922",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.295724194901,
+    "longitude": -85.680499229414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11838",
+    "businessName": "MEIJER #119",
+    "address": "6660 W Main St, Kalamazoo, MI 49009-3962",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.295833505504,
+    "longitude": -85.681371194068,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242439",
+    "businessName": "NATIONAL BEVERAGE OF KALAMAZOO INC",
+    "address": "3062 S 9th St, Kalamazoo, MI 49009-8336",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.26141538372,
+    "longitude": -85.677634301615,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259111",
+    "businessName": "STADIUM LIQUOR",
+    "address": "5620 Stadium Dr, Kalamazoo, MI 49009-1934",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.267333729627,
+    "longitude": -85.659854409648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "187352",
+    "businessName": "WAL-MART #5065",
+    "address": "501 S 9th St, Kalamazoo, MI 49009",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.284210958499,
+    "longitude": -85.678193844427,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284494",
+    "businessName": "BIG BROTHERS REALTY LLC",
+    "address": "1800 W Milham Ave, Portage, MI 49024-1294",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.23016316018,
+    "longitude": -85.610438713303,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224994",
+    "businessName": "MEGA-BEV QUICK STOP, PORTAGE",
+    "address": "7921 Oakland Dr, Portage, MI 49024-4935",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.201958846373,
+    "longitude": -85.613807717792,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234483",
+    "businessName": "SUNNY MART",
+    "address": "4824 W Milham Ave, Portage, MI 49024-1058",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.230308273118,
+    "longitude": -85.64681419162,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231392",
+    "businessName": "9TH ST AGO",
+    "address": "5335 S 9th St, Kalamazoo, MI 49009-9561",
+    "city": "Texas Twp",
+    "zipCode": "49009",
+    "latitude": 42.240207588567,
+    "longitude": -85.677402305118,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263819",
+    "businessName": "TEXAS CORNERS BEER WINE AND LIQUOR",
+    "address": "6930 W Q Ave, Kalamazoo, MI 49009-8942",
+    "city": "Texas Twp",
+    "zipCode": "49009",
+    "latitude": 42.201109126905,
+    "longitude": -85.685528356187,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226436",
+    "businessName": "TEXAS MART",
+    "address": "5030 S 9th St, Kalamazoo, MI 49009-9503",
+    "city": "Texas Twp",
+    "zipCode": "49009",
+    "latitude": 42.244833922766,
+    "longitude": -85.67767382655,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265469",
+    "businessName": "VALLEY MARKET",
+    "address": "5757 S 9th St, Kalamazoo, MI 49009-7484",
+    "city": "Texas Twp",
+    "zipCode": "49009",
+    "latitude": 42.233684591316,
+    "longitude": -85.677191252067,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

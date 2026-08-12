@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800010097",
+    "propertyName": "FAIRMONT FARMS COOPERATIVE I",
+    "latitude": 42.66799699884393,
+    "longitude": -83.3165699996215,
+    "assistedUnits": 112,
+    "totalUnits": 130
+  },
+  {
+    "propertyId": "800010265",
+    "propertyName": "LAKELAND PLACE",
+    "latitude": 42.639863998940264,
+    "longitude": -83.33777999962399,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010377",
+    "propertyName": "NORTH HILLS FARMS 1",
+    "latitude": 42.66614099907071,
+    "longitude": -83.3206519999681,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010376",
+    "propertyName": "NORTH HILLS FARMS 2",
+    "latitude": 42.668443999068415,
+    "longitude": -83.32011200019294,
+    "assistedUnits": 325,
+    "totalUnits": 325
+  },
+  {
+    "propertyId": "800060925",
+    "propertyName": "PONTIAC PLAINS APARTMENTS",
+    "latitude": 42.67036299927949,
+    "longitude": -83.31834100035638,
+    "assistedUnits": 23,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800212853",
+    "propertyName": "SPRINGHILL#2",
+    "latitude": 42.649944999329,
+    "longitude": -83.38464100000071,
+    "assistedUnits": 22,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800010675",
+    "propertyName": "WALTON PARK MANOR COOPERATIVE 1 \u0026 2",
+    "latitude": 42.67083099878561,
+    "longitude": -83.3158220003322,
+    "assistedUnits": 100,
+    "totalUnits": 179
+  },
+  {
+    "propertyId": "800010676",
+    "propertyName": "WALTON PARK NORTH",
+    "latitude": 42.673279998881775,
+    "longitude": -83.31579399984479,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800010681",
+    "propertyName": "WATERFORD MEADOWS",
+    "latitude": 42.65139199892162,
+    "longitude": -83.3354990001495,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  }
+]

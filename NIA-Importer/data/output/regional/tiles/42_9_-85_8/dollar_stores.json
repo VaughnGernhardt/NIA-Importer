@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "7500-cottonwood-dr",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 7500, Cottonwood Dr Jenison, MI 49428-7301",
+    "city": "Cottonwood Dr Jenison",
+    "zipCode": "49428",
+    "latitude": 42.905109438843,
+    "longitude": -85.791910575157
+  },
+  {
+    "storeId": "3232-28th-st-sw",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "3232 28th, St SW Grandville, MI 49418-1423",
+    "city": "St SW Grandville",
+    "zipCode": "49418",
+    "latitude": 42.913506533742,
+    "longitude": -85.744875005118
+  }
+]

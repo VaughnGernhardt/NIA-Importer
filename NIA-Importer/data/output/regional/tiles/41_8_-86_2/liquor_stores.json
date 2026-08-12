@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0271963",
+    "businessName": "NV 66 ENTERPRISE INC",
+    "address": "2560 Detroit Rd, Niles, MI 49120-9476",
+    "city": "Howard Twp",
+    "zipCode": "49120",
+    "latitude": 41.829206768712,
+    "longitude": -86.191190820356,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225786",
+    "businessName": "SUNRISE CORNER\u0027S PARTY STORE",
+    "address": "1009 Huntly Rd, Niles, MI 49120-3989",
+    "city": "Howard Twp",
+    "zipCode": "49120",
+    "latitude": 41.827514585784,
+    "longitude": -86.195254927768,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "31123-harper-avenue",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 31123, Harper Avenue St. Clair Shores, MI 48082-1951",
+    "city": "Harper Avenue St. Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.524044423278,
+    "longitude": -82.898395850599
+  },
+  {
+    "storeId": "37605-harper-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 37605, Harper Ave Clinton Township, MI 48036-3022",
+    "city": "Harper Ave Clinton Township",
+    "zipCode": "48036",
+    "latitude": 42.5732919905,
+    "longitude": -82.871542098792
+  },
+  {
+    "storeId": "35090-harper-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 35090, Harper Avenue Clinton Township, MI 48035",
+    "city": "Harper Avenue Clinton Township",
+    "zipCode": "48035",
+    "latitude": 42.555755949499,
+    "longitude": -82.870080215997
+  },
+  {
+    "storeId": "254-southbound-gratiot-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 254, Southbound Gratiot Ave Mount Clemens, MI 48043-2426",
+    "city": "Southbound Gratiot Ave Mount Clemens",
+    "zipCode": "48043",
+    "latitude": 42.589449407147,
+    "longitude": -82.882284434906
+  }
+]

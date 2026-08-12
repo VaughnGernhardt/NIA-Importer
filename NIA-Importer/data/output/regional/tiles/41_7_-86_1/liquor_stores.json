@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0272826",
+    "businessName": "EDWARDSBURG MARATHON",
+    "address": "26404 US Highway 12, Edwardsburg, MI 49112-9311",
+    "city": "Edwardsburg",
+    "zipCode": "49112",
+    "latitude": 41.79984637329,
+    "longitude": -86.076111451294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282487",
+    "businessName": "EDWARD PARTY STORE LLC",
+    "address": "24040 US 12, EDWARDSBURG, MI 49112",
+    "city": "Ontwa Twp",
+    "zipCode": "49112",
+    "latitude": 41.79387868383,
+    "longitude": -86.030675208962,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272786",
+    "businessName": "PUNJAB GROUP EDWARDSBURG OIL INC",
+    "address": "26161 US Highway 12, Edwardsburg, MI 49112-8492",
+    "city": "Ontwa Twp",
+    "zipCode": "49112",
+    "latitude": 41.798568362034,
+    "longitude": -86.072222968716,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236692",
+    "businessName": "STATELINE LIQUOR",
+    "address": "71077 M 62, Edwardsburg, MI 49112-9159",
+    "city": "Ontwa Twp",
+    "zipCode": "49112",
+    "latitude": 41.766379474332,
+    "longitude": -86.088356500461,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

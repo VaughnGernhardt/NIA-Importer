@@ -1,0 +1,20 @@
+[
+  {
+    "zipCode": "49508",
+    "medianHouseholdIncome": 70120,
+    "latitude": 42.872994,
+    "longitude": -85.628015
+  },
+  {
+    "zipCode": "49509",
+    "medianHouseholdIncome": 65132,
+    "latitude": 42.897764,
+    "longitude": -85.693418
+  },
+  {
+    "zipCode": "49548",
+    "medianHouseholdIncome": 61636,
+    "latitude": 42.867826,
+    "longitude": -85.662972
+  }
+]

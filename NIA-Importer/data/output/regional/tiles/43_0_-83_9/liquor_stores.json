@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "238481",
+    "businessName": "JIMMY\u0027S SHORT STOP, INC.",
+    "address": "1104 S Elms Rd, Flint, MI 48532-3107",
+    "city": "Clayton Twp",
+    "zipCode": "48532",
+    "latitude": 43.012973493921,
+    "longitude": -83.812379545312,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17659",
+    "businessName": "MARTHA\u0027S QUICK STOP",
+    "address": "111 S Seymour Rd, Flushing, MI 48433",
+    "city": "Flushing",
+    "zipCode": "48433",
+    "latitude": 43.062834597145,
+    "longitude": -83.862415060266,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232907",
+    "businessName": "MARVIN LIQUOR",
+    "address": "807 Chamberlain St, Flushing, MI 48433-1775",
+    "city": "Flushing",
+    "zipCode": "48433",
+    "latitude": 43.065393869573,
+    "longitude": -83.839291892252,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287576",
+    "businessName": "BEAR\u0027S LIQUOR STORE",
+    "address": "5519 N Elms Rd, Flushing, MI 48433-9058",
+    "city": "Flushing Twp",
+    "zipCode": "48433",
+    "latitude": 43.088844571082,
+    "longitude": -83.813546355711,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288709",
+    "businessName": "LIQUOR GALLERY OF FLUSHING",
+    "address": "6502 W Pierson Rd, Flushing, MI 48433-2345",
+    "city": "Mt Morris Twp",
+    "zipCode": "48433",
+    "latitude": 43.06034203243,
+    "longitude": -83.810375005589,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

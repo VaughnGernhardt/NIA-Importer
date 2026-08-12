@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "158422",
+    "businessName": "SWAMPERS OF EAGLE",
+    "address": "14360 S Grange Rd, Eagle, MI 48822-9533",
+    "city": "Eagle",
+    "zipCode": "48822",
+    "latitude": 42.808280223003,
+    "longitude": -84.788724800845,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264952",
+    "businessName": "WACOUSTA GENERAL STORE",
+    "address": "13051 Wacousta Rd, Grand Ledge, MI 48837-9293",
+    "city": "Watertown Twp",
+    "zipCode": "48837",
+    "latitude": 42.827045096315,
+    "longitude": -84.700807418398,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

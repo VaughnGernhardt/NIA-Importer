@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0280080",
+    "businessName": "HANDY MARKET LIQUOR \u0026 DELI",
+    "address": "4848 18 Mile Rd NE, Cedar Springs, MI 49319-9716",
+    "city": "Cedar Springs",
+    "zipCode": "49319",
+    "latitude": 43.231654530272,
+    "longitude": -85.550405337417,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13707",
+    "businessName": "WESCO #41",
+    "address": "211 N Main, Cedar Springs, MI 49319-8041",
+    "city": "Cedar Springs",
+    "zipCode": "49319",
+    "latitude": 43.219826486357,
+    "longitude": -85.551246720811,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204614",
+    "businessName": "MEIJER #248",
+    "address": "3700 17 Mile Rd NE, Cedar Springs, MI 49319-7974",
+    "city": "Solon Twp",
+    "zipCode": "49319",
+    "latitude": 43.219737302777,
+    "longitude": -85.57911901897,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0287045",
+    "businessName": "630 C-STORE, INC.",
+    "address": "630 W Chisholm St, Alpena, MI 49707-2427",
+    "city": "Alpena",
+    "zipCode": "49707",
+    "latitude": 45.067387615011,
+    "longitude": -83.439589727106,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287907",
+    "businessName": "JIMMIE GARANT\u0027S PARTY STORE",
+    "address": "1226 W Chisholm St, Alpena, MI 49707-1620",
+    "city": "Alpena",
+    "zipCode": "49707",
+    "latitude": 45.073841142761,
+    "longitude": -83.447298961916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268703",
+    "businessName": "RUSTY PETUNIAS MARKETPLACE, LLC",
+    "address": "123 W Chisholm St, Alpena, MI 49707-2445",
+    "city": "Alpena",
+    "zipCode": "49707",
+    "latitude": 45.06253648867,
+    "longitude": -83.433605871259,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235856",
+    "businessName": "MEIJER STORE #282",
+    "address": "1251 M 32 W, Alpena, MI 49707-8105",
+    "city": "Alpena Twp",
+    "zipCode": "49707",
+    "latitude": 45.061449088341,
+    "longitude": -83.491005623249,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141657",
+    "businessName": "WAL-MART SUPER CENTER #2358",
+    "address": "1180 M 32 W, Alpena, MI 49707-8105",
+    "city": "Alpena Twp",
+    "zipCode": "49707",
+    "latitude": 45.061563679715,
+    "longitude": -83.490915286959,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "businessId": "11568",
+    "businessName": "7-ELEVEN #25636-F",
+    "address": "18711 15 Mile Rd, Clinton Township, MI 48035-2503",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.554077972875,
+    "longitude": -82.930153745205,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11150",
+    "businessName": "7-ELEVEN #27432-D",
+    "address": "20690 15 Mile Rd, Clinton Township, MI 48035-3423",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.554423995146,
+    "longitude": -82.910438560141,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259742",
+    "businessName": "A\u0026B ONE STOP",
+    "address": "35891 Utica Rd, Clinton Township, MI 48035-2153",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.55998199307,
+    "longitude": -82.964970092477,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290851",
+    "businessName": "ANTHONY B\u0027S",
+    "address": "39051 Garfield Rd, Clinton Township, MI 48038-2791",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.5840586486,
+    "longitude": -82.951994674483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11690",
+    "businessName": "ASHER\u0027S MARKET",
+    "address": "38536 S Groesbeck Hwy, Clinton Township, MI 48036-1930",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.583635592941,
+    "longitude": -82.902286662939,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214180",
+    "businessName": "CVS/PHARMACY #8016",
+    "address": "40925 Garfield Rd, Clinton Township, MI 48038-2537",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.597786305473,
+    "longitude": -82.952492038962,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214307",
+    "businessName": "CVS/PHARMACY #8093",
+    "address": "36540 Garfield Rd, Clinton Township, MI 48035-1133",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.565390373087,
+    "longitude": -82.95074653124,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10918",
+    "businessName": "D-BROTHERS PARTY STORE",
+    "address": "20101 Carlier St, Clinton Township, MI 48035",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.563648701083,
+    "longitude": -82.915814716907,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132672",
+    "businessName": "DIAMOND DOT MARKET",
+    "address": "38500 Hayes Rd, Clinton Township, MI 48038-3180",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.579082412673,
+    "longitude": -82.971284894403,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238334",
+    "businessName": "HILLCREST MARKET",
+    "address": "39029 Moravian Dr, Clinton Township, MI 48036-1550",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.588462955161,
+    "longitude": -82.914098174173,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287925",
+    "businessName": "J \u0026 J GRATIOT, LLC",
+    "address": "33960 S Gratiot Ave, Clinton Township, MI 48035-3595",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.546410711118,
+    "longitude": -82.90427441035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282416",
+    "businessName": "JAKE\u0027S",
+    "address": "20689 15 Mile Rd, Clinton Township, MI 48035-3424",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.554537868913,
+    "longitude": -82.910470045572,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11021",
+    "businessName": "MORAVIAN LIQUOR SHOPPE",
+    "address": "35906 Utica Rd, Clinton Township, MI 48035-2154",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.560248131196,
+    "longitude": -82.964930102097,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12403",
+    "businessName": "PARKWAY PARTY CENTER",
+    "address": "37031 S Groesbeck Hwy, Clinton Township, MI 48036-2370",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.569671757855,
+    "longitude": -82.912034641847,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227614",
+    "businessName": "PARTY KING",
+    "address": "33217 S Gratiot Ave, Clinton Township, MI 48035-4039",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.541170810639,
+    "longitude": -82.908378756759,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272103",
+    "businessName": "UNIVERSAL LIQUOR",
+    "address": "19719 E 14 Mile Rd, Clinton Township, MI 48035-3908",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.539543341657,
+    "longitude": -82.919414826089,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "267946",
+    "businessName": "Y \u0026 A STATION, INC.",
+    "address": "36887 Groesbeck Hwy, Clinton Twp, MI 48035-1558",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.568406118637,
+    "longitude": -82.912991857401,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11440",
+    "businessName": "7-ELEVEN #26310-E",
+    "address": "34951 Garfield Rd, Fraser, MI 48026-4013",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.553192587541,
+    "longitude": -82.950443405523,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279992",
+    "businessName": "GREAT GATE OF FRASER, INC.",
+    "address": "31007 Groesbeck Hwy, Fraser, MI 48026-2516",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.524198647478,
+    "longitude": -82.946532354969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282947",
+    "businessName": "OAKRIDGE MARKET",
+    "address": "31240 Groesbeck Hwy, Fraser, MI 48026-2517",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.526007518218,
+    "longitude": -82.944982536917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268468",
+    "businessName": "SAL\u0027S LIQUOR, INC.",
+    "address": "32640-32644 Utica Rd, Fraser, MI 48026",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.53618239874,
+    "longitude": -82.951228261615,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264220",
+    "businessName": "SCHOTT\u0027S SUPERMARKET",
+    "address": "16659 E 14 Mile Rd, Fraser, MI 48026-1927",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.538920835355,
+    "longitude": -82.951897469877,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290736",
+    "businessName": "SHEETZ #932",
+    "address": "32981 Utica Rd, Fraser, MI 48026-3803",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.538648826109,
+    "longitude": -82.952814954227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263282",
+    "businessName": "SMOKEY JOE\u0027S",
+    "address": "16849 E 14 Mile Rd, Fraser, MI 48026-2239",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.538949973294,
+    "longitude": -82.949037821158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "182614",
+    "businessName": "WOW",
+    "address": "31193 Utica Rd, Fraser, MI 48026-2537",
+    "city": "Fraser",
+    "zipCode": "48026",
+    "latitude": 42.526275625018,
+    "longitude": -82.945687964168,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213877",
+    "businessName": "CASTLE LIQUOR",
+    "address": "30283 Utica Rd, Roseville, MI 48066-1518",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.519438137443,
+    "longitude": -82.941771154649,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12188",
+    "businessName": "EMBASSY LIQUOR",
+    "address": "29010 Beaconsfield St, Roseville, MI 48066-4119",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.51122241932,
+    "longitude": -82.919017127853,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275100",
+    "businessName": "FINESSE FOOD STORE #2",
+    "address": "17972 E 13 Mile Rd, Roseville, MI 48066-1670",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.52424678038,
+    "longitude": -82.935872516211,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284525",
+    "businessName": "IMPERIAL LIQUOR KW, INC.",
+    "address": "29297 Little Mack Ave, Roseville, MI 48066-2234",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.511513433168,
+    "longitude": -82.908498163843,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286126",
+    "businessName": "JA GRATIOT, INC.",
+    "address": "30360 Gratiot Ave, Roseville, MI 48066-1765",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.520194347468,
+    "longitude": -82.921407640862,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239922",
+    "businessName": "KROGER STORE #774",
+    "address": "20891 E 13 Mile Rd, Roseville, MI 48066-4530",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.524968845882,
+    "longitude": -82.905380675388,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260547",
+    "businessName": "MASONIC LIQUOR",
+    "address": "18762 Masonic Blvd, Roseville, MI 48066-1231",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.531862728528,
+    "longitude": -82.928784340042,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11881",
+    "businessName": "MEIJER #63",
+    "address": "30800 Little Mack Ave, Roseville, MI 48066-1700",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.522479724688,
+    "longitude": -82.908801102928,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12558",
+    "businessName": "PHOENIX PARTY STORE",
+    "address": "28420 Groesbeck Hwy, Roseville, MI 48066-2329",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.505024010137,
+    "longitude": -82.960766711072,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "146359",
+    "businessName": "SAM\u0027S CLUB #6662",
+    "address": "31720 Gratiot Ave, Roseville, MI 48066-4554",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.529604189681,
+    "longitude": -82.915310645018,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273700",
+    "businessName": "YAZ FUEL, INC.",
+    "address": "29004 Groesbeck Hwy, Roseville, MI 48066-1922",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.509149375174,
+    "longitude": -82.957662762281,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17240",
+    "businessName": "M AND S PARTY SHOPPE INC.",
+    "address": "28480 Little Mack Ave, Saint Clair Shores, MI 48081-3509",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.502626708881,
+    "longitude": -82.907936390233,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275704",
+    "businessName": "MACK LIQUOR",
+    "address": "28500 Little Mack Ave, Saint Clair Shores, MI 48081-1120",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.502875004567,
+    "longitude": -82.907947594272,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234903",
+    "businessName": "BUSCEMI\u0027S #86",
+    "address": "33111 Schoenherr Rd, Sterling Heights, MI 48312-6317",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.538563061531,
+    "longitude": -82.989123343707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13042",
+    "businessName": "STERLING WOODS PARTY STORE",
+    "address": "14380 15 Mile Rd, Sterling Heights, MI 48312-5712",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.552600007246,
+    "longitude": -82.979480475416,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291134",
+    "businessName": "VCK ENTERPRISES INC",
+    "address": "13727 Plumbrook Rd, Sterling Heights, MI 48312-1703",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.574350335444,
+    "longitude": -82.989284338199,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273382",
+    "businessName": "BEE BEE\u0027S LIQUOR WINE SHOP AND DELI",
+    "address": "30913 Schoenherr Rd, Warren, MI 48088-6859",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.52108912702,
+    "longitude": -82.988335806466,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214190",
+    "businessName": "CVS/PHARMACY #8050",
+    "address": "31111 Schoenherr Rd, Warren, MI 48088-7047",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.522693585082,
+    "longitude": -82.988398881924,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241776",
+    "businessName": "FINESSE LIQUOR",
+    "address": "13625 E 12 Mile Rd, Warren, MI 48088-3722",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.507739396004,
+    "longitude": -82.986819436954,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260091",
+    "businessName": "HAPPY DAYS PARTY STORE",
+    "address": "32855 Schoenherr Rd, Warren, MI 48088-1460",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.536845230679,
+    "longitude": -82.988970130771,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131288",
+    "businessName": "KROGER STORE #776",
+    "address": "31200 Schoenherr Rd, Warren, MI 48088-7000",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.523406680474,
+    "longitude": -82.988268076002,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288393",
+    "businessName": "S \u0026 G 106",
+    "address": "15150 E 14 Mile Rd, Warren, MI 48088-1590",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.538354452061,
+    "longitude": -82.97019293748,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263524",
+    "businessName": "WINE VILLAGE",
+    "address": "15005 E 13 Mile Rd, Warren, MI 48088-3312",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.523468825434,
+    "longitude": -82.971201738476,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

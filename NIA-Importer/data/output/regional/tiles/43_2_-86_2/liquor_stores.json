@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "17472",
+    "businessName": "E \u0026 A PIT STOP",
+    "address": "5586 E Apple Ave, Muskegon, MI 49442-3050",
+    "city": "Egelston Twp",
+    "zipCode": "49442",
+    "latitude": 43.234921846176,
+    "longitude": -86.10738494146,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288403",
+    "businessName": "TED\u0027S WINE \u0026 SPIRITS COMPANY",
+    "address": "5311 E Apple Ave, Muskegon, MI 49442-3054",
+    "city": "Egelston Twp",
+    "zipCode": "49442",
+    "latitude": 43.234761110743,
+    "longitude": -86.11447836502,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143179",
+    "businessName": "WAL-MART SUPERCENTER #2238",
+    "address": "1879 E Sherman Blvd, Muskegon, MI 49444-1858",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.205775855002,
+    "longitude": -86.1976376643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15990",
+    "businessName": "WESCO #26",
+    "address": "2277 E Broadway Ave, Muskegon, MI 49444-2505",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.201367354345,
+    "longitude": -86.188105916925,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230423",
+    "businessName": "SUNNY MART",
+    "address": "2021 Marquette Ave, Muskegon, MI 49442-1405",
+    "city": "Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.245067515929,
+    "longitude": -86.193449574415,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283176",
+    "businessName": "APPLE CORNER STORE",
+    "address": "2381 E Apple Ave, Muskegon, MI 49442-4353",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.234158917724,
+    "longitude": -86.184697414407,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220463",
+    "businessName": "CHEEMA PUMP \u0026 PANTRY",
+    "address": "2110 Evanston Ave, Muskegon, MI 49442-6204",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.218784260955,
+    "longitude": -86.190519214421,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247411",
+    "businessName": "SIDHU GAS \u0026 FOOD LLC",
+    "address": "2177 S Mill Iron Rd, Muskegon, MI 49442-6445",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.21289123669,
+    "longitude": -86.154855017344,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12799",
+    "businessName": "VALU - TIME GROCERY",
+    "address": "2829 E Apple Ave, Muskegon, MI 49442-4501",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.234170539463,
+    "longitude": -86.173758645755,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "146719",
+    "businessName": "WESCO #30",
+    "address": "3743 E Apple Ave, Muskegon, MI 49442-2754",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.234240715822,
+    "longitude": -86.150639187345,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15443",
+    "businessName": "WESCO #31",
+    "address": "1819 E Apple Ave, Muskegon, MI 49442-4244",
+    "city": "Muskegon Twp",
+    "zipCode": "49442",
+    "latitude": 43.23415970694,
+    "longitude": -86.19861674081,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

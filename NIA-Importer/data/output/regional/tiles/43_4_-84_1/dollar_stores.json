@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "7160-gratiot-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 7160, Gratiot Rd Saginaw, MI 48609-6900",
+    "city": "Gratiot Rd Saginaw",
+    "zipCode": "48609",
+    "latitude": 43.415838599391,
+    "longitude": -84.05486979509
+  },
+  {
+    "storeId": "1760-lawndale-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1760, Lawndale Road . Saginaw, MI 48638-4396",
+    "city": "Lawndale Road . Saginaw",
+    "zipCode": "48638",
+    "latitude": 43.43509673561,
+    "longitude": -84.03446134508
+  }
+]

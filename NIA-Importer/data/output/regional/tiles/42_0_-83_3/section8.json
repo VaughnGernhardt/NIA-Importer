@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010110",
+    "propertyName": "FLAT ROCK TOWER",
+    "latitude": 42.09689099875725,
+    "longitude": -83.29355600017053,
+    "assistedUnits": 95,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800255749",
+    "propertyName": "WALNUT CREEK APARTMENTS",
+    "latitude": 42.09422999908919,
+    "longitude": -83.26672300013868,
+    "assistedUnits": 128,
+    "totalUnits": 128
+  }
+]

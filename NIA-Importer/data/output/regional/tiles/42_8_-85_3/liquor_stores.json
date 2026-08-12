@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "232130",
+    "businessName": "KOUNTRY KORNERS",
+    "address": "7122 Grand River Ave, Saranac, MI 48881-9609",
+    "city": "Boston Twp",
+    "zipCode": "48881",
+    "latitude": 42.886166319005,
+    "longitude": -85.21572653958,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227156",
+    "businessName": "CV MART",
+    "address": "145 S Main St, Clarksville, MI 48815-9654",
+    "city": "Clarksville",
+    "zipCode": "48815",
+    "latitude": 42.841285035844,
+    "longitude": -85.242439878139,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800005766",
+    "propertyName": "Countryside Village II",
+    "latitude": 41.923027999199846,
+    "longitude": -89.06244599978957,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800006264",
+    "propertyName": "ROCHELLE SENIOR HOUSING",
+    "latitude": 41.925099999315115,
+    "longitude": -89.06614900001946,
+    "assistedUnits": 58,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800068313",
+    "propertyName": "SCI APARTMENTS",
+    "latitude": 41.93883599878454,
+    "longitude": -89.06709499967552,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  }
+]

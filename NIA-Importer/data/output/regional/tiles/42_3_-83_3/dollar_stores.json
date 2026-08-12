@@ -1,0 +1,82 @@
+[
+  {
+    "storeId": "16201-ford-rd-ste-a-128",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "16201 Ford Rd. Ste A 128, Dearborn, MI 48126-2945",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.32900282324,
+    "longitude": -83.203059149758
+  },
+  {
+    "storeId": "18611-joy-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 18611, Joy Rd Detroit, MI 48228",
+    "city": "Joy Rd Detroit",
+    "zipCode": "48228",
+    "latitude": 42.357702759957,
+    "longitude": -83.22271150366
+  },
+  {
+    "storeId": "23225-michigan-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 23225, Michigan Ave Dearborn, MI 48124-2029",
+    "city": "Michigan Ave Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.301992552305,
+    "longitude": -83.261801454719
+  },
+  {
+    "storeId": "9359-telegraph-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 9359, Telegraph Rd. Redford, MI 48239-1266",
+    "city": "Telegraph Rd. Redford",
+    "zipCode": "48239",
+    "latitude": 42.362630582764,
+    "longitude": -83.275649557626
+  },
+  {
+    "storeId": "19848-joy-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 19848, Joy Rd Detroit, MI 48228-2965",
+    "city": "Joy Rd Detroit",
+    "zipCode": "48228",
+    "latitude": 42.357644161003,
+    "longitude": -83.235068646472
+  },
+  {
+    "storeId": "25905-5-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "25905 5, Mile Road Redford, MI 48239",
+    "city": "Mile Road Redford",
+    "zipCode": "48239",
+    "latitude": 42.399460051225,
+    "longitude": -83.297149388886
+  },
+  {
+    "storeId": "19800-plymouth-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 19800, Plymouth Road Detroit, MI 48228-1234",
+    "city": "Plymouth Road Detroit",
+    "zipCode": "48228",
+    "latitude": 42.371958547806,
+    "longitude": -83.235115850108
+  },
+  {
+    "storeId": "19340-w-warren-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 19340, W Warren Avenue Detroit, MI 48228",
+    "city": "W Warren Avenue Detroit",
+    "zipCode": "48228",
+    "latitude": 42.343268556703,
+    "longitude": -83.229808074808
+  }
+]

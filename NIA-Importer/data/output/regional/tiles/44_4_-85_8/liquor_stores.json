@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0271601",
+    "businessName": "MARKET 37 #2",
+    "address": "129 W Mesick Ave, Mesick, MI 49668-9274",
+    "city": "Mesick",
+    "zipCode": "49668",
+    "latitude": 44.405638914546,
+    "longitude": -85.714035112766,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17516",
+    "businessName": "MESICK E-Z MART",
+    "address": "445 W Mesick Ave, Mesick, MI 49668-9555",
+    "city": "Mesick",
+    "zipCode": "49668",
+    "latitude": 44.405904854641,
+    "longitude": -85.724607164002,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

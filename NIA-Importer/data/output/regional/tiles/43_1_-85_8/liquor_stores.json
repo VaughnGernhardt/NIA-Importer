@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "141955",
+    "businessName": "FAMILY FARE SUPERMARKETS #408",
+    "address": "565 S State St, Sparta, MI 49345-1568",
+    "city": "Sparta",
+    "zipCode": "49345",
+    "latitude": 43.148696055081,
+    "longitude": -85.710126654999,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232323",
+    "businessName": "SPARTA LIQUOR",
+    "address": "48 N Union St, Sparta, MI 49345-1181",
+    "city": "Sparta",
+    "zipCode": "49345",
+    "latitude": 43.161536174363,
+    "longitude": -85.707059934914,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

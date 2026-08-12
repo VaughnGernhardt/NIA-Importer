@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0271305",
+    "businessName": "A\u0026J JERICHO LLC",
+    "address": "67916 M 43, South Haven, MI 49090-8745",
+    "city": "Geneva Twp",
+    "zipCode": "49090",
+    "latitude": 42.345477028404,
+    "longitude": -86.205859392971,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161445",
+    "businessName": "SOUTH HAVEN QUICK STOP",
+    "address": "651 Phillips St, South Haven, MI 49090-1853",
+    "city": "South Haven",
+    "zipCode": "49090",
+    "latitude": 42.39685377164,
+    "longitude": -86.269828477143,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "263806",
+    "businessName": "FIELDS STORE LLC",
+    "address": "19808 Ruggles Rd, South Haven, MI 49090-9414",
+    "city": "South Haven Twp",
+    "zipCode": "49090",
+    "latitude": 42.346177900298,
+    "longitude": -86.294019440792,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800022870",
+    "propertyName": "BAYVIEW MANOR",
+    "latitude": 43.00197899884359,
+    "longitude": -87.8994819997079,
+    "assistedUnits": 88,
+    "totalUnits": 88
+  },
+  {
+    "propertyId": "800022886",
+    "propertyName": "BRADFORD PLACE",
+    "latitude": 43.06355399899829,
+    "longitude": -87.88150399975714,
+    "assistedUnits": 94,
+    "totalUnits": 94
+  },
+  {
+    "propertyId": "800022903",
+    "propertyName": "CAMBRIDGE APARTMENTS",
+    "latitude": 43.055563998740205,
+    "longitude": -87.89265299973151,
+    "assistedUnits": 91,
+    "totalUnits": 91
+  },
+  {
+    "propertyId": "800023036",
+    "propertyName": "GOLDA MEIR HOUSE",
+    "latitude": 43.05050099935209,
+    "longitude": -87.89321699979611,
+    "assistedUnits": 126,
+    "totalUnits": 127
+  },
+  {
+    "propertyId": "800023070",
+    "propertyName": "HEDWIG HOUSE APARTMENTS",
+    "latitude": 43.053518999065474,
+    "longitude": -87.89790000001723,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800000050",
+    "propertyName": "MJF HOUSING II",
+    "latitude": 43.07266799875179,
+    "longitude": -87.88933799983911,
+    "assistedUnits": 21,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800023283",
+    "propertyName": "PLEASANT TERRACE APARTMENTS",
+    "latitude": 43.05038199936971,
+    "longitude": -87.89905400008573,
+    "assistedUnits": 47,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800023317",
+    "propertyName": "RIVER PARK APARTMENTS I",
+    "latitude": 43.082187999051364,
+    "longitude": -87.88814299976275,
+    "assistedUnits": 215,
+    "totalUnits": 215
+  },
+  {
+    "propertyId": "800079658",
+    "propertyName": "RIVER PARK APARTMENTS II",
+    "latitude": 43.08319999921772,
+    "longitude": -87.88957499966558,
+    "assistedUnits": 215,
+    "totalUnits": 215
+  },
+  {
+    "propertyId": "800023190",
+    "propertyName": "SURLOW SENIOR RESIDENTS",
+    "latitude": 43.071757999231224,
+    "longitude": -87.88890799966882,
+    "assistedUnits": 21,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800023424",
+    "propertyName": "THE WILLOWS",
+    "latitude": 43.05975199883862,
+    "longitude": -87.89220599984274,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800023475",
+    "propertyName": "WATERSEDGE APARTMENTS",
+    "latitude": 43.07782499910955,
+    "longitude": -87.89658399956704,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010516",
+    "propertyName": "RIVERVIEW TOWER",
+    "latitude": 42.18476999897168,
+    "longitude": -83.18694499956831,
+    "assistedUnits": 170,
+    "totalUnits": 171
+  },
+  {
+    "propertyId": "800010563",
+    "propertyName": "SOUTHWICKE SQUARE COOPERATIVE (1-3)",
+    "latitude": 42.13399199891158,
+    "longitude": -83.19266999970493,
+    "assistedUnits": 136,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800010624",
+    "propertyName": "TRENTON TOWERS COOPERATIVE APARTMENTS",
+    "latitude": 42.142592999117674,
+    "longitude": -83.17595799997567,
+    "assistedUnits": 44,
+    "totalUnits": 205
+  }
+]

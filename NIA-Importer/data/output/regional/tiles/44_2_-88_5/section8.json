@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800022988",
+    "propertyName": "ELIZABETH COURT",
+    "latitude": 44.20818599935355,
+    "longitude": -88.42974900038634,
+    "assistedUnits": 58,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800023103",
+    "propertyName": "JOHN FISCHER MANOR",
+    "latitude": 44.28864499907157,
+    "longitude": -88.40142800037518,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023176",
+    "propertyName": "Menasha Woods",
+    "latitude": 44.23625399897976,
+    "longitude": -88.41912799959327,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023233",
+    "propertyName": "OUTAGAMIE COUNTY HOUSING",
+    "latitude": 44.273834998751205,
+    "longitude": -88.40339800040336,
+    "assistedUnits": 119,
+    "totalUnits": 122
+  },
+  {
+    "propertyId": "800023295",
+    "propertyName": "RANDALL COURT",
+    "latitude": 44.273985999096546,
+    "longitude": -88.40340400025113,
+    "assistedUnits": 118,
+    "totalUnits": 118
+  },
+  {
+    "propertyId": "800023519",
+    "propertyName": "WOODRIDGE GARDENS",
+    "latitude": 44.25306699932358,
+    "longitude": -88.45409000015819,
+    "assistedUnits": 108,
+    "totalUnits": 108
+  }
+]

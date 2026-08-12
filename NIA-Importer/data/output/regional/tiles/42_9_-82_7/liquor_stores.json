@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0281282",
+    "businessName": "JD\u0027S MARKET LLC",
+    "address": "1801 Richman Rd, Smiths Creek, MI 48074-2216",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.955119248505,
+    "longitude": -82.602881799581,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290559",
+    "businessName": "S\u0026A GOODELLS MARKET LLC",
+    "address": "8532 Morris Rd, Goodells, MI 48027-1318",
+    "city": "Wales Twp",
+    "zipCode": "48027",
+    "latitude": 42.980569236272,
+    "longitude": -82.666484190751,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

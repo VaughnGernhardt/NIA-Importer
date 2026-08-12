@@ -1,0 +1,92 @@
+[
+  {
+    "storeId": "39040-garfield-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 39040, Garfield Rd Clinton Township, MI 48038",
+    "city": "Garfield Rd Clinton Township",
+    "zipCode": "48038",
+    "latitude": 42.583936030744,
+    "longitude": -82.951834522063
+  },
+  {
+    "storeId": "40805-garfield-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 40805, Garfield Rd. Clinton Township, MI 48038-2956",
+    "city": "Garfield Rd. Clinton Township",
+    "zipCode": "48038",
+    "latitude": 42.596980757466,
+    "longitude": -82.95246461613
+  },
+  {
+    "storeId": "28776-gratiot-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 28776, Gratiot Ave Roseville, MI 48066-4257",
+    "city": "Gratiot Ave Roseville",
+    "zipCode": "48066",
+    "latitude": 42.508567616527,
+    "longitude": -82.928948361427
+  },
+  {
+    "storeId": "33818-gratiot-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 33818, Gratiot Ave. Clinton Township, MI 48035",
+    "city": "Gratiot Ave. Clinton Township",
+    "zipCode": "48035",
+    "latitude": 42.545710623825,
+    "longitude": -82.90474183392
+  },
+  {
+    "storeId": "31902-groesbeck-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 31902, Groesbeck Hwy. Fraser, MI 48026-3914",
+    "city": "Groesbeck Hwy. Fraser",
+    "zipCode": "48026",
+    "latitude": 42.531027959208,
+    "longitude": -82.941191220442
+  },
+  {
+    "storeId": "13233-15-mile-rd-ste-b",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "13233 15, Mile Rd Ste. B Sterling Heights, MI 48312-4208",
+    "city": "Mile Rd Ste. B Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.552124826716,
+    "longitude": -82.99437447971
+  },
+  {
+    "storeId": "30830-schoenherr-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 30830, Schoenherr Rd Warren, MI 48088-6856",
+    "city": "Schoenherr Rd Warren",
+    "zipCode": "48088",
+    "latitude": 42.520500412732,
+    "longitude": -82.988153379107
+  },
+  {
+    "storeId": "31240-groesbeck-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 31240, Groesbeck Hwy. Fraser, MI 48026-2517",
+    "city": "Groesbeck Hwy. Fraser",
+    "zipCode": "48026",
+    "latitude": 42.526007518218,
+    "longitude": -82.944982536917
+  },
+  {
+    "storeId": "13774-e-12-mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "13774 E 12, Mile Rd Warren, MI 48088-3751",
+    "city": "Mile Rd Warren",
+    "zipCode": "48088",
+    "latitude": 42.507686688597,
+    "longitude": -82.985906091839
+  }
+]

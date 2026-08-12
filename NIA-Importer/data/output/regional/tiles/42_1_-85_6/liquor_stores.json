@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0278612",
+    "businessName": "DAANE\u0027S",
+    "address": "8901 Portage Rd, Portage, MI 49002-6462",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.187831560972,
+    "longitude": -85.562502808203,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271194",
+    "businessName": "SANJH SEHAJ, LLC",
+    "address": "9119 S SPRINKLE RD, PORTAGE, MI 49002",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.185167990053,
+    "longitude": -85.540132237838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201934",
+    "businessName": "WAL-MART STORE #5280",
+    "address": "8350 Shaver Rd, Portage, MI 49024-5441",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.195439343335,
+    "longitude": -85.596021835235,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231743",
+    "businessName": "SUNSET MARKET",
+    "address": "13484 Portage Rd, Vicksburg, MI 49097-8757",
+    "city": "Schoolcraft Twp",
+    "zipCode": "49097",
+    "latitude": 42.121710653,
+    "longitude": -85.569129086705,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286539",
+    "businessName": "TRI LAKES PORTAGE LLC",
+    "address": "11000 Portage Rd, Portage, MI 49002-7586",
+    "city": "Schoolcraft Twp",
+    "zipCode": "49002",
+    "latitude": 42.157366860098,
+    "longitude": -85.569702173092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288898",
+    "businessName": "SHRI CHANDER LLC",
+    "address": "169 N Richardson St, Vicksburg, MI 49097-1246",
+    "city": "Vicksburg",
+    "zipCode": "49097",
+    "latitude": 42.12205255194,
+    "longitude": -85.530055879486,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

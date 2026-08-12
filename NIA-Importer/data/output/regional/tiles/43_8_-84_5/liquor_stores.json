@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "157642",
+    "businessName": "FORWARD ENTERPRISES, INC.",
+    "address": "109 S Ross St, Beaverton, MI 48612-8188",
+    "city": "Beaverton",
+    "zipCode": "48612",
+    "latitude": 43.882113551032,
+    "longitude": -84.485238104484,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283138",
+    "businessName": "ROSS LAKE MARKETPLACE INC",
+    "address": "310 S Ross St, Beaverton, MI 48612-8160",
+    "city": "Beaverton",
+    "zipCode": "48612",
+    "latitude": 43.879923334849,
+    "longitude": -84.485405482824,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

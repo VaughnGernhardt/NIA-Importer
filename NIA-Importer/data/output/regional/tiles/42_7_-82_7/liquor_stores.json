@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "234229",
+    "businessName": "ADAIR MARKET",
+    "address": "3504 Palms Rd, Casco, MI 48064-2102",
+    "city": "Casco Twp",
+    "zipCode": "48064",
+    "latitude": 42.798070890038,
+    "longitude": -82.634182360335,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165658",
+    "businessName": "COUNTRY CROSSINGS MARKET",
+    "address": "8004 Marine City Hwy, Casco, MI 48064-4408",
+    "city": "Casco Twp",
+    "zipCode": "48064",
+    "latitude": 42.724259478946,
+    "longitude": -82.630806752843,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

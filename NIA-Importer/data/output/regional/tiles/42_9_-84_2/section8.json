@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010431",
+    "propertyName": "GINGER SQUARE APTS.",
+    "latitude": 42.97709399918763,
+    "longitude": -84.18844400037705,
+    "assistedUnits": 108,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800010261",
+    "propertyName": "KONA VILLA",
+    "latitude": 42.98332099898922,
+    "longitude": -84.1767549997292,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800010672",
+    "propertyName": "WALNUT ACRES PHASE II",
+    "latitude": 42.99114199935926,
+    "longitude": -84.11338199963976,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  }
+]

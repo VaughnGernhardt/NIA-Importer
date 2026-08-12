@@ -1,0 +1,262 @@
+[
+  {
+    "businessId": "0284138",
+    "businessName": "7-ELEVEN STORE #36925",
+    "address": "2900 Airport Rd, Jackson, MI 49202-1266",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.275678018248,
+    "longitude": -84.453173582241,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269593",
+    "businessName": "AIRPORT PARTY STORE",
+    "address": "2890 Wildwood Ave, Jackson, MI 49202-3935",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.254737144089,
+    "longitude": -84.448806563874,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243783",
+    "businessName": "JACKSON PARTY STORE",
+    "address": "1800 W Ganson St, Jackson, MI 49202-4083",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.254743205023,
+    "longitude": -84.435984579114,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16012",
+    "businessName": "KELLY\u0027S QUICK STOP",
+    "address": "3797 W Michigan Ave, Jackson, MI 49202-1838",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.254151980956,
+    "longitude": -84.461987124723,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9746",
+    "businessName": "MEIJER #30",
+    "address": "2777 Airport Rd, Jackson, MI 49202-1239",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.275936762172,
+    "longitude": -84.453070197702,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247990",
+    "businessName": "PARNALL FOOD MART",
+    "address": "1000 W Parnall Rd, Jackson, MI 49201-7014",
+    "city": "Blackman Twp",
+    "zipCode": "49201",
+    "latitude": 42.291148197317,
+    "longitude": -84.410384128193,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133956",
+    "businessName": "POLLY\u0027S COUNTRY MARKET",
+    "address": "1210 W Parnall Rd, Jackson, MI 49201-7012",
+    "city": "Blackman Twp",
+    "zipCode": "49201",
+    "latitude": 42.29116059619,
+    "longitude": -84.420777932298,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138627",
+    "businessName": "SAM\u0027S CLUB #6658",
+    "address": "3600 Oneil Dr, Jackson, MI 49202-1857",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.266623217166,
+    "longitude": -84.456563621244,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196313",
+    "businessName": "THE PARTY PORT",
+    "address": "2123 Lansing Ave, Jackson, MI 49202-1638",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.272850657769,
+    "longitude": -84.414758195609,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153486",
+    "businessName": "WAL-MART SUPERCENTER #5160",
+    "address": "1700 W Michigan Ave, Jackson, MI 49202-4005",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.247462206315,
+    "longitude": -84.436293451312,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235943",
+    "businessName": "AMANATI\u0027S TAKE OUT",
+    "address": "262 Cooper St, Jackson, MI 49201-1516",
+    "city": "Jackson",
+    "zipCode": "49201",
+    "latitude": 42.249402200767,
+    "longitude": -84.403723814812,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283782",
+    "businessName": "GHARE, DALJEET S",
+    "address": "1515 W Morrell St, Jackson, MI 49203-1547",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.239985616008,
+    "longitude": -84.432059666128,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267371",
+    "businessName": "GREENWOOD LIQUOR \u0026 FOOD MARKET, LLC",
+    "address": "212 W Biddle St, Jackson, MI 49203-1702",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.24130620603,
+    "longitude": -84.409990785632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275450",
+    "businessName": "JACK\u0027S TAKE OUT",
+    "address": "118 E Mason St, Jackson, MI 49203-1843",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.243131315225,
+    "longitude": -84.405405202558,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263691",
+    "businessName": "KEYS PARTY STORE",
+    "address": "500 4th St, Jackson, MI 49203-1665",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.243711174545,
+    "longitude": -84.418582472928,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15687",
+    "businessName": "KROGER STORE #680",
+    "address": "1100 W Argyle St, Jackson, MI 49202-2059",
+    "city": "Jackson",
+    "zipCode": "49202",
+    "latitude": 42.26206263715,
+    "longitude": -84.427029206227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193193",
+    "businessName": "NEW QUICK MART",
+    "address": "1129 Greenwood Ave, Jackson, MI 49203-3113",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.235269978658,
+    "longitude": -84.414456329192,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246992",
+    "businessName": "PS FOOD MART",
+    "address": "1301 S West Ave, Jackson, MI 49203-3940",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.232776831467,
+    "longitude": -84.423171003919,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246990",
+    "businessName": "PS FOOD MART",
+    "address": "815 Lansing Ave, Jackson, MI 49202-3213",
+    "city": "Jackson",
+    "zipCode": "49202",
+    "latitude": 42.25750062416,
+    "longitude": -84.41575950946,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285450",
+    "businessName": "RANI\u0027S PARTY PAK",
+    "address": "1706 FRANCIS ST, JACKSON, MI 49203",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.229047772274,
+    "longitude": -84.403744423126,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278918",
+    "businessName": "ROYAL LIQUOR FOOD MARKET 1, INC.",
+    "address": "320 W Prospect St, Jackson, MI 49203-4114",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.227450945329,
+    "longitude": -84.413779578563,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131240",
+    "businessName": "SUPER LIQUOR STORE",
+    "address": "1200 W Michigan Ave, Jackson, MI 49202-4125",
+    "city": "Jackson",
+    "zipCode": "49202",
+    "latitude": 42.247470636083,
+    "longitude": -84.428375835362,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277775",
+    "businessName": "HOT SHOT LLC",
+    "address": "2628 Kibby Rd, Jackson, MI 49203-4908",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.218534495201,
+    "longitude": -84.437891653754,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283960",
+    "businessName": "PAYLESS SMOKE SHOP",
+    "address": "1707 Spring Arbor Rd, Jackson, MI 49203-2792",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.239848215326,
+    "longitude": -84.434571860351,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10131",
+    "businessName": "POLLY\u0027S FOOD SERVICE, INC.",
+    "address": "1821 Spring Arbor Rd, Jackson, MI 49203-2703",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.238936505819,
+    "longitude": -84.436279531671,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224663",
+    "businessName": "TAKE OUT PARTY STORE",
+    "address": "2206 Francis St, Jackson, MI 49203-4610",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.224417898077,
+    "longitude": -84.403667044507,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "8040-cooley-lake-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 8040, Cooley Lake Rd White Lake, MI 48386-4308",
+    "city": "Cooley Lake Rd White Lake",
+    "zipCode": "48386",
+    "latitude": 42.614520729637,
+    "longitude": -83.443530585071
+  },
+  {
+    "storeId": "7580-highland-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 7580, Highland Rd Waterford, MI 48327-1404",
+    "city": "Highland Rd Waterford",
+    "zipCode": "48327",
+    "latitude": 42.661191604127,
+    "longitude": -83.435076336886
+  }
+]

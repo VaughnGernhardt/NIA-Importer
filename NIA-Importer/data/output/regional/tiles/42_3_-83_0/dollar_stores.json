@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "13240-e-jefferson-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 13240, E Jefferson Ave. Detroit, MI 48215-2704",
+    "city": "E Jefferson Ave. Detroit",
+    "zipCode": "48215",
+    "latitude": 42.370815674474,
+    "longitude": -82.94998367674
+  },
+  {
+    "storeId": "9911-e-jefferson-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 9911, E Jefferson Avenue Detroit, MI 48214-3012",
+    "city": "E Jefferson Avenue Detroit",
+    "zipCode": "48214",
+    "latitude": 42.360412679573,
+    "longitude": -82.982652358971
+  },
+  {
+    "storeId": "15200-east-warren-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 15200, East Warren Avenue Detroit, MI 48224",
+    "city": "East Warren Avenue Detroit",
+    "zipCode": "48224",
+    "latitude": 42.39815585625,
+    "longitude": -82.951253666478
+  },
+  {
+    "storeId": "14642-mack-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 14642, Mack Ave Mack Alter Square Detroit, MI 48215",
+    "city": "Mack Ave Mack Alter Square Detroit",
+    "zipCode": "48215",
+    "latitude": 42.386950530012,
+    "longitude": -82.949555846169
+  }
+]

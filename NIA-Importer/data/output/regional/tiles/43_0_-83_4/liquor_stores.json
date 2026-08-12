@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "168512",
+    "businessName": "CLARK - LAPEER",
+    "address": "252 S Main St, Lapeer, MI 48446-2425",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.047915549155,
+    "longitude": -83.318838577389,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219319",
+    "businessName": "CMS FUELING CENTER",
+    "address": "373 Lake Nepessing Rd, Lapeer, MI 48446-2960",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.034731161451,
+    "longitude": -83.361507151043,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286214",
+    "businessName": "EAST ANNROCK PARTY STORE",
+    "address": "142 E Nepessing St, Lapeer, MI 48446",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.05643820016,
+    "longitude": -83.306280989928,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14562",
+    "businessName": "KROGER STORE #600",
+    "address": "540 S Main St, Lapeer, MI 48446-2467",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.043604494737,
+    "longitude": -83.320057607981,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282039",
+    "businessName": "NAND GOPAL, LLC",
+    "address": "543 S Main St, Lapeer, MI 48446-2466",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.044079032733,
+    "longitude": -83.319735711707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226043",
+    "businessName": "SUNOCO",
+    "address": "1489 N Main St, Lapeer, MI 48446-1367",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.063066689762,
+    "longitude": -83.319428180644,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240837",
+    "businessName": "SUNOCO",
+    "address": "715 S Main St, Lapeer, MI 48446-3031",
+    "city": "Lapeer",
+    "zipCode": "48446",
+    "latitude": 43.041002386002,
+    "longitude": -83.320832102188,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278665",
+    "businessName": "Country Side Stop In",
+    "address": "3892 Bronson Lake Rd, Lapeer, MI 48446-9092",
+    "city": "Oregon Twp",
+    "zipCode": "48446",
+    "latitude": 43.095958497691,
+    "longitude": -83.383822772946,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

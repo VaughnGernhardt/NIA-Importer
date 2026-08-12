@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "235752",
+    "businessName": "DUNDEE PARTY STORE",
+    "address": "343 Tecumseh St, Dundee, MI 48131-1061",
+    "city": "Dundee",
+    "zipCode": "48131",
+    "latitude": 41.957837986139,
+    "longitude": -83.663649771505,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147184",
+    "businessName": "KROGER STORE #577",
+    "address": "571 E Monroe St, Dundee, MI 48131-1309",
+    "city": "Dundee",
+    "zipCode": "48131",
+    "latitude": 41.952155155705,
+    "longitude": -83.642092905058,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246951",
+    "businessName": "PS FOOD MART",
+    "address": "655 Tecumseh St, Dundee, MI 48131-1055",
+    "city": "Dundee",
+    "zipCode": "48131",
+    "latitude": 41.958880301675,
+    "longitude": -83.669899731809,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220325",
+    "businessName": "WALGREEN\u0027S #12288",
+    "address": "100 Cabelas Blvd E, Dundee, MI 48131-9693",
+    "city": "Dundee",
+    "zipCode": "48131",
+    "latitude": 41.960256290994,
+    "longitude": -83.677054412993,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263373",
+    "businessName": "SAI MART, CORP",
+    "address": "13455 S Custer Rd, Dundee, MI 48131-9730",
+    "city": "Dundee Twp",
+    "zipCode": "48131",
+    "latitude": 41.950935448502,
+    "longitude": -83.627819239578,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

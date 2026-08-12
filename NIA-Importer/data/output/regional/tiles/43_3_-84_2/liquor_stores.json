@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "197873",
+    "businessName": "ST. CHARLES OIL COMPANY",
+    "address": "635 N Saginaw St, Saint Charles, MI 48655-1318",
+    "city": "St Charles",
+    "zipCode": "48655",
+    "latitude": 43.300551004383,
+    "longitude": -84.143475070922,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13528",
+    "businessName": "FIRST TURN CONVENIENCE STORE",
+    "address": "2935 S Graham Rd, Saginaw, MI 48609-9616",
+    "city": "Swan Creek Twp",
+    "zipCode": "48609",
+    "latitude": 43.380870618888,
+    "longitude": -84.130953648711,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

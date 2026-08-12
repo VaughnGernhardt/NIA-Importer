@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "224191",
+    "businessName": "CHAPP\u0027S LANDING",
+    "address": "35777 S Huron Rd, New Boston, MI 48164-9543",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.137180744958,
+    "longitude": -83.388262003608,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259370",
+    "businessName": "COUNTRY PANTRY",
+    "address": "36888 Huron River Dr, New Boston, MI 48164-9774",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.160041806759,
+    "longitude": -83.397937354769,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290205",
+    "businessName": "HARMONY LIQUOR, LLC",
+    "address": "21005 Middlebelt Rd, New Boston, MI 48164-9482",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.152106534496,
+    "longitude": -83.324731667189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9947",
+    "businessName": "KRZYSKE BROS. CO.",
+    "address": "28129 Waltz Rd, Waltz, MI 48164-9240",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.100131639934,
+    "longitude": -83.391639519714,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240320",
+    "businessName": "THE CORNER STORE",
+    "address": "21021 Huron River Dr, New Boston, MI 48164-9738",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.15120848052,
+    "longitude": -83.363542868973,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266859",
+    "businessName": "ROMULUS LIQUOR",
+    "address": "30601 Eureka Rd, Romulus, MI 48174-3293",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.195182467755,
+    "longitude": -83.33739023777,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289690",
+    "businessName": "S\u0026G #108",
+    "address": "35335 Eureka Rd, Romulus, MI 48174-3726",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.194123276691,
+    "longitude": -83.383119551674,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11593",
+    "businessName": "TOP SHELF PARTY STORE",
+    "address": "27427 Eureka Rd, Romulus, MI 48174-2803",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.195888997477,
+    "longitude": -83.306880176126,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290531",
+    "businessName": "TAYLOR SUPERMARKET, INC.",
+    "address": "27254 Eureka Rd, Taylor, MI 48180-4845",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.196107682121,
+    "longitude": -83.305624148326,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

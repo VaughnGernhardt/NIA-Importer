@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "160081",
+    "businessName": "SMY MINI MART",
+    "address": "674 E Michigan Ave, Grass Lake, MI 49240-9484",
+    "city": "Grass Lake",
+    "zipCode": "49240",
+    "latitude": 42.252334444428,
+    "longitude": -84.204783012836,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13357",
+    "businessName": "FRANK\u0027S SHOP RITE",
+    "address": "401 W Michigan Ave, Grass Lake, MI 49240-9712",
+    "city": "Grass Lake Twp",
+    "zipCode": "49240",
+    "latitude": 42.249108993143,
+    "longitude": -84.219037830562,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223494",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "3864 Mount Hope Rd, Grass Lake, MI 49240-9226",
+    "city": "Grass Lake Twp",
+    "zipCode": "49240",
+    "latitude": 42.288564439888,
+    "longitude": -84.204400372457,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

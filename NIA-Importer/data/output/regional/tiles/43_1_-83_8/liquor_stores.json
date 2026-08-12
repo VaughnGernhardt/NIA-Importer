@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "215171",
+    "businessName": "VG\u0027S FOOD \u0026 PHARMACY #1925",
+    "address": "710 S Mill St, Clio, MI 48420-1491",
+    "city": "Clio",
+    "zipCode": "48420",
+    "latitude": 43.17225047149,
+    "longitude": -83.734634943896,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225681",
+    "businessName": "MT. MORRIS BP",
+    "address": "4314 W Mount Morris Rd, Mount Morris, MI 48458-9332",
+    "city": "Mt Morris Twp",
+    "zipCode": "48458",
+    "latitude": 43.11898912281,
+    "longitude": -83.764891193124,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216366",
+    "businessName": "TWIN CLIO, INC.",
+    "address": "7515 N Clio Rd, Mount Morris, MI 48458-8227",
+    "city": "Mt Morris Twp",
+    "zipCode": "48458",
+    "latitude": 43.114815708913,
+    "longitude": -83.734114931969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153802",
+    "businessName": "CONLEE TRAVEL CENTER",
+    "address": "4514 W Vienna Rd, Clio, MI 48420-9444",
+    "city": "Vienna Twp",
+    "zipCode": "48420",
+    "latitude": 43.177483037283,
+    "longitude": -83.772896391517,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11325",
+    "businessName": "ERNIE\u0027S BEER AND WINE",
+    "address": "13167 N Saginaw Rd, Clio, MI 48420-1059",
+    "city": "Vienna Twp",
+    "zipCode": "48420",
+    "latitude": 43.196522625907,
+    "longitude": -83.728982966604,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11906",
+    "businessName": "VIC\u0027S GROCERY",
+    "address": "10211 N Clio Rd, Clio, MI 48420-1968",
+    "city": "Vienna Twp",
+    "zipCode": "48420",
+    "latitude": 43.154118363776,
+    "longitude": -83.734413628992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204733",
+    "businessName": "VIENNA SHELL",
+    "address": "4141 W Vienna Rd, Clio, MI 48420-9438",
+    "city": "Vienna Twp",
+    "zipCode": "48420",
+    "latitude": 43.177392445328,
+    "longitude": -83.759617174042,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "176615",
+    "businessName": "WAL-MART SUPERCENTER #4243",
+    "address": "11493 N Linden Rd, Clio, MI 48420-8586",
+    "city": "Vienna Twp",
+    "zipCode": "48420",
+    "latitude": 43.171074199623,
+    "longitude": -83.774233308967,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

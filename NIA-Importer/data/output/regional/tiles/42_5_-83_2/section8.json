@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800010396",
+    "propertyName": "920 ON THE PARK",
+    "latitude": 42.544149999335474,
+    "longitude": -83.10723999969119,
+    "assistedUnits": 119,
+    "totalUnits": 297
+  },
+  {
+    "propertyId": "800009924",
+    "propertyName": "BETHANY VILLA APARTMENTS I",
+    "latitude": 42.557791998752585,
+    "longitude": -83.10990900040152,
+    "assistedUnits": 49,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800009923",
+    "propertyName": "BETHANY VILLA APARTMENTS II",
+    "latitude": 42.55859899875886,
+    "longitude": -83.11056100032967,
+    "assistedUnits": 71,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800010306",
+    "propertyName": "MADISON HEIGHTS COOPERATIVE APARTMENTS",
+    "latitude": 42.522383999329385,
+    "longitude": -83.10224500019885,
+    "assistedUnits": 150,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010369",
+    "propertyName": "NEW HORIZONS APTS",
+    "latitude": 42.52155899927197,
+    "longitude": -83.10177499984557,
+    "assistedUnits": 125,
+    "totalUnits": 126
+  },
+  {
+    "propertyId": "800009857",
+    "propertyName": "OAKLAND PARK TOWERS II",
+    "latitude": 42.54424999925617,
+    "longitude": -83.10724300006423,
+    "assistedUnits": 297,
+    "totalUnits": 300
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "11839",
+    "businessName": "QUIK STOP",
+    "address": "6015 S M 52, Owosso, MI 48867-9725",
+    "city": "Bennington Twp",
+    "zipCode": "48867",
+    "latitude": 42.905726974215,
+    "longitude": -84.222018279791,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223666",
+    "businessName": "BURTON CORNERS",
+    "address": "6007 W M 21, Owosso, MI 48867-8309",
+    "city": "Middlebury Twp",
+    "zipCode": "48867",
+    "latitude": 42.999388440954,
+    "longitude": -84.284749030914,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

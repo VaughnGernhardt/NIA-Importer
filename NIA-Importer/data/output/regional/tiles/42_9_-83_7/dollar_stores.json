@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": "4823-fenton-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4823, Fenton Road Flint, MI 48507-3321",
+    "city": "Fenton Road Flint",
+    "zipCode": "48507",
+    "latitude": 42.977090493956,
+    "longitude": -83.69274004756
+  },
+  {
+    "storeId": "3753-s-dort-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3753, S. Dort Hwy Flint, MI 48507-2050",
+    "city": "S. Dort Hwy Flint",
+    "zipCode": "48507",
+    "latitude": 42.989581541922,
+    "longitude": -83.653351079332
+  },
+  {
+    "storeId": "g4007-south-saginaw-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info G4007, South Saginaw St Burton, MI 48529-1617",
+    "city": "South Saginaw St Burton",
+    "zipCode": "48529",
+    "latitude": 42.973767880865,
+    "longitude": -83.672471419932
+  },
+  {
+    "storeId": "2702-fenton-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2702, Fenton Road Flint, MI 48507-1559",
+    "city": "Fenton Road Flint",
+    "zipCode": "48507",
+    "latitude": 42.995992405167,
+    "longitude": -83.693175162993
+  },
+  {
+    "storeId": "3101-s-dort-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3101, S Dort Hwy Flint, MI 48507-5219",
+    "city": "S Dort Hwy Flint",
+    "zipCode": "48507",
+    "latitude": 42.993389518862,
+    "longitude": -83.653473934029
+  },
+  {
+    "storeId": "g4386-s-saginaw-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info G4386, S Saginaw St Burton, MI 48529-2001",
+    "city": "S Saginaw St Burton",
+    "zipCode": "48529",
+    "latitude": 42.964067668475,
+    "longitude": -83.670981580378
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0279849",
+    "businessName": "BRYAN\u0027S MARKET",
+    "address": "6002 N Lapeer Rd, North Branch, MI 48461-815",
+    "city": "Deerfield Twp",
+    "zipCode": "48461",
+    "latitude": 43.204779864268,
+    "longitude": -83.312857106048,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14525",
+    "businessName": "M \u0026 N MARKET-DEARFIELD/BP GAS STATION",
+    "address": "5947 N Lapeer Rd, North Branch, MI 48461-9778",
+    "city": "Deerfield Twp",
+    "zipCode": "48461",
+    "latitude": 43.20325243143,
+    "longitude": -83.313003878038,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156838",
+    "businessName": "FOSTORIA GROCERY II",
+    "address": "9294 Foster St, Fostoria, MI 48435-9564",
+    "city": "Watertown Twp",
+    "zipCode": "48435",
+    "latitude": 43.254528529489,
+    "longitude": -83.372341858345,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

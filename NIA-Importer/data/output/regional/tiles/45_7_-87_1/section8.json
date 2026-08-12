@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009954",
+    "propertyName": "BRIDGEWOOD CENTRAL",
+    "latitude": 45.737339998751004,
+    "longitude": -87.08521599962054,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800245769",
+    "propertyName": "SAND HILL TOWNHOMES",
+    "latitude": 45.73842799874762,
+    "longitude": -87.08473199992189,
+    "assistedUnits": 75,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800010691",
+    "propertyName": "WEST HIGHLAND APARTMENTS",
+    "latitude": 45.744859998745966,
+    "longitude": -87.08509099994708,
+    "assistedUnits": 135,
+    "totalUnits": 135
+  }
+]

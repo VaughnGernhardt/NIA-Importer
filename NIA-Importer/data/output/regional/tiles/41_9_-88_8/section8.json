@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800214248",
+    "propertyName": "COLONIAL HOUSE APARTMENTS",
+    "latitude": 41.9443269989645,
+    "longitude": -88.73141299975157,
+    "assistedUnits": 110,
+    "totalUnits": 110
+  },
+  {
+    "propertyId": "800005842",
+    "propertyName": "GREENBRIER APARTMENTS",
+    "latitude": 41.9446219992014,
+    "longitude": -88.77064599991064,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800005843",
+    "propertyName": "Gideon Court Apartments",
+    "latitude": 41.93091999878136,
+    "longitude": -88.77846400009909,
+    "assistedUnits": 144,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800006421",
+    "propertyName": "UNIVERSITY VILLAGE III",
+    "latitude": 41.94133699898345,
+    "longitude": -88.76797100025085,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800006417",
+    "propertyName": "UNIVERSITY VILLAGE PHASE I \u0026 II",
+    "latitude": 41.94220499907111,
+    "longitude": -88.77283699987176,
+    "assistedUnits": 345,
+    "totalUnits": 414
+  }
+]

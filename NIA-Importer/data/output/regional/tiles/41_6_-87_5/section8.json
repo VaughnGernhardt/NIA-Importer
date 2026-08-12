@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800007007",
+    "propertyName": "HARBOR MEADOWS",
+    "latitude": 41.64918399921708,
+    "longitude": -87.4433079996462,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800006583",
+    "propertyName": "HARBORSIDE APARTMENTS",
+    "latitude": 41.647353998930285,
+    "longitude": -87.44282300012262,
+    "assistedUnits": 203,
+    "totalUnits": 209
+  },
+  {
+    "propertyId": "800006059",
+    "propertyName": "LAKESIDE GARDENS",
+    "latitude": 41.645446999303,
+    "longitude": -87.43584900038127,
+    "assistedUnits": 309,
+    "totalUnits": 312
+  },
+  {
+    "propertyId": "800239088",
+    "propertyName": "NORTHTOWN VILLAGE SQUARE APARTMENTS",
+    "latitude": 41.646320999277755,
+    "longitude": -87.44309299956106,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800040823",
+    "propertyName": "RENAISSANCE TOWERS",
+    "latitude": 41.61021599938484,
+    "longitude": -87.47789199991934,
+    "assistedUnits": 450,
+    "totalUnits": 450
+  },
+  {
+    "propertyId": "800007052",
+    "propertyName": "TRI-CITY MENTAL HEALTH CENTER",
+    "latitude": 41.62573599928233,
+    "longitude": -87.47823699970083,
+    "assistedUnits": 5,
+    "totalUnits": 6
+  }
+]

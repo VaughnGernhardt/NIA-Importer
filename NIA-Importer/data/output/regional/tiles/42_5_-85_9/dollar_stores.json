@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1232-lincoln-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1232, Lincoln Rd Allegan, MI 49010-9706",
+    "city": "Lincoln Rd Allegan",
+    "zipCode": "49010",
+    "latitude": 42.508444649898,
+    "longitude": -85.813930042648
+  },
+  {
+    "storeId": "1253-12-lincoln-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "1253 1/2, Lincoln Rd Allegan, MI 49010-9706",
+    "city": "Lincoln Rd Allegan",
+    "zipCode": "49010",
+    "latitude": 42.510779777376,
+    "longitude": -85.821600909771
+  }
+]

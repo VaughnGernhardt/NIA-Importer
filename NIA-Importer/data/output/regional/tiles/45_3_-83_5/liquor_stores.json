@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0273220",
+    "businessName": "BIRCH HILL GROCERY, LLC",
+    "address": "8121 E Grand Lake Rd, Presque Isle, MI 49777-8630",
+    "city": "Presque Isle Twp",
+    "zipCode": "49777",
+    "latitude": 45.302916929998,
+    "longitude": -83.477181847478,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265533",
+    "businessName": "IDA MAE\u0027S PORTAGE DELI LLC",
+    "address": "5472 E Grand Lake Rd, Presque Isle, MI 49777-8634",
+    "city": "Presque Isle Twp",
+    "zipCode": "49777",
+    "latitude": 45.343574709986,
+    "longitude": -83.48446579682,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

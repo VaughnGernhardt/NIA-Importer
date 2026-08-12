@@ -1,0 +1,432 @@
+[
+  {
+    "businessId": "9273",
+    "businessName": "7-ELEVEN #15485-D",
+    "address": "3563 12 Mile Rd, Berkley, MI 48072-1347",
+    "city": "Berkley",
+    "zipCode": "48072",
+    "latitude": 42.50290948652,
+    "longitude": -83.195437794722,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244336",
+    "businessName": "WHOLE FOODS MARKET",
+    "address": "2100 E Maple Rd, Birmingham, MI 48009-5207",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.547158447775,
+    "longitude": -83.195396443433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259321",
+    "businessName": "BEVERAGE HOUSE",
+    "address": "134 N Rochester Rd, Clawson, MI 48017-1744",
+    "city": "Clawson",
+    "zipCode": "48017",
+    "latitude": 42.534982080555,
+    "longitude": -83.13551435559,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11259",
+    "businessName": "MICHAEL\u0027S WINE SHOPPE",
+    "address": "215 S Main St, Clawson, MI 48017-2064",
+    "city": "Clawson",
+    "zipCode": "48017",
+    "latitude": 42.531781284351,
+    "longitude": -83.146037286214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281167",
+    "businessName": "OFF THE WAGON 2 LLC",
+    "address": "1500 N CROOKS RD, CLAWSON, MI 48017",
+    "city": "Clawson",
+    "zipCode": "48017",
+    "latitude": 42.546936490641,
+    "longitude": -83.166432060076,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265936",
+    "businessName": "BJ\u0027S WHOLESALE CLUB",
+    "address": "29101 JOHN R RD, MADISON HEIGHTS, MI 48071",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.505484191311,
+    "longitude": -83.105861510773,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14487",
+    "businessName": "COSTCO WHOLESALE #393",
+    "address": "30550 Stephenson Hwy, Madison Heights, MI 48071-1611",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.513065890793,
+    "longitude": -83.11855845305,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285543",
+    "businessName": "KAKOZ 3, LLC",
+    "address": "31015 Stephenson Hwy, Madison Heights, MI 48071-1601",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.519836619412,
+    "longitude": -83.119744239829,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270053",
+    "businessName": "M \u0026 N GAS, INC",
+    "address": "29011 Stephenson Hwy, Madison Heights, MI 48071-2313",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.504512197883,
+    "longitude": -83.118135956633,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270517",
+    "businessName": "MAD FUELS INC.",
+    "address": "601 W 12 Mile Rd, Madison Heights, MI 48071-2404",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.504555927556,
+    "longitude": -83.110663755281,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231517",
+    "businessName": "MADISON BEVERAGE",
+    "address": "28905 John R Rd, Madison Heights, MI 48071-2848",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.503870480638,
+    "longitude": -83.105814384243,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263329",
+    "businessName": "MADISON PETROLEUM INC.",
+    "address": "28945 John R Rd, Madison Heights, MI 48071-2848",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.504224123426,
+    "longitude": -83.105822495282,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160502",
+    "businessName": "SAM\u0027S CLUB #6659",
+    "address": "31020 John R Rd, Madison Heights, MI 48071-1908",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.520955394344,
+    "longitude": -83.106392123391,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247083",
+    "businessName": "14 MILE \u0026 COOLIDGE MART",
+    "address": "4727 Coolidge Hwy, Royal Oak, MI 48073",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.531784184264,
+    "longitude": -83.18465534824,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17296",
+    "businessName": "7-ELEVEN #32635-B",
+    "address": "3305 N Main St, Royal Oak, MI 48073-2601",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.519154996627,
+    "longitude": -83.145592177554,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10158",
+    "businessName": "CAMPBELL PARTY STORE",
+    "address": "3321 N Campbell Rd, Royal Oak, MI 48073-2803",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.519954312969,
+    "longitude": -83.125822154978,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "170752",
+    "businessName": "CVS/PHARMACY #1150",
+    "address": "30900 Woodward Ave, Royal Oak, MI 48073-0922",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.516818718347,
+    "longitude": -83.184925397917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12907",
+    "businessName": "G \u0026 P MARKET",
+    "address": "1801 N Main St, Royal Oak, MI 48073-4101",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.504383230119,
+    "longitude": -83.145005208835,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287794",
+    "businessName": "HAKIM ROYALTY GROUP LLC",
+    "address": "4107 W 13 Mile Rd, Royal Oak, MI 48073-6655",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.517497199819,
+    "longitude": -83.199395047041,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242347",
+    "businessName": "KROGER STORE #743",
+    "address": "2200 E 12 Mile Rd, Royal Oak, MI 48067-1504",
+    "city": "Royal Oak",
+    "zipCode": "48067",
+    "latitude": 42.503337046853,
+    "longitude": -83.182472970184,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245266",
+    "businessName": "LLM GAS, INC",
+    "address": "30875 Woodward Ave, Royal Oak, MI 48073-0921",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.516206827029,
+    "longitude": -83.184912717433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10196",
+    "businessName": "MEIJER #34",
+    "address": "5150 Coolidge Hwy, Royal Oak, MI 48073-1001",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.537999287174,
+    "longitude": -83.184875058046,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264331",
+    "businessName": "MEIJER STORE #663",
+    "address": "30955 Woodward Ave, Royal Oak, MI 48073-0923",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.517246172386,
+    "longitude": -83.185918828902,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239841",
+    "businessName": "R O WINE \u0026 LIQUOR, INC.",
+    "address": "31786 Woodward Ave, Royal Oak, MI 48073-0995",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.523829960505,
+    "longitude": -83.19167792633,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292544",
+    "businessName": "ROYAL SPIRITS \u0026 WINE",
+    "address": "3030 Rochester Rd, Royal Oak, MI 48073-3504",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.516905324613,
+    "longitude": -83.139935393241,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132676",
+    "businessName": "STAR MARKET",
+    "address": "1806 W 13 Mile Rd, Royal Oak, MI 48073-2303",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.518323264774,
+    "longitude": -83.166721129229,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143474",
+    "businessName": "TANIA\u0027S PIZZA \u0026 PARTY STORE",
+    "address": "3202-3204-3206 Crooks Rd, Royal Oak, MI 48073-3219",
+    "city": "Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.51745563791,
+    "longitude": -83.164749805315,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16189",
+    "businessName": "7-ELEVEN #13437-D",
+    "address": "2891 Crooks Rd, Troy, MI 48084-4704",
+    "city": "Troy",
+    "zipCode": "48084",
+    "latitude": 42.560555101312,
+    "longitude": -83.167261765491,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12499",
+    "businessName": "7-ELEVEN #19057-E",
+    "address": "1650 Crooks Rd, Troy, MI 48084-5305",
+    "city": "Troy",
+    "zipCode": "48084",
+    "latitude": 42.548635855776,
+    "longitude": -83.166508498249,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288625",
+    "businessName": "7-ELEVEN STORE 17313G",
+    "address": "2910 John R Rd, Troy, MI 48083-2354",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.562378275864,
+    "longitude": -83.108117019707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12834",
+    "businessName": "BOTTLE \u0026 CORK WINE SHOP",
+    "address": "1660 John R Rd, Troy, MI 48083-2508",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.549955886328,
+    "longitude": -83.10763492912,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221578",
+    "businessName": "BUSCEMI\u0027S #24",
+    "address": "3176 Rochester Rd, Troy, MI 48083-5422",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.565656985397,
+    "longitude": -83.127747764156,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214194",
+    "businessName": "CVS/PHARMACY #8026",
+    "address": "125 E Long Lake Rd, Troy, MI 48085-5524",
+    "city": "Troy",
+    "zipCode": "48085",
+    "latitude": 42.591736800136,
+    "longitude": -83.14776269788,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214208",
+    "businessName": "CVS/PHARMACY #8030",
+    "address": "1980 E Big Beaver Rd, Troy, MI 48083-2021",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.563361870546,
+    "longitude": -83.108663114463,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260697",
+    "businessName": "JOHN\u0027S LIQUOR",
+    "address": "4009 Livernois Rd, Troy, MI 48098-4711",
+    "city": "Troy",
+    "zipCode": "48098",
+    "latitude": 42.578509006312,
+    "longitude": -83.14848231471,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "205874",
+    "businessName": "M \u0026 M TROY",
+    "address": "1634 John R Rd, Troy, MI 48083-2508",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.549646728332,
+    "longitude": -83.107624847911,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10348",
+    "businessName": "MR. PIZZA BOOTLEG PARTY STORE",
+    "address": "4973 Livernois Rd, Troy, MI 48098-4701",
+    "city": "Troy",
+    "zipCode": "48098",
+    "latitude": 42.591079557813,
+    "longitude": -83.149082389689,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247486",
+    "businessName": "PRIDE ROCK SOMERSET FUEL",
+    "address": "2989 Crooks Rd, Troy, MI 48084-4715",
+    "city": "Troy",
+    "zipCode": "48084",
+    "latitude": 42.561615900077,
+    "longitude": -83.167313447448,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274617",
+    "businessName": "RW TROY, LLC",
+    "address": "1613 Livernois Rd, Troy, MI 48083-1728",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.548451997627,
+    "longitude": -83.147080448883,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235280",
+    "businessName": "SHELL- XO LIQUOR",
+    "address": "1489 E Maple Rd, Troy, MI 48083-4020",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.548929805785,
+    "longitude": -83.122051639382,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269458",
+    "businessName": "TROY GAS STATION, INC.",
+    "address": "1350 W Maple Rd, Troy, MI 48084-5354",
+    "city": "Troy",
+    "zipCode": "48084",
+    "latitude": 42.548000007925,
+    "longitude": -83.165562450191,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202135",
+    "businessName": "WAL-MART SUPERCENTER #2873",
+    "address": "2001 W Maple Rd, Troy, MI 48084-7100",
+    "city": "Troy",
+    "zipCode": "48084",
+    "latitude": 42.547701520856,
+    "longitude": -83.172957436425,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289258",
+    "businessName": "XO LIQUOR",
+    "address": "1980 E Maple Rd, Troy, MI 48083-4213",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.549120391662,
+    "longitude": -83.108180418722,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

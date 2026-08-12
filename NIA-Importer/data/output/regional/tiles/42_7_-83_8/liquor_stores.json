@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0270821",
+    "businessName": "FENTON PARTY SHOP",
+    "address": "502 W Silver Lake Rd, Fenton, MI 48430-2619",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.798422945016,
+    "longitude": -83.710133660294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9370",
+    "businessName": "MERCHANTS GOURMET \u0026 WINE SHOP",
+    "address": "3909 Owen Rd, Fenton, MI 48430-9179",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.789553029711,
+    "longitude": -83.745664732452,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228640",
+    "businessName": "OWEN ROAD FUEL, LLC",
+    "address": "3238 Owen Rd, Fenton, MI 48430-1846",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.789748984383,
+    "longitude": -83.740118914212,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204159",
+    "businessName": "WAL-MART STORE #2693",
+    "address": "3700 Owen Rd, Fenton, MI 48430-9193",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.789684025538,
+    "longitude": -83.744435810646,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289646",
+    "businessName": "RUNYAN LAKE SUNOCO LLC",
+    "address": "10005 Hartland Rd, Fenton, MI 48430-8745",
+    "city": "Tyrone Twp",
+    "zipCode": "48430",
+    "latitude": 42.752588628088,
+    "longitude": -83.740518857193,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288005",
+    "businessName": "TYRONE PARTY STORE INC",
+    "address": "N-9485 Center Rd, Fenton, MI 48430-9388",
+    "city": "Tyrone Twp",
+    "zipCode": "48430",
+    "latitude": 42.737066551767,
+    "longitude": -83.766547898213,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

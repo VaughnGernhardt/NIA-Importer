@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009949",
+    "propertyName": "BRIAR CREST I",
+    "latitude": 41.83423999921893,
+    "longitude": -86.26690099969687,
+    "assistedUnits": 53,
+    "totalUnits": 53
+  },
+  {
+    "propertyId": "800009950",
+    "propertyName": "BRIAR CREST II",
+    "latitude": 41.83423999921893,
+    "longitude": -86.26690099969687,
+    "assistedUnits": 49,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800010122",
+    "propertyName": "FOUR FLAGS PLAZA",
+    "latitude": 41.82858699937509,
+    "longitude": -86.2512159998145,
+    "assistedUnits": 88,
+    "totalUnits": 88
+  },
+  {
+    "propertyId": "800252035",
+    "propertyName": "Niles Post Office Apartments",
+    "latitude": 41.82974699935995,
+    "longitude": -86.25582299986762,
+    "assistedUnits": 10,
+    "totalUnits": 54
+  }
+]

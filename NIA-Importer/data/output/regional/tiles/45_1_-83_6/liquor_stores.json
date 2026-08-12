@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0277588",
+    "businessName": "MALE\u0027S GROCERY",
+    "address": "6811 Long Rapids Rd, Alpena, MI 49707-9617",
+    "city": "Maple Ridge Twp",
+    "zipCode": "49707",
+    "latitude": 45.129517562027,
+    "longitude": -83.590581902819,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280915",
+    "businessName": "NORWAY PARTY STORE AND RESORT INC.",
+    "address": "4464 Long Rapids Rd, Alpena, MI 49707-9626",
+    "city": "Maple Ridge Twp",
+    "zipCode": "49707",
+    "latitude": 45.111820932058,
+    "longitude": -83.54568759274,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

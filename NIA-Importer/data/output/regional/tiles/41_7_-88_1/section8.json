@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005912",
+    "propertyName": "Abbey Apartments at Four Lakes",
+    "latitude": 41.7798619989114,
+    "longitude": -88.08635300003102,
+    "assistedUnits": 78,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800005923",
+    "propertyName": "GREENLEAF",
+    "latitude": 41.71431799913577,
+    "longitude": -88.04773400016529,
+    "assistedUnits": 321,
+    "totalUnits": 321
+  },
+  {
+    "propertyId": "800006001",
+    "propertyName": "GROVE SENIOR LIVING",
+    "latitude": 41.79472099921746,
+    "longitude": -88.01350700026752,
+    "assistedUnits": 270,
+    "totalUnits": 270
+  },
+  {
+    "propertyId": "800006184",
+    "propertyName": "OAK TREE TOWERS",
+    "latitude": 41.79636999883347,
+    "longitude": -88.0128219998291,
+    "assistedUnits": 165,
+    "totalUnits": 165
+  }
+]

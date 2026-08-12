@@ -1,0 +1,146 @@
+[
+  {
+    "propertyId": "800023051",
+    "propertyName": "3700 GREEN TREE CORP.",
+    "latitude": 43.14139299916761,
+    "longitude": -87.95739099977665,
+    "assistedUnits": 264,
+    "totalUnits": 264
+  },
+  {
+    "propertyId": "800223161",
+    "propertyName": "ABUNDANT LIFE APTS.",
+    "latitude": 43.15913799922081,
+    "longitude": -87.98992700020379,
+    "assistedUnits": 23,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800022878",
+    "propertyName": "BLANCHE AND MADGE HOME",
+    "latitude": 43.14422999914851,
+    "longitude": -87.980797999588,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800022893",
+    "propertyName": "BRADLEY PLACE",
+    "latitude": 43.16298299927402,
+    "longitude": -87.98911200006903,
+    "assistedUnits": 148,
+    "totalUnits": 232
+  },
+  {
+    "propertyId": "800022850",
+    "propertyName": "COMMUNITY CARE HUD HOUSING",
+    "latitude": 43.137220998975,
+    "longitude": -87.97843500009778,
+    "assistedUnits": 8,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800215317",
+    "propertyName": "FAITH MANOR APARTMENTS",
+    "latitude": 43.16172999889871,
+    "longitude": -87.99199199976822,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023013",
+    "propertyName": "FLORIST GARDENS APTS",
+    "latitude": 43.128097998969004,
+    "longitude": -87.95584400024607,
+    "assistedUnits": 77,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800079172",
+    "propertyName": "GLEN COURTS APARTMENTS",
+    "latitude": 43.12804999876473,
+    "longitude": -87.93410000031623,
+    "assistedUnits": 107,
+    "totalUnits": 107
+  },
+  {
+    "propertyId": "800251721",
+    "propertyName": "GREEN COURT APTS",
+    "latitude": 43.18625199918107,
+    "longitude": -87.9624849999015,
+    "assistedUnits": 122,
+    "totalUnits": 122
+  },
+  {
+    "propertyId": "800023162",
+    "propertyName": "HOPKINS PLACE",
+    "latitude": 43.116160998997536,
+    "longitude": -87.96525400017094,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800212985",
+    "propertyName": "MYRTLE DAVIS SENIOR COMPLEX",
+    "latitude": 43.11605999878855,
+    "longitude": -87.9858449998572,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023206",
+    "propertyName": "NEW HAMPTON GARDENS",
+    "latitude": 43.10495299885822,
+    "longitude": -87.93953500002462,
+    "assistedUnits": 229,
+    "totalUnits": 230
+  },
+  {
+    "propertyId": "800232457",
+    "propertyName": "NORTH PORT MOVIN OUT 811 PROJECT",
+    "latitude": 43.14984399918527,
+    "longitude": -87.91477800032617,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800023311",
+    "propertyName": "RIDGEWOOD APARTMENTS",
+    "latitude": 43.188042999167415,
+    "longitude": -87.99780499976839,
+    "assistedUnits": 149,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800023352",
+    "propertyName": "SILVER SPRING SQUARE",
+    "latitude": 43.117796998965304,
+    "longitude": -87.96593600023633,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800023413",
+    "propertyName": "TEUTONIA APTS",
+    "latitude": 43.14495199889021,
+    "longitude": -87.95599099966086,
+    "assistedUnits": 64,
+    "totalUnits": 64
+  },
+  {
+    "propertyId": "800023433",
+    "propertyName": "TRINITY MANOR APARTMENTS",
+    "latitude": 43.16183499937126,
+    "longitude": -87.99154300022965,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023520",
+    "propertyName": "WOODSIDE APARTMENTS",
+    "latitude": 43.16332799897039,
+    "longitude": -87.99066100014772,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  }
+]

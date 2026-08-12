@@ -1,0 +1,442 @@
+[
+  {
+    "businessId": "140671",
+    "businessName": "MEIJER #222",
+    "address": "1005 E 13 Mile Rd, Madison Heights, MI 48071-1533",
+    "city": "Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.520311868726,
+    "longitude": -83.094961481966,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288952",
+    "businessName": "18 DEQUINDRE LLC",
+    "address": "40980 Dequindre Rd, Sterling Heights, MI 48310-1720",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.592820586492,
+    "longitude": -83.089814538964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246728",
+    "businessName": "18 MOUND BP",
+    "address": "5955 18 Mile Rd, Sterling Heights, MI 48314",
+    "city": "Sterling Heights",
+    "zipCode": "48314",
+    "latitude": 42.594336537114,
+    "longitude": -83.050061809012,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288197",
+    "businessName": "7-ELEVEN",
+    "address": "38301 Dodge Park Rd, Sterling Heights, MI 48312-1424",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.575799092074,
+    "longitude": -83.010679195882,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11673",
+    "businessName": "7-ELEVEN #29521-A",
+    "address": "4191 15 Mile Rd, Sterling Heights, MI 48310-5500",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.550217598448,
+    "longitude": -83.067968157178,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149362",
+    "businessName": "BUSCEMI\u0027S",
+    "address": "40428 Van Dyke Ave, Sterling Heights, MI 48313-3735",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.590305921092,
+    "longitude": -83.030447225007,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239878",
+    "businessName": "CAR-DONNA\u0027S MARATHON",
+    "address": "38951 Mound Rd, Sterling Heights, MI 48310-3267",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.57920418885,
+    "longitude": -83.050208404214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214177",
+    "businessName": "CVS/PHARMACY #8014",
+    "address": "3678 15 Mile Rd, Sterling Heights, MI 48310-5355",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.550653963009,
+    "longitude": -83.071935100775,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214222",
+    "businessName": "CVS/PHARMACY #8191",
+    "address": "4025 18 Mile Rd, Sterling Heights, MI 48314-3901",
+    "city": "Sterling Heights",
+    "zipCode": "48314",
+    "latitude": 42.593665352277,
+    "longitude": -83.070518384087,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12718",
+    "businessName": "GOLDEN NUGGET LIQUOR \u0026 DELI",
+    "address": "34611 Mound Rd, Sterling Heights, MI 48310-5763",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.547586705625,
+    "longitude": -83.048537272529,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240605",
+    "businessName": "GOOSE LIQUOR",
+    "address": "4043 17 Mile Rd, Sterling Heights, MI 48310-6837",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.579238047596,
+    "longitude": -83.069784252764,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270981",
+    "businessName": "GRAPEVINE WINE \u0026 LIQUOR SHOP",
+    "address": "8230 15 Mile Rd, Sterling Heights, MI 48312-3504",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.551182061432,
+    "longitude": -83.027001735583,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261017",
+    "businessName": "KAKOZ 2, LLC",
+    "address": "36950 Dequindre Rd, Sterling Heights, MI 48310-4255",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.562166474453,
+    "longitude": -83.088613618611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14316",
+    "businessName": "KROGER STORE #757",
+    "address": "2051 18 Mile Rd, Sterling Heights, MI 48314-3703",
+    "city": "Sterling Heights",
+    "zipCode": "48314",
+    "latitude": 42.593119031061,
+    "longitude": -83.088344230284,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279446",
+    "businessName": "M \u0026 M MARKET SHOP, INC.",
+    "address": "34949 Van Dyke Ave, Sterling Heights, MI 48312-4662",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.550761255671,
+    "longitude": -83.029251416525,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15529",
+    "businessName": "MAX\u0027S DELI",
+    "address": "4176 15 Mile Rd, Sterling Heights, MI 48310-5405",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.549969701788,
+    "longitude": -83.066600808559,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11444",
+    "businessName": "MEIJER #55",
+    "address": "36600 Van Dyke Ave, Sterling Heights, MI 48312-2766",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.562884111582,
+    "longitude": -83.029303086661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223810",
+    "businessName": "NAPA VALLEY BEVERAGE COMPANY II",
+    "address": "35030 Mound Rd, Sterling Heights, MI 48310-4713",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.550892819823,
+    "longitude": -83.048097299925,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284684",
+    "businessName": "OAKREST MARKET",
+    "address": "35950 Dequindre Rd, Sterling Heights, MI 48310-4252",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.555757652917,
+    "longitude": -83.08832759741,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291189",
+    "businessName": "RONNY\u0027S CONVENIENCE STORE, INC.",
+    "address": "5625 18 Mile Rd, Sterling Heights, MI 48314-4109",
+    "city": "Sterling Heights",
+    "zipCode": "48314",
+    "latitude": 42.594198863215,
+    "longitude": -83.053608422223,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277421",
+    "businessName": "RUSTY KEG FOOD \u0026 FUEL",
+    "address": "3951 Metropolitan Pkwy, Sterling Heights, MI 48310-3712",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.564707964727,
+    "longitude": -83.070404935362,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268748",
+    "businessName": "SHUBH LABH INC",
+    "address": "38100 Van Dyke Ave, Sterling Heights, MI 48312-1136",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.573699017033,
+    "longitude": -83.029794494072,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11716",
+    "businessName": "STERLING HEIGHTS LIQUOR SHOPPE",
+    "address": "33870 Dequindre Rd, Sterling Heights, MI 48310-5881",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.541273485771,
+    "longitude": -83.087377640064,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245712",
+    "businessName": "STERLING SHELL, INC.",
+    "address": "11541 15 Mile Rd, Sterling Heights, MI 48312-3812",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.551704072701,
+    "longitude": -83.010552854243,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224072",
+    "businessName": "TARGET #2254",
+    "address": "2310 Metropolitan Pkwy, Sterling Heights, MI 48310-4209",
+    "city": "Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.563846806395,
+    "longitude": -83.08500805562,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197712",
+    "businessName": "WAL-MART SUPERCENTER #2559",
+    "address": "33201 Van Dyke Ave, Sterling Heights, MI 48312-5924",
+    "city": "Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.538189902111,
+    "longitude": -83.02933697484,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250034",
+    "businessName": "ZAIA BOYS, INC.",
+    "address": "39600 Van Dyke Ave, Sterling Heights, MI 48313",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.58471193195,
+    "longitude": -83.030212357224,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220265",
+    "businessName": "TROY CHEESE AND WINE MARKET",
+    "address": "2560 E Maple Rd, Troy, MI 48083-4424",
+    "city": "Troy",
+    "zipCode": "48083",
+    "latitude": 42.549209757576,
+    "longitude": -83.096221877966,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230347",
+    "businessName": "13 \u0026 HOOVER BP",
+    "address": "11610 E 13 Mile Rd, Warren, MI 48093-3037",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.521346852152,
+    "longitude": -83.007453475883,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245691",
+    "businessName": "14 \u0026 RYAN BP",
+    "address": "4040 E 14 Mile Rd, Warren, MI 48092-1130",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.535389774748,
+    "longitude": -83.068107078054,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264158",
+    "businessName": "31025 RYAN OPERATION",
+    "address": "31025 Ryan Rd, Warren, MI 48092-1332",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.5206303519,
+    "longitude": -83.068004689344,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277290",
+    "businessName": "7-ELEVEN, INC. (A TEXAS CORPORATION) \u0026 JABAR AND SADIA INC",
+    "address": "11575 E 13 Mile Rd, Warren, MI 48093-2588",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.521450795524,
+    "longitude": -83.008067129209,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267248",
+    "businessName": "AFANS INVESTMENT LLC",
+    "address": "31875 Ryan Rd, Warren, MI 48092-3769",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.527065835792,
+    "longitude": -83.068276396141,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232343",
+    "businessName": "ALASMER PARTY SHOP",
+    "address": "5325 E 12 Mile Rd, Warren, MI 48092-4633",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.506064790767,
+    "longitude": -83.053341163736,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162750",
+    "businessName": "FAST TRACK",
+    "address": "30953 Mound Rd, Warren, MI 48092-2040",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.520325826115,
+    "longitude": -83.047592352294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11005",
+    "businessName": "KENNY\u0027S WINE SHOP",
+    "address": "30094 Dequindre Rd, Warren, MI 48092-1811",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.514423249193,
+    "longitude": -83.085938206149,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163199",
+    "businessName": "MEIJER #237",
+    "address": "29505 Mound Rd, Warren, MI 48092-2012",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.508801601572,
+    "longitude": -83.046924558273,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166233",
+    "businessName": "PARTY KING STORE",
+    "address": "3884 E 13 Mile Rd, Warren, MI 48092-1314",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.520325352822,
+    "longitude": -83.068818806762,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290041",
+    "businessName": "SHEETZ #912",
+    "address": "31925 Van Dyke Ave, Warren, MI 48093-8126",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.528428034557,
+    "longitude": -83.029230986919,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290741",
+    "businessName": "SHEETZ #924",
+    "address": "5920 E 12 Mile Rd, Warren, MI 48092-2721",
+    "city": "Warren",
+    "zipCode": "48092",
+    "latitude": 42.506092768051,
+    "longitude": -83.04610459359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "195992",
+    "businessName": "STARDUST LIQUOR",
+    "address": "32746 Van Dyke Ave, Warren, MI 48093-8136",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.534919204008,
+    "longitude": -83.02922811248,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233445",
+    "businessName": "WAL-MART SUPER CENTER #4424",
+    "address": "29176 Van Dyke Ave, Warren, MI 48093-6764",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.50795440284,
+    "longitude": -83.028310794457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270269",
+    "businessName": "WARREN 13 PETROLEUM, INC.",
+    "address": "8701 E 13 Mile Rd, Warren, MI 48093-2289",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.521273541551,
+    "longitude": -83.021213052766,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264452",
+    "businessName": "WARREN LIQUOR SHOPPE",
+    "address": "29184 Hoover Rd, Warren, MI 48093-3488",
+    "city": "Warren",
+    "zipCode": "48093",
+    "latitude": 42.508585852394,
+    "longitude": -83.006875933477,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

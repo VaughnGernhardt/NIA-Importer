@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "197465",
+    "businessName": "KROGER STORE #450",
+    "address": "2600 Pointe Tremble Rd, Algonac, MI 48001-1684",
+    "city": "Clay Twp",
+    "zipCode": "48001",
+    "latitude": 42.616846761772,
+    "longitude": -82.550268517499,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289812",
+    "businessName": "RIVERSIDE LIQUOR, LLC",
+    "address": "5108 Pointe Tremble Rd, Algonac, MI 48001-4363",
+    "city": "Clay Twp",
+    "zipCode": "48001",
+    "latitude": 42.623041867555,
+    "longitude": -82.580640015889,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144503",
+    "businessName": "ORCHARD FOOD STORES",
+    "address": "7504 Starville Rd, Marine City, MI 48039-2905",
+    "city": "Cottrellville Twp",
+    "zipCode": "48039",
+    "latitude": 42.680890733794,
+    "longitude": -82.587900046156,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

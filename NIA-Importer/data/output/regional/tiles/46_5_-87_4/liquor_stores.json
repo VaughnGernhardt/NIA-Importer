@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0274929",
+    "businessName": "CAL\u0027S PARTY STORE",
+    "address": "123 Genesee St, Marquette, MI 49855-5123",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.533918739518,
+    "longitude": -87.397355611135,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275322",
+    "businessName": "KENNY\u0027S CORNER STORE",
+    "address": "246 W Hewitt Ave, Marquette, MI 49855-3422",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.549228183327,
+    "longitude": -87.395794038284,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250157",
+    "businessName": "MARQUETTE NEIGHBORHOOD SPOT LLC",
+    "address": "129 E Hewitt Ave, Marquette, MI 49855-3707",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.54923592584,
+    "longitude": -87.391734229316,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267573",
+    "businessName": "SUPERIOR BLUE LINK",
+    "address": "410 N 3rd St, Marquette, MI 49855-3516",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.546302210965,
+    "longitude": -87.394659822094,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291673",
+    "businessName": "WHITE\u0027S CORNER STORE LLC",
+    "address": "1001 N 3rd St, Marquette, MI 49855-3509",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.552259324816,
+    "longitude": -87.394817517459,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249941",
+    "businessName": "MEIJER #302",
+    "address": "3630 US 41 W, Marquette, MI 49855",
+    "city": "Marquette Twp",
+    "zipCode": "49855",
+    "latitude": 46.528368546159,
+    "longitude": -87.394174987367,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

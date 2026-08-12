@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "11927",
+    "businessName": "MEIJER #67",
+    "address": "1700 N Telegraph Rd, Monroe, MI 48162-9204",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.943656416346,
+    "longitude": -83.403519037541,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231922",
+    "businessName": "MOBIL OF MONROE",
+    "address": "1153 N Telegraph Rd, Monroe, MI 48162-3368",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.937204618561,
+    "longitude": -83.407290196168,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10314",
+    "businessName": "FOOD BASKET, INC.",
+    "address": "1004 W Elm Ave, Monroe, MI 48162-2883",
+    "city": "Monroe",
+    "zipCode": "48162",
+    "latitude": 41.922647333539,
+    "longitude": -83.40816590764,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290743",
+    "businessName": "HNG LIQUOR, INC",
+    "address": "1804 S Custer Rd, Monroe, MI 48161-1827",
+    "city": "Monroe",
+    "zipCode": "48161",
+    "latitude": 41.920820396621,
+    "longitude": -83.423095115922,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150614",
+    "businessName": "MONROE BEER COOLER",
+    "address": "1135 W Front St, Monroe, MI 48161-1658",
+    "city": "Monroe",
+    "zipCode": "48161",
+    "latitude": 41.919110045903,
+    "longitude": -83.41368421024,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "179596",
+    "businessName": "MONROE CONVENIENCE STORE",
+    "address": "540 N Telegraph Rd, Monroe, MI 48162-3337",
+    "city": "Monroe",
+    "zipCode": "48162",
+    "latitude": 41.92975881634,
+    "longitude": -83.411265697521,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236826",
+    "businessName": "MONROE LIQUOR",
+    "address": "811 S Monroe St, Monroe, MI 48161-1431",
+    "city": "Monroe",
+    "zipCode": "48161",
+    "latitude": 41.908894142644,
+    "longitude": -83.403968576002,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237696",
+    "businessName": "HILITE SUPER MARKET",
+    "address": "15539 S Telegraph Rd, Monroe, MI 48161-4068",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.903152169643,
+    "longitude": -83.426806276204,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147185",
+    "businessName": "KROGER STORE #578",
+    "address": "850 S Monroe St, Monroe, MI 48161-1480",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.908297929888,
+    "longitude": -83.404662762282,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265442",
+    "businessName": "S\u0026G #62",
+    "address": "15522 S Telegraph Rd, Monroe, MI 48161-5520",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.902989226495,
+    "longitude": -83.426755151523,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14871",
+    "businessName": "SAM STOP",
+    "address": "1740 W 7th St, Monroe, MI 48161-1666",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.915410894055,
+    "longitude": -83.424553334373,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

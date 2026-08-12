@@ -1,0 +1,212 @@
+[
+  {
+    "businessId": "11531",
+    "businessName": "MUG \u0026 JUG",
+    "address": "4138 12 Mile Rd, Berkley, MI 48072-1122",
+    "city": "Berkley",
+    "zipCode": "48072",
+    "latitude": 42.502956006909,
+    "longitude": -83.202425843636,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231332",
+    "businessName": "BEVERAGE WAREHOUSE",
+    "address": "31111 Greenfield Rd, Beverly Hills, MI 48025-5658",
+    "city": "Beverly Hills",
+    "zipCode": "48025",
+    "latitude": 42.51854143683,
+    "longitude": -83.203863428774,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160265",
+    "businessName": "MARKET SQUARE OF BEVERLY HILLS",
+    "address": "31201 Southfield Rd, Beverly Hills, MI 48025-5455",
+    "city": "Beverly Hills",
+    "zipCode": "48025",
+    "latitude": 42.517162519023,
+    "longitude": -83.223378096114,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246836",
+    "businessName": "ADAMS \u0026 MAPLE MOBIL",
+    "address": "1065 E Maple Rd, Birmingham, MI 48009",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.54697214146,
+    "longitude": -83.206239063418,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214345",
+    "businessName": "CVS/PHARMACY #8136",
+    "address": "444 S Old Woodward Ave, Birmingham, MI 48009-6610",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.543832963161,
+    "longitude": -83.21156687511,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287780",
+    "businessName": "HOLIDAY MARKET SELECT",
+    "address": "1732 \u0026 1740 W Maple Rd, Birmingham, MI 48009",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.546127435857,
+    "longitude": -83.236095261837,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11271",
+    "businessName": "KROGER STORE #685",
+    "address": "685 E Maple Rd, Birmingham, MI 48009-6343",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.546887563941,
+    "longitude": -83.209623309885,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217320",
+    "businessName": "M.L. SPIRITS",
+    "address": "33644 Woodward Ave, Birmingham, MI 48009-0910",
+    "city": "Birmingham",
+    "zipCode": "48009",
+    "latitude": 42.536326351359,
+    "longitude": -83.203699755118,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274329",
+    "businessName": "PRIMOS PIZZA",
+    "address": "996-1000 S Adams St, Birmingham, MI 48809",
+    "city": "Birmingham",
+    "zipCode": "48809",
+    "latitude": 42.539845008269,
+    "longitude": -83.205465744798,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196433",
+    "businessName": "HILLS WINE \u0026 SPIRITS",
+    "address": "41 W Long Lake Rd, Bloomfield Hills, MI 48304-2747",
+    "city": "Bloomfield Hills",
+    "zipCode": "48304",
+    "latitude": 42.584052981628,
+    "longitude": -83.244001643906,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247131",
+    "businessName": "BLOOMFIELD MOBIL",
+    "address": "6490 Telegraph Rd, Bloomfield Hills, MI 48301-1758",
+    "city": "Bloomfield Twp",
+    "zipCode": "48301",
+    "latitude": 42.544976751959,
+    "longitude": -83.285309763998,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213959",
+    "businessName": "BLOOMFIELD WINE AND SPIRITS",
+    "address": "1081 W Long Lake Rd, Bloomfield Hills, MI 48302-2015",
+    "city": "Bloomfield Twp",
+    "zipCode": "48302",
+    "latitude": 42.581209314964,
+    "longitude": -83.282778771006,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259150",
+    "businessName": "CVS/PHARMACY #11250",
+    "address": "6510 Telegraph Rd, Bloomfield Hills, MI 48301-3011",
+    "city": "Bloomfield Twp",
+    "zipCode": "48301",
+    "latitude": 42.544604843685,
+    "longitude": -83.285296197433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197457",
+    "businessName": "KROGER STORE #440",
+    "address": "3600 W Maple Rd, Bloomfield Hills, MI 48301-3375",
+    "city": "Bloomfield Twp",
+    "zipCode": "48301",
+    "latitude": 42.545393880033,
+    "longitude": -83.262399922442,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263305",
+    "businessName": "NINO SALVAGGIO INTERNATIONAL MARKETPLACE",
+    "address": "6592 Telegraph Rd, Bloomfield, MI 48301-3011",
+    "city": "Bloomfield Twp",
+    "zipCode": "48301",
+    "latitude": 42.543489950317,
+    "longitude": -83.285234143538,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160621",
+    "businessName": "VINTAGE VILLAGE FINE WINE",
+    "address": "28927 Southfield Rd, Lathrup Village, MI 48076-2720",
+    "city": "Lathrup Village",
+    "zipCode": "48076",
+    "latitude": 42.501750814409,
+    "longitude": -83.222628666736,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282623",
+    "businessName": "CLOVERLEAF BOTTLE SHOP",
+    "address": "24529 W 12 Mile Rd, Southfield, MI 48034-1208",
+    "city": "Southfield",
+    "zipCode": "48034",
+    "latitude": 42.501033559745,
+    "longitude": -83.285966016636,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214162",
+    "businessName": "CVS/PHARMACY #8021",
+    "address": "30920 Southfield Rd, Southfield, MI 48076-7738",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.516501831163,
+    "longitude": -83.223183138953,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262411",
+    "businessName": "K \u0026 A PARTY STORE, INC.",
+    "address": "16261 W 12 Mile Rd, Southfield, MI 48076-2911",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.502724390239,
+    "longitude": -83.210498618514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290706",
+    "businessName": "SUBURBAN LIQUOR",
+    "address": "29085 Evergreen Rd, Southfield, MI 48076-5008",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.50269027077,
+    "longitude": -83.242040723264,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274141",
+    "businessName": "Total Beverage of Southfield",
+    "address": "30203 Southfield Rd, Southfield, MI 48076-1302",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.511440918912,
+    "longitude": -83.223101082079,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

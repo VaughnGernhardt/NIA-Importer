@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800009871",
+    "propertyName": "AHEPA 371",
+    "latitude": 42.568395998901146,
+    "longitude": -82.84598100009687,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800112177",
+    "propertyName": "AHEPA 371 - PHASE 2",
+    "latitude": 42.56889499885818,
+    "longitude": -82.84611599981608,
+    "assistedUnits": 75,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800010007",
+    "propertyName": "CHURCH OF CHRIST SENIOR HOUSING",
+    "latitude": 42.555334999376434,
+    "longitude": -82.87476999991318,
+    "assistedUnits": 52,
+    "totalUnits": 52
+  },
+  {
+    "propertyId": "800010012",
+    "propertyName": "CLEAVE HOUSE",
+    "latitude": 42.566421999155565,
+    "longitude": -82.86362400031186,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010019",
+    "propertyName": "CLINTON PLACE",
+    "latitude": 42.59918299933251,
+    "longitude": -82.86586899980134,
+    "assistedUnits": 283,
+    "totalUnits": 283
+  },
+  {
+    "propertyId": "800010037",
+    "propertyName": "CORDOVA COURTS COOP 1-3",
+    "latitude": 42.54922799912074,
+    "longitude": -82.89217399975358,
+    "assistedUnits": 173,
+    "totalUnits": 174
+  },
+  {
+    "propertyId": "800010409",
+    "propertyName": "OXFORD SQUARE",
+    "latitude": 42.55284299873846,
+    "longitude": -82.8911970001354,
+    "assistedUnits": 201,
+    "totalUnits": 206
+  },
+  {
+    "propertyId": "800010415",
+    "propertyName": "PARK PLACE TOWERS",
+    "latitude": 42.59945599890822,
+    "longitude": -82.87202800030624,
+    "assistedUnits": 179,
+    "totalUnits": 187
+  }
+]

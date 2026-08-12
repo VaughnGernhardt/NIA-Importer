@@ -1,0 +1,112 @@
+[
+  {
+    "storeId": "34520-ford-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 34520, Ford Rd. Westland, MI 48185-3090",
+    "city": "Ford Rd. Westland",
+    "zipCode": "48185",
+    "latitude": 42.324652438779,
+    "longitude": -83.380448788395
+  },
+  {
+    "storeId": "120-inkster-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 120, Inkster Rd Inkster, MI 48141-1209",
+    "city": "Inkster Rd Inkster",
+    "zipCode": "48141",
+    "latitude": 42.311366738679,
+    "longitude": -83.310928696959
+  },
+  {
+    "storeId": "29250-joy-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 29250, Joy Road Livonia, MI 48150-4099",
+    "city": "Joy Road Livonia",
+    "zipCode": "48150",
+    "latitude": 42.354803897346,
+    "longitude": -83.331412394942
+  },
+  {
+    "storeId": "5918-middle-belt-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5918, Middle Belt Road Garden City, MI 48135-2458",
+    "city": "Middle Belt Road Garden City",
+    "zipCode": "48135",
+    "latitude": 42.327314400245,
+    "longitude": -83.330929071874
+  },
+  {
+    "storeId": "13400-middlebelt-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 13400, Middlebelt Rd Livonia, MI 48150-2234",
+    "city": "Middlebelt Rd Livonia",
+    "zipCode": "48150",
+    "latitude": 42.381525737103,
+    "longitude": -83.333519408557
+  },
+  {
+    "storeId": "31280-5-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "31280 5, Mile Rd Livonia, MI 48154-3643",
+    "city": "Mile Rd Livonia",
+    "zipCode": "48154",
+    "latitude": 42.397743702379,
+    "longitude": -83.353007138048
+  },
+  {
+    "storeId": "8208-n-merriman-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 8208, N Merriman Rd Westland, MI 48185",
+    "city": "N Merriman Rd Westland",
+    "zipCode": "48185",
+    "latitude": 42.348161129462,
+    "longitude": -83.351256851589
+  },
+  {
+    "storeId": "7250-n-venoy-rd-7250-n-venoy-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "7250 N. Venoy Rd 7250, N Venoy Rd Westland, MI 48185-6970",
+    "city": "N Venoy Rd Westland",
+    "zipCode": "48185",
+    "latitude": 42.339818256832,
+    "longitude": -83.3654514266
+  },
+  {
+    "storeId": "33330-plymouth-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 33330, Plymouth Road Livonia, MI 48150-1719",
+    "city": "Plymouth Road Livonia",
+    "zipCode": "48150",
+    "latitude": 42.368314612719,
+    "longitude": -83.371003867703
+  },
+  {
+    "storeId": "6006-n-wayne-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 6006, N. Wayne Rd Westland Center Westland, MI 48185-7129",
+    "city": "N. Wayne Rd Westland Center Westland",
+    "zipCode": "48185",
+    "latitude": 42.328117246352,
+    "longitude": -83.388029991237
+  },
+  {
+    "storeId": "148-s-wayne-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 148, S Wayne Rd Westland, MI 48186-4302",
+    "city": "S Wayne Rd Westland",
+    "zipCode": "48186",
+    "latitude": 42.309437652269,
+    "longitude": -83.38871680853
+  }
+]

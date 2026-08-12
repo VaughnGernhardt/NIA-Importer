@@ -1,0 +1,142 @@
+[
+  {
+    "businessId": "246770",
+    "businessName": "84TH STREET MARKET",
+    "address": "2598 84th St SW, Byron Center, MI 49315-5103",
+    "city": "Byron Twp",
+    "zipCode": "49315",
+    "latitude": 42.812160586076,
+    "longitude": -85.727206206117,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239868",
+    "businessName": "BYRON LIQUOR",
+    "address": "8233 Byron Center Ave SW, Byron Center, MI 49315",
+    "city": "Byron Twp",
+    "zipCode": "49315",
+    "latitude": 42.815070257021,
+    "longitude": -85.723084502789,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141967",
+    "businessName": "FAMILY FARE #119",
+    "address": "2245 Eighty Fourth, Byron Center, MI 49315",
+    "city": "Byron Twp",
+    "zipCode": "49315",
+    "latitude": 42.812229569243,
+    "longitude": -85.719311302201,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239891",
+    "businessName": "J \u0026 H FAMILY STORES-WILSON MARATHON",
+    "address": "6066 Wilson Ave SW, Grandville, MI 49418-9714",
+    "city": "Byron Twp",
+    "zipCode": "49418",
+    "latitude": 42.854356693177,
+    "longitude": -85.76236648861,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220258",
+    "businessName": "WALGREEN\u0027S #10129",
+    "address": "8364 Byron Center Ave SW, Byron Center, MI 49315-8957",
+    "city": "Byron Twp",
+    "zipCode": "49315",
+    "latitude": 42.813169156437,
+    "longitude": -85.722908849947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166589",
+    "businessName": "FAMILY FARE #1579",
+    "address": "3960 44th St SW, Grandville, MI 49418",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.884538575626,
+    "longitude": -85.761344011213,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138921",
+    "businessName": "MEIJER #221",
+    "address": "3434 Century Center St SW, Grandville, MI 49418-3101",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.881611784293,
+    "longitude": -85.745962114893,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201996",
+    "businessName": "WAL-MART SUPERCENTER #2567",
+    "address": "4542 Kenowa Ave SW, Grandville, MI 49418-9523",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.882488154128,
+    "longitude": -85.782186439757,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231712",
+    "businessName": "CHATEAU QUICK STOP PARTY STORE",
+    "address": "1820 44th St SW, Wyoming, MI 49519-4250",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.88443080043,
+    "longitude": -85.709398306066,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155957",
+    "businessName": "COSTCO WHOLESALE #744",
+    "address": "4901 Wilson Ave SW, Wyoming, MI 49418-8788",
+    "city": "Wyoming",
+    "zipCode": "49418",
+    "latitude": 42.876944423795,
+    "longitude": -85.76262298335,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225048",
+    "businessName": "D. SCHULER\u0027S WINE CELLARS",
+    "address": "2754 44th St SW, Wyoming, MI 49519",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.884628574035,
+    "longitude": -85.732575824976,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "139247",
+    "businessName": "J \u0026 H FAMILY STORES-GEZON",
+    "address": "5568 Byron Center Ave SW, Wyoming, MI 49519-9607",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.863356852027,
+    "longitude": -85.723102554919,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241876",
+    "businessName": "RAMBLEWOOD LIQUORS",
+    "address": "2771 44th St SW, Wyoming, MI 49519-4185",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.884743165442,
+    "longitude": -85.733115845547,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224779",
+    "businessName": "THE COPPER VINE",
+    "address": "5595 Wilson Ave SW, Wyoming, MI 49418-9757",
+    "city": "Wyoming",
+    "zipCode": "49418",
+    "latitude": 42.863266165341,
+    "longitude": -85.762398161277,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "3021-e-saginaw-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3021, E Saginaw St Lansing, MI 48912-4709",
+    "city": "E Saginaw St Lansing",
+    "zipCode": "48912",
+    "latitude": 42.74091547683,
+    "longitude": -84.508868623873
+  },
+  {
+    "storeId": "1019-west-saginaw-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1019, West Saginaw Street Lansing, MI 48915",
+    "city": "West Saginaw Street Lansing",
+    "zipCode": "48915",
+    "latitude": 42.740920968124,
+    "longitude": -84.566519704642
+  },
+  {
+    "storeId": "1625-w-mount-hope-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1625, W Mount Hope Avenue Lansing, MI 48910",
+    "city": "W Mount Hope Avenue Lansing",
+    "zipCode": "48910",
+    "latitude": 42.712001877532,
+    "longitude": -84.57386870619
+  }
+]

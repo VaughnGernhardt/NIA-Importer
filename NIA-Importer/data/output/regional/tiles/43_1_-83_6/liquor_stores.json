@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "240307",
+    "businessName": "SAM\u0027S CORNER",
+    "address": "10001 N State Rd, Otisville, MI 48463-8443",
+    "city": "Forest Twp",
+    "zipCode": "48463",
+    "latitude": 43.151784356483,
+    "longitude": -83.520223095268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16909",
+    "businessName": "CONLEE OIL COMPANY",
+    "address": "213 N State Rd, Otisville, MI 48463-8431",
+    "city": "Otisville",
+    "zipCode": "48463",
+    "latitude": 43.167336034382,
+    "longitude": -83.524634987214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12408",
+    "businessName": "PARKWAY FOOD STORE",
+    "address": "10013 E Mount Morris Rd, Davison, MI 48423-9381",
+    "city": "Richfield Twp",
+    "zipCode": "48423",
+    "latitude": 43.125509243639,
+    "longitude": -83.517432202882,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

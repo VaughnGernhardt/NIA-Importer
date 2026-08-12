@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0279136",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "2271 Port Sheldon St, Jenison, MI 49428-9307",
+    "city": "Coopersville",
+    "zipCode": "49428",
+    "latitude": 42.887726457646,
+    "longitude": -85.838295603592,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247357",
+    "businessName": "BRICK\u0027S",
+    "address": "862 44th St SW, Georgetown Township, MI 49418",
+    "city": "Georgetown Twp",
+    "zipCode": "49418",
+    "latitude": 42.881785756952,
+    "longitude": -85.80350252399,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141961",
+    "businessName": "FAMILY FARE #239",
+    "address": "6480 28th Ave, Hudsonville, MI 49426-8800",
+    "city": "Georgetown Twp",
+    "zipCode": "49426",
+    "latitude": 42.887055313648,
+    "longitude": -85.851729802703,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247642",
+    "businessName": "PORT SHELDON CITGO AGO",
+    "address": "2805 Port Sheldon St, Hudsonville, MI 49426-9314",
+    "city": "Georgetown Twp",
+    "zipCode": "49426",
+    "latitude": 42.887722171459,
+    "longitude": -85.852004862341,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11825",
+    "businessName": "SHELDON PARTY STORE",
+    "address": "O-2050 Chicago Dr, Jenison, MI 49428-9704",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.886214075956,
+    "longitude": -85.832857539639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276743",
+    "businessName": "THE BOURBON SPOT",
+    "address": "6450 28th Ave, Hudsonville, MI 49426-8811",
+    "city": "Georgetown Twp",
+    "zipCode": "49426",
+    "latitude": 42.886914487177,
+    "longitude": -85.851724339622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246289",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "4200 32nd Ave, Hudsonville, MI 49426-9415",
+    "city": "Hudsonville",
+    "zipCode": "49426",
+    "latitude": 42.844351149296,
+    "longitude": -85.861483353976,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262523",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "4461 8th Ave SW, Grandville, MI 49418-9698",
+    "city": "Jamestown Twp",
+    "zipCode": "49418",
+    "latitude": 42.849696578892,
+    "longitude": -85.802185581887,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235862",
+    "businessName": "MEIJER STORE #254",
+    "address": "4075 32nd Ave, Hudsonville, MI 49426-8878",
+    "city": "Jamestown Twp",
+    "zipCode": "49426",
+    "latitude": 42.839402443531,
+    "longitude": -85.8618198329,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

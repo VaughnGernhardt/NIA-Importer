@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800251865",
+    "propertyName": "CHERRY HILL FAMILY",
+    "latitude": 42.31102099901066,
+    "longitude": -83.33208999964747,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800010003",
+    "propertyName": "CHERRY HILL PLACE",
+    "latitude": 42.31102099901066,
+    "longitude": -83.33208999964747,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010136",
+    "propertyName": "GARDEN CITY TOWER",
+    "latitude": 42.33055799937219,
+    "longitude": -83.33090799998988,
+    "assistedUnits": 170,
+    "totalUnits": 170
+  },
+  {
+    "propertyId": "800010168",
+    "propertyName": "GREENWOOD VILLA",
+    "latitude": 42.342971999081186,
+    "longitude": -83.39418999984275,
+    "assistedUnits": 296,
+    "totalUnits": 298
+  },
+  {
+    "propertyId": "800232242",
+    "propertyName": "LIBERTY HILL HOMES III",
+    "latitude": 42.31978299927057,
+    "longitude": -83.35687099963535,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800010293",
+    "propertyName": "LIVONIA OPPORTUNITY HOUSE",
+    "latitude": 42.39059399900611,
+    "longitude": -83.35237099971233,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800256409",
+    "propertyName": "PVM 4% WESTLAND",
+    "latitude": 42.310489999358275,
+    "longitude": -83.35466600032885,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800010694",
+    "propertyName": "WESTGATE TOWER",
+    "latitude": 42.32979699930591,
+    "longitude": -83.38210400043317,
+    "assistedUnits": 0,
+    "totalUnits": 148
+  }
+]

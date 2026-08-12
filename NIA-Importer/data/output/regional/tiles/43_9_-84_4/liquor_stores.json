@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0274896",
+    "businessName": "SUKH 21 LIQUOR STORE",
+    "address": "35 W M 61, Gladwin, MI 48624-8406",
+    "city": "Buckeye Twp",
+    "zipCode": "48624",
+    "latitude": 43.980387086473,
+    "longitude": -84.368290153632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133336",
+    "businessName": "BEACON \u0026 BRIDGE MARKET",
+    "address": "30 E M 61, Gladwin, MI 48624-8329",
+    "city": "Hay Twp",
+    "zipCode": "48624",
+    "latitude": 43.979864565449,
+    "longitude": -84.359724978752,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

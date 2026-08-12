@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0290453",
+    "businessName": "COOKIES LIQUOR MARKET, LLC",
+    "address": "5010 Lum Rd, Attica, MI 48412-9324",
+    "city": "Arcadia Twp",
+    "zipCode": "48412",
+    "latitude": 43.099398673984,
+    "longitude": -83.150572227456,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261186",
+    "businessName": "D \u0026 K MARKET",
+    "address": "4496 Bowers Rd, Attica, MI 48412-9206",
+    "city": "Attica Twp",
+    "zipCode": "48412",
+    "latitude": 43.062474492707,
+    "longitude": -83.169571172386,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10871",
+    "businessName": "ROWLEY\u0027S GROCERY",
+    "address": "173 S Lake Pleasant Rd, Attica, MI 48412-9513",
+    "city": "Attica Twp",
+    "zipCode": "48412",
+    "latitude": 43.029921089294,
+    "longitude": -83.166294968668,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

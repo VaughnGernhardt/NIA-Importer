@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010076",
+    "propertyName": "EDGE OF THE WOODS",
+    "latitude": 46.469870999174695,
+    "longitude": -84.35976899983665,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800252411",
+    "propertyName": "Osborn Commons",
+    "latitude": 46.49947099929035,
+    "longitude": -84.34929699990478,
+    "assistedUnits": 10,
+    "totalUnits": 75
+  }
+]

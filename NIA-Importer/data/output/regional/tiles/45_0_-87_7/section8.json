@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800022984",
+    "propertyName": "EDGEWOOD MANOR",
+    "latitude": 45.07475499932621,
+    "longitude": -87.61937899997442,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800023156",
+    "propertyName": "MARINETTE APARTMENTS II",
+    "latitude": 45.09925699922378,
+    "longitude": -87.62662300005252,
+    "assistedUnits": 83,
+    "totalUnits": 83
+  },
+  {
+    "propertyId": "800023157",
+    "propertyName": "MARINETTE WOODS APARTMENTS",
+    "latitude": 45.087146999019765,
+    "longitude": -87.65785200025029,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800023218",
+    "propertyName": "NORTHLAND VILLAGE",
+    "latitude": 45.076229999173364,
+    "longitude": -87.61789299964492,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

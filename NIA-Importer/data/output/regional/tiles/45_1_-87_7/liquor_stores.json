@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "215879",
+    "businessName": "CVS PHARMACY #8549",
+    "address": "1015 13th St, Menominee, MI 49858",
+    "city": "Menominee",
+    "zipCode": "49858",
+    "latitude": 45.108079029319,
+    "longitude": -87.618540901156,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242749",
+    "businessName": "JACK\u0027S FRESH MARKET",
+    "address": "1401 8th Ave, Menominee, MI 49858",
+    "city": "Menominee",
+    "zipCode": "49858",
+    "latitude": 45.105981321224,
+    "longitude": -87.617036062763,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236986",
+    "businessName": "KRIST FOOD MART #039",
+    "address": "3920 10th St, Menominee, MI 49858-1306",
+    "city": "Menominee",
+    "zipCode": "49858",
+    "latitude": 45.135034514881,
+    "longitude": -87.61239484456,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

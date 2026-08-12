@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "12903",
+    "businessName": "PINEVIEW GROCERY",
+    "address": "3277 N West River Rd, Sanford, MI 48657-9441",
+    "city": "Jerome Twp",
+    "zipCode": "48657",
+    "latitude": 43.705854623884,
+    "longitude": -84.393567656639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271351",
+    "businessName": "SUNRISE STORE #38",
+    "address": "3116 N Meridian Rd, Sanford, MI 48657-9538",
+    "city": "Lincoln Twp",
+    "zipCode": "48657",
+    "latitude": 43.701545094921,
+    "longitude": -84.368147795313,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

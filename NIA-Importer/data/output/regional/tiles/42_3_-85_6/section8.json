@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800010035",
+    "propertyName": "COMSTOCK VILLAGE",
+    "latitude": 42.317581998909795,
+    "longitude": -85.52322800038594,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800010063",
+    "propertyName": "DILLON HALL",
+    "latitude": 42.315536999126046,
+    "longitude": -85.53891999994103,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800010368",
+    "propertyName": "HEATHER GARDENS",
+    "latitude": 42.310662999047686,
+    "longitude": -85.5510709996479,
+    "assistedUnits": 15,
+    "totalUnits": 79
+  },
+  {
+    "propertyId": "800010428",
+    "propertyName": "INTERFAITH HOMES OF KALAMAZOO INC",
+    "latitude": 42.30600999878861,
+    "longitude": -85.5982669997604,
+    "assistedUnits": 198,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010362",
+    "propertyName": "NEIGHBORHOOD APARTMENTS",
+    "latitude": 42.305861998807956,
+    "longitude": -85.59840599967755,
+    "assistedUnits": 44,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800239732",
+    "propertyName": "NEW VILLAGE PARK",
+    "latitude": 42.31090599896804,
+    "longitude": -85.55137000029698,
+    "assistedUnits": 152,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800061568",
+    "propertyName": "SPRING VALLEY CROSSING",
+    "latitude": 42.316596999083664,
+    "longitude": -85.55866299988057,
+    "assistedUnits": 55,
+    "totalUnits": 56
+  }
+]

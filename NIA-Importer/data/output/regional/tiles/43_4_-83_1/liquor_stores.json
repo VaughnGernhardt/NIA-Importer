@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "243557",
+    "businessName": "D \u0026 D\u0027S PARTY STORE",
+    "address": "4506 W Sanilac Rd, Snover, MI 48472-9705",
+    "city": "Lamotte Twp",
+    "zipCode": "48472",
+    "latitude": 43.416598375744,
+    "longitude": -83.008549433031,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243049",
+    "businessName": "SCOTTS QUIK STOP LLC",
+    "address": "5 N Van Dyke Rd, Marlette, MI 48453-9720",
+    "city": "Lamotte Twp",
+    "zipCode": "48453",
+    "latitude": 43.414836536284,
+    "longitude": -83.087250545078,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

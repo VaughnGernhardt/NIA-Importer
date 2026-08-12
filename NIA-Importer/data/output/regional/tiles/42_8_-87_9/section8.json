@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023121",
+    "propertyName": "LAKE FOREST APTS I",
+    "latitude": 42.888849998768414,
+    "longitude": -87.86272200044057,
+    "assistedUnits": 127,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800023122",
+    "propertyName": "LAKE FOREST APTS II",
+    "latitude": 42.89015199892417,
+    "longitude": -87.86277699979385,
+    "assistedUnits": 64,
+    "totalUnits": 64
+  }
+]

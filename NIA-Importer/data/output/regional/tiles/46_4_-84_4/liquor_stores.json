@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "9590",
+    "businessName": "BALDWIN SUPERETTE",
+    "address": "824 Swinton St, Sault Sainte Marie, MI 49783-3342",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.491017221717,
+    "longitude": -84.340829008746,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246257",
+    "businessName": "CIRCLE K # 2746262",
+    "address": "942 W Portage Ave, Sault Sainte Marie, MI 49783-1489",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.493396871642,
+    "longitude": -84.371585244038,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264148",
+    "businessName": "JUBILEE FOODS, INC.",
+    "address": "917 Ashmun St, Sault Sainte Marie, MI 49783-2244",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.492661419337,
+    "longitude": -84.351356146806,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144041",
+    "businessName": "KRIST FOOD MART # 35",
+    "address": "901 E Easterday Ave, Sault Sainte Marie, MI 49783",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.491644589124,
+    "longitude": -84.341983716419,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244324",
+    "businessName": "MEIJER STORE #293",
+    "address": "1138 W 3 Mile Rd, Sault Sainte Marie, MI 49783-9132",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.462970289932,
+    "longitude": -84.387401821507,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275839",
+    "businessName": "NEVILLE\u0027S SUPERETTE",
+    "address": "1512 Ashmun St, Sault Sainte Marie, MI 49783-2846",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.486090641541,
+    "longitude": -84.353674522968,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215572",
+    "businessName": "WAL-MART SUPER CENTER #1936",
+    "address": "3763 I 75 Business Spur, Sault Sainte Marie, MI 49783-3613",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.466275531858,
+    "longitude": -84.369250719629,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220002",
+    "businessName": "WALGREEN #10405",
+    "address": "2101 Ashmun St, Sault Sainte Marie, MI 49783-3702",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.480784087207,
+    "longitude": -84.353645750039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272927",
+    "businessName": "WOODY\u0027S ONE STOP",
+    "address": "1198 E Portage Ave, Sault Sainte Marie, MI 49783-2470",
+    "city": "Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.488330861758,
+    "longitude": -84.310445548824,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219864",
+    "businessName": "SOO SOUTH EZ MART",
+    "address": "4249 Bus Spur I 75, Sault Sainte Marie, MI 49783",
+    "city": "Soo Twp",
+    "zipCode": "49783",
+    "latitude": 46.462820915809,
+    "longitude": -84.37614402055,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

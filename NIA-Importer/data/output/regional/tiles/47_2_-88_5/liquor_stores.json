@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "141624",
+    "businessName": "BUCKO\u0027S PARTY STORE",
+    "address": "339 5th St, Calumet, MI 49913-1501",
+    "city": "Calumet",
+    "zipCode": "49913",
+    "latitude": 47.247002781149,
+    "longitude": -88.452728364777,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11641",
+    "businessName": "HARTER\u0027S GENERAL STORE",
+    "address": "511 Pine St, Calumet, MI 49913-1427",
+    "city": "Calumet",
+    "zipCode": "49913",
+    "latitude": 47.250135729405,
+    "longitude": -88.452836574318,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225064",
+    "businessName": "LAURIUM MARATHON",
+    "address": "401 Hecla St, Laurium, MI 49913-2211",
+    "city": "Laurium",
+    "zipCode": "49913",
+    "latitude": 47.235531113972,
+    "longitude": -88.444295232044,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800005757",
+    "propertyName": "CEDAR VILLAGE",
+    "latitude": 42.421522999115304,
+    "longitude": -88.07904799985357,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800006180",
+    "propertyName": "OAKRIDGE VILLAGE",
+    "latitude": 42.48406399897388,
+    "longitude": -88.09470400032195,
+    "assistedUnits": 90,
+    "totalUnits": 90
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "latitude": 42.3,
+    "longitude": -83.1,
+    "intensity": 69
+  },
+  {
+    "latitude": 42.3,
+    "longitude": -83.09,
+    "intensity": 26
+  },
+  {
+    "latitude": 42.29,
+    "longitude": -83.1,
+    "intensity": 21
+  }
+]

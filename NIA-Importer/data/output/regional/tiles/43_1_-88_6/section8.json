@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023479",
+    "propertyName": "BREEZEWOOD VILLAGE",
+    "latitude": 43.10962799910655,
+    "longitude": -88.50694799975976,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800023077",
+    "propertyName": "HICKORY VIEW COMMONS",
+    "latitude": 43.10800699928788,
+    "longitude": -88.5095970003786,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023504",
+    "propertyName": "WILKINSON MANOR/JEFFWORTH APTS",
+    "latitude": 43.10573599901764,
+    "longitude": -88.50292999988558,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800010093",
+    "propertyName": "EVERGREEN NORTH",
+    "latitude": 42.29859999900511,
+    "longitude": -85.65990699964811,
+    "assistedUnits": 204,
+    "totalUnits": 205
+  },
+  {
+    "propertyId": "800248058",
+    "propertyName": "EVERGREEN SOUTH",
+    "latitude": 42.26219199930365,
+    "longitude": -85.6595800003083,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800010656",
+    "propertyName": "LILAC HILLS",
+    "latitude": 42.274561998881836,
+    "longitude": -85.64323400027692,
+    "assistedUnits": 33,
+    "totalUnits": 165
+  },
+  {
+    "propertyId": "800241348",
+    "propertyName": "MILHAM MEADOWS",
+    "latitude": 42.22716299886052,
+    "longitude": -85.61718299986958,
+    "assistedUnits": 265,
+    "totalUnits": 300
+  },
+  {
+    "propertyId": "800010464",
+    "propertyName": "PORTAGE PINES",
+    "latitude": 42.20134499921064,
+    "longitude": -85.60049000040688,
+    "assistedUnits": 27,
+    "totalUnits": 27
+  },
+  {
+    "propertyId": "800010575",
+    "propertyName": "STADIUM DRIVE",
+    "latitude": 42.269663999096196,
+    "longitude": -85.6421000002999,
+    "assistedUnits": 166,
+    "totalUnits": 167
+  },
+  {
+    "propertyId": "800225872",
+    "propertyName": "VILLAGE OF SAGE GROVE",
+    "latitude": 42.293914999243256,
+    "longitude": -85.64327600010971,
+    "assistedUnits": 37,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800000078",
+    "propertyName": "WESTLAND MEADOWS",
+    "latitude": 42.2896959990077,
+    "longitude": -85.64264400027304,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  }
+]

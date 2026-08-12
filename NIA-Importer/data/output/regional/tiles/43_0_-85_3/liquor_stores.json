@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "232492",
+    "businessName": "BELDING MARATHON",
+    "address": "1533 W State St, Belding, MI 48809-9217",
+    "city": "Belding",
+    "zipCode": "48809",
+    "latitude": 43.088743139797,
+    "longitude": -85.251900622179,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259281",
+    "businessName": "MINI MART LLC",
+    "address": "404 W Main St, Belding, MI 48809-1678",
+    "city": "Belding",
+    "zipCode": "48809",
+    "latitude": 43.09792508978,
+    "longitude": -85.232521183081,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14482",
+    "businessName": "WESCO #39",
+    "address": "105 W State St, Belding, MI 48809-2253",
+    "city": "Belding",
+    "zipCode": "48809",
+    "latitude": 43.088870120195,
+    "longitude": -85.228871219041,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

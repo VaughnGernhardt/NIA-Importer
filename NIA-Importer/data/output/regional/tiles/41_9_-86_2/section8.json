@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010065",
+    "propertyName": "DOWAGIAC VILLA",
+    "latitude": 41.99267599934701,
+    "longitude": -86.10934200014513,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010236",
+    "propertyName": "INDIAN HILLS APTS",
+    "latitude": 41.99267699882681,
+    "longitude": -86.11016999980038,
+    "assistedUnits": 19,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010237",
+    "propertyName": "INDIAN HILLS TOWNHOUSES",
+    "latitude": 41.99267699882681,
+    "longitude": -86.11016999980038,
+    "assistedUnits": 24,
+    "totalUnits": 40
+  }
+]

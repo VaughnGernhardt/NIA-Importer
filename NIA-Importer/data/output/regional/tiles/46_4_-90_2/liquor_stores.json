@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "215043",
+    "businessName": "NORTHWIND NATURAL FOODS CO-OP",
+    "address": "116 S Suffolk St, Ironwood, MI 49938-2046",
+    "city": "Ironwood",
+    "zipCode": "49938",
+    "latitude": 46.455203369864,
+    "longitude": -90.16909442433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141638",
+    "businessName": "SUPER ONE",
+    "address": "1480 E Cloverland Dr, Ironwood, MI 49938-1720",
+    "city": "Ironwood",
+    "zipCode": "49938",
+    "latitude": 46.463286871672,
+    "longitude": -90.144769715438,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202433",
+    "businessName": "WAL-MART STORE #5444",
+    "address": "N10305 Country Club Rd, Ironwood, MI 49938",
+    "city": "Ironwood Twp",
+    "zipCode": "49938",
+    "latitude": 46.469324441801,
+    "longitude": -90.124852989368,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

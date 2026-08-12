@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "245960",
+    "businessName": "MONTAGUE FOODS, AND MONTAGUE EXPRESS FOOD \u0026 FUEL",
+    "address": "8718 Water St, Montague, MI 49437-1204",
+    "city": "Montague",
+    "zipCode": "49437",
+    "latitude": 43.417109708075,
+    "longitude": -86.354294307272,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287567",
+    "businessName": "WAYNE\u0027S FOOD MART",
+    "address": "11094 Old US 31, Montague, MI 49437",
+    "city": "Montague Twp",
+    "zipCode": "49437",
+    "latitude": 43.456169190442,
+    "longitude": -86.338448576086,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9622",
+    "businessName": "WESCO #15",
+    "address": "203 E Colby St, Whitehall, MI 49461-1010",
+    "city": "Whitehall",
+    "zipCode": "49461",
+    "latitude": 43.409623405426,
+    "longitude": -86.346017670489,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

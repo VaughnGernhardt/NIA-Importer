@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "225001",
+    "businessName": "COUNTRY FARMS SUPERMARKET, INC.",
+    "address": "9090 Rawsonville Rd, Belleville, MI 48111-9203",
+    "city": "Augusta Twp",
+    "zipCode": "48111",
+    "latitude": 42.157262006296,
+    "longitude": -83.541579916434,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292482",
+    "businessName": "WILLIS MARKET",
+    "address": "10079 Willis Rd, Willis, MI 48191-9750",
+    "city": "Augusta Twp",
+    "zipCode": "48191",
+    "latitude": 42.158392813085,
+    "longitude": -83.559878115347,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275384",
+    "businessName": "BENITOS 5 STAR",
+    "address": "51255 Willis Rd, Belleville, MI 48111-9417",
+    "city": "Sumpter Twp",
+    "zipCode": "48111",
+    "latitude": 42.158603322523,
+    "longitude": -83.539472679675,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239225",
+    "businessName": "RAWSONVILLE VALERO",
+    "address": "7477 Rawsonville Rd, Belleville, MI 48111-3367",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.181559049724,
+    "longitude": -83.542285695899,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

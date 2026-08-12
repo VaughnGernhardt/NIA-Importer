@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0282255",
+    "businessName": "COUNTRY ACRES MARKET",
+    "address": "12596 10 Mile Rd, South Lyon, MI 48178-8171",
+    "city": "Green Oak Twp",
+    "zipCode": "48178",
+    "latitude": 42.459115490877,
+    "longitude": -83.694233266418,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247832",
+    "businessName": "MOBIL",
+    "address": "12500 10 Mile Rd, South Lyon, MI 48178-8171",
+    "city": "Green Oak Twp",
+    "zipCode": "48178",
+    "latitude": 42.459048134473,
+    "longitude": -83.696291849452,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206653",
+    "businessName": "CVS PHARMACY #1748",
+    "address": "57090 10 Mile Rd, South Lyon, MI 48178-9718",
+    "city": "Lyon Twp",
+    "zipCode": "48178",
+    "latitude": 42.462021586739,
+    "longitude": -83.613277993771,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248080",
+    "businessName": "Citgo",
+    "address": "22660 Pontiac Trl, South Lyon, MI 48178-1636",
+    "city": "Lyon Twp",
+    "zipCode": "48178",
+    "latitude": 42.448129735328,
+    "longitude": -83.650445217779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133275",
+    "businessName": "KROGER STORE #639",
+    "address": "20730 Pontiac Trl, South Lyon, MI 48178-9486",
+    "city": "Lyon Twp",
+    "zipCode": "48178",
+    "latitude": 42.446654087852,
+    "longitude": -83.650326718969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281286",
+    "businessName": "SOUTH LYON LIQUOR STATION, INC.",
+    "address": "6009 7 Mile Rd, South Lyon, MI 48178-9651",
+    "city": "Salem Twp",
+    "zipCode": "48178",
+    "latitude": 42.413768837777,
+    "longitude": -83.646159453091,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9747",
+    "businessName": "LAFAYETTE PARTY STORE",
+    "address": "284 N Lafayette St, South Lyon, MI 48178-1253",
+    "city": "South Lyon",
+    "zipCode": "48178",
+    "latitude": 42.462604981927,
+    "longitude": -83.651511146245,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800219414",
+    "propertyName": "AZURE HEIGHTS",
+    "latitude": 42.30240099900983,
+    "longitude": -85.60257800043583,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800010064",
+    "propertyName": "DOUGLAS APARTMENTS",
+    "latitude": 42.30240099900983,
+    "longitude": -85.60257800043583,
+    "assistedUnits": 20,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800009872",
+    "propertyName": "FOX RIDGE APARTMENTS",
+    "latitude": 42.30294199887647,
+    "longitude": -85.60701800008441,
+    "assistedUnits": 211,
+    "totalUnits": 216
+  },
+  {
+    "propertyId": "800010386",
+    "propertyName": "NORTHWIND/HILLTOP APARTMENTS",
+    "latitude": 42.30050899900029,
+    "longitude": -85.60095800021202,
+    "assistedUnits": 160,
+    "totalUnits": 161
+  },
+  {
+    "propertyId": "800213174",
+    "propertyName": "TWIN LAKES APARTMENTS",
+    "latitude": 42.32095699897422,
+    "longitude": -85.62908300040462,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  }
+]

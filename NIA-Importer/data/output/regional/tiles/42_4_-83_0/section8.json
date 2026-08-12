@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009972",
+    "propertyName": "CANAAN MANOR",
+    "latitude": 42.40974999925808,
+    "longitude": -82.9647590002995,
+    "assistedUnits": 29,
+    "totalUnits": 29
+  },
+  {
+    "propertyId": "800253113",
+    "propertyName": "Erin Park",
+    "latitude": 42.47035499936469,
+    "longitude": -82.96411400004402,
+    "assistedUnits": 8,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800224049",
+    "propertyName": "GATESHEAD CROSSING",
+    "latitude": 42.414650998929666,
+    "longitude": -82.91241800000854,
+    "assistedUnits": 45,
+    "totalUnits": 46
+  },
+  {
+    "propertyId": "800010414",
+    "propertyName": "PARK PLACE OF HARPER WOODS",
+    "latitude": 42.428582998766835,
+    "longitude": -82.92199500033797,
+    "assistedUnits": 131,
+    "totalUnits": 132
+  }
+]

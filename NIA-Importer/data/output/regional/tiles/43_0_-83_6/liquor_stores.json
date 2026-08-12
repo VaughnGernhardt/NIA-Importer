@@ -1,0 +1,122 @@
+[
+  {
+    "businessId": "159187",
+    "businessName": "ROAD RUNNER EXPRESS BELSAY (ROAD)",
+    "address": "1117 S Belsay Rd, Burton, MI 48509-1915",
+    "city": "Burton",
+    "zipCode": "48509",
+    "latitude": 43.015495444267,
+    "longitude": -83.595166562438,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "187932",
+    "businessName": "WAL-MART #2273",
+    "address": "5323 E Court St N, Burton, MI 48509-1539",
+    "city": "Burton",
+    "zipCode": "48509",
+    "latitude": 43.020992568077,
+    "longitude": -83.598702898816,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132488",
+    "businessName": "KROGER STORE #714",
+    "address": "700 N State Rd, Davison, MI 48423-1130",
+    "city": "Davison",
+    "zipCode": "48423",
+    "latitude": 43.036747845853,
+    "longitude": -83.517935072259,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223280",
+    "businessName": "A \u0026 B OF DAVISON",
+    "address": "8463 Davison Rd, Davison, MI 48423-2137",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.034389588687,
+    "longitude": -83.539452556798,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271870",
+    "businessName": "BP",
+    "address": "1180 S State Rd, Davison, MI 48423-1906",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.015103915866,
+    "longitude": -83.517633852827,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239836",
+    "businessName": "LIQUOR GALLERY",
+    "address": "8008 Lapeer Rd, Davison, MI 48423-2501",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.011770164221,
+    "longitude": -83.555143609097,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "209337",
+    "businessName": "MEIJER #244",
+    "address": "8089 Lapeer Rd, Davison, MI 48423-2529",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.011988772006,
+    "longitude": -83.550420645478,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "173134",
+    "businessName": "THE ROCK MINI MART",
+    "address": "7504 Davison Rd, Davison, MI 48423-2016",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.03387794979,
+    "longitude": -83.56177552691,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215170",
+    "businessName": "VG\u0027S FOOD \u0026 PHARMACY #1930",
+    "address": "8503 Davison Rd, Davison, MI 48423-2116",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.034395834433,
+    "longitude": -83.538695732372,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99467",
+    "businessName": "HEIDI\u0027S MARKET",
+    "address": "5522 N State Rd, Davison, MI 48423-8480",
+    "city": "Richfield Twp",
+    "zipCode": "48423",
+    "latitude": 43.091924824827,
+    "longitude": -83.518239858155,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270280",
+    "businessName": "LIQUOR CORNER MARKET",
+    "address": "8006 E Richfield Rd, Davison, MI 48423-8586",
+    "city": "Richfield Twp",
+    "zipCode": "48423",
+    "latitude": 43.062860146324,
+    "longitude": -83.557197362195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225957",
+    "businessName": "STATE STREET FOOD \u0026 LIQUOR MART",
+    "address": "3500 N State Rd, Davison, MI 48423-1181",
+    "city": "Richfield Twp",
+    "zipCode": "48423",
+    "latitude": 43.062561354542,
+    "longitude": -83.517937383576,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0288840",
+    "businessName": "RED BARN MARKET #3, LLC",
+    "address": "10030 W Grand River Rd, Fowlerville, MI 48836-9218",
+    "city": "Handy Twp",
+    "zipCode": "48836",
+    "latitude": 42.664094820019,
+    "longitude": -84.113297384496,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "195332",
+    "businessName": "WEBBERVILLE PARTY STORE",
+    "address": "103 E Grand River Rd, Webberville, MI 48892-5111",
+    "city": "Webberville",
+    "zipCode": "48892",
+    "latitude": 42.667059393405,
+    "longitude": -84.17396476942,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

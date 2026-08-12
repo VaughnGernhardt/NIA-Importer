@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800022930",
+    "propertyName": "CHULA VISTA MANOR",
+    "latitude": 44.37200199902845,
+    "longitude": -89.81071699983113,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023514",
+    "propertyName": "DUANE FLOGSTAD VILLA",
+    "latitude": 44.37008799889516,
+    "longitude": -89.81224300034361,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023040",
+    "propertyName": "GRACE APARTMENTS",
+    "latitude": 44.38195499879876,
+    "longitude": -89.85193400026209,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800223886",
+    "propertyName": "JERRY DRAHOS VILLA",
+    "latitude": 44.372891998810374,
+    "longitude": -89.80962999970978,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800023271",
+    "propertyName": "PINE CREEK II",
+    "latitude": 44.37064599934057,
+    "longitude": -89.81224300034361,
+    "assistedUnits": 44,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800023498",
+    "propertyName": "WESTWOOD TOWNHOUSES",
+    "latitude": 44.38197899877217,
+    "longitude": -89.8523929998464,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  }
+]

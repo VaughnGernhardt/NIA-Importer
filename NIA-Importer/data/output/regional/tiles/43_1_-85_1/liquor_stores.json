@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0276586",
+    "businessName": "KLINKER\u0027S KORNER",
+    "address": "8075 S Sheridan Rd, Sheridan, MI 48884-9705",
+    "city": "Bushnell Twp",
+    "zipCode": "48884",
+    "latitude": 43.177195676687,
+    "longitude": -85.073751293676,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "135637",
+    "businessName": "SHERIDAN AGO",
+    "address": "7990 S Sheridan Rd, Sheridan, MI 48884-9703",
+    "city": "Fairplain Twp",
+    "zipCode": "48884",
+    "latitude": 43.178481877909,
+    "longitude": -85.07390415147,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

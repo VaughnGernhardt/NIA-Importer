@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "11135",
+    "businessName": "DEMARS MARKET",
+    "address": "901 Calumet St, Lake Linden, MI 49945-1107",
+    "city": "Lake Linden",
+    "zipCode": "49945",
+    "latitude": 47.197587147457,
+    "longitude": -88.407430323107,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269918",
+    "businessName": "NORTHERN LIGHTS PARTY STORE",
+    "address": "52062 Duncan Ave, Hubbell, MI 49934-9705",
+    "city": "Torch Lake Twp",
+    "zipCode": "49934",
+    "latitude": 47.171278248787,
+    "longitude": -88.4318086886,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "8491-w-grand-river-ave-suite-800",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "8491 W. Grand River Ave. Suite 800, Brighton, MI 48116",
+    "city": "Brighton",
+    "zipCode": "48116",
+    "latitude": 42.544682451758,
+    "longitude": -83.788584843053
+  },
+  {
+    "storeId": "9524-village-place-blvd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 9524, Village Place Blvd Brighton, MI 48116",
+    "city": "Village Place Blvd Brighton",
+    "zipCode": "48116",
+    "latitude": 42.506147985331,
+    "longitude": -83.753271323157
+  }
+]

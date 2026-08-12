@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0261808",
+    "businessName": "MEIJER STORE #310",
+    "address": "4665 S Green Ave, Fremont, MI 49412-9509",
+    "city": "Fremont",
+    "zipCode": "49412",
+    "latitude": 43.468700552231,
+    "longitude": -85.979673660835,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155389",
+    "businessName": "WAL-MART SUPERCENTER #1791",
+    "address": "7083 W 48th St, Fremont, MI 49412",
+    "city": "Fremont",
+    "zipCode": "49412",
+    "latitude": 43.467268080834,
+    "longitude": -85.97674679747,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15431",
+    "businessName": "WESCO #43",
+    "address": "806 S Stewart Ave, Fremont, MI 49412-7659",
+    "city": "Fremont",
+    "zipCode": "49412",
+    "latitude": 43.459737415466,
+    "longitude": -85.939921158131,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

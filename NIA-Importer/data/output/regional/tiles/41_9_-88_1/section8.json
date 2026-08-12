@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800005738",
+    "propertyName": "BRADFORD COURT APARTMENTS",
+    "latitude": 41.94334999883496,
+    "longitude": -88.0433980002738,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800005996",
+    "propertyName": "INDIAN TRAILS",
+    "latitude": 41.939344999036116,
+    "longitude": -88.04020499968183,
+    "assistedUnits": 121,
+    "totalUnits": 200
+  }
+]

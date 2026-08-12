@@ -1,0 +1,202 @@
+[
+  {
+    "propertyId": "800016225",
+    "propertyName": "ALPHA TOWERS",
+    "latitude": 41.66078699914167,
+    "longitude": -83.53893800026184,
+    "assistedUnits": 165,
+    "totalUnits": 165
+  },
+  {
+    "propertyId": "800016239",
+    "propertyName": "ARLINGTON BY THE LAKE",
+    "latitude": 41.623114999104004,
+    "longitude": -83.59441100014708,
+    "assistedUnits": 50,
+    "totalUnits": 51
+  },
+  {
+    "propertyId": "800016243",
+    "propertyName": "ASHLAND MANOR",
+    "latitude": 41.66128699898613,
+    "longitude": -83.54955300030882,
+    "assistedUnits": 146,
+    "totalUnits": 189
+  },
+  {
+    "propertyId": "800016326",
+    "propertyName": "BYRAM PROPERTIES",
+    "latitude": 41.65784899915964,
+    "longitude": -83.53016900039451,
+    "assistedUnits": 15,
+    "totalUnits": 15
+  },
+  {
+    "propertyId": "800253433",
+    "propertyName": "COLLINGWOOD PHASE V",
+    "latitude": 41.64548499873123,
+    "longitude": -83.55227200034955,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800016456",
+    "propertyName": "COVENANT HOUSE",
+    "latitude": 41.65769399886496,
+    "longitude": -83.53237299987609,
+    "assistedUnits": 143,
+    "totalUnits": 156
+  },
+  {
+    "propertyId": "800016619",
+    "propertyName": "FRANKLIN VILLAGE SENIOR HOMES",
+    "latitude": 41.66189699931064,
+    "longitude": -83.5466300000536,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800016603",
+    "propertyName": "FRISCH PROPERTIES",
+    "latitude": 41.66109599926221,
+    "longitude": -83.52249500014608,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800017009",
+    "propertyName": "GREENBELT PLACE APARTMENTS",
+    "latitude": 41.660043999396436,
+    "longitude": -83.53332000025536,
+    "assistedUnits": 176,
+    "totalUnits": 176
+  },
+  {
+    "propertyId": "800016690",
+    "propertyName": "HIGHLAND CREST APARTMENTS",
+    "latitude": 41.631577999322126,
+    "longitude": -83.57923599990264,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800016746",
+    "propertyName": "JAC RENTALS",
+    "latitude": 41.65818099901179,
+    "longitude": -83.52485500016161,
+    "assistedUnits": 4,
+    "totalUnits": 4
+  },
+  {
+    "propertyId": "800016877",
+    "propertyName": "MADONNA HOMES",
+    "latitude": 41.657114999379544,
+    "longitude": -83.53088499989676,
+    "assistedUnits": 171,
+    "totalUnits": 171
+  },
+  {
+    "propertyId": "800017447",
+    "propertyName": "MOODY MANOR",
+    "latitude": 41.664263998837214,
+    "longitude": -83.54204399991686,
+    "assistedUnits": 119,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800017423",
+    "propertyName": "NEW HERITAGE VILLAGE I",
+    "latitude": 41.6593769990723,
+    "longitude": -83.53011499996782,
+    "assistedUnits": 250,
+    "totalUnits": 250
+  },
+  {
+    "propertyId": "800016987",
+    "propertyName": "NEW TOWN",
+    "latitude": 41.65285499932158,
+    "longitude": -83.5676249999709,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800017003",
+    "propertyName": "NORTHGATE APARTMENTS",
+    "latitude": 41.664340998881286,
+    "longitude": -83.51746700014347,
+    "assistedUnits": 229,
+    "totalUnits": 230
+  },
+  {
+    "propertyId": "800240239",
+    "propertyName": "PARQWOOD APARTMENTS",
+    "latitude": 41.663389999368945,
+    "longitude": -83.5573389998119,
+    "assistedUnits": 134,
+    "totalUnits": 134
+  },
+  {
+    "propertyId": "800017099",
+    "propertyName": "PINEWOOD PLACE",
+    "latitude": 41.65225299879769,
+    "longitude": -83.55465499993129,
+    "assistedUnits": 99,
+    "totalUnits": 99
+  },
+  {
+    "propertyId": "800017278",
+    "propertyName": "SOUTH TOLEDO HOMES",
+    "latitude": 41.63431799913489,
+    "longitude": -83.55952200027542,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800248706",
+    "propertyName": "THE LAKEWOODS I",
+    "latitude": 41.623113999214,
+    "longitude": -83.59494599989937,
+    "assistedUnits": 23,
+    "totalUnits": 89
+  },
+  {
+    "propertyId": "800248708",
+    "propertyName": "THE LAKEWOODS III",
+    "latitude": 41.619281999326276,
+    "longitude": -83.59671199971307,
+    "assistedUnits": 10,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800017356",
+    "propertyName": "THE PLAZA",
+    "latitude": 41.659629998897664,
+    "longitude": -83.55937400013742,
+    "assistedUnits": 159,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800017372",
+    "propertyName": "TURNER PROPERTIES",
+    "latitude": 41.66212399911021,
+    "longitude": -83.52034199981979,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800017424",
+    "propertyName": "VISTULA HERITAGE II",
+    "latitude": 41.658704999177374,
+    "longitude": -83.52954400023053,
+    "assistedUnits": 165,
+    "totalUnits": 165
+  },
+  {
+    "propertyId": "800017527",
+    "propertyName": "WOODRUFF VILLAGE",
+    "latitude": 41.660671999030995,
+    "longitude": -83.54394100015011,
+    "assistedUnits": 96,
+    "totalUnits": 96
+  }
+]

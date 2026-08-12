@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "242882",
+    "businessName": "MORLEY CITGO",
+    "address": "301 S Cass, Morley, MI 49336",
+    "city": "Morley",
+    "zipCode": "49336",
+    "latitude": 43.488330456256,
+    "longitude": -85.444804267861,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11490",
+    "businessName": "WEE BEE\u0027S PARTY STORE",
+    "address": "139 S Cass St, Morley, MI 49336-9205",
+    "city": "Morley",
+    "zipCode": "49336",
+    "latitude": 43.49044942791,
+    "longitude": -85.444768526717,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

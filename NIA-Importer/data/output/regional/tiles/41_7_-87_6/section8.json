@@ -1,0 +1,306 @@
+[
+  {
+    "propertyId": "800006216",
+    "propertyName": "6250 S. HARPER/PARKSHORE EAST ELDERLY",
+    "latitude": 41.78152099936991,
+    "longitude": -87.5880829998295,
+    "assistedUnits": 204,
+    "totalUnits": 205
+  },
+  {
+    "propertyId": "800006528",
+    "propertyName": "6900-SOUTH-CRANDON",
+    "latitude": 41.76991099885877,
+    "longitude": -87.57011099972651,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800005689",
+    "propertyName": "ADA S. MCKINLEY GROUP HOMES (SAMARITAS)",
+    "latitude": 41.72912299937016,
+    "longitude": -87.54673099967933,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800005747",
+    "propertyName": "BRYN MAWR APARTMENTS",
+    "latitude": 41.76410999932803,
+    "longitude": -87.58281399980244,
+    "assistedUnits": 99,
+    "totalUnits": 99
+  },
+  {
+    "propertyId": "800006398",
+    "propertyName": "CORNELL APARTMENTS",
+    "latitude": 41.77201399877776,
+    "longitude": -87.58481999981564,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800006404",
+    "propertyName": "CREGIER APARTMENTS",
+    "latitude": 41.76924399938219,
+    "longitude": -87.58152800038779,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800040611",
+    "propertyName": "CYRIL COURT APARTMENTS",
+    "latitude": 41.764969998749294,
+    "longitude": -87.57711399978018,
+    "assistedUnits": 205,
+    "totalUnits": 205
+  },
+  {
+    "propertyId": "800005833",
+    "propertyName": "DARE",
+    "latitude": 41.7954059990235,
+    "longitude": -87.58634999962777,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006399",
+    "propertyName": "DORCHESTER APARTMENTS",
+    "latitude": 41.78254599936177,
+    "longitude": -87.5913009996375,
+    "assistedUnits": 16,
+    "totalUnits": 17
+  },
+  {
+    "propertyId": "800005931",
+    "propertyName": "GERMANO-MILLGATE APARTMENTS",
+    "latitude": 41.7356279990824,
+    "longitude": -87.54605100016207,
+    "assistedUnits": 344,
+    "totalUnits": 357
+  },
+  {
+    "propertyId": "800005937",
+    "propertyName": "GOOD SHEPHERD MANOR",
+    "latitude": 41.77278399884564,
+    "longitude": -87.58526800042762,
+    "assistedUnits": 149,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800112175",
+    "propertyName": "HAVEN TOWERS",
+    "latitude": 41.75045199877657,
+    "longitude": -87.58373000021957,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800005993",
+    "propertyName": "HYDE PARK APARTMENTS",
+    "latitude": 41.79885899891695,
+    "longitude": -87.5892879999516,
+    "assistedUnits": 73,
+    "totalUnits": 73
+  },
+  {
+    "propertyId": "800254123",
+    "propertyName": "ISLAND TERRACE APARTMENTS 9%",
+    "latitude": 41.77819499912727,
+    "longitude": -87.58617300007576,
+    "assistedUnits": 33,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006006",
+    "propertyName": "ISLAND TERRACE APTS 4%",
+    "latitude": 41.77819499912727,
+    "longitude": -87.58617300007576,
+    "assistedUnits": 99,
+    "totalUnits": 284
+  },
+  {
+    "propertyId": "800006007",
+    "propertyName": "JACKSON PARK TERRACE",
+    "latitude": 41.78496899877195,
+    "longitude": -87.5883869996031,
+    "assistedUnits": 127,
+    "totalUnits": 312
+  },
+  {
+    "propertyId": "800252667",
+    "propertyName": "JOHNSON/BUTLER-LINDON (JBL) APTS",
+    "latitude": 41.78333999885674,
+    "longitude": -87.59332099989439,
+    "assistedUnits": 33,
+    "totalUnits": 106
+  },
+  {
+    "propertyId": "800248061",
+    "propertyName": "Jeffery Towers Apartments",
+    "latitude": 41.767185999357466,
+    "longitude": -87.57656899998216,
+    "assistedUnits": 10,
+    "totalUnits": 135
+  },
+  {
+    "propertyId": "800248531",
+    "propertyName": "Johnson and Butler-Lindon Apartments",
+    "latitude": 41.78333999885674,
+    "longitude": -87.59332099989439,
+    "assistedUnits": 5,
+    "totalUnits": 98
+  },
+  {
+    "propertyId": "800040051",
+    "propertyName": "LAKESIDE TERRACES/GRANT MANOR",
+    "latitude": 41.762615999329206,
+    "longitude": -87.5589099998736,
+    "assistedUnits": 67,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800006124",
+    "propertyName": "MARTIN FARRELL HOUSE",
+    "latitude": 41.775878998744986,
+    "longitude": -87.59066700015099,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006158",
+    "propertyName": "NEW VISTAS II",
+    "latitude": 41.76956499930687,
+    "longitude": -87.56966399983777,
+    "assistedUnits": 154,
+    "totalUnits": 154
+  },
+  {
+    "propertyId": "800231511",
+    "propertyName": "OKEEFFE APARTMENTS",
+    "latitude": 41.76783899896574,
+    "longitude": -87.57448299960302,
+    "assistedUnits": 67,
+    "totalUnits": 67
+  },
+  {
+    "propertyId": "800006213",
+    "propertyName": "PARK SHORE EAST COOPERATIVE",
+    "latitude": 41.78378699930347,
+    "longitude": -87.58813499970803,
+    "assistedUnits": 148,
+    "totalUnits": 148
+  },
+  {
+    "propertyId": "800235407",
+    "propertyName": "PORTA COELI RESIDENCE",
+    "latitude": 41.715448999231924,
+    "longitude": -87.56897199972664,
+    "assistedUnits": 86,
+    "totalUnits": 86
+  },
+  {
+    "propertyId": "800236776",
+    "propertyName": "RENAISSANCE APARTMENTS",
+    "latitude": 41.78229899928715,
+    "longitude": -87.59810000037497,
+    "assistedUnits": 37,
+    "totalUnits": 117
+  },
+  {
+    "propertyId": "800006071",
+    "propertyName": "SEVENTY THIRD AND DOBSON HOUSING CORPORATION",
+    "latitude": 41.7624549990663,
+    "longitude": -87.59943699984326,
+    "assistedUnits": 31,
+    "totalUnits": 78
+  },
+  {
+    "propertyId": "800006529",
+    "propertyName": "SOUTH SHORE HHDC LIHTC LLC",
+    "latitude": 41.76929299935979,
+    "longitude": -87.5700959996579,
+    "assistedUnits": 126,
+    "totalUnits": 126
+  },
+  {
+    "propertyId": "800211853",
+    "propertyName": "ST AILBE APARTMENTS",
+    "latitude": 41.726033998797426,
+    "longitude": -87.59342899984942,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800067952",
+    "propertyName": "ST AILBE APTS II",
+    "latitude": 41.72651399934218,
+    "longitude": -87.59268400003485,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800006022",
+    "propertyName": "ST EDMUNDS HAVENS APARTMENTS",
+    "latitude": 41.7834059988041,
+    "longitude": -87.59768500027327,
+    "assistedUnits": 40,
+    "totalUnits": 41
+  },
+  {
+    "propertyId": "800006336",
+    "propertyName": "South Chicago Salud Center \u0026 Senior Housing",
+    "latitude": 41.72992099933561,
+    "longitude": -87.54974799964587,
+    "assistedUnits": 101,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800006379",
+    "propertyName": "South Shore Apartments",
+    "latitude": 41.77035699883143,
+    "longitude": -87.58381800008311,
+    "assistedUnits": 446,
+    "totalUnits": 446
+  },
+  {
+    "propertyId": "800068351",
+    "propertyName": "St. AILBE 811 HOUSING",
+    "latitude": 41.72955099876952,
+    "longitude": -87.58655899986513,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800006384",
+    "propertyName": "TABOR LUTHERAN SENIOR HOUSING",
+    "latitude": 41.75988399911161,
+    "longitude": -87.56292699992287,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800006102",
+    "propertyName": "THI-7",
+    "latitude": 41.77498499904196,
+    "longitude": -87.58717999983115,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800006420",
+    "propertyName": "UNIVERSAL CITY APARTMENTS",
+    "latitude": 41.72096799928672,
+    "longitude": -87.5792200002508,
+    "assistedUnits": 159,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800006505",
+    "propertyName": "WOODLAWN REDEVELOPMENT NO. 2",
+    "latitude": 41.78354799927245,
+    "longitude": -87.59494399959294,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

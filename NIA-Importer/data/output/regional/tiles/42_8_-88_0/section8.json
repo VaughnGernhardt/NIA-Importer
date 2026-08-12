@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800022883",
+    "propertyName": "BOOTH MANOR",
+    "latitude": 42.88317999892058,
+    "longitude": -87.91405299970478,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800022884",
+    "propertyName": "BOOTH MANOR TWO",
+    "latitude": 42.88322399921281,
+    "longitude": -87.91615400015252,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800079638",
+    "propertyName": "OAK CREEK COURTS",
+    "latitude": 42.88645499920452,
+    "longitude": -87.91619599998532,
+    "assistedUnits": 128,
+    "totalUnits": 128
+  }
+]

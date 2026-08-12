@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "10703",
+    "businessName": "SPRING VALLEY PARTY STORE",
+    "address": "2823 E Highland Rd, Highland, MI 48356-2772",
+    "city": "Highland Twp",
+    "zipCode": "48356",
+    "latitude": 42.653957758529,
+    "longitude": -83.574041326364,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155638",
+    "businessName": "WINE BASKET MARKET",
+    "address": "3542 N Duck Lake Rd, Highland, MI 48356-2334",
+    "city": "Highland Twp",
+    "zipCode": "48356",
+    "latitude": 42.672461893406,
+    "longitude": -83.574828564133,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242349",
+    "businessName": "KROGER STORE #759",
+    "address": "10951 Highland Rd, White Lake, MI 48386-2152",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.64939814018,
+    "longitude": -83.502927587245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157343",
+    "businessName": "MEIJER #227",
+    "address": "6001 Highland Rd, White Lake, MI 48383-4302",
+    "city": "White Lake Twp",
+    "zipCode": "48383",
+    "latitude": 42.649035888319,
+    "longitude": -83.531846511215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160843",
+    "businessName": "SHELL GAS STATION",
+    "address": "6370 Highland Rd, White Lake, MI 48383-2835",
+    "city": "White Lake Twp",
+    "zipCode": "48383",
+    "latitude": 42.648598367512,
+    "longitude": -83.532671575315,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287040",
+    "businessName": "WHITE LAKE SUPERMARKET",
+    "address": "3393 Ormond Rd, White Lake, MI 48383-1829",
+    "city": "White Lake Twp",
+    "zipCode": "48383",
+    "latitude": 42.672300091531,
+    "longitude": -83.553330770673,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

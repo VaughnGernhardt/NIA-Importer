@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009894",
+    "propertyName": "AUTUMN RIDGE VILLAGE",
+    "latitude": 42.558665999108484,
+    "longitude": -83.0883090004117,
+    "assistedUnits": 250,
+    "totalUnits": 251
+  },
+  {
+    "propertyId": "800010000",
+    "propertyName": "EASTPOINTE APARTMENTS",
+    "latitude": 42.58363299901551,
+    "longitude": -83.02676700043325,
+    "assistedUnits": 211,
+    "totalUnits": 232
+  },
+  {
+    "propertyId": "800010609",
+    "propertyName": "TIVOLI MANOR",
+    "latitude": 42.50154199894689,
+    "longitude": -83.00021999973337,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800060741",
+    "propertyName": "VILLAGE OF WARREN GLENN",
+    "latitude": 42.50530599894376,
+    "longitude": -83.07606400009517,
+    "assistedUnits": 67,
+    "totalUnits": 68
+  }
+]

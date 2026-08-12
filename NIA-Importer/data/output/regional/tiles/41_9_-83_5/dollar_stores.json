@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "501-north-telegraph-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 501, North Telegraph Road Monroe, MI 48162-3336",
+    "city": "North Telegraph Road Monroe",
+    "zipCode": "48162",
+    "latitude": 41.929329658726,
+    "longitude": -83.411668567792
+  },
+  {
+    "storeId": "990-s-monroe-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 990, S Monroe Street Monroe, MI 48161-1434",
+    "city": "S Monroe Street Monroe",
+    "zipCode": "48161",
+    "latitude": 41.907147035227,
+    "longitude": -83.405620947911
+  }
+]

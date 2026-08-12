@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0284352",
+    "businessName": "G \u0026 D PARTY STORE, INC.",
+    "address": "319 N Mitchell St, Cadillac, MI 49601-1836",
+    "city": "Cadillac",
+    "zipCode": "49601",
+    "latitude": 44.25230681204,
+    "longitude": -85.401168925238,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284253",
+    "businessName": "NEW CADILLAC STORE LLC",
+    "address": "832 N Mitchell St, Cadillac, MI 49601-1472",
+    "city": "Cadillac",
+    "zipCode": "49601",
+    "latitude": 44.258278330625,
+    "longitude": -85.404882164523,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "130396",
+    "businessName": "ELM REST RESORT SERVICE",
+    "address": "1507 S Lake Mitchell Dr, Cadillac, MI 49601-9733",
+    "city": "Cherry Grove Twp",
+    "zipCode": "49601",
+    "latitude": 44.229378436607,
+    "longitude": -85.477438745577,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99992",
+    "businessName": "MEIJER #171",
+    "address": "8605 E Thirty Four Mile, Cadillac, MI 49601",
+    "city": "Haring Twp",
+    "zipCode": "49601",
+    "latitude": 44.281508335054,
+    "longitude": -85.400134657906,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9585",
+    "businessName": "WESCO #34",
+    "address": "1548 N Mitchell St, Cadillac, MI 49601-1131",
+    "city": "Haring Twp",
+    "zipCode": "49601",
+    "latitude": 44.273168384058,
+    "longitude": -85.406503774374,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010493",
+    "propertyName": "RIDGEWOOD VISTA",
+    "latitude": 42.27657899914049,
+    "longitude": -84.32111800018384,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010729",
+    "propertyName": "WOODLAND HILLS",
+    "latitude": 42.26602999885711,
+    "longitude": -84.39196600033007,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "businessId": "0266558",
+    "businessName": "WOW GAS STATION",
+    "address": "1516 Union Lake Rd, Commerce Township, MI 48382-2238",
+    "city": "Commerce Twp",
+    "zipCode": "48382",
+    "latitude": 42.614117664731,
+    "longitude": -83.446883620026,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214172",
+    "businessName": "CVS/PHARMACY #8038",
+    "address": "7960 Cooley Lake Rd, Waterford, MI 48327-4184",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.61509609653,
+    "longitude": -83.440129747191,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100014",
+    "businessName": "LAKE ELIZABETH MARKET",
+    "address": "6381 Elizabeth Lake Rd, Waterford, MI 48327-1716",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.645001348466,
+    "longitude": -83.412823621036,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281690",
+    "businessName": "THE THREE WISEMEN VENTURES, LLC",
+    "address": "7000 Cooley Lake Rd, Waterford, MI 48327-4111",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.615608997257,
+    "longitude": -83.423372769899,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288015",
+    "businessName": "VC FRESH MARKETPLACE",
+    "address": "7300 Highland Rd, Waterford, MI 48327-1508",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.660346015426,
+    "longitude": -83.43038800737,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232208",
+    "businessName": "WILLIAMS LAKE MARKET",
+    "address": "6919 Williams Lake Rd, Waterford, MI 48329-2872",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.681291796264,
+    "longitude": -83.424919804442,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269473",
+    "businessName": "WINDMILL PARTY STORE",
+    "address": "7275 COOLEY LAKE RD, WEST BLOOMFIELD, MI 48324",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48324",
+    "latitude": 42.615339838614,
+    "longitude": -83.42857636806,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288670",
+    "businessName": "FAMOUS MARKET",
+    "address": "9610 Highland Rd, White Lake, MI 48386-2313",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.656199264485,
+    "longitude": -83.474808458803,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269469",
+    "businessName": "GIN MILL MARKET",
+    "address": "8240 Highland Rd, White Lake, MI 48386-2013",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.659778026666,
+    "longitude": -83.447556635126,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239587",
+    "businessName": "KING CRAFT BEER AND LIQUOR",
+    "address": "305 Union Lake Rd, White Lake, MI 48386",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.637257642142,
+    "longitude": -83.468178719646,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9262",
+    "businessName": "LAKEVIEW MARKET",
+    "address": "9775 Elizabeth Lake Rd, White Lake, MI 48386-2721",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.63951819362,
+    "longitude": -83.477435240893,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266907",
+    "businessName": "MOBIL WHITE LAKE",
+    "address": "10580 Highland Rd, White Lake, MI 48386-2142",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.649653636987,
+    "longitude": -83.495589761347,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224503",
+    "businessName": "SIX LAKES PARTY STORE",
+    "address": "9266 Cooley Lake Rd, White Lake, MI 48386-3933",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.61667374057,
+    "longitude": -83.466528579481,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201997",
+    "businessName": "WAL-MART SUPERCENTER #2700",
+    "address": "9190 Highland Rd, White Lake, MI 48386-2032",
+    "city": "White Lake Twp",
+    "zipCode": "48386",
+    "latitude": 42.656960073594,
+    "longitude": -83.467987588607,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

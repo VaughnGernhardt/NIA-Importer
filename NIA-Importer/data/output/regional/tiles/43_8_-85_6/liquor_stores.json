@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0277075",
+    "businessName": "NORTHEND MEAT \u0026 PRODUCE, LLC",
+    "address": "315 N Chestnut St, Reed City, MI 49677-1005",
+    "city": "Reed",
+    "zipCode": "49677",
+    "latitude": 43.878430758944,
+    "longitude": -85.510023666622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245696",
+    "businessName": "SHAKERS",
+    "address": "420 N Chestnut St, Reed City, MI 49677-1075",
+    "city": "Reed",
+    "zipCode": "49677",
+    "latitude": 43.879586265035,
+    "longitude": -85.509865143149,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274098",
+    "businessName": "JOHNNY\u0027S MARKET",
+    "address": "5065 220th Ave, Reed City, MI 49677-8556",
+    "city": "Richmond Twp",
+    "zipCode": "49677",
+    "latitude": 43.889123510473,
+    "longitude": -85.52296431786,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

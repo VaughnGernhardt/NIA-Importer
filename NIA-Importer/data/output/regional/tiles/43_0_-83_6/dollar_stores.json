@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "1145-n-belsay-rd-suite-b",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1145, N Belsay Rd Suite B Burton, MI 48509-1653",
+    "city": "N Belsay Rd Suite B Burton",
+    "zipCode": "48509",
+    "latitude": 43.023297459348,
+    "longitude": -83.595507037918
+  },
+  {
+    "storeId": "638-north-state-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 638, North State Road Davison, MI 48423-3506",
+    "city": "North State Road Davison",
+    "zipCode": "48423",
+    "latitude": 43.036401528246,
+    "longitude": -83.517936552282
+  },
+  {
+    "storeId": "6000-lapeer-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 6000, Lapeer Rd Burton, MI 48509",
+    "city": "Lapeer Rd Burton",
+    "zipCode": "48509",
+    "latitude": 43.010909466315,
+    "longitude": -83.595041820168
+  }
+]

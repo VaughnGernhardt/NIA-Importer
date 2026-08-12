@@ -1,0 +1,370 @@
+[
+  {
+    "propertyId": "800009889",
+    "propertyName": "ART CENTER TOWNHOUSES",
+    "latitude": 42.36291399879403,
+    "longitude": -83.05666799958696,
+    "assistedUnits": 0,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800256172",
+    "propertyName": "BEAUBIEN APARTMENTS",
+    "latitude": 42.34670999891685,
+    "longitude": -83.05089499976975,
+    "assistedUnits": 18,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800009926",
+    "propertyName": "BICENTENNIAL TOWERS SENIOR HOUSING",
+    "latitude": 42.350667998829636,
+    "longitude": -83.05920000002993,
+    "assistedUnits": 299,
+    "totalUnits": 300
+  },
+  {
+    "propertyId": "800256171",
+    "propertyName": "BRUSH APARTMENTS",
+    "latitude": 42.346649998976915,
+    "longitude": -83.05105799997638,
+    "assistedUnits": 9,
+    "totalUnits": 64
+  },
+  {
+    "propertyId": "800009965",
+    "propertyName": "CALUMET APARTMENTS AND TOWNHOMES",
+    "latitude": 42.350292999138645,
+    "longitude": -83.06891100025366,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800010001",
+    "propertyName": "CHATHAM APARTMENTS",
+    "latitude": 42.37766199935087,
+    "longitude": -83.08254900011498,
+    "assistedUnits": 73,
+    "totalUnits": 73
+  },
+  {
+    "propertyId": "800010013",
+    "propertyName": "CLEMENT KERN GARDENS",
+    "latitude": 42.3287439990443,
+    "longitude": -83.06777899992649,
+    "assistedUnits": 86,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800060928",
+    "propertyName": "CLINTON HOUSE",
+    "latitude": 42.385056998792614,
+    "longitude": -83.08132700027443,
+    "assistedUnits": 23,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800009865",
+    "propertyName": "DELTA MANOR APARTMENTS",
+    "latitude": 42.348524998746186,
+    "longitude": -83.03311799966046,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800032516",
+    "propertyName": "ELMWOOD TOWERS",
+    "latitude": 42.34285399918894,
+    "longitude": -83.02617400005633,
+    "assistedUnits": 133,
+    "totalUnits": 168
+  },
+  {
+    "propertyId": "800010119",
+    "propertyName": "FOREST PARK APARTMENTS",
+    "latitude": 42.35705599935896,
+    "longitude": -83.04970499971624,
+    "assistedUnits": 159,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800010121",
+    "propertyName": "FOUNTAIN COURT COOPERATIVE 1-4",
+    "latitude": 42.334151999205666,
+    "longitude": -83.08664999982983,
+    "assistedUnits": 174,
+    "totalUnits": 351
+  },
+  {
+    "propertyId": "800010127",
+    "propertyName": "FREEDOM PLACE",
+    "latitude": 42.353354998861604,
+    "longitude": -83.07404200018846,
+    "assistedUnits": 350,
+    "totalUnits": 350
+  },
+  {
+    "propertyId": "800222966",
+    "propertyName": "GRATIOT WOODS COOPERATIVE APARTMENTS",
+    "latitude": 42.38501999937452,
+    "longitude": -83.00301199956903,
+    "assistedUnits": 61,
+    "totalUnits": 62
+  },
+  {
+    "propertyId": "800010177",
+    "propertyName": "HANCOCK RESIDENTIAL CENTER",
+    "latitude": 42.348698999265885,
+    "longitude": -83.06775800001009,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800247102",
+    "propertyName": "HIMELHOCH 2",
+    "latitude": 42.335313999023676,
+    "longitude": -83.04995400013661,
+    "assistedUnits": 16,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800009855",
+    "propertyName": "HIMELHOCH 3",
+    "latitude": 42.335313999023676,
+    "longitude": -83.04995400013661,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800010238",
+    "propertyName": "KAMPER STEVENS",
+    "latitude": 42.3339919993767,
+    "longitude": -83.05103000038729,
+    "assistedUnits": 163,
+    "totalUnits": 165
+  },
+  {
+    "propertyId": "800010277",
+    "propertyName": "LEE CREST APARTMENTS",
+    "latitude": 42.37855099919182,
+    "longitude": -83.0828529998886,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800258358",
+    "propertyName": "LEFT FIELD",
+    "latitude": 42.33283699905789,
+    "longitude": -83.06997400008557,
+    "assistedUnits": 21,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800010285",
+    "propertyName": "LEXINGTON VILLAGE",
+    "latitude": 42.36967799888796,
+    "longitude": -83.08621700018479,
+    "assistedUnits": 350,
+    "totalUnits": 351
+  },
+  {
+    "propertyId": "800220037",
+    "propertyName": "MARTIN LUTHER KING I",
+    "latitude": 42.339927999263736,
+    "longitude": -83.02423800036334,
+    "assistedUnits": 152,
+    "totalUnits": 169
+  },
+  {
+    "propertyId": "800219730",
+    "propertyName": "MARTIN LUTHER KING II",
+    "latitude": 42.339927999263736,
+    "longitude": -83.02423800036334,
+    "assistedUnits": 281,
+    "totalUnits": 312
+  },
+  {
+    "propertyId": "800010303",
+    "propertyName": "MCCOY TOWNHOUSES",
+    "latitude": 42.35972199874132,
+    "longitude": -83.0777000002125,
+    "assistedUnits": 74,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800010328",
+    "propertyName": "MCDONALD SQUARE",
+    "latitude": 42.35101299938433,
+    "longitude": -83.02717499996395,
+    "assistedUnits": 180,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800010364",
+    "propertyName": "NEW CENTER PAVILION",
+    "latitude": 42.37113499883675,
+    "longitude": -83.07867500018085,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800009988",
+    "propertyName": "ORCHESTRA PLACE",
+    "latitude": 42.34795799875873,
+    "longitude": -83.06049999968829,
+    "assistedUnits": 82,
+    "totalUnits": 82
+  },
+  {
+    "propertyId": "800009848",
+    "propertyName": "ORCHESTRA TOWERS",
+    "latitude": 42.34636199899932,
+    "longitude": -83.05743599986607,
+    "assistedUnits": 213,
+    "totalUnits": 248
+  },
+  {
+    "propertyId": "800010323",
+    "propertyName": "PARK SQUARE APARTMENTS",
+    "latitude": 42.374733999051195,
+    "longitude": -83.09605700027996,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800010422",
+    "propertyName": "PARKVIEW II",
+    "latitude": 42.34363499913508,
+    "longitude": -83.02665199990722,
+    "assistedUnits": 42,
+    "totalUnits": 199
+  },
+  {
+    "propertyId": "800010423",
+    "propertyName": "PARKVIEW TOWER \u0026 SQUARE",
+    "latitude": 42.346043999095826,
+    "longitude": -83.02244200041243,
+    "assistedUnits": 350,
+    "totalUnits": 354
+  },
+  {
+    "propertyId": "800010486",
+    "propertyName": "REGENCY COURT APARTMENTS",
+    "latitude": 42.363268999281196,
+    "longitude": -83.0927239999459,
+    "assistedUnits": 40,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800060750",
+    "propertyName": "RIO VISTA",
+    "latitude": 42.32202099904282,
+    "longitude": -83.07583599959123,
+    "assistedUnits": 64,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800235996",
+    "propertyName": "RIVERTOWN NEIGHBORHOOD SR HOUSING",
+    "latitude": 42.33955599922026,
+    "longitude": -83.01524099999203,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800010517",
+    "propertyName": "ROBERT HOLMES TEAMSTER HOUSING",
+    "latitude": 42.36005799908152,
+    "longitude": -83.06045700003058,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010518",
+    "propertyName": "ROBERTS III APARTMENTS",
+    "latitude": 42.34350599929091,
+    "longitude": -83.07694700000201,
+    "assistedUnits": 123,
+    "totalUnits": 197
+  },
+  {
+    "propertyId": "800009925",
+    "propertyName": "ST ANTOINE GARDENS",
+    "latitude": 42.3618869993313,
+    "longitude": -83.05598800006972,
+    "assistedUnits": 0,
+    "totalUnits": 146
+  },
+  {
+    "propertyId": "800250907",
+    "propertyName": "THE PETERBORO ARMS",
+    "latitude": 42.34518899926461,
+    "longitude": -83.05748699991969,
+    "assistedUnits": 9,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800010643",
+    "propertyName": "VAN DYKE CENTER APARTMENTS",
+    "latitude": 42.379462998838996,
+    "longitude": -83.01398700036444,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010648",
+    "propertyName": "VILLAGE CENTER",
+    "latitude": 42.37198499875161,
+    "longitude": -83.08223199992257,
+    "assistedUnits": 254,
+    "totalUnits": 254
+  },
+  {
+    "propertyId": "800060748",
+    "propertyName": "VILLAGE OF BRUSH PARK MANOR",
+    "latitude": 42.34515299883488,
+    "longitude": -83.05061699993541,
+    "assistedUnits": 112,
+    "totalUnits": 113
+  },
+  {
+    "propertyId": "800010668",
+    "propertyName": "VIRGINIA PARK TOWNHOUSES",
+    "latitude": 42.36898999876545,
+    "longitude": -83.09466499966176,
+    "assistedUnits": 86,
+    "totalUnits": 86
+  },
+  {
+    "propertyId": "800010677",
+    "propertyName": "WARREN PLAZA",
+    "latitude": 42.35862399921808,
+    "longitude": -83.05944799972704,
+    "assistedUnits": 197,
+    "totalUnits": 198
+  },
+  {
+    "propertyId": "800010678",
+    "propertyName": "WASHINGTON BOULEVARD BUILDING",
+    "latitude": 42.33267199936794,
+    "longitude": -83.05024600021466,
+    "assistedUnits": 114,
+    "totalUnits": 115
+  },
+  {
+    "propertyId": "800010715",
+    "propertyName": "WILLIAMS PAVILION",
+    "latitude": 42.35564299910548,
+    "longitude": -83.06125799992166,
+    "assistedUnits": 149,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010737",
+    "propertyName": "YOUNG MANOR",
+    "latitude": 42.36235699877739,
+    "longitude": -83.0934210000799,
+    "assistedUnits": 450,
+    "totalUnits": 153
+  }
+]

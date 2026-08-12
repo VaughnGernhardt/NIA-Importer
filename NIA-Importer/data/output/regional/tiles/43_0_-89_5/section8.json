@@ -1,0 +1,82 @@
+[
+  {
+    "propertyId": "800023286",
+    "propertyName": "DALE HEIGHTS",
+    "latitude": 43.08172599910871,
+    "longitude": -89.47816099965368,
+    "assistedUnits": 4,
+    "totalUnits": 5
+  },
+  {
+    "propertyId": "800022961",
+    "propertyName": "DEBRA BEEBE APARTMENTS",
+    "latitude": 43.03111899875385,
+    "longitude": -89.45349699984168,
+    "assistedUnits": 5,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800023109",
+    "propertyName": "KARABIS \u0026 PARKSIDE APARTMENTS",
+    "latitude": 43.065877998994274,
+    "longitude": -89.40047000018568,
+    "assistedUnits": 115,
+    "totalUnits": 115
+  },
+  {
+    "propertyId": "800023163",
+    "propertyName": "MCKEE PARK APARTMENTS / THE ALEE",
+    "latitude": 43.01434199914686,
+    "longitude": -89.43236899985497,
+    "assistedUnits": 0,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800221429",
+    "propertyName": "OLD MIDDLETON ROAD APARTMENTS",
+    "latitude": 43.07437099930025,
+    "longitude": -89.47180899970327,
+    "assistedUnits": 6,
+    "totalUnits": 7
+  },
+  {
+    "propertyId": "800023346",
+    "propertyName": "SEGOE TERRACE",
+    "latitude": 43.07300399897533,
+    "longitude": -89.4552590003557,
+    "assistedUnits": 151,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800023363",
+    "propertyName": "SOUTHRIDGE VILLAGE",
+    "latitude": 43.027008999078035,
+    "longitude": -89.41391899990111,
+    "assistedUnits": 90,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800023388",
+    "propertyName": "SUNFISH COURT APTS",
+    "latitude": 43.028310999374284,
+    "longitude": -89.4161929997029,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800258088",
+    "propertyName": "The Derby",
+    "latitude": 43.03257699880465,
+    "longitude": -89.45486500017041,
+    "assistedUnits": 11,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800023462",
+    "propertyName": "VOSS HAUS",
+    "latitude": 43.09545299916345,
+    "longitude": -89.49635600023774,
+    "assistedUnits": 64,
+    "totalUnits": 64
+  }
+]

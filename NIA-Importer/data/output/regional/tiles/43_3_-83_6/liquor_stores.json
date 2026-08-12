@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "14537",
+    "businessName": "CENTRAL SHOP-RITE MART OF VASSAR, INC.",
+    "address": "500 Goodrich St, Vassar, MI 48768-9205",
+    "city": "Vassar",
+    "zipCode": "48768",
+    "latitude": 43.363465495322,
+    "longitude": -83.580201749995,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16839",
+    "businessName": "PEOPLES CHOICE MARKET",
+    "address": "911 W Huron Ave, Vassar, MI 48768-1131",
+    "city": "Vassar",
+    "zipCode": "48768",
+    "latitude": 43.373681825506,
+    "longitude": -83.59330420224,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202313",
+    "businessName": "VIC\u0027S MARKET",
+    "address": "428 E Huron Ave, Vassar, MI 48768-1739",
+    "city": "Vassar",
+    "zipCode": "48768",
+    "latitude": 43.370035424395,
+    "longitude": -83.577991869594,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

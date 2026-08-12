@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0263182",
+    "businessName": "KC\u0027S LAKE THIRTEEN PARTY STORE, INC.",
+    "address": "587 W Surrey Rd, Farwell, MI 48622-9706",
+    "city": "Surrey Twp",
+    "zipCode": "48622",
+    "latitude": 43.857546362265,
+    "longitude": -84.861090147678,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235477",
+    "businessName": "RED\u0027S OAKRIDGE PARTY STORE",
+    "address": "2405 W Ludington Dr, Farwell, MI 48622-9794",
+    "city": "Surrey Twp",
+    "zipCode": "48622",
+    "latitude": 43.854770452729,
+    "longitude": -84.897117557042,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

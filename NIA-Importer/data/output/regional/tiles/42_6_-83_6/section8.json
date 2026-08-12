@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010203",
+    "propertyName": "HIGHLAND HAVEN",
+    "latitude": 42.647750999046565,
+    "longitude": -83.57412300040951,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800010204",
+    "propertyName": "HIGHLAND MEADOWVIEW I",
+    "latitude": 42.6477579989287,
+    "longitude": -83.57412300040951,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  }
+]

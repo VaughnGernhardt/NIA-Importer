@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0287914",
+    "businessName": "LAKE TO BAY GROCERY",
+    "address": "542 Tawas Beach Rd, East Tawas, MI 48730-9350",
+    "city": "Baldwin Twp",
+    "zipCode": "48730",
+    "latitude": 44.2641691674,
+    "longitude": -83.438760103848,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285878",
+    "businessName": "LAKE SPIRITS INCORPORATED",
+    "address": "718 E Bay St, East Tawas, MI 48730-1560",
+    "city": "East Tawas",
+    "zipCode": "48730",
+    "latitude": 44.280672688024,
+    "longitude": -83.477901276031,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

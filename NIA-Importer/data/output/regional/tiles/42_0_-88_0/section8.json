@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800005943",
+    "propertyName": "CEDAR VILLAGE OF ARLINGTON HEIGHTS",
+    "latitude": 42.083016999016415,
+    "longitude": -87.98710100003295,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800005781",
+    "propertyName": "CENTENNIAL APARTMENTS SOUTH",
+    "latitude": 42.06904699885855,
+    "longitude": -87.92045800025696,
+    "assistedUnits": 97,
+    "totalUnits": 97
+  },
+  {
+    "propertyId": "800214244",
+    "propertyName": "CENTENNIAL NORTH APARTMENTS",
+    "latitude": 42.07045799916566,
+    "longitude": -87.92147800043115,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800005991",
+    "propertyName": "HUNTINGTON TOWERS",
+    "latitude": 42.04242699931869,
+    "longitude": -87.94400099961246,
+    "assistedUnits": 214,
+    "totalUnits": 214
+  },
+  {
+    "propertyId": "800006043",
+    "propertyName": "Linden Place Apartments",
+    "latitude": 42.05154799898681,
+    "longitude": -87.97306700033651,
+    "assistedUnits": 190,
+    "totalUnits": 190
+  },
+  {
+    "propertyId": "800246202",
+    "propertyName": "Myers Place",
+    "latitude": 42.03688399919511,
+    "longitude": -87.95751100032555,
+    "assistedUnits": 4,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800242643",
+    "propertyName": "NORTH SUBURBAN HOUSING, LLC",
+    "latitude": 42.08451699874052,
+    "longitude": -87.98651400040212,
+    "assistedUnits": 244,
+    "totalUnits": 246
+  }
+]

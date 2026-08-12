@@ -1,0 +1,106 @@
+[
+  {
+    "propertyId": "800022904",
+    "propertyName": "CAMELOT COURT",
+    "latitude": 44.04414199906103,
+    "longitude": -88.54466799982514,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023303",
+    "propertyName": "CLARITY CARE",
+    "latitude": 44.04325199906669,
+    "longitude": -88.52604899981688,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800022957",
+    "propertyName": "CUMBERLAND COURT APTS",
+    "latitude": 44.00935899886446,
+    "longitude": -88.5880539995776,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800023031",
+    "propertyName": "GILEAD APARTMENTS",
+    "latitude": 44.01953699925223,
+    "longitude": -88.56512899981507,
+    "assistedUnits": 15,
+    "totalUnits": 15
+  },
+  {
+    "propertyId": "800069932",
+    "propertyName": "GILEAD II",
+    "latitude": 44.01340599914895,
+    "longitude": -88.5533589998747,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800112372",
+    "propertyName": "GILEAD III, APARTMENTS",
+    "latitude": 44.01386899920615,
+    "longitude": -88.55268400038031,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800212989",
+    "propertyName": "JOMAR OF ZION",
+    "latitude": 44.00331199898668,
+    "longitude": -88.55087900020857,
+    "assistedUnits": 15,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023158",
+    "propertyName": "MARIAN MANOR",
+    "latitude": 44.01980199884782,
+    "longitude": -88.52930199978498,
+    "assistedUnits": 121,
+    "totalUnits": 121
+  },
+  {
+    "propertyId": "800023354",
+    "propertyName": "SIMEANNA APARTMENTS",
+    "latitude": 44.01876799896384,
+    "longitude": -88.57276000040576,
+    "assistedUnits": 64,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800023355",
+    "propertyName": "SIMEANNA III",
+    "latitude": 44.018987999322285,
+    "longitude": -88.5727550003829,
+    "assistedUnits": 77,
+    "totalUnits": 78
+  },
+  {
+    "propertyId": "800023356",
+    "propertyName": "SIMEANNA SOUTH",
+    "latitude": 44.019317998975346,
+    "longitude": -88.57274799981188,
+    "assistedUnits": 60,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800023505",
+    "propertyName": "WILLO APARTMENTS",
+    "latitude": 44.03354799937863,
+    "longitude": -88.5350610002568,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800023512",
+    "propertyName": "WINNEBAGO COUNTY HOUSING",
+    "latitude": 44.002084999068124,
+    "longitude": -88.58825699996717,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  }
+]

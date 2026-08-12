@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1509-n-eaton-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1509, N Eaton St. Albion, MI 49224",
+    "city": "N Eaton St. Albion",
+    "zipCode": "49224",
+    "latitude": 42.26160611649,
+    "longitude": -84.756415070405
+  },
+  {
+    "storeId": "1509-n-eaton-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1509, N. Eaton St Albion, MI 49224-9462",
+    "city": "N. Eaton St Albion",
+    "zipCode": "49224",
+    "latitude": 42.26160611649,
+    "longitude": -84.756415070405
+  }
+]

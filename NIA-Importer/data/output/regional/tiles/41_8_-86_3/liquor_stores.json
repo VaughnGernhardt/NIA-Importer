@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "203660",
+    "businessName": "7 DAYS, INC.",
+    "address": "33974 US Highway 12, Niles, MI 49120-8492",
+    "city": "Milton Twp",
+    "zipCode": "49120",
+    "latitude": 41.803028927997,
+    "longitude": -86.217455954359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137285",
+    "businessName": "7 DAY PARTY PLACE",
+    "address": "303 N 5th St, Niles, MI 49120-2438",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.830939715799,
+    "longitude": -86.253908973451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "139998",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "407 Broadway St, Niles, MI 49120-2705",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.827954375615,
+    "longitude": -86.25475443145,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10006",
+    "businessName": "MARTIN\u0027S SUPER MARKET OF NILES",
+    "address": "720 S 11th St, Niles, MI 49120-3313",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.820680901592,
+    "longitude": -86.247148022007,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277271",
+    "businessName": "NILES GROCERY STORE, LLC",
+    "address": "421 Grant St, Niles, MI 49120-2205",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.827171376185,
+    "longitude": -86.262825524035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "158310",
+    "businessName": "RIVERSIDE FOOD \u0026 LIQUOR STORE",
+    "address": "1210 N Front St, Niles, MI 49120-1628",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.839285948498,
+    "longitude": -86.260752207951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140666",
+    "businessName": "SINGH, INC.",
+    "address": "1702 Broadway St, Niles, MI 49120-2129",
+    "city": "Niles",
+    "zipCode": "49120",
+    "latitude": 41.827685490045,
+    "longitude": -86.234519601163,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287029",
+    "businessName": "7 DAYS, INC.",
+    "address": "2310 N 5th St, Niles, MI 49120-1105",
+    "city": "Niles Twp",
+    "zipCode": "49120",
+    "latitude": 41.853970903941,
+    "longitude": -86.245210847991,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

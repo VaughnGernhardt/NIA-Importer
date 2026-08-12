@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0286455",
+    "businessName": "DN\u0027S Party Store",
+    "address": "10055-10059 SHAVER RD, PORTAGE, MI 49024",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.170402606341,
+    "longitude": -85.614873428717,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15959",
+    "businessName": "HARDINGS",
+    "address": "3750 W Centre Ave, Portage, MI 49024-4630",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.197531455672,
+    "longitude": -85.63450333838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132092",
+    "businessName": "MEIJER #196",
+    "address": "8850 Shaver Rd, Portage, MI 49024-6155",
+    "city": "Portage",
+    "zipCode": "49024",
+    "latitude": 42.188110800695,
+    "longitude": -85.601573517484,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12084",
+    "businessName": "HARDINGS FRESH EXPRESS",
+    "address": "139 N Grand St, Schoolcraft, MI 49087-5111",
+    "city": "Schoolcraft",
+    "zipCode": "49087",
+    "latitude": 42.114721311896,
+    "longitude": -85.637143421971,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279147",
+    "businessName": "HWY SMOKE \u0026 LIQUOR INC",
+    "address": "13214 US Highway 131, Schoolcraft, MI 49087-8462",
+    "city": "Schoolcraft Twp",
+    "zipCode": "49087",
+    "latitude": 42.126072016087,
+    "longitude": -85.637570365892,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

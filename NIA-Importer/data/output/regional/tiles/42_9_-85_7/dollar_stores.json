@@ -1,0 +1,142 @@
+[
+  {
+    "storeId": "1004-division-ave-s",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1004, Division Ave. S. Grand Rapids, MI 49507",
+    "city": "Division Ave. S. Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.945179180118,
+    "longitude": -85.667335886311
+  },
+  {
+    "storeId": "1621-leonard-street-ne",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1621, Leonard Street NE Grand Rapids, MI 49505-5658",
+    "city": "Leonard Street NE Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.984499142733,
+    "longitude": -85.627974591174
+  },
+  {
+    "storeId": "740-28th-street-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "740 28th, Street S.E. Grand Rapids, MI 49548-1304",
+    "city": "Street S.E. Grand Rapids",
+    "zipCode": "49548",
+    "latitude": 42.912752051708,
+    "longitude": -85.649256898599
+  },
+  {
+    "storeId": "1220-28th-street-sw",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "1220 28th, Street SW Wyoming, MI 49509-2702",
+    "city": "Street SW Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.913349507978,
+    "longitude": -85.69588236157
+  },
+  {
+    "storeId": "530-division-ave-s",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 530, Division Ave S Grand Rapids, MI 49503-5134",
+    "city": "Division Ave S Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.953020769264,
+    "longitude": -85.667517326124
+  },
+  {
+    "storeId": "2027-eastern-avenue-se",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2027, Eastern Avenue Se Grand Rapids, MI 49507-3234",
+    "city": "Eastern Avenue Se Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.926395028578,
+    "longitude": -85.648056364322
+  },
+  {
+    "storeId": "1153-fulton-street-west",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1153, Fulton Street West Grand Rapids, MI 49504",
+    "city": "Fulton Street West Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.963810169956,
+    "longitude": -85.696174976925
+  },
+  {
+    "storeId": "1423-grandville-ave-sw",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1423, Grandville Ave Sw Grand Rapids, MI 49503",
+    "city": "Grandville Ave Sw Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.937834274463,
+    "longitude": -85.684864158334
+  },
+  {
+    "storeId": "55-leonard-st-nw",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 55, Leonard St Nw Grand Rapids, MI 49503-1031",
+    "city": "Leonard St Nw Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.98475163614,
+    "longitude": -85.6701257117
+  },
+  {
+    "storeId": "619-leonard-st-nw",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 619, Leonard St Nw Grand Rapids, MI 49504",
+    "city": "Leonard St Nw Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.985131939368,
+    "longitude": -85.683250527905
+  },
+  {
+    "storeId": "1121-michigan-st-ne",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1121, Michigan St. Ne Grand Rapids, MI 49503-1909",
+    "city": "Michigan St. Ne Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.970039939049,
+    "longitude": -85.640745512584
+  },
+  {
+    "storeId": "2114-s-division-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2114, S Division Ave Grand Rapids, MI 49507-3031",
+    "city": "S Division Ave Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.925179016247,
+    "longitude": -85.6664762658
+  },
+  {
+    "storeId": "730-28th-st-sw",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "730 28th, St Sw Wyoming, MI 49509-2965",
+    "city": "St Sw Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.913269544192,
+    "longitude": -85.683614538427
+  },
+  {
+    "storeId": "1135-wealthy-st-se",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1135, Wealthy St Se Grand Rapids, MI 49506-1544",
+    "city": "Wealthy St Se Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.955589571239,
+    "longitude": -85.640749758059
+  }
+]

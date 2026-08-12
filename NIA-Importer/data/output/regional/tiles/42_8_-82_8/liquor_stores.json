@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0282211",
+    "businessName": "MEMPHIS PARTY STORE",
+    "address": "80183 Main St, Memphis, MI 48041-4743",
+    "city": "Memphis",
+    "zipCode": "48041",
+    "latitude": 42.891667882668,
+    "longitude": -82.768795898338,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224302",
+    "businessName": "MAIN STOP DELUXE",
+    "address": "69209 N Main St, Richmond, MI 48062-1145",
+    "city": "Richmond",
+    "zipCode": "48062",
+    "latitude": 42.810657837459,
+    "longitude": -82.757164252657,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290214",
+    "businessName": "RTJT VENTURES LLC",
+    "address": "33771 32 Mile Rd, Richmond, MI 48062-5339",
+    "city": "Richmond Twp",
+    "zipCode": "48062",
+    "latitude": 42.808696889325,
+    "longitude": -82.778828818632,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

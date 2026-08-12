@@ -1,0 +1,182 @@
+[
+  {
+    "businessId": "147077",
+    "businessName": "7-ELEVEN #33421-B",
+    "address": "4100 Haggerty Hwy, Walled Lake, MI 48390-1314",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.576970324661,
+    "longitude": -83.440204172461,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260071",
+    "businessName": "COMMERCE WINE \u0026 LIQUOR",
+    "address": "420 W Commerce Rd, Commerce Township, MI 48382-3921",
+    "city": "Commerce Twp",
+    "zipCode": "48382",
+    "latitude": 42.59120794771,
+    "longitude": -83.485055369864,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144694",
+    "businessName": "COSTCO #341",
+    "address": "3000 Commerce Xing, Commerce Township, MI 48390-3082",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.534500159366,
+    "longitude": -83.447614807089,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99698",
+    "businessName": "KROGER STORE #729",
+    "address": "2905 Union Lake Rd, Commerce Township, MI 48382-3565",
+    "city": "Commerce Twp",
+    "zipCode": "48382",
+    "latitude": 42.59364822316,
+    "longitude": -83.44593372213,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279481",
+    "businessName": "SHELL",
+    "address": "2500 Union Lake Rd, Commerce Township, MI 48382-3552",
+    "city": "Commerce Twp",
+    "zipCode": "48382",
+    "latitude": 42.59878557304,
+    "longitude": -83.446323081032,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261586",
+    "businessName": "TJ\u0027S MARKET",
+    "address": "1830 Welch Rd, Walled Lake, MI 48390-2767",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.551157411029,
+    "longitude": -83.458574307457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197615",
+    "businessName": "WAL-MART SUPERCENTER #2618",
+    "address": "3301 N Pontiac Trl, Commerce Township, MI 48390-2746",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.556472851926,
+    "longitude": -83.443185872052,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281342",
+    "businessName": "MAPLES HOSPITALITY LLC",
+    "address": "31260 Wakefield Dr, Novi, MI 48377-4514",
+    "city": "Novi",
+    "zipCode": "48377",
+    "latitude": 42.526172559354,
+    "longitude": -83.458526229014,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161006",
+    "businessName": "SUNSHINE MARKET",
+    "address": "42355 W 13 Mile Rd, Novi, MI 48377-2007",
+    "city": "Novi",
+    "zipCode": "48377",
+    "latitude": 42.510234173708,
+    "longitude": -83.466068865329,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225317",
+    "businessName": "BARRELS OF WINE",
+    "address": "136 E Walled Lake Dr, Walled Lake, MI 48390-3552",
+    "city": "Walled Lake",
+    "zipCode": "48390",
+    "latitude": 42.531468516187,
+    "longitude": -83.484961803884,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245544",
+    "businessName": "FRESHWAY MARKET",
+    "address": "1192 E West Maple Rd, Walled Lake, MI 48390",
+    "city": "Walled Lake",
+    "zipCode": "48390",
+    "latitude": 42.538343201088,
+    "longitude": -83.476231813067,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281933",
+    "businessName": "JONNA\u0027S PENNY LAKE MARKET",
+    "address": "1270 S Commerce Rd, Walled Lake, MI 48390-3008",
+    "city": "Walled Lake",
+    "zipCode": "48390",
+    "latitude": 42.543800419234,
+    "longitude": -83.477910945849,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247614",
+    "businessName": "WOW GAS AND CONVENIENCE",
+    "address": "670 N Pontiac Trl, Walled Lake, MI 48390-3443",
+    "city": "Walled Lake",
+    "zipCode": "48390",
+    "latitude": 42.536640339969,
+    "longitude": -83.482006932998,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "210517",
+    "businessName": "MAPLE-HAGGERTY MARATHON",
+    "address": "3490 E West Maple Rd, Walled Lake, MI 48390-3852",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48390",
+    "latitude": 42.541236020442,
+    "longitude": -83.438522771799,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12773",
+    "businessName": "QUICK STOP MARKET",
+    "address": "6984 Pontiac Trl, West Bloomfield, MI 48323-2016",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48323",
+    "latitude": 42.567852977752,
+    "longitude": -83.420490941275,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275654",
+    "businessName": "TWIN BEACH INVESTMENTS, LLC",
+    "address": "4292 Green Lake Rd, West Bloomfield, MI 48323-1141",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48323",
+    "latitude": 42.574672321416,
+    "longitude": -83.420239849735,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150543",
+    "businessName": "7-ELEVEN #33451-D",
+    "address": "3035 S Commerce Rd, Wolverine Lake, MI 48390-1416",
+    "city": "Wolverine Lake",
+    "zipCode": "48390",
+    "latitude": 42.569621224512,
+    "longitude": -83.475351872433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281914",
+    "businessName": "ASHAPURI LLC",
+    "address": "297 Glengary Rd, Wolverine Lake, MI 48390-1433",
+    "city": "Wolverine Lake",
+    "zipCode": "48390",
+    "latitude": 42.562215309789,
+    "longitude": -83.481608249135,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

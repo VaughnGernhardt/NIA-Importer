@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "250341",
+    "businessName": "STRAY\u0027S GENERAL L.L.C.",
+    "address": "14150 Cypress Ave, Sand Lake, MI 49343-8935",
+    "city": "Ensley Twp",
+    "zipCode": "49343",
+    "latitude": 43.299988567804,
+    "longitude": -85.621791154193,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281232",
+    "businessName": "HUCK\u0027S CORNER",
+    "address": "2371 17 Mile Rd NE, Cedar Springs, MI 49319-9430",
+    "city": "Solon Twp",
+    "zipCode": "49319",
+    "latitude": 43.219609723445,
+    "longitude": -85.611629801293,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

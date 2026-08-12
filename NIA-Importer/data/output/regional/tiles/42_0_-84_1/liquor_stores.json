@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0289651",
+    "businessName": "TOP OF THE HILL PARTY STORE",
+    "address": "5140 W US-12, Tipton, MI 49287-9101",
+    "city": "Franklin Twp",
+    "zipCode": "49287",
+    "latitude": 42.071665823811,
+    "longitude": -84.089413059479,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247948",
+    "businessName": "LIGHTNING QUICK GAS M-60 #14",
+    "address": "1159 E Monroe Rd, Tecumseh, MI 49286-8728",
+    "city": "Tecumseh Twp",
+    "zipCode": "49286",
+    "latitude": 42.008997902595,
+    "longitude": -84.00056916931,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

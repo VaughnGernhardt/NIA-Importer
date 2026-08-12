@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0284502",
+    "businessName": "BARODA24 INC",
+    "address": "7773 Stevensville Baroda Rd, Baroda, MI 49101-9723",
+    "city": "Baroda Twp",
+    "zipCode": "49101",
+    "latitude": 41.977920137263,
+    "longitude": -86.495859073254,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284500",
+    "businessName": "CLEVELAND24 INC",
+    "address": "9691 Cleveland Ave, Baroda, MI 49101-9750",
+    "city": "Baroda Twp",
+    "zipCode": "49101",
+    "latitude": 41.943017873757,
+    "longitude": -86.494562211737,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

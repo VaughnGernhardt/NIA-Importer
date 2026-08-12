@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4438-i-75-business-spur",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "4438 I 75, Business Spur Sault Sainte Marie, MI 49783-3625",
+    "city": "Business Spur Sault Sainte Marie",
+    "zipCode": "49783",
+    "latitude": 46.462938874332,
+    "longitude": -84.376729215072
+  },
+  {
+    "storeId": "1717-ashmun-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "1717 Ashmun Street 500, Plaza Shp Ctr Sault Ste Marie, MI 49783-2804",
+    "city": "Plaza Shp Ctr Sault Ste Marie",
+    "zipCode": "49783",
+    "latitude": 46.483474308135,
+    "longitude": -84.35358842608
+  }
+]

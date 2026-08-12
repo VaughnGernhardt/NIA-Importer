@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "419-e-michigan-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 419, E Michigan Ave Ypsilanti, MI 48198",
+    "city": "E Michigan Ave Ypsilanti",
+    "zipCode": "48198",
+    "latitude": 42.241183950452,
+    "longitude": -83.603552082628
+  },
+  {
+    "storeId": "216-e-michigan-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 216, E Michigan Avenue Ypsilanti, MI 48198",
+    "city": "E Michigan Avenue Ypsilanti",
+    "zipCode": "48198",
+    "latitude": 42.241038573509,
+    "longitude": -83.606979822173
+  }
+]

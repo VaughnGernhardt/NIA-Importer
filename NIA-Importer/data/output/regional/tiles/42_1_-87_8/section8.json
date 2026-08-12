@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800005897",
+    "propertyName": "FRANK B PEERS SR. HSG (IHDA)",
+    "latitude": 42.186762998952176,
+    "longitude": -87.7955389999911,
+    "assistedUnits": 67,
+    "totalUnits": 67
+  },
+  {
+    "propertyId": "800006272",
+    "propertyName": "RAVINIA HOUSING",
+    "latitude": 42.166337999243225,
+    "longitude": -87.78618500014274,
+    "assistedUnits": 17,
+    "totalUnits": 17
+  },
+  {
+    "propertyId": "800006460",
+    "propertyName": "WALNUT PLACE",
+    "latitude": 42.18203399884218,
+    "longitude": -87.79921299990868,
+    "assistedUnits": 68,
+    "totalUnits": 68
+  }
+]

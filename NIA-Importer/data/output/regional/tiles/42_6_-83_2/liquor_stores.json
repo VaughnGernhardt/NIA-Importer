@@ -1,0 +1,302 @@
+[
+  {
+    "businessId": "0285848",
+    "businessName": "HAJI JOY MARKET, LLC",
+    "address": "138 S Main St, Rochester, MI 48307-2028",
+    "city": "Rochester",
+    "zipCode": "48307",
+    "latitude": 42.677292684209,
+    "longitude": -83.133573301042,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214659",
+    "businessName": "MAIN STREET BP",
+    "address": "100 W University Dr, Rochester, MI 48307-1935",
+    "city": "Rochester",
+    "zipCode": "48307",
+    "latitude": 42.682108063326,
+    "longitude": -83.133896967781,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12577",
+    "businessName": "MANNY\u0027S",
+    "address": "723 N Main St, Rochester, MI 48307-1434",
+    "city": "Rochester",
+    "zipCode": "48307",
+    "latitude": 42.685548771501,
+    "longitude": -83.134040634447,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259621",
+    "businessName": "7-ELEVEN #36023-B",
+    "address": "2668 S Rochester Rd, Rochester Hills, MI 48307-4545",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.640892913214,
+    "longitude": -83.132053846521,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225051",
+    "businessName": "ALAN D LIQUOR",
+    "address": "2300 W Auburn Rd, Rochester Hills, MI 48309-4009",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.634927816483,
+    "longitude": -83.177045851612,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242504",
+    "businessName": "AUBURN MOBIL",
+    "address": "1015 E Auburn Rd, Rochester Hills, MI 48307-5401",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.636777950724,
+    "longitude": -83.111372647173,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160469",
+    "businessName": "BUSCEMIS #27",
+    "address": "2228 Crooks Rd, Rochester Hills, MI 48309-3600",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.64876102812,
+    "longitude": -83.171206460215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166154",
+    "businessName": "BUSCH\u0027S FRESH FOOD MARKET",
+    "address": "3188 Walton Blvd, Rochester Hills, MI 48309-1265",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.680617859493,
+    "longitude": -83.198583996832,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11634",
+    "businessName": "CHATEAU DE VIN",
+    "address": "1020 E Auburn Rd, Rochester Hills, MI 48307-5400",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.636667578283,
+    "longitude": -83.111226604259,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "185492",
+    "businessName": "CVS PHARMACY #0287",
+    "address": "2011 S Rochester Rd, Rochester Hills, MI 48307-3857",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.652203526003,
+    "longitude": -83.132467764602,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214170",
+    "businessName": "CVS/PHARMACY #8076",
+    "address": "3010 Walton Blvd, Rochester Hills, MI 48309-1264",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.680704909506,
+    "longitude": -83.194990695752,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247733",
+    "businessName": "F.M.A. INC.",
+    "address": "1295 Walton Blvd, Rochester Hills, MI 48307-6903",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.681583625767,
+    "longitude": -83.153189118449,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234390",
+    "businessName": "HEATHER ENTERPRISES, INC.",
+    "address": "2995 Walton Blvd, Rochester Hills, MI 48309-1419",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.680349999974,
+    "longitude": -83.193858719983,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9145",
+    "businessName": "JINDO SPECIALTY FOODS, INC.",
+    "address": "3019 Crooks Rd, Rochester Hills, MI 48309-4148",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.634749254431,
+    "longitude": -83.170261411292,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9759",
+    "businessName": "KROGER STORE #492",
+    "address": "65 S Livernois Rd, Rochester Hills, MI 48307-6901",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.680639584327,
+    "longitude": -83.153233077496,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10258",
+    "businessName": "MEIJER #57",
+    "address": "3175 S Rochester Rd, Rochester Hills, MI 48307-5042",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.633259520431,
+    "longitude": -83.131528045514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285510",
+    "businessName": "MEIJER #685",
+    "address": "1495 N Rochester Rd, Rochester Hills, MI 48307-1122",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.695484516293,
+    "longitude": -83.134455921758,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281587",
+    "businessName": "PAPA JOE\u0027S",
+    "address": "6900 N Rochester Rd, Rochester Hills, MI 48306-4340",
+    "city": "Rochester Hills",
+    "zipCode": "48306",
+    "latitude": 42.695951461807,
+    "longitude": -83.13447732865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147899",
+    "businessName": "RED WAGON WINE SHOPPE",
+    "address": "2940 \u0026 2944 S Rochester Rd, Rochester Hills, MI 48307-4551",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.636964641351,
+    "longitude": -83.131850392222,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248736",
+    "businessName": "ROCHESTER PETROLEUM, INC.",
+    "address": "2020 S Rochester Rd, Rochester Hills, MI 48307-3856",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.651799886376,
+    "longitude": -83.132594596193,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223053",
+    "businessName": "SUNOCO",
+    "address": "3420 S Rochester Rd, Rochester Hills, MI 48307-5046",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.631154359292,
+    "longitude": -83.131677688224,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280443",
+    "businessName": "TOTAL WINE, SPIRITS, BEER \u0026 MORE",
+    "address": "1242 S Rochester Rd, Rochester Hills, MI 48307-3118",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.663427224278,
+    "longitude": -83.133176506071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "195292",
+    "businessName": "WAL-MART SUPERCENTER #2354",
+    "address": "2500 S Adams Rd, Rochester Hills, MI 48309-5518",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.64122384133,
+    "longitude": -83.199376692922,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197392",
+    "businessName": "ZETOUNA LIQUOR, FINE WINES \u0026 CIGARS",
+    "address": "3793 S Rochester Rd, Rochester Hills, MI 48307-5131",
+    "city": "Rochester Hills",
+    "zipCode": "48307",
+    "latitude": 42.625283765968,
+    "longitude": -83.130902777701,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282101",
+    "businessName": "ZO \u0026 DY INVESTMENT, INC.",
+    "address": "3980 CROOKS RD, ROCHESTER HILLS, MI 48309",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.622310357972,
+    "longitude": -83.170180175999,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "218861",
+    "businessName": "BP GAS STATION",
+    "address": "5977 Livernois Rd, Troy, MI 48098-3130",
+    "city": "Troy",
+    "zipCode": "48098",
+    "latitude": 42.606179450657,
+    "longitude": -83.149804105875,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291350",
+    "businessName": "CC\u0027S LIQUOR",
+    "address": "75 E Square Lake Rd, Troy, MI 48085-3104",
+    "city": "Troy",
+    "zipCode": "48085",
+    "latitude": 42.606530283969,
+    "longitude": -83.148461753643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214331",
+    "businessName": "CVS/PHARMACY #8162",
+    "address": "2045 South Blvd W, Troy, MI 48098-6540",
+    "city": "Troy",
+    "zipCode": "48098",
+    "latitude": 42.621915865151,
+    "longitude": -83.171378156344,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282700",
+    "businessName": "FJ HODY LLC",
+    "address": "6990 John R Rd, Troy, MI 48085-1018",
+    "city": "Troy",
+    "zipCode": "48085",
+    "latitude": 42.623564183962,
+    "longitude": -83.11079451747,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15916",
+    "businessName": "NINO SALVAGGIO INTERNATIONAL MARKET PLACE",
+    "address": "6835-6843 Rochester Rd, Troy, MI 48085-1242",
+    "city": "Troy",
+    "zipCode": "48085",
+    "latitude": 42.620569863972,
+    "longitude": -83.130558291492,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

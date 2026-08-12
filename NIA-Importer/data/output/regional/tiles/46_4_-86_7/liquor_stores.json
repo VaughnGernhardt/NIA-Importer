@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "239763",
+    "businessName": "HILLSIDE PARTY STORE",
+    "address": "1201 W State Highway M28, Munising, MI 49862-1356",
+    "city": "Munising",
+    "zipCode": "49862",
+    "latitude": 46.423544421687,
+    "longitude": -86.664035214518,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "129259",
+    "businessName": "PUTVIN DRUGS",
+    "address": "119 Elm Ave, Munising, MI 49862-1105",
+    "city": "Munising",
+    "zipCode": "49862",
+    "latitude": 46.411343035839,
+    "longitude": -86.655103591154,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242578",
+    "businessName": "UPPER PENINSULA INSPIRED, LLC",
+    "address": "321 E Superior St, Munising, MI 49862",
+    "city": "Munising",
+    "zipCode": "49862",
+    "latitude": 46.409432214434,
+    "longitude": -86.651801016662,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

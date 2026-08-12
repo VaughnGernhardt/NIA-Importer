@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0279706",
+    "businessName": "JOSE LAKE STORE \u0026 RESORT",
+    "address": "7065 Jose Lake Rd, South Branch, MI 48761-9614",
+    "city": "Plainfield Twp",
+    "zipCode": "48761",
+    "latitude": 44.483268786641,
+    "longitude": -83.823998940703,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225359",
+    "businessName": "SOUTH BRANCH GENERAL STORE",
+    "address": "6386 E County Line Rd, South Branch, MI 48761-9637",
+    "city": "Plainfield Twp",
+    "zipCode": "48761",
+    "latitude": 44.46198141672,
+    "longitude": -83.885231600733,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

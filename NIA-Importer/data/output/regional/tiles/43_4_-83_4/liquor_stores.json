@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "210938",
+    "businessName": "CARO TOBACCO OUTLET",
+    "address": "524 N State St, Caro, MI 48723-1542",
+    "city": "Caro",
+    "zipCode": "48723",
+    "latitude": 43.491758922477,
+    "longitude": -83.392592043992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271759",
+    "businessName": "THUMB MEAT MARKET, LLC",
+    "address": "200 E Frank St, Caro, MI 48723-1635",
+    "city": "Caro",
+    "zipCode": "48723",
+    "latitude": 43.488817941065,
+    "longitude": -83.395799757211,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141660",
+    "businessName": "WAL-MART SUPERCENTER #1798",
+    "address": "1121 E Caro Rd, Caro, MI 48723-1216",
+    "city": "Caro",
+    "zipCode": "48723",
+    "latitude": 43.499290835717,
+    "longitude": -83.382827324725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229554",
+    "businessName": "G.C. EXPRESS",
+    "address": "3511 Mertz Rd, Caro, MI 48723-9550",
+    "city": "Fremont Twp",
+    "zipCode": "48723",
+    "latitude": 43.408740907092,
+    "longitude": -83.383780062152,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263101",
+    "businessName": "DEO VOLENTE 2, LLC",
+    "address": "1020 W Sanilac Rd, Caro, MI 48723-9539",
+    "city": "Indianfields Twp",
+    "zipCode": "48723",
+    "latitude": 43.409165477876,
+    "longitude": -83.386570171428,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

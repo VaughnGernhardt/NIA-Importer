@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "264552",
+    "businessName": "KNAPPA VALLEY, LLC",
+    "address": "6385 Knapp St NE, ADA, MI 49301-9571",
+    "city": "Ada Twp",
+    "zipCode": "49301",
+    "latitude": 43.007504600564,
+    "longitude": -85.511568336637,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143594",
+    "businessName": "BELLA VISTA AGO",
+    "address": "6051 Belding Rd NE, Rockford, MI 49341-6700",
+    "city": "Cannon Twp",
+    "zipCode": "49341",
+    "latitude": 43.086330970965,
+    "longitude": -85.519264674996,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202134",
+    "businessName": "RIC\u0027S FOOD CENTER",
+    "address": "6767 Belding Rd NE, Rockford, MI 49341-7653",
+    "city": "Cannon Twp",
+    "zipCode": "49341",
+    "latitude": 43.086313074667,
+    "longitude": -85.501045914488,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246961",
+    "businessName": "BELTLINE \u0026 3 MILE MARATHON",
+    "address": "2808 E Beltline Ave NE, Grand Rapids, MI 49505-9704",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49505",
+    "latitude": 43.013398489328,
+    "longitude": -85.589983886463,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13104",
+    "businessName": "FAMILY FARE SUPERMARKETS #636",
+    "address": "5241 Northland Dr NE, Grand Rapids, MI 49525-1041",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.058342551132,
+    "longitude": -85.579956534361,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226098",
+    "businessName": "RIVERSIDE LIQUORS",
+    "address": "5498 Northland Dr NE, Grand Rapids, MI 49525-1031",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.062693743048,
+    "longitude": -85.579822541526,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224940",
+    "businessName": "TWO J\u0027S",
+    "address": "5374 Plainfield Ave NE, Grand Rapids, MI 49525-1053",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.05510418318,
+    "longitude": -85.58122277422,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

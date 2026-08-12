@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "230875",
+    "businessName": "GREG\u0027S GET-IT-N-G0",
+    "address": "509 Arlington Ct, Middleville, MI 49333-9166",
+    "city": "Middleville",
+    "zipCode": "49333",
+    "latitude": 42.717013730857,
+    "longitude": -85.470156582768,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267874",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "4650 N M 37 Hwy, Middleville, MI 49333-8806",
+    "city": "Middleville",
+    "zipCode": "49333",
+    "latitude": 42.719786998508,
+    "longitude": -85.471920780014,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265364",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "505 Towne Center Dr, Middleville, MI 49333-7083",
+    "city": "Thornapple Twp",
+    "zipCode": "49333",
+    "latitude": 42.718967164828,
+    "longitude": -85.471615098243,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

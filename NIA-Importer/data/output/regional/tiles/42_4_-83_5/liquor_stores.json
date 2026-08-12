@@ -1,0 +1,152 @@
+[
+  {
+    "businessId": "245372",
+    "businessName": "GRAND CONVENIENCE, INC.",
+    "address": "37375 Grand River Ave, Farmington, MI 48335-2820",
+    "city": "Farmington",
+    "zipCode": "48335",
+    "latitude": 42.468539120791,
+    "longitude": -83.415446104779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13651",
+    "businessName": "KROGER STORE #619",
+    "address": "37550 W 12 Mile Rd, Farmington Hills, MI 48331-3099",
+    "city": "Farmington Hills",
+    "zipCode": "48331",
+    "latitude": 42.497821328118,
+    "longitude": -83.418590811294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159601",
+    "businessName": "BRASS MUG LIQUOR",
+    "address": "19213 Newburgh Rd, Livonia, MI 48152-1026",
+    "city": "Livonia",
+    "zipCode": "48152",
+    "latitude": 42.426493088647,
+    "longitude": -83.41417328673,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214192",
+    "businessName": "CVS/PHARMACY #8009",
+    "address": "133 E Dunlap St, Northville, MI 48167-1612",
+    "city": "Northville",
+    "zipCode": "48167",
+    "latitude": 42.432283739468,
+    "longitude": -83.482582784966,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9999",
+    "businessName": "GOOD TIME PARTY STORE INC.",
+    "address": "567 7 Mile Rd, Northville, MI 48167-1639",
+    "city": "Northville",
+    "zipCode": "48167",
+    "latitude": 42.425737909821,
+    "longitude": -83.474894525821,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240047",
+    "businessName": "KROGER STORE #361",
+    "address": "425 N Center St, Northville, MI 48167-1263",
+    "city": "Northville",
+    "zipCode": "48167",
+    "latitude": 42.434810522327,
+    "longitude": -83.48329727849,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9809",
+    "businessName": "MEIJER #54",
+    "address": "20401 Haggerty Rd, Northville, MI 48167-1999",
+    "city": "Northville Twp",
+    "zipCode": "48167",
+    "latitude": 42.435181115206,
+    "longitude": -83.433982333414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11686",
+    "businessName": "SIX AND PARK PARTY SHOP",
+    "address": "17071 Northville Rd, Northville, MI 48168-9519",
+    "city": "Northville Twp",
+    "zipCode": "48168",
+    "latitude": 42.410390683899,
+    "longitude": -83.46922195245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243307",
+    "businessName": "TRADER JOE\u0027S",
+    "address": "18771 Traditions Dr, Northville, MI 48168-9494",
+    "city": "Northville Twp",
+    "zipCode": "48168",
+    "latitude": 42.422181473681,
+    "longitude": -83.433499119071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197072",
+    "businessName": "BUSCH\u0027S",
+    "address": "41840 W 10 Mile Rd, Novi, MI 48375-3386",
+    "city": "Novi",
+    "zipCode": "48375",
+    "latitude": 42.46717349538,
+    "longitude": -83.459064331948,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "136186",
+    "businessName": "NOVI FINE WINE \u0026 LIQUOR",
+    "address": "43340 W 10 Mile Rd, Novi, MI 48375-3209",
+    "city": "Novi",
+    "zipCode": "48375",
+    "latitude": 42.466630455505,
+    "longitude": -83.475718907951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157432",
+    "businessName": "NOVI PARTY STORE",
+    "address": "43025 Grand River Ave, Novi, MI 48375-1733",
+    "city": "Novi",
+    "zipCode": "48375",
+    "latitude": 42.479710692652,
+    "longitude": -83.470873214829,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266757",
+    "businessName": "ONE WORLD MARKET",
+    "address": "42705 Grand River Ave, Novi, MI 48375-1772",
+    "city": "Novi",
+    "zipCode": "48375",
+    "latitude": 42.479007116487,
+    "longitude": -83.4676944589,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288989",
+    "businessName": "SHEETZ #923",
+    "address": "39471 W 12 Mile Rd, Novi, MI 48377-3601",
+    "city": "Novi",
+    "zipCode": "48377",
+    "latitude": 42.496779632757,
+    "longitude": -83.437144805108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269320",
+    "businessName": "TOTAL WINE",
+    "address": "21071 Haggerty Rd, Novi, MI 48375-5304",
+    "city": "Novi",
+    "zipCode": "48375",
+    "latitude": 42.441405526046,
+    "longitude": -83.435305547815,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

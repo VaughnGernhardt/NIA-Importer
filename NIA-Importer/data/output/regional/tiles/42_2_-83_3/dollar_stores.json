@@ -1,0 +1,102 @@
+[
+  {
+    "storeId": "21588-ecorse-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 21588, Ecorse Road Taylor, MI 48180-1854",
+    "city": "Ecorse Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.256176081515,
+    "longitude": -83.247045377113
+  },
+  {
+    "storeId": "3160-fairlane-dr",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3160, Fairlane Dr Allen Park, MI 48101-2870",
+    "city": "Fairlane Dr Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.28455041612,
+    "longitude": -83.203772043701
+  },
+  {
+    "storeId": "22300-goddard-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 22300, Goddard Road Taylor, MI 48180-4234",
+    "city": "Goddard Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.227010531413,
+    "longitude": -83.253173504008
+  },
+  {
+    "storeId": "10333-pelham-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 10333, Pelham Rd Allen Park, MI 48101-1241",
+    "city": "Pelham Rd Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.231584233094,
+    "longitude": -83.229958248549
+  },
+  {
+    "storeId": "7834-telegraph-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 7834, Telegraph Road Taylor, MI 48180-2234",
+    "city": "Telegraph Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.252595853671,
+    "longitude": -83.26984240228
+  },
+  {
+    "storeId": "22635-ecorse-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 22635, Ecorse Rd Sunrise Shp Ctr Taylor, MI 48180-1850",
+    "city": "Ecorse Rd Sunrise Shp Ctr Taylor",
+    "zipCode": "48180",
+    "latitude": 42.255781172745,
+    "longitude": -83.256557981714
+  },
+  {
+    "storeId": "9200-pelham-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 9200, Pelham Road Taylor, MI 48180-3832",
+    "city": "Pelham Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.241981680735,
+    "longitude": -83.230580816264
+  },
+  {
+    "storeId": "4007-pelham-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4007, Pelham Street Dearborn Heights, MI 48125-3100",
+    "city": "Pelham Street Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.281596334526,
+    "longitude": -83.23152845111
+  },
+  {
+    "storeId": "10550-telegraph-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 10550, Telegraph Road Taylor, MI 48180-3372",
+    "city": "Telegraph Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.23055645817,
+    "longitude": -83.269610300692
+  },
+  {
+    "storeId": "25190-van-born-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 25190, Van Born Rd. Dearborn Heights, MI 48125-2009",
+    "city": "Van Born Rd. Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.268916383501,
+    "longitude": -83.281310101154
+  }
+]

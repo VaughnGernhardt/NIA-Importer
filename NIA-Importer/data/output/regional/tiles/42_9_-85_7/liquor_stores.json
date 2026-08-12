@@ -1,0 +1,702 @@
+[
+  {
+    "businessId": "0290595",
+    "businessName": "EGRC MARKET LLC",
+    "address": "703 Bagley Ave SE, East Grand Rapids, MI 49506-3001",
+    "city": "East Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.950400364097,
+    "longitude": -85.614357928129,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166582",
+    "businessName": "FAMILY FARE #1576",
+    "address": "2181 Wealthy St SE, East Grand Rapids, MI 49506-3033",
+    "city": "East Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.950915201694,
+    "longitude": -85.615224597268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145024",
+    "businessName": "ART OF THE TABLE",
+    "address": "606 Wealthy St SE, Grand Rapids, MI 49503-5432",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.955616285897,
+    "longitude": -85.653907825263,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277759",
+    "businessName": "B \u0026 B PARTY STORE",
+    "address": "509 Leonard St NW, Grand Rapids, MI 49504-4202",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.985033382727,
+    "longitude": -85.68035920441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272778",
+    "businessName": "BALL PARK PARTY STORE",
+    "address": "1157 Fulton St W, Grand Rapids, MI 49504-6116",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.963812923285,
+    "longitude": -85.696269794509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240045",
+    "businessName": "BEER CITY",
+    "address": "825 28th St SE, Grand Rapids, MI 49508-1331",
+    "city": "Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.912858070934,
+    "longitude": -85.646420212916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272066",
+    "businessName": "BEER RUN",
+    "address": "235 Hall St SE, Grand Rapids, MI 49507-1772",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.941418501692,
+    "longitude": -85.662104032175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245824",
+    "businessName": "BRIDGE STREET MARKET #660",
+    "address": "405 Seward Ave NW, Grand Rapids, MI 49504-5556",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.970746124249,
+    "longitude": -85.682829286904,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275841",
+    "businessName": "BURTON MARKET",
+    "address": "739-743-747 Burton St SE, Grand Rapids, MI 49507",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.927399752404,
+    "longitude": -85.649123831732,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15511",
+    "businessName": "BURTON QUICK STOP",
+    "address": "1215 Burton St SE, Grand Rapids, MI 49507-3301",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.927239502089,
+    "longitude": -85.637548155514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10701",
+    "businessName": "BUTTERWORTH PARTY STORE",
+    "address": "944 Butterworth St SW, Grand Rapids, MI 49504-6271",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.95843000046,
+    "longitude": -85.691401210139,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291202",
+    "businessName": "CENTURY FOOD \u0026 LIQUOR",
+    "address": "2026 Boston St SE, Grand Rapids, MI 49506-4162",
+    "city": "Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.934308559352,
+    "longitude": -85.61867136625,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231033",
+    "businessName": "CHAMPION BEVERAGE",
+    "address": "501 Leonard St NE, Grand Rapids, MI 49503-1132",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.984580144313,
+    "longitude": -85.657042905605,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284642",
+    "businessName": "CHERRY HILL MARKET",
+    "address": "717-719-721-723 Cherry St SE, Grand Rapids, MI 49503",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.959571213248,
+    "longitude": -85.651075174649,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266745",
+    "businessName": "CRESTON MARKET",
+    "address": "1403 Plainfield Ave NE, Grand Rapids, MI 49505-4916",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.988514577725,
+    "longitude": -85.664844408897,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214257",
+    "businessName": "CVS PHARMACY #8291",
+    "address": "727 28th St SE, Grand Rapids, MI 49548",
+    "city": "Grand Rapids",
+    "zipCode": "49548",
+    "latitude": 42.912862735651,
+    "longitude": -85.648121441939,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166552",
+    "businessName": "D \u0026 W #1571",
+    "address": "1814 Breton Rd SE, Grand Rapids, MI 49506-4802",
+    "city": "Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.930601367245,
+    "longitude": -85.609360501044,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272985",
+    "businessName": "DANNY\u0027S BEVERAGE",
+    "address": "1552-1554 Alpine Ave NW, Grand Rapids, MI 49504",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.991938926619,
+    "longitude": -85.688163152189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259679",
+    "businessName": "DUTHLER\u0027S FAMILY FOODS",
+    "address": "1226 Madison Ave SE, Grand Rapids, MI 49507-1780",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.940337532105,
+    "longitude": -85.658865078826,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166553",
+    "businessName": "FAMILY FARE #1587",
+    "address": "1415 Fulton St E, Grand Rapids, MI 49503-3853",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.962780631968,
+    "longitude": -85.635595376117,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279629",
+    "businessName": "FAMILY PANTRY",
+    "address": "704 Stocking Ave NW, Grand Rapids, MI 49504-5121",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.976572309516,
+    "longitude": -85.688740971428,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268653",
+    "businessName": "FAST LANE PARTY STORE",
+    "address": "1720 Buchanan Ave SW, Grand Rapids, MI 49507-1617",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.932650285132,
+    "longitude": -85.671743526071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "175372",
+    "businessName": "FRANKLIN BEER, WINE \u0026 GAS",
+    "address": "331 Martin Luther King Jr. ST SW, Grand Rapids, MI 49503",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.955239792814,
+    "longitude": -85.675764420575,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275558",
+    "businessName": "FRANKLIN BIG SAVE",
+    "address": "747 Division Ave S, Grand Rapids, MI 49503-5136",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.949445389449,
+    "longitude": -85.667591437497,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241165",
+    "businessName": "FRESH THYME MARKET",
+    "address": "2470 Burton St SE, Grand Rapids, MI 49546-4811",
+    "city": "Grand Rapids",
+    "zipCode": "49546",
+    "latitude": 42.927053991648,
+    "longitude": -85.606693283613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235830",
+    "businessName": "FULLER QUICK STOP",
+    "address": "876 Fuller Ave NE, Grand Rapids, MI 49503-1945",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.97852345178,
+    "longitude": -85.639736341593,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143388",
+    "businessName": "FULTON PARTY STORE",
+    "address": "734 Fulton St W, Grand Rapids, MI 49504-6320",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.963443651926,
+    "longitude": -85.686387346591,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279043",
+    "businessName": "GR CITY MARKET",
+    "address": "1021 Bridge St NW, Grand Rapids, MI 49504-5024",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.970954656569,
+    "longitude": -85.693366208491,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228084",
+    "businessName": "GRAPEVINE WINE \u0026 DELI",
+    "address": "1559 Michigan St NE, Grand Rapids, MI 49503-2007",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.97001814535,
+    "longitude": -85.630868500778,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10631",
+    "businessName": "HALL STREET PARTY STORE",
+    "address": "110 Hall St SW, Grand Rapids, MI 49507-1032",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.941455933506,
+    "longitude": -85.670001029256,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289465",
+    "businessName": "HOMETOWN LIQUOR AND SPIRITS INC",
+    "address": "1548 KALAMAZOO AVE SE, GRAND RAPIDS, MI 49507",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.934945907243,
+    "longitude": -85.639330889,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241599",
+    "businessName": "J \u0026 K PARTY STORE",
+    "address": "1237 Plainfield Ave NE, Grand Rapids, MI 49505-4903",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.985704365949,
+    "longitude": -85.666900864537,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228378",
+    "businessName": "L \u0026 L MARKET",
+    "address": "649 Clancy Ave NE, Grand Rapids, MI 49503-1534",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.974432140367,
+    "longitude": -85.663247311681,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11915",
+    "businessName": "MARTHA\u0027S VINEYARD, LTD.",
+    "address": "208 Union Ave NE, Grand Rapids, MI 49503-3451",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.967661867105,
+    "longitude": -85.654393543915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9538",
+    "businessName": "MEIJER #311",
+    "address": "1540 28th St SE, Grand Rapids, MI 49508",
+    "city": "Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.91258630744,
+    "longitude": -85.629319885509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278164",
+    "businessName": "MISS TRACY\u0027S PARTY STORE",
+    "address": "1043 FRANKLIN ST SE, GRAND RAPIDS, MI 49507",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.948371310625,
+    "longitude": -85.642577464445,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238692",
+    "businessName": "MITI MINI LIQUOR",
+    "address": "1210 Giddings Ave SE, Grand Rapids, MI 49506-3214",
+    "city": "Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.94082461669,
+    "longitude": -85.63458848916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245714",
+    "businessName": "MY FOOD MARKET",
+    "address": "1242 Fuller Ave NE, Grand Rapids, MI 49505-5533",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.985226400571,
+    "longitude": -85.639790514504,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270644",
+    "businessName": "NORTH END CONVENIENCE",
+    "address": "1585 Plainfield Ave NE, Grand Rapids, MI 49505-4944",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.991548263045,
+    "longitude": -85.66247852611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250073",
+    "businessName": "OUR FOOD MARKET",
+    "address": "423 Webster St NW, Grand Rapids, MI 49504-3238",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.989956892402,
+    "longitude": -85.678650915872,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "158939",
+    "businessName": "OXFORD FOOD CENTER",
+    "address": "817 Oxford St SW, Grand Rapids, MI 49503-4849",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.94702155306,
+    "longitude": -85.687407234654,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270863",
+    "businessName": "PARTY COOLER",
+    "address": "1001 Michigan St NE, Grand Rapids, MI 49503-1907",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.970071502015,
+    "longitude": -85.644604058916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238719",
+    "businessName": "QIK N EZ",
+    "address": "1001 Fulton St W, Grand Rapids, MI 49504-6152",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.963711096555,
+    "longitude": -85.692454261142,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273505",
+    "businessName": "RAUS FOOD \u0026 BEVERAGE",
+    "address": "2025-2027 DIVISION AVE S, GRAND RAPIDS, MI 49507",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.926851867753,
+    "longitude": -85.666700759337,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "205413",
+    "businessName": "RICHARD\u0027S TAKEOUT",
+    "address": "1134 Burton St SE, Grand Rapids, MI 49507-3326",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.927168594254,
+    "longitude": -85.640040616214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273869",
+    "businessName": "RUBY\u0027S LIQUOR",
+    "address": "1701 Madison Ave SE, Grand Rapids, MI 49507-2517",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.932694527527,
+    "longitude": -85.658423612692,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276638",
+    "businessName": "Rapid Liquor",
+    "address": "2340 28th St SE, Grand Rapids, MI 49508-1562",
+    "city": "Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.912576327829,
+    "longitude": -85.609708981396,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292105",
+    "businessName": "S PRIYA, LLC",
+    "address": "2413 Eastern Ave SE, Grand Rapids, MI 49507-3601",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.919787616093,
+    "longitude": -85.647601895274,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275570",
+    "businessName": "SAAP ENTERPRISE INC",
+    "address": "1621 Leonard St NE, Grand Rapids, MI 49505-5658",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.984499142733,
+    "longitude": -85.627974591174,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280462",
+    "businessName": "SAM\u0027S SUPERMARKET",
+    "address": "601-605 EASTERN AVE SE, GRAND RAPIDS, MI 49503",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.951479164912,
+    "longitude": -85.649344763977,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286816",
+    "businessName": "SHORT STOP PARTY STORE",
+    "address": "1759 Division Ave S, Grand Rapids, MI 49507-1632",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.931780437622,
+    "longitude": -85.666938652865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143882",
+    "businessName": "SPIKE-N-MIKES",
+    "address": "967 Fulton St E, Grand Rapids, MI 49503-3563",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.962836147345,
+    "longitude": -85.64501837566,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239765",
+    "businessName": "STOCKBRIDGE PARTY STORE",
+    "address": "634 Bridge St NW, Grand Rapids, MI 49504-5334",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.970620358914,
+    "longitude": -85.684134665662,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281010",
+    "businessName": "THE BAR \u0026 TENDER",
+    "address": "1307 Fulton St E, Grand Rapids, MI 49503-3851",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.962779232762,
+    "longitude": -85.637396652284,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275295",
+    "businessName": "THE BOTTLE HOUSE",
+    "address": "2208 Division Ave S, Grand Rapids, MI 49507-3033",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.923628717199,
+    "longitude": -85.666406543633,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232099",
+    "businessName": "TILLIE\u0027S MARKET",
+    "address": "1702 Monroe Ave NW, Grand Rapids, MI 49505-4661",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 42.99381815356,
+    "longitude": -85.670421195898,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282712",
+    "businessName": "TUSCAN LIQUORS",
+    "address": "1140 Monroe Ave NW, Grand Rapids, MI 49503-1054",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.983404290181,
+    "longitude": -85.670626518809,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230818",
+    "businessName": "WEALTHY MARKET",
+    "address": "1012 Wealthy St SE, Grand Rapids, MI 49506-1517",
+    "city": "Grand Rapids",
+    "zipCode": "49506",
+    "latitude": 42.955494557113,
+    "longitude": -85.643524020301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166538",
+    "businessName": "WILLIE\u0027S FOODS",
+    "address": "1425 Eastern Ave SE, Grand Rapids, MI 49507-2023",
+    "city": "Grand Rapids",
+    "zipCode": "49507",
+    "latitude": 42.93759842201,
+    "longitude": -85.648992567791,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193396",
+    "businessName": "ZELLER PARTY STORE",
+    "address": "168 Louis Campau Promenade NW, Grand Rapids, MI 49503-2687",
+    "city": "Grand Rapids",
+    "zipCode": "49503",
+    "latitude": 42.965342916892,
+    "longitude": -85.672894499845,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291708",
+    "businessName": "MN STORES LLC",
+    "address": "3151 BRETON RD SE, KENTWOOD, MI 49508",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.905992888332,
+    "longitude": -85.607763827067,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "218399",
+    "businessName": "GALEWOOD FOODS",
+    "address": "1149 Burton St SW, Wyoming, MI 49509-1434",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.928068317601,
+    "longitude": -85.695314343145,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229317",
+    "businessName": "HARRY\u0027S CORNER",
+    "address": "791 32nd St SE, Wyoming, MI 49508",
+    "city": "Wyoming",
+    "zipCode": "49508",
+    "latitude": 42.905641157165,
+    "longitude": -85.646848079334,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275619",
+    "businessName": "J-SHEA ENTERPRISES II LLC",
+    "address": "55 28TH ST SW, WYOMING, MI 49548",
+    "city": "Wyoming",
+    "zipCode": "49548",
+    "latitude": 42.913151080397,
+    "longitude": -85.667356072155,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278108",
+    "businessName": "KGN MARKET",
+    "address": "1273 Chicago Dr SW, Wyoming, MI 49509-1076",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.935521154938,
+    "longitude": -85.698919470189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285838",
+    "businessName": "MOBILE PLAZA",
+    "address": "800 28TH ST SW, WYOMING, MI 49509",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.913294151162,
+    "longitude": -85.685739248304,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270422",
+    "businessName": "P \u0026 V - ALLENDALE, LLC",
+    "address": "2851 Clyde Park Ave SW, Wyoming, MI 49509-2911",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.912298486007,
+    "longitude": -85.685687955862,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "267821",
+    "businessName": "PFEFFER\u0027S PARTY STORE",
+    "address": "1054 Burton St SW, Wyoming, MI 49509-1498",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.927929825658,
+    "longitude": -85.693031443888,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277937",
+    "businessName": "RUSTY CORK, LLC",
+    "address": "2671 Division Ave S, Grand Rapids, MI 49507-3417",
+    "city": "Wyoming",
+    "zipCode": "49507",
+    "latitude": 42.915946444477,
+    "longitude": -85.666205460223,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273243",
+    "businessName": "STAR FOOD \u0026 BEVERAGE",
+    "address": "1155 Chicago Dr SW, Wyoming, MI 49509-1003",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.935542359719,
+    "longitude": -85.695345971528,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

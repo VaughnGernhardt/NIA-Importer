@@ -1,0 +1,242 @@
+[
+  {
+    "propertyId": "800017118",
+    "propertyName": "ACCESSIBLE COUNTRY TRAIL",
+    "latitude": 41.621693998761636,
+    "longitude": -83.64597699958792,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800060094",
+    "propertyName": "ACCESSIBLE COUNTRY TRAIL II",
+    "latitude": 41.62203499874867,
+    "longitude": -83.64459200043906,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800212837",
+    "propertyName": "BROOKVIEW GARDENS",
+    "latitude": 41.62231799926504,
+    "longitude": -83.63973400031574,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800016327",
+    "propertyName": "BYRNEPORT APARTMENTS",
+    "latitude": 41.624794999217585,
+    "longitude": -83.61688700037104,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800112183",
+    "propertyName": "DOVES MANOR",
+    "latitude": 41.62222399897503,
+    "longitude": -83.64014799969422,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800017296",
+    "propertyName": "ESSEMAR SENIOR APARTMENTS",
+    "latitude": 41.63830799896164,
+    "longitude": -83.63102599964947,
+    "assistedUnits": 50,
+    "totalUnits": 51
+  },
+  {
+    "propertyId": "800016642",
+    "propertyName": "GREENVIEW GARDENS",
+    "latitude": 41.6195169990994,
+    "longitude": -83.65433799992458,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800016656",
+    "propertyName": "HAMPTON COURT",
+    "latitude": 41.68217399885379,
+    "longitude": -83.61874400042132,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800016703",
+    "propertyName": "HILLTOP VILLAGE",
+    "latitude": 41.64253999909906,
+    "longitude": -83.62652099970357,
+    "assistedUnits": 90,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800016719",
+    "propertyName": "HOPE MANOR",
+    "latitude": 41.69348999904367,
+    "longitude": -83.6281850003083,
+    "assistedUnits": 100,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800016728",
+    "propertyName": "IDE APARTMENTS II",
+    "latitude": 41.62743799906155,
+    "longitude": -83.6248269998599,
+    "assistedUnits": 17,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800016729",
+    "propertyName": "IDE CENTER APARTMENTS",
+    "latitude": 41.6478619990933,
+    "longitude": -83.6592520001244,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800059748",
+    "propertyName": "JOHN H MCKISSICK SENIOR APARTMENTS",
+    "latitude": 41.62115799937118,
+    "longitude": -83.63292999955539,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800060097",
+    "propertyName": "LIVING STREAM",
+    "latitude": 41.62176899883469,
+    "longitude": -83.64432799995011,
+    "assistedUnits": 5,
+    "totalUnits": 5
+  },
+  {
+    "propertyId": "800016861",
+    "propertyName": "LUTHER CREST",
+    "latitude": 41.66760599880977,
+    "longitude": -83.68272199968494,
+    "assistedUnits": 71,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800016902",
+    "propertyName": "MAUMEE HOUSE",
+    "latitude": 41.64961799938917,
+    "longitude": -83.65686100014672,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800226176",
+    "propertyName": "MERCY OUTREACH MINISTRIES IV",
+    "latitude": 41.651133999072925,
+    "longitude": -83.65818300044471,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800016926",
+    "propertyName": "MICHAELMAS MANOR",
+    "latitude": 41.60885499891336,
+    "longitude": -83.62107500012452,
+    "assistedUnits": 94,
+    "totalUnits": 94
+  },
+  {
+    "propertyId": "800017013",
+    "propertyName": "NORWICH APARTMENTS",
+    "latitude": 41.62037099884583,
+    "longitude": -83.66303599964682,
+    "assistedUnits": 76,
+    "totalUnits": 77
+  },
+  {
+    "propertyId": "800017032",
+    "propertyName": "OBLATE RESIDENCES",
+    "latitude": 41.65228799925537,
+    "longitude": -83.66771399984508,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800017045",
+    "propertyName": "OTTAWA HOUSE",
+    "latitude": 41.63882799906721,
+    "longitude": -83.66849999966753,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800017055",
+    "propertyName": "PALMER GARDENS",
+    "latitude": 41.666701999179864,
+    "longitude": -83.60974700005002,
+    "assistedUnits": 75,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800017081",
+    "propertyName": "PELHAM MANOR",
+    "latitude": 41.66698599873856,
+    "longitude": -83.6099500004396,
+    "assistedUnits": 100,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800221470",
+    "propertyName": "PILGRIM PORT",
+    "latitude": 41.62348599885464,
+    "longitude": -83.64946899993062,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800235534",
+    "propertyName": "SCHLEICHER HOMES V",
+    "latitude": 41.62334899912469,
+    "longitude": -83.65419599963435,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800017282",
+    "propertyName": "SOUTHGATE WOODS APARTMENTS",
+    "latitude": 41.63164999936833,
+    "longitude": -83.64874099983447,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800017316",
+    "propertyName": "STEWART APARTMENTS",
+    "latitude": 41.63836699935381,
+    "longitude": -83.65220499968977,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800017355",
+    "propertyName": "THE OAKS",
+    "latitude": 41.63882799906721,
+    "longitude": -83.66876900017937,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800017486",
+    "propertyName": "WESTLAND GARDENS",
+    "latitude": 41.65545199897574,
+    "longitude": -83.67941799966322,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800219775",
+    "propertyName": "WOODSIDE VILLAGE",
+    "latitude": 41.62247199881542,
+    "longitude": -83.63960999956888,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  }
+]

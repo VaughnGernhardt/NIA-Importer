@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0272169",
+    "businessName": "EXPRESS STOP #4664",
+    "address": "4749 Knowles Rd, North Adams, MI 49262-9709",
+    "city": "North Adams",
+    "zipCode": "49262",
+    "latitude": 41.966514831824,
+    "longitude": -84.52547277086,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287762",
+    "businessName": "NORTH ADAMS GENERAL STORE",
+    "address": "101-103 W MAIN ST, NORTH ADAMS, MI 49262-9803",
+    "city": "North Adams",
+    "zipCode": "49262",
+    "latitude": 41.970831115308,
+    "longitude": -84.525697708723,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

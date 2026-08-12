@@ -1,0 +1,312 @@
+[
+  {
+    "businessId": "233625",
+    "businessName": "BALDWIN EXPRESS",
+    "address": "1019 Baldwin Ave, Pontiac, MI 48340-2609",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.665197634342,
+    "longitude": -83.300304298027,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228965",
+    "businessName": "COUNTRY FARM MARKET",
+    "address": "701 Orchard Lake Rd, Pontiac, MI 48341-2076",
+    "city": "Pontiac",
+    "zipCode": "48341",
+    "latitude": 42.626587295264,
+    "longitude": -83.313927117436,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234922",
+    "businessName": "HURON PLAZA LIQUOR STORE",
+    "address": "694 W Huron St, Pontiac, MI 48341-1523",
+    "city": "Pontiac",
+    "zipCode": "48341",
+    "latitude": 42.635498256288,
+    "longitude": -83.318220298757,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215647",
+    "businessName": "IN-N-OUT",
+    "address": "310 W Kennett Rd, Pontiac, MI 48340-1726",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.66421469583,
+    "longitude": -83.311846621964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287826",
+    "businessName": "KENNEDY KL, INC.",
+    "address": "676 Cesar E Chavez Ave, Pontiac, MI 48340-2458",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.653602819028,
+    "longitude": -83.311722018716,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287218",
+    "businessName": "PONTIAC LIQUOR, LLC",
+    "address": "1368 Baldwin Ave, Pontiac, MI 48340-1918",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.67488086894,
+    "longitude": -83.300543503278,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202573",
+    "businessName": "SYLVAN QUALITY MARKET",
+    "address": "2310 Orchard Lake Rd, Sylvan Lake, MI 48320-1650",
+    "city": "Sylvan Lake",
+    "zipCode": "48320",
+    "latitude": 42.611102558784,
+    "longitude": -83.329030849878,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277689",
+    "businessName": "BILLY-BOB\u0027S COUNTRY MARKET",
+    "address": "5100 Dixie Hwy, Waterford, MI 48329-1794",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.693247477245,
+    "longitude": -83.390155718832,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212200",
+    "businessName": "CRESCENT FOOD STORE",
+    "address": "5040 Elizabeth Lake Rd, Waterford, MI 48327-2744",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.644419137487,
+    "longitude": -83.385119187658,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214188",
+    "businessName": "CVS/PHARMACY #8049",
+    "address": "4995 Highland Rd, Waterford, MI 48328-1143",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.660002212251,
+    "longitude": -83.386080539096,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264421",
+    "businessName": "F \u0026 Z HOLDING, LLC",
+    "address": "141 N Telegraph Rd, Waterford, MI 48328-3779",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.638770561477,
+    "longitude": -83.325947111172,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14186",
+    "businessName": "FAMILY FOOD CENTER",
+    "address": "5177 Cass Elizabeth Rd, Waterford, MI 48327-3225",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.627360712934,
+    "longitude": -83.388128867891,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156752",
+    "businessName": "GRAPES \u0026 HOPS MARKET",
+    "address": "4177 Cass Elizabeth Rd, Waterford, MI 48328-4206",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.62436215083,
+    "longitude": -83.367876940698,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12478",
+    "businessName": "K \u0026 Z MARKET",
+    "address": "4850 Hatchery Rd, Waterford, MI 48329-3636",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.67515431924,
+    "longitude": -83.382427465806,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "130908",
+    "businessName": "KROGER STORE #675",
+    "address": "5111 Highland Rd, Waterford, MI 48327-1915",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.660261314184,
+    "longitude": -83.388400950469,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14913",
+    "businessName": "LAKESIDE PARTY STORE",
+    "address": "5753 Elizabeth Lake Rd, Waterford, MI 48327-2678",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.645358963798,
+    "longitude": -83.39989005882,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232334",
+    "businessName": "LAKEVIEW PARTY STORE \u0026 PIZZA",
+    "address": "990 S Cass Lake Rd, Waterford, MI 48328-4121",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.624904540737,
+    "longitude": -83.354929724012,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10079",
+    "businessName": "LAKEWAYS MARKET",
+    "address": "3468 Pontiac Lake Rd, Waterford, MI 48328-2402",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.65396302831,
+    "longitude": -83.354912559595,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9790",
+    "businessName": "MEIJER #53",
+    "address": "4200 Highland Rd, Waterford, MI 48328-2137",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.65191188191,
+    "longitude": -83.36975449508,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220422",
+    "businessName": "MOBIL",
+    "address": "3000 Pontiac Lake Rd, Waterford, MI 48328-2659",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.654164161785,
+    "longitude": -83.346354060882,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247514",
+    "businessName": "MOBIL CRESCENT, INC.",
+    "address": "5010 Highland Rd, Waterford, MI 48327-1911",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.660181229784,
+    "longitude": -83.386477210594,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221626",
+    "businessName": "MY TOWN MOBILE",
+    "address": "5761 Cooley Lake Rd, Waterford, MI 48327-3017",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.622683723547,
+    "longitude": -83.398193870077,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286151",
+    "businessName": "PLANET BEVERAGE 4290",
+    "address": "4290 W Walton Blvd, Waterford, MI 48329-4180",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.689978767603,
+    "longitude": -83.372639491863,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285496",
+    "businessName": "PONTIAC LAKE EXPRESS, INC.",
+    "address": "2891 Pontiac Lake Rd, Waterford, MI 48328-2686",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.654091789423,
+    "longitude": -83.344003991274,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261451",
+    "businessName": "SHELL",
+    "address": "5684 Highland Rd, Waterford, MI 48327-1928",
+    "city": "Waterford Twp",
+    "zipCode": "48327",
+    "latitude": 42.660118664571,
+    "longitude": -83.399526012752,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141428",
+    "businessName": "WALTON LIQUOR STORE",
+    "address": "4120 W Walton Blvd, Waterford, MI 48329-4178",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.690037188239,
+    "longitude": -83.370339175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239126",
+    "businessName": "WATERFORD BEVERAGES",
+    "address": "2685 Elizabeth Lake Rd, Waterford, MI 48328-3211",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.639611230828,
+    "longitude": -83.339398061451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12917",
+    "businessName": "WINE CELLAR PARTY STORE",
+    "address": "1325 W Huron St, Waterford, MI 48328-3642",
+    "city": "Waterford Twp",
+    "zipCode": "48328",
+    "latitude": 42.634770490596,
+    "longitude": -83.338050638142,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214239",
+    "businessName": "CVS/PHARMACY #8227",
+    "address": "2387 Orchard Lake Rd, Sylvan Lake, MI 48320-1651",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48320",
+    "latitude": 42.610175618633,
+    "longitude": -83.33159877109,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239160",
+    "businessName": "PLANET BEVERAGE, INC",
+    "address": "2065 Hiller Rd, West Bloomfield, MI 48324-1136",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48324",
+    "latitude": 42.607916605731,
+    "longitude": -83.398200569828,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236686",
+    "businessName": "SHELL",
+    "address": "2277 Orchard Lake Rd, West Bloomfield, MI 48320",
+    "city": "West Bloomfield Twp",
+    "zipCode": "48320",
+    "latitude": 42.611436199285,
+    "longitude": -83.328237082218,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

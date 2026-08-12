@@ -1,0 +1,90 @@
+[
+  {
+    "propertyId": "800009929",
+    "propertyName": "BIRCH RUN TOWNHOUSE COOPERATIVE 1 \u0026 2",
+    "latitude": 42.24200099908778,
+    "longitude": -83.38984800010347,
+    "assistedUnits": 41,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800010198",
+    "propertyName": "HICKORY HOLLOW COOPERATIVE I \u0026 II",
+    "latitude": 42.267731998788236,
+    "longitude": -83.35608300016305,
+    "assistedUnits": 95,
+    "totalUnits": 267
+  },
+  {
+    "propertyId": "800224044",
+    "propertyName": "LIBERTY HILL HOMES II",
+    "latitude": 42.29211799913746,
+    "longitude": -83.38651800014246,
+    "assistedUnits": 9,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800219474",
+    "propertyName": "LIBERTY HILLS HOMES I",
+    "latitude": 42.27876999919658,
+    "longitude": -83.3486370004186,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800010524",
+    "propertyName": "ROMULUS TOWER",
+    "latitude": 42.22063499876892,
+    "longitude": -83.396123000061,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800010569",
+    "propertyName": "ST CLEMENTS HOUSE",
+    "latitude": 42.27974999930916,
+    "longitude": -83.32809500023782,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010595",
+    "propertyName": "TAE-KEUK VILLAGE",
+    "latitude": 42.28138599908314,
+    "longitude": -83.39256100029641,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800009847",
+    "propertyName": "THOMPSON TOWERS",
+    "latitude": 42.29269199933322,
+    "longitude": -83.31503899998448,
+    "assistedUnits": 240,
+    "totalUnits": 300
+  },
+  {
+    "propertyId": "800212870",
+    "propertyName": "VILLAGE OF OUR SAVIORS MANOR",
+    "latitude": 42.27490499873321,
+    "longitude": -83.32981300037092,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800010687",
+    "propertyName": "WELLESLEY TOWNHOUSES COOPERATIVE 1-5",
+    "latitude": 42.24232899877945,
+    "longitude": -83.39004599957188,
+    "assistedUnits": 130,
+    "totalUnits": 379
+  },
+  {
+    "propertyId": "800010525",
+    "propertyName": "WHISPERING WILLOWS",
+    "latitude": 42.22230099885926,
+    "longitude": -83.38559000002978,
+    "assistedUnits": 64,
+    "totalUnits": 65
+  }
+]

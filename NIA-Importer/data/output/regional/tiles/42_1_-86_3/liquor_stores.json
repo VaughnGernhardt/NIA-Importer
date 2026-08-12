@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0279204",
+    "businessName": "A\u0026B RED ARROW, INC.",
+    "address": "6600 Red Arrow Hwy, Coloma, MI 49038-8717",
+    "city": "Coloma Twp",
+    "zipCode": "49038",
+    "latitude": 42.186048724463,
+    "longitude": -86.297209289661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "130225",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "6577 Paw Paw Ave, Coloma, MI 49038-8805",
+    "city": "Coloma Twp",
+    "zipCode": "49038",
+    "latitude": 42.193363314664,
+    "longitude": -86.29840014966,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "208361",
+    "businessName": "B P GAS STATION",
+    "address": "748 S Main St, Watervliet, MI 49098-9537",
+    "city": "Watervliet",
+    "zipCode": "49098",
+    "latitude": 42.179177639463,
+    "longitude": -86.261914083914,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234987",
+    "businessName": "JOT LIQUOR INC.",
+    "address": "3558 NORTH M-140, WATERVLIET, MI 49098",
+    "city": "Watervliet",
+    "zipCode": "49098",
+    "latitude": 42.175869694606,
+    "longitude": -86.261923090488,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16173",
+    "businessName": "WESCO #20",
+    "address": "4725 N M 140, Watervliet, MI 49098-9309",
+    "city": "Watervliet Twp",
+    "zipCode": "49098",
+    "latitude": 42.197629026355,
+    "longitude": -86.257611261951,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

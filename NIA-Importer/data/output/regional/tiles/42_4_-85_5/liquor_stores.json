@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0276111",
+    "businessName": "THE DELTON MARKET",
+    "address": "11196 S M 43 Hwy, Delton, MI 49046-9418",
+    "city": "Barry Twp",
+    "zipCode": "49046",
+    "latitude": 42.489938502329,
+    "longitude": -85.410470658294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260797",
+    "businessName": "GULL LAKE MARKET",
+    "address": "15476 S M 43 Hwy, Hickory Corners, MI 49060-9525",
+    "city": "Prairieville Twp",
+    "zipCode": "49060",
+    "latitude": 42.427418249232,
+    "longitude": -85.431739572576,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0282324",
+    "businessName": "V \u0026 B MARKET",
+    "address": "5011 E Mount Morris Rd, Mount Morris, MI 48458-9713",
+    "city": "Genesee Twp",
+    "zipCode": "48458",
+    "latitude": 43.120605290185,
+    "longitude": -83.617225435251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227256",
+    "businessName": "VALLEY LIQUOR",
+    "address": "11741 N Saginaw St, Mount Morris, MI 48458-2022",
+    "city": "Mt Morris",
+    "zipCode": "48458",
+    "latitude": 43.118904318991,
+    "longitude": -83.6944871768,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0258874",
+    "businessName": "BRIAN\u0027S MARKET",
+    "address": "9052 N Saginaw Rd, Mount Morris, MI 48458-1128",
+    "city": "Thetford Twp",
+    "zipCode": "48458",
+    "latitude": 43.134934350558,
+    "longitude": -83.69450824896,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

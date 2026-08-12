@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0269643",
+    "businessName": "IONIA GAS LLC",
+    "address": "2980 S State Rd, Ionia, MI 48846-9475",
+    "city": "Berlin Twp",
+    "zipCode": "48846",
+    "latitude": 42.944397641449,
+    "longitude": -85.07481285927,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10116",
+    "businessName": "MEIJER #303",
+    "address": "2770 S State Rd, Ionia, MI 48846-8472",
+    "city": "Berlin Twp",
+    "zipCode": "48846",
+    "latitude": 42.946990571921,
+    "longitude": -85.074789552354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160345",
+    "businessName": "WAL-MART SUPER CENTER #5411",
+    "address": "152 W Sprague Rd, Ionia, MI 48846-7402",
+    "city": "Berlin Twp",
+    "zipCode": "48846",
+    "latitude": 42.941599203332,
+    "longitude": -85.082294250047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246680",
+    "businessName": "EVEN MORE PURKS",
+    "address": "703 W Lincoln Ave, Ionia, MI 48846-1038",
+    "city": "Ionia",
+    "zipCode": "48846",
+    "latitude": 42.987301702073,
+    "longitude": -85.075089339442,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227518",
+    "businessName": "IONIA MARATHON",
+    "address": "121 N Dexter St, Ionia, MI 48846-1547",
+    "city": "Ionia",
+    "zipCode": "48846",
+    "latitude": 42.982383815339,
+    "longitude": -85.070339574757,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220921",
+    "businessName": "MAYS CORNER",
+    "address": "665 E Main St, Ionia, MI 48846-1846",
+    "city": "Ionia",
+    "zipCode": "48846",
+    "latitude": 42.982765412882,
+    "longitude": -85.047425443251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246583",
+    "businessName": "M21 MOBIL",
+    "address": "875 E Lincoln Ave, Ionia, MI 48846-1341",
+    "city": "Ionia Twp",
+    "zipCode": "48846",
+    "latitude": 42.987309519074,
+    "longitude": -85.043540146907,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

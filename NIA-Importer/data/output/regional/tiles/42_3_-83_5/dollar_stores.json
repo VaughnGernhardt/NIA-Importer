@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": "38000-ann-arbor-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 38000, Ann Arbor Rd. Livonia, MI 48150-3400",
+    "city": "Ann Arbor Rd. Livonia",
+    "zipCode": "48150",
+    "latitude": 42.361108670254,
+    "longitude": -83.417720173341
+  },
+  {
+    "storeId": "37681-five-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 37681, Five Mile Rd Livonia, MI 48154-1543",
+    "city": "Five Mile Rd Livonia",
+    "zipCode": "48154",
+    "latitude": 42.39623641794,
+    "longitude": -83.415939769757
+  },
+  {
+    "storeId": "41872-ford-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 41872, Ford Rd Canton, MI 48187",
+    "city": "Ford Rd Canton",
+    "zipCode": "48187",
+    "latitude": 42.322820942178,
+    "longitude": -83.454209929152
+  },
+  {
+    "storeId": "43301-joy-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 43301, Joy Rd. Canton, MI 48187-2075",
+    "city": "Joy Rd. Canton",
+    "zipCode": "48187",
+    "latitude": 42.351470948014,
+    "longitude": -83.467640735053
+  },
+  {
+    "storeId": "5880-north-sheldon-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5880, North Sheldon Road Canton, MI 48187-3153",
+    "city": "North Sheldon Road Canton",
+    "zipCode": "48187",
+    "latitude": 42.324430944757,
+    "longitude": -83.478199514632
+  },
+  {
+    "storeId": "36579-warren-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 36579, Warren Road Westland, MI 48185-2999",
+    "city": "Warren Road Westland",
+    "zipCode": "48185",
+    "latitude": 42.337961577133,
+    "longitude": -83.401858952406
+  }
+]

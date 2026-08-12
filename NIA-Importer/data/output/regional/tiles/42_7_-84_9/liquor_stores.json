@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "163198",
+    "businessName": "MEIJER #210",
+    "address": "730 E Saginaw Hwy, Grand Ledge, MI 48837-8411",
+    "city": "Grand Ledge",
+    "zipCode": "48837",
+    "latitude": 42.741104952825,
+    "longitude": -84.851324445022,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283182",
+    "businessName": "GRAND GAS, LLC",
+    "address": "95 W Grand Ledge Hwy, Mulliken, MI 48861-9768",
+    "city": "Mulliken",
+    "zipCode": "48861",
+    "latitude": 42.755550547797,
+    "longitude": -84.838267509935,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

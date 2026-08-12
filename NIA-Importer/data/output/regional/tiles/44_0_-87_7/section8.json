@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800023026",
+    "propertyName": "GARFIELD GARDENS",
+    "latitude": 44.09252699920009,
+    "longitude": -87.6735930002092,
+    "assistedUnits": 44,
+    "totalUnits": 45
+  },
+  {
+    "propertyId": "800023066",
+    "propertyName": "HARBOR HEIGHTS APARTMENTS",
+    "latitude": 44.094393998739555,
+    "longitude": -87.65407399967732,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023153",
+    "propertyName": "MANITOWOC SHORES",
+    "latitude": 44.07992699883637,
+    "longitude": -87.69540200043636,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023223",
+    "propertyName": "NORTHWINDS APARTMENTS",
+    "latitude": 44.07959399907114,
+    "longitude": -87.69061499955984,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023360",
+    "propertyName": "SOUTHFIELD TOWNHOUSES",
+    "latitude": 44.08316499937968,
+    "longitude": -87.67501800043932,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

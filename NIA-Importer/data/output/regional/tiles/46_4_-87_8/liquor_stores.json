@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "245357",
+    "businessName": "581 LITTLE STORE",
+    "address": "29907 County Road 581, Ishpeming, MI 49849-9242",
+    "city": "Ely Twp",
+    "zipCode": "49849",
+    "latitude": 46.418196517431,
+    "longitude": -87.751505226377,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "192392",
+    "businessName": "M \u0026 M WEST GATE SHELL",
+    "address": "1710 US Highway 41 W, Ishpeming, MI 49849-3197",
+    "city": "Ishpeming Twp",
+    "zipCode": "49849",
+    "latitude": 46.487581302757,
+    "longitude": -87.714515185415,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

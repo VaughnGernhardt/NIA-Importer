@@ -1,0 +1,90 @@
+[
+  {
+    "propertyId": "800211443",
+    "propertyName": "26TH STREET APARTMENTS",
+    "latitude": 42.96732199876141,
+    "longitude": -87.94692399986766,
+    "assistedUnits": 7,
+    "totalUnits": 7
+  },
+  {
+    "propertyId": "800022941",
+    "propertyName": "CLEVELAND TERRACE",
+    "latitude": 42.994751999052546,
+    "longitude": -87.9302330000548,
+    "assistedUnits": 17,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800022993",
+    "propertyName": "EUCLID ARMS APARTMENTS",
+    "latitude": 42.987008998851024,
+    "longitude": -87.93832499987964,
+    "assistedUnits": 88,
+    "totalUnits": 89
+  },
+  {
+    "propertyId": "800232278",
+    "propertyName": "FRANKLIN MEADOWS",
+    "latitude": 42.905050998949925,
+    "longitude": -87.97970899981684,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800023054",
+    "propertyName": "GREENBROOK ELDERLY PHASE II",
+    "latitude": 42.95429999911185,
+    "longitude": -87.97907899963,
+    "assistedUnits": 171,
+    "totalUnits": 172
+  },
+  {
+    "propertyId": "800069646",
+    "propertyName": "LA VILLA APARTMENTS",
+    "latitude": 42.98715999878539,
+    "longitude": -87.98611699984377,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800023128",
+    "propertyName": "LAYTON GARDENS APTS PHASE I, II, III",
+    "latitude": 42.959588998958736,
+    "longitude": -87.94206599974437,
+    "assistedUnits": 234,
+    "totalUnits": 237
+  },
+  {
+    "propertyId": "800079686",
+    "propertyName": "SOUTHGATE SQUARE I",
+    "latitude": 42.97634399930585,
+    "longitude": -87.94877800044321,
+    "assistedUnits": 166,
+    "totalUnits": 168
+  },
+  {
+    "propertyId": "800023361",
+    "propertyName": "SOUTHGATE SQUARE II",
+    "latitude": 42.97623499873345,
+    "longitude": -87.94878199974286,
+    "assistedUnits": 66,
+    "totalUnits": 67
+  },
+  {
+    "propertyId": "800023425",
+    "propertyName": "THE WOODS OF CEDAR VILLAGE",
+    "latitude": 42.9302279992948,
+    "longitude": -87.95734999976877,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800212115",
+    "propertyName": "THREE OAKS CIRCLE",
+    "latitude": 42.97003699878512,
+    "longitude": -87.98819200035226,
+    "assistedUnits": 48,
+    "totalUnits": 49
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800006989",
+    "propertyName": "SHOREWOOD PLACE",
+    "latitude": 41.69861099917598,
+    "longitude": -86.86983500003868,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800007107",
+    "propertyName": "WOODLAND EAST APARTMENTS",
+    "latitude": 41.69234299916941,
+    "longitude": -86.86921400007266,
+    "assistedUnits": 27,
+    "totalUnits": 136
+  },
+  {
+    "propertyId": "800007109",
+    "propertyName": "WOODLAND EAST APARTMENTS II",
+    "latitude": 41.69234299916941,
+    "longitude": -86.86921400007266,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800007108",
+    "propertyName": "WOODLAND EAST APARTMENTS III",
+    "latitude": 41.694664999306,
+    "longitude": -86.86814899969264,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  }
+]

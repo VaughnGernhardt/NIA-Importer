@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0277519",
+    "businessName": "3 RIVERS FOOD MART",
+    "address": "102 S US Highway 131, Three Rivers, MI 49093-9140",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.943520415464,
+    "longitude": -85.633579387822,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149827",
+    "businessName": "HOFFMAN GROCERY",
+    "address": "115 W Hoffman St, Three Rivers, MI 49093-2326",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.954725084605,
+    "longitude": -85.635000954308,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282272",
+    "businessName": "NORTHSIDE BEVERAGE",
+    "address": "135 N Main St, Three Rivers, MI 49093-1521",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.946422481007,
+    "longitude": -85.634559892433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270088",
+    "businessName": "PAUL\u0027S PANTRY",
+    "address": "261 E Michigan Ave, Three Rivers, MI 49093-1537",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.944630210125,
+    "longitude": -85.625983632979,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270617",
+    "businessName": "SJS QUICK STOP, LLC",
+    "address": "1001 W MIchigan Ave, Three Rivers, MI 49093",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.942578323055,
+    "longitude": -85.644440863664,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155644",
+    "businessName": "SPEE-D MART SHELL",
+    "address": "503 S Main St, Three Rivers, MI 49093-1629",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.938187982553,
+    "longitude": -85.62841403487,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283830",
+    "businessName": "SUPER BEV \u0026 MORE INC",
+    "address": "100 US 131 HIGHWAY, THREE RIVERS, MI 49093",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.943529346,
+    "longitude": -85.633564920354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269791",
+    "businessName": "TRIPLE CREEK MART",
+    "address": "1207 S Main St, Three Rivers, MI 49093-1745",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.931070171543,
+    "longitude": -85.627115855978,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193112",
+    "businessName": "WAL-MART SUPERCENTER #3791",
+    "address": "101 S Tolbert Dr, Three Rivers, MI 49093-8276",
+    "city": "Three Rivers",
+    "zipCode": "49093",
+    "latitude": 41.93977900984,
+    "longitude": -85.654336777714,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

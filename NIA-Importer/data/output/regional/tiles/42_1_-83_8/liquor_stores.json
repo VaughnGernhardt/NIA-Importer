@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "214145",
+    "businessName": "CVS/PHARMACY #8003",
+    "address": "413 E Michigan Ave, Saline, MI 48176-1547",
+    "city": "Saline",
+    "zipCode": "48176",
+    "latitude": 42.170233395728,
+    "longitude": -83.773916473494,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213685",
+    "businessName": "SALINE MARKET",
+    "address": "75 E Bennett St, Saline, MI 48176-1204",
+    "city": "Saline",
+    "zipCode": "48176",
+    "latitude": 42.171296628808,
+    "longitude": -83.782836984213,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9754",
+    "businessName": "VILLAGE PARTY STORE",
+    "address": "813 W Michigan Ave, Saline, MI 48176-2102",
+    "city": "Saline",
+    "zipCode": "48176",
+    "latitude": 42.161536575389,
+    "longitude": -83.794268246307,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

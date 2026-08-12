@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800005822",
+    "propertyName": "COUNTRYSIDE MANOR",
+    "latitude": 41.839066999377344,
+    "longitude": -89.46594299999967,
+    "assistedUnits": 68,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800006025",
+    "propertyName": "KILKER APARTMENTS",
+    "latitude": 41.86166899923049,
+    "longitude": -89.48152499994988,
+    "assistedUnits": 13,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800211379",
+    "propertyName": "SCI Apartments III",
+    "latitude": 41.839410998845274,
+    "longitude": -89.49018699968711,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  }
+]

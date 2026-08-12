@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "214727",
+    "businessName": "FREEL\u0027S MARKET",
+    "address": "1139 W Lake St, Tawas City, MI 48763-9304",
+    "city": "Tawas",
+    "zipCode": "48763",
+    "latitude": 44.253707068133,
+    "longitude": -83.536146878598,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159514",
+    "businessName": "WAL MART SUPERCENTER #5376",
+    "address": "621 E Lake St, Tawas City, MI 48763-9213",
+    "city": "Tawas",
+    "zipCode": "48763",
+    "latitude": 44.27541928131,
+    "longitude": -83.50494825648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242045",
+    "businessName": "DORE\u0027S STORE #12",
+    "address": "1250 S US Highway 23, Tawas City, MI 48763-9163",
+    "city": "Tawas Twp",
+    "zipCode": "48763",
+    "latitude": 44.246765560141,
+    "longitude": -83.544979664391,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

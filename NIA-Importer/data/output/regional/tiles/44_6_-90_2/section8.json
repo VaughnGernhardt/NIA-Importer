@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800222636",
+    "propertyName": "JOHN RINGSTAND VILLA",
+    "latitude": 44.67329199919987,
+    "longitude": -90.15935999957385,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800023127",
+    "propertyName": "LAUREL GARDENS APARTMENTS",
+    "latitude": 44.67605299928809,
+    "longitude": -90.18749399998728,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023212",
+    "propertyName": "NORRIS MANOR",
+    "latitude": 44.65531999889953,
+    "longitude": -90.1904380001589,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023445",
+    "propertyName": "UPHAM VILLAGE \u0026 TOWNHOUSES",
+    "latitude": 44.682236999308444,
+    "longitude": -90.17007699972808,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  }
+]

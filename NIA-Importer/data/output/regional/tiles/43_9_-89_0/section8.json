@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800022874",
+    "propertyName": "BERLIN HOUSING",
+    "latitude": 43.96950299917051,
+    "longitude": -88.94902899967549,
+    "assistedUnits": 54,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800112371",
+    "propertyName": "PARK AVENUE LIVING",
+    "latitude": 43.969397999376845,
+    "longitude": -88.94830899997527,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800023417",
+    "propertyName": "THE EDGEWATER",
+    "latitude": 43.96235399893152,
+    "longitude": -88.9526979995702,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  }
+]

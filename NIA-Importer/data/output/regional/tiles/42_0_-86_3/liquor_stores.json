@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "140223",
+    "businessName": "QUALITY MARATHON",
+    "address": "8151 E Napier Ave, Benton Harbor, MI 49022-9481",
+    "city": "Bainbridge Twp",
+    "zipCode": "49022",
+    "latitude": 42.093729059804,
+    "longitude": -86.260389864377,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228887",
+    "businessName": "JIMMY\u0027S LIQUOR STORE",
+    "address": "67660 M 152, Dowagiac, MI 49047-9028",
+    "city": "Keeler Twp",
+    "zipCode": "49047",
+    "latitude": 42.085895415465,
+    "longitude": -86.201645584362,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222907",
+    "businessName": "SISTER LAKE MARATHON",
+    "address": "92064 County Road 690, Dowagiac, MI 49047-9005",
+    "city": "Keeler Twp",
+    "zipCode": "49047",
+    "latitude": 42.085550259107,
+    "longitude": -86.202997716754,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

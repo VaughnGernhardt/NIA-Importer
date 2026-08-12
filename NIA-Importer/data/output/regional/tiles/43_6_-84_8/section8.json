@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010230",
+    "propertyName": "IMMANUEL VILLAGE",
+    "latitude": 43.60245399935898,
+    "longitude": -84.79793800018341,
+    "assistedUnits": 26,
+    "totalUnits": 26
+  },
+  {
+    "propertyId": "800010390",
+    "propertyName": "OAK TREE VILLAGE",
+    "latitude": 43.60107699907588,
+    "longitude": -84.78032799958036,
+    "assistedUnits": 39,
+    "totalUnits": 72
+  }
+]

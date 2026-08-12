@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "140660",
+    "businessName": "J \u0026 D MARKET",
+    "address": "1505 Galbraith Line Rd, Yale, MI 48097-4746",
+    "city": "Fremont Twp",
+    "zipCode": "48097",
+    "latitude": 43.1899953337,
+    "longitude": -82.743425613477,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144612",
+    "businessName": "SUNRISE STORE #7",
+    "address": "110 N Main St, Yale, MI 48097-2838",
+    "city": "Yale",
+    "zipCode": "48097",
+    "latitude": 43.131046669134,
+    "longitude": -82.798299598466,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15543",
+    "businessName": "VINCKIER FOODS",
+    "address": "115 S Main St, Yale, MI 48097-3321",
+    "city": "Yale",
+    "zipCode": "48097",
+    "latitude": 43.128667371832,
+    "longitude": -82.798284825831,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267261",
+    "businessName": "YALE CONVENIENCE, INC.",
+    "address": "121 S Main St, Yale, MI 48097-3321",
+    "city": "Yale",
+    "zipCode": "48097",
+    "latitude": 43.128592831831,
+    "longitude": -82.798281048474,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

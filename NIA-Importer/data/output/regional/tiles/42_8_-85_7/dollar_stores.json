@@ -1,0 +1,82 @@
+[
+  {
+    "storeId": "3975-division-avenue-s",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3975, Division Avenue S. Wyoming, MI 49548-3268",
+    "city": "Division Avenue S. Wyoming",
+    "zipCode": "49548",
+    "latitude": 42.891979613407,
+    "longitude": -85.665110133374
+  },
+  {
+    "storeId": "5276-eastern-ave-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5276, Eastern Ave. SE Kentwood, MI 49508-6010",
+    "city": "Eastern Ave. SE Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.867785735017,
+    "longitude": -85.645021254978
+  },
+  {
+    "storeId": "5995-kalamazoo-ave-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5995, Kalamazoo Ave SE Kentwood, MI 49508-6464",
+    "city": "Kalamazoo Ave SE Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.856079291663,
+    "longitude": -85.624991121887
+  },
+  {
+    "storeId": "701-68th-st-sw",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "701 68th, St SW. Byron Center, MI 49315-8372",
+    "city": "St SW. Byron Center",
+    "zipCode": "49315",
+    "latitude": 42.841048419819,
+    "longitude": -85.681700748337
+  },
+  {
+    "storeId": "2353-44th-street-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2353 44th, Street SE Grand Rapids, MI 49508-5015",
+    "city": "Street SE Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.883789158734,
+    "longitude": -85.607500084502
+  },
+  {
+    "storeId": "5840-division-ave-s",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 5840, Division Ave S Kentwood, MI 49548-5753",
+    "city": "Division Ave S Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.857529670971,
+    "longitude": -85.663736582996
+  },
+  {
+    "storeId": "4233-kalamazoo-avenue-se",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4233, Kalamazoo Avenue Se Grand Rapids, MI 49508-3638",
+    "city": "Kalamazoo Avenue Se Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.886398204467,
+    "longitude": -85.626206796566
+  },
+  {
+    "storeId": "851-52nd-st-se",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "851 52nd, St. Se Kentwood, MI 49508-6001",
+    "city": "St. Se Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.869367132839,
+    "longitude": -85.643758633271
+  }
+]

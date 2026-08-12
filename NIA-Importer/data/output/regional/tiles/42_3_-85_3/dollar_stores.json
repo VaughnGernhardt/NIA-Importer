@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1880-michigan-ave-w",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1880, Michigan Ave W Battle Creek, MI 49037-1614",
+    "city": "Michigan Ave W Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.349307222812,
+    "longitude": -85.245853868161
+  },
+  {
+    "storeId": "68-20th-st-s",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "68 20th, St S Columbia Plaza Battle Creek, MI 49015-2938",
+    "city": "St S Columbia Plaza Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.300592072053,
+    "longitude": -85.219074964854
+  }
+]

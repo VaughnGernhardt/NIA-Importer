@@ -43,3 +43,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### NIA Importer Secrets ###
+data/input/census_api_key.txt
+
+### Large Local Data Sources ###
+data/input/rms_crime_incidents.csv
+
+### Generated Databases / Indexes ###
+data/output/crime.db
+data/output/search_index.json

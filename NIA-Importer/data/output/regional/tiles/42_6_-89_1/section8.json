@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023410",
+    "propertyName": "BURBANK PLAZA",
+    "latitude": 42.64679599934209,
+    "longitude": -89.03286600012792,
+    "assistedUnits": 49,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800023025",
+    "propertyName": "GARDEN COURT/GRANT VILLAGE",
+    "latitude": 42.6846229988855,
+    "longitude": -89.0240789998189,
+    "assistedUnits": 165,
+    "totalUnits": 165
+  },
+  {
+    "propertyId": "800023324",
+    "propertyName": "RIVERVIEW HEIGHTS",
+    "latitude": 42.69309299935291,
+    "longitude": -89.03658500025134,
+    "assistedUnits": 122,
+    "totalUnits": 123
+  }
+]

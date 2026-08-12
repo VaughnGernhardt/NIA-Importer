@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800112370",
+    "propertyName": "CRAIG KINNEY APARTMENTS",
+    "latitude": 43.12136199917619,
+    "longitude": -89.36346200032293,
+    "assistedUnits": 4,
+    "totalUnits": 5
+  },
+  {
+    "propertyId": "800022973",
+    "propertyName": "DRYDEN TERRACE",
+    "latitude": 43.12999899876211,
+    "longitude": -89.35826100006794,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800023110",
+    "propertyName": "KENNEDY HEIGHTS TOWNHOUSES",
+    "latitude": 43.14041699897873,
+    "longitude": -89.38721800011373,
+    "assistedUnits": 96,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800023220",
+    "propertyName": "NORTHPORT APTS",
+    "latitude": 43.13055899909555,
+    "longitude": -89.36237400037666,
+    "assistedUnits": 140,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800023221",
+    "propertyName": "NORTHPORT GROUP HOME",
+    "latitude": 43.13288799900063,
+    "longitude": -89.36781099973489,
+    "assistedUnits": 7,
+    "totalUnits": 7
+  },
+  {
+    "propertyId": "800023237",
+    "propertyName": "PACKER APTS",
+    "latitude": 43.1285129991371,
+    "longitude": -89.35818999992283,
+    "assistedUnits": 140,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800023423",
+    "propertyName": "RSH",
+    "latitude": 43.10283999915327,
+    "longitude": -89.34227099968871,
+    "assistedUnits": 23,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800232356",
+    "propertyName": "SANDRA HALL APARTMENTS",
+    "latitude": 43.13534599938414,
+    "longitude": -89.30147500010555,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800225965",
+    "propertyName": "STONEBRIDGE MOVIN OUT",
+    "latitude": 43.131052998745915,
+    "longitude": -89.30910900017099,
+    "assistedUnits": 11,
+    "totalUnits": 11
+  }
+]

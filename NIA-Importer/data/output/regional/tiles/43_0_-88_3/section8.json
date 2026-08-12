@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800256437",
+    "propertyName": "Berkshire at Kensington",
+    "latitude": 43.00143299933663,
+    "longitude": -88.25513699972515,
+    "assistedUnits": 42,
+    "totalUnits": 177
+  },
+  {
+    "propertyId": "800022978",
+    "propertyName": "EAST TERRACE APARTMENTS",
+    "latitude": 43.010744999058716,
+    "longitude": -88.22638399989383,
+    "assistedUnits": 130,
+    "totalUnits": 130
+  },
+  {
+    "propertyId": "800023347",
+    "propertyName": "SENIOR HOUSE",
+    "latitude": 43.01133799924543,
+    "longitude": -88.22514500033485,
+    "assistedUnits": 32,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800235759",
+    "propertyName": "SUMMIT HILL APARTMENTS",
+    "latitude": 43.0188529987867,
+    "longitude": -88.24017900011398,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800244096",
+    "propertyName": "The Silvernail",
+    "latitude": 43.045357999017895,
+    "longitude": -88.26822300011571,
+    "assistedUnits": 26,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800023497",
+    "propertyName": "WESTWOOD HEIGHTS",
+    "latitude": 43.02046699875609,
+    "longitude": -88.25402700003758,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023506",
+    "propertyName": "WILLOW PARK",
+    "latitude": 43.022443998773824,
+    "longitude": -88.24016200039554,
+    "assistedUnits": 146,
+    "totalUnits": 146
+  }
+]

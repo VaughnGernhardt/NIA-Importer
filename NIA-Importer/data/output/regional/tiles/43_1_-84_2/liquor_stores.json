@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0285273",
+    "businessName": "CHESANING TOBACCO OUTLET",
+    "address": "312 E Broad St, Chesaning, MI 48616-1504",
+    "city": "Chesaning",
+    "zipCode": "48616",
+    "latitude": 43.183588353677,
+    "longitude": -84.113268321071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275827",
+    "businessName": "SKY\u0027S OUTLET II, INC.",
+    "address": "1310 W Brady St, Chesaning, MI 48616-1023",
+    "city": "Chesaning",
+    "zipCode": "48616",
+    "latitude": 43.187683502222,
+    "longitude": -84.130759745377,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276922",
+    "businessName": "FASTLANE CONVENIENCE STORES",
+    "address": "15815 Oakley Rd, Chesaning, MI 48616-9560",
+    "city": "Chesaning Twp",
+    "zipCode": "48616",
+    "latitude": 43.189153677161,
+    "longitude": -84.168930147853,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "200294",
+    "businessName": "D\u0027S PARTY STORE",
+    "address": "220 S Main St, Oakley, MI 48649-7707",
+    "city": "Oakley",
+    "zipCode": "48649",
+    "latitude": 43.141958386203,
+    "longitude": -84.168450874977,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

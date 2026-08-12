@@ -1,0 +1,106 @@
+[
+  {
+    "propertyId": "800009994",
+    "propertyName": "CENTRAL TOWERS",
+    "latitude": 42.31483699887846,
+    "longitude": -83.12564799981226,
+    "assistedUnits": 230,
+    "totalUnits": 232
+  },
+  {
+    "propertyId": "800010689",
+    "propertyName": "DEVIN APARTMENTS",
+    "latitude": 42.376104998950915,
+    "longitude": -83.11251299991619,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800010086",
+    "propertyName": "ELMTREE APTS",
+    "latitude": 42.38740999875228,
+    "longitude": -83.10885599971705,
+    "assistedUnits": 35,
+    "totalUnits": 35
+  },
+  {
+    "propertyId": "800024127",
+    "propertyName": "NORTHLAWN GARDENS APARTMENTS",
+    "latitude": 42.3673659988497,
+    "longitude": -83.15271799967056,
+    "assistedUnits": 94,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800225072",
+    "propertyName": "OAK VILLAGE INDEPENDENCE",
+    "latitude": 42.37615199903451,
+    "longitude": -83.13059200014929,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800010060",
+    "propertyName": "OAK VILLAGE SQUARE APTS.",
+    "latitude": 42.37622099931943,
+    "longitude": -83.12756000011412,
+    "assistedUnits": 74,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800242702",
+    "propertyName": "OAKMAN TOWNHOMES",
+    "latitude": 42.39425699932305,
+    "longitude": -83.13297399990611,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800010532",
+    "propertyName": "RYAN COURT APARTMENTS",
+    "latitude": 42.39425699932305,
+    "longitude": -83.13297399990611,
+    "assistedUnits": 72,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800224339",
+    "propertyName": "THE COLLECTION",
+    "latitude": 42.37742599887132,
+    "longitude": -83.11353200026547,
+    "assistedUnits": 78,
+    "totalUnits": 41
+  },
+  {
+    "propertyId": "800009922",
+    "propertyName": "VILLAGE OF BETHANY MANOR",
+    "latitude": 42.3717289993116,
+    "longitude": -83.10093299994661,
+    "assistedUnits": 51,
+    "totalUnits": 52
+  },
+  {
+    "propertyId": "800010657",
+    "propertyName": "VILLAGE PARK APTS",
+    "latitude": 42.308225999302195,
+    "longitude": -83.14497300017536,
+    "assistedUnits": 150,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800010688",
+    "propertyName": "WEST BOSTON APTS",
+    "latitude": 42.37578599882367,
+    "longitude": -83.1188849999581,
+    "assistedUnits": 27,
+    "totalUnits": 27
+  },
+  {
+    "propertyId": "800010690",
+    "propertyName": "WEST CHICAGO",
+    "latitude": 42.37363399885796,
+    "longitude": -83.11828300025866,
+    "assistedUnits": 35,
+    "totalUnits": 40
+  }
+]

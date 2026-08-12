@@ -1,0 +1,182 @@
+[
+  {
+    "businessId": "9365",
+    "businessName": "HAYWARDS LIQUOR STORE",
+    "address": "573 Main St, Belleville, MI 48111-2649",
+    "city": "Belleville",
+    "zipCode": "48111",
+    "latitude": 42.209841623014,
+    "longitude": -83.493063873732,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9845",
+    "businessName": "CANTON PARTY STORE",
+    "address": "43431 Michigan Ave, Canton, MI 48188-2514",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.275890830724,
+    "longitude": -83.466451291128,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282619",
+    "businessName": "J \u0026 L CANTON, INC.",
+    "address": "40401 Michigan Ave, Canton, MI 48188-2915",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.279708200551,
+    "longitude": -83.436209155507,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143431",
+    "businessName": "KROGER STORE #703",
+    "address": "45540 Michigan Ave, Canton, MI 48188-2472",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.271918252316,
+    "longitude": -83.487817562858,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159333",
+    "businessName": "OAKVIEW PARTY STORE",
+    "address": "42256 Palmer Rd, Canton, MI 48188-1912",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.293570271147,
+    "longitude": -83.458856237405,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269591",
+    "businessName": "RAMA PETROLEUM, LLC",
+    "address": "41479 Michigan Ave, Canton, MI 48188-2670",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.278608205543,
+    "longitude": -83.44761761349,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222998",
+    "businessName": "WALMART SUPERCENTER # 5761",
+    "address": "45555 Michigan Ave, Canton, MI 48188-2388",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.271063414807,
+    "longitude": -83.489434198049,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15332",
+    "businessName": "Z-MART",
+    "address": "13034 S Huron River Dr, Romulus, MI 48174-3612",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.20832016171,
+    "longitude": -83.404661412249,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247915",
+    "businessName": "BP",
+    "address": "41358 Ecorse Rd, Belleville, MI 48111-1128",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.249305191116,
+    "longitude": -83.445266247686,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160731",
+    "businessName": "JESSE\u0027S DISCOUNT",
+    "address": "39431 W Huron River Dr, Romulus, MI 48174-1136",
+    "city": "Van Buren Twp",
+    "zipCode": "48174",
+    "latitude": 42.21513445539,
+    "longitude": -83.424521029892,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273556",
+    "businessName": "MARIA\u0027S LIQUOR \u0026 DELI",
+    "address": "11700 Belleville Rd, Belleville, MI 48111-2457",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.215090406959,
+    "longitude": -83.485498372608,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12127",
+    "businessName": "MEIJER #72",
+    "address": "9701 Belleville Rd, Belleville, MI 48111-1305",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.230949819231,
+    "longitude": -83.485497355052,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232432",
+    "businessName": "PICK \"N\" PAY",
+    "address": "9880 Haggerty Rd, Belleville, MI 48111-3443",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.226594827495,
+    "longitude": -83.444937279445,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10397",
+    "businessName": "STACK\u0027S LIQUOR \u0026 DELI",
+    "address": "45455 Ecorse Rd, Belleville, MI 48111-1109",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.247957097848,
+    "longitude": -83.487348063842,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278773",
+    "businessName": "THE FRENCH LANDING",
+    "address": "9900 Belleville Rd, Belleville, MI 48111-1389",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.229725543102,
+    "longitude": -83.485473467427,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204285",
+    "businessName": "WAL-MART STORE #2872",
+    "address": "10562 Belleville Rd, Van Buren Twp, MI 48111-1308",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.225251764597,
+    "longitude": -83.485051345377,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11620",
+    "businessName": "MICHIGAN MARKET",
+    "address": "39375 Michigan Ave, Wayne, MI 48184-1069",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.278808946969,
+    "longitude": -83.426891904776,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281337",
+    "businessName": "JAY MAHARAJ LLC",
+    "address": "1814 S Newburgh Rd, Westland, MI 48186-3925",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.294900774115,
+    "longitude": -83.40756269797,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

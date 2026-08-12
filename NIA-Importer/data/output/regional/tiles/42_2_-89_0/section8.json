@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800067922",
+    "propertyName": "GREENCASTLE OF BIENTERRA",
+    "latitude": 42.2706319988265,
+    "longitude": -88.99643900004821,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800225937",
+    "propertyName": "MULFORD APARTMENTS",
+    "latitude": 42.261285999054124,
+    "longitude": -88.99949100017486,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800221166",
+    "propertyName": "SPRING RIDGE",
+    "latitude": 42.26469399910525,
+    "longitude": -88.98675499958865,
+    "assistedUnits": 59,
+    "totalUnits": 59
+  }
+]

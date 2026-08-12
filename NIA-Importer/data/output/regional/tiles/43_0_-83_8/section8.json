@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800009968",
+    "propertyName": "CAMBRIDGE SQUARE OF FLINT",
+    "latitude": 43.029825999201975,
+    "longitude": -83.76109299956853,
+    "assistedUnits": 145,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800010045",
+    "propertyName": "CRANBROOK VILLAGE COOPERATIVE 1 \u0026 2",
+    "latitude": 43.08310599897687,
+    "longitude": -83.71693900043527,
+    "assistedUnits": 97,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800010529",
+    "propertyName": "ROY J.  MORRISON APTS",
+    "latitude": 43.06564599915782,
+    "longitude": -83.72964099978799,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010546",
+    "propertyName": "SLIDELL SENIOR CITIZENS RESIDENCE",
+    "latitude": 43.07496499902313,
+    "longitude": -83.72992299982029,
+    "assistedUnits": 127,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800010599",
+    "propertyName": "TAYLOR LAKE MANOR",
+    "latitude": 43.07496499902313,
+    "longitude": -83.72992299982029,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  }
+]

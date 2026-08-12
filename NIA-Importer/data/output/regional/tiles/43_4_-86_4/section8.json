@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010543",
+    "propertyName": "SENIOR HOUSING ASSOCIATION OF WHITE LAKE",
+    "latitude": 43.4077489992529,
+    "longitude": -86.33433500021653,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010544",
+    "propertyName": "SHAWL II",
+    "latitude": 43.41045299891645,
+    "longitude": -86.36624599958138,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800010711",
+    "propertyName": "WHITEHALL APARTMENTS  II",
+    "latitude": 43.40919399878672,
+    "longitude": -86.33180299977354,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  }
+]

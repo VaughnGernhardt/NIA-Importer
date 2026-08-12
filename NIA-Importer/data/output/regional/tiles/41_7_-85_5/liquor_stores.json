@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "235698",
+    "businessName": "MEIJER STORE #291",
+    "address": "408 W South St, Sturgis, MI 49091-2153",
+    "city": "Sturgis",
+    "zipCode": "49091",
+    "latitude": 41.788597524417,
+    "longitude": -85.424606965879,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270339",
+    "businessName": "PUNJAB GROUP STURGIS INC",
+    "address": "1680 S CENTERVILLE RD, STURGIS, MI 49091",
+    "city": "Sturgis",
+    "zipCode": "49091",
+    "latitude": 41.781546315915,
+    "longitude": -85.428123796615,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260678",
+    "businessName": "STURGIS AK, LLC",
+    "address": "110 S Centerville Rd, Sturgis, MI 49091-1602",
+    "city": "Sturgis",
+    "zipCode": "49091",
+    "latitude": 41.79714694113,
+    "longitude": -85.428345363036,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

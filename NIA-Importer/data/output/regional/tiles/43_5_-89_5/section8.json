@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800022909",
+    "propertyName": "CAMPUS VIEW APARTMENTS",
+    "latitude": 43.56238699900831,
+    "longitude": -89.47390900032612,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023089",
+    "propertyName": "HOWARD WOODS APTS",
+    "latitude": 43.54565999931283,
+    "longitude": -89.45130199968258,
+    "assistedUnits": 37,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023259",
+    "propertyName": "PAT SMITH ELDER LOCKE MANOR",
+    "latitude": 43.564788998979374,
+    "longitude": -89.4711760000417,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800079656",
+    "propertyName": "RIVERWOOD APARTMENTS",
+    "latitude": 43.53792399906115,
+    "longitude": -89.46024299997741,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023459",
+    "propertyName": "VILLAGE HOUSE APARTMENTS",
+    "latitude": 43.568249998781,
+    "longitude": -89.47275299970947,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  }
+]

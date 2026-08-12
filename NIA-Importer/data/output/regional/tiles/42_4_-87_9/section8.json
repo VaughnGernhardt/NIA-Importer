@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005731",
+    "propertyName": "B. J. GASTON BETHSEDA VILLAGE",
+    "latitude": 42.44285499939087,
+    "longitude": -87.8460390001253,
+    "assistedUnits": 39,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800214252",
+    "propertyName": "CARMEL HOUSE",
+    "latitude": 42.44409999894686,
+    "longitude": -87.82670999956424,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800005972",
+    "propertyName": "HEBRON TOWNHOUSES",
+    "latitude": 42.4453089989223,
+    "longitude": -87.84667000013708,
+    "assistedUnits": 63,
+    "totalUnits": 63
+  },
+  {
+    "propertyId": "800005986",
+    "propertyName": "HORIZON VILLLAGE/WEST ZION HIGHLAND",
+    "latitude": 42.4603529988377,
+    "longitude": -87.87162500020223,
+    "assistedUnits": 105,
+    "totalUnits": 272
+  }
+]

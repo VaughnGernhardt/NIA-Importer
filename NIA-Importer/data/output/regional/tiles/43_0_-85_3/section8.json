@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800250351",
+    "propertyName": "THE COURTS",
+    "latitude": 43.098349999131216,
+    "longitude": -85.23799999966715,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800250350",
+    "propertyName": "THE HAVENS",
+    "latitude": 43.098349999131216,
+    "longitude": -85.23799999966715,
+    "assistedUnits": 110,
+    "totalUnits": 110
+  }
+]

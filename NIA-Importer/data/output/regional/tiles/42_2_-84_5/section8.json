@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800252034",
+    "propertyName": "Albert Kahn Apartments",
+    "latitude": 42.24611699902514,
+    "longitude": -84.40906300002382,
+    "assistedUnits": 11,
+    "totalUnits": 62
+  },
+  {
+    "propertyId": "800223579",
+    "propertyName": "BLAIR PARK APARTMENTS",
+    "latitude": 42.26719199875858,
+    "longitude": -84.40111799961376,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010079",
+    "propertyName": "ELAINE APARTMENTS",
+    "latitude": 42.24732199894947,
+    "longitude": -84.40583299962194,
+    "assistedUnits": 33,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800010124",
+    "propertyName": "FOXFIRE",
+    "latitude": 42.24726499904837,
+    "longitude": -84.45902099983472,
+    "assistedUnits": 0,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800010218",
+    "propertyName": "HOPE HOUSE I",
+    "latitude": 42.228651999016996,
+    "longitude": -84.41628600018552,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010219",
+    "propertyName": "HOPE HOUSE II",
+    "latitude": 42.250355998819025,
+    "longitude": -84.41476300004608,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800010254",
+    "propertyName": "KINGS COMMUNITY",
+    "latitude": 42.239595998989216,
+    "longitude": -84.40135600016345,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800010407",
+    "propertyName": "OTSEGO APARTMENTS",
+    "latitude": 42.24734699877314,
+    "longitude": -84.4042540003043,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800010413",
+    "propertyName": "PARK FOREST",
+    "latitude": 42.27889599931475,
+    "longitude": -84.45597999957872,
+    "assistedUnits": 290,
+    "totalUnits": 290
+  },
+  {
+    "propertyId": "800010432",
+    "propertyName": "PETERSON APARTMENTS",
+    "latitude": 42.24320999925679,
+    "longitude": -84.40906999969651,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800010562",
+    "propertyName": "SOUTHRIDGE PARK",
+    "latitude": 42.24371599894286,
+    "longitude": -84.40074400041824,
+    "assistedUnits": 116,
+    "totalUnits": 116
+  },
+  {
+    "propertyId": "800224817",
+    "propertyName": "VILLAGE OF SPRINGS MEADOWS II",
+    "latitude": 42.276679998837004,
+    "longitude": -84.46112499975719,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  }
+]

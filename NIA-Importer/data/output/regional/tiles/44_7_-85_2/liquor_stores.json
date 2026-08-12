@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "141950",
+    "businessName": "FAMILY FARE #1513",
+    "address": "784 S Cedar St, Kalkaska, MI 49646",
+    "city": "Kalkaska",
+    "zipCode": "49646",
+    "latitude": 44.72321177684,
+    "longitude": -85.184715815375,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11664",
+    "businessName": "SHOPPERS SAVE",
+    "address": "606 N Cedar St, Kalkaska, MI 49646-8000",
+    "city": "Kalkaska",
+    "zipCode": "49646",
+    "latitude": 44.740158856208,
+    "longitude": -85.174364455743,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

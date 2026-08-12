@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0262557",
+    "businessName": "CARTER FAMILY LLC",
+    "address": "306 Stephenson Ave, Escanaba, MI 49829-2799",
+    "city": "Escanaba",
+    "zipCode": "49829",
+    "latitude": 45.748138662048,
+    "longitude": -87.071685376207,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10287",
+    "businessName": "ELMER\u0027S COUNTY MARKET",
+    "address": "412 N Lincoln Rd, Escanaba, MI 49829-1365",
+    "city": "Escanaba",
+    "zipCode": "49829",
+    "latitude": 45.749352779805,
+    "longitude": -87.079618871725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284160",
+    "businessName": "ESKY SOUTHSIDE MARKET",
+    "address": "1408 8TH AVE S, ESCANABA, MI 49829",
+    "city": "Escanaba",
+    "zipCode": "49829",
+    "latitude": 45.736302781054,
+    "longitude": -87.067299905939,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283694",
+    "businessName": "GUST ASP",
+    "address": "616 Ludington St, Escanaba, MI 49829-3830",
+    "city": "Escanaba",
+    "zipCode": "49829",
+    "latitude": 45.745824778863,
+    "longitude": -87.055534436285,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16052",
+    "businessName": "KRIST FOOD MART # 5",
+    "address": "102 N Lincoln Rd, Escanaba, MI 49829-1322",
+    "city": "Escanaba",
+    "zipCode": "49829",
+    "latitude": 45.745844298889,
+    "longitude": -87.079627877354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142785",
+    "businessName": "KRIST FOOD MART # 14",
+    "address": "6344 US 2, Wells, MI 49894",
+    "city": "Wells Twp",
+    "zipCode": "49894",
+    "latitude": 45.776365180948,
+    "longitude": -87.067605312566,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

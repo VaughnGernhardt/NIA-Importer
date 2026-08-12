@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800010042",
+    "propertyName": "COVENTRY WOODS",
+    "latitude": 42.9931799992804,
+    "longitude": -85.75698500030184,
+    "assistedUnits": 100,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800010096",
+    "propertyName": "FAIRLANE MEADOWS COOPERATIVE",
+    "latitude": 42.90100599921419,
+    "longitude": -85.77421599988988,
+    "assistedUnits": 19,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800010154",
+    "propertyName": "GRANDVIEW APARTMENTS",
+    "latitude": 42.97125899897315,
+    "longitude": -85.7149660001549,
+    "assistedUnits": 192,
+    "totalUnits": 193
+  },
+  {
+    "propertyId": "800010502",
+    "propertyName": "RIVERBEND",
+    "latitude": 42.9074319991001,
+    "longitude": -85.78709600041613,
+    "assistedUnits": 46,
+    "totalUnits": 46
+  },
+  {
+    "propertyId": "800010647",
+    "propertyName": "VILLA MARIA RETIREMENT COMMUNITY",
+    "latitude": 42.98311899876856,
+    "longitude": -85.70040100000581,
+    "assistedUnits": 54,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800010669",
+    "propertyName": "WALKER MEADOW RETIREMENT COMMUNITY",
+    "latitude": 42.984064999361074,
+    "longitude": -85.77694400015143,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800010670",
+    "propertyName": "WALKER VILLAGE APARTMENTS",
+    "latitude": 42.98713099926197,
+    "longitude": -85.75435800032263,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  }
+]

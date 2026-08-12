@@ -1,0 +1,52 @@
+[
+  {
+    "storeId": "322-e-walton-blvd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 322, E Walton Blvd Pontiac, MI 48340-1041",
+    "city": "E Walton Blvd Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.677173022257,
+    "longitude": -83.289134991703
+  },
+  {
+    "storeId": "2700-s-adams-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2700, S Adams Rd Rochester Hills, MI 48309",
+    "city": "S Adams Rd Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.639872625562,
+    "longitude": -83.203721229787
+  },
+  {
+    "storeId": "1571-s-opdyke-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1571, S Opdyke Road Bloomfield Hills, MI 48304-1042",
+    "city": "S Opdyke Road Bloomfield Hills",
+    "zipCode": "48304",
+    "latitude": 42.618835071997,
+    "longitude": -83.248451008371
+  },
+  {
+    "storeId": "96-auburn-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 96, Auburn Ave Pontiac, MI 48342",
+    "city": "Auburn Ave Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.634167000057,
+    "longitude": -83.287472428709
+  },
+  {
+    "storeId": "735-baldwin-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 735, Baldwin Avenue Pontiac, MI 48340",
+    "city": "Baldwin Avenue Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.657997160488,
+    "longitude": -83.299842392171
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "236732",
+    "businessName": "ANGELO\u0027S PIZZA, DELI AND PARTY STORE",
+    "address": "4040 Mason Rd, Howell, MI 48843-9621",
+    "city": "Howell Twp",
+    "zipCode": "48843",
+    "latitude": 42.599858778792,
+    "longitude": -83.993762956918,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259023",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "1644 Pinckney Rd, Howell, MI 48843-7875",
+    "city": "Marion Twp",
+    "zipCode": "48843",
+    "latitude": 42.579145813349,
+    "longitude": -83.933124446118,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260281",
+    "businessName": "D19 LIQUOR",
+    "address": "6006 Pinckney Rd, Pinckney, MI 48169-9173",
+    "city": "Putnam Twp",
+    "zipCode": "48169",
+    "latitude": 42.510090069773,
+    "longitude": -83.93080288794,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

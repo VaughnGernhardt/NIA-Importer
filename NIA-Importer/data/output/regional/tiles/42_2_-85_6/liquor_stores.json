@@ -1,0 +1,292 @@
+[
+  {
+    "businessId": "245969",
+    "businessName": "CIRCLE K",
+    "address": "4921 S Sprinkle Rd, Kalamazoo, MI 49001",
+    "city": "Comstock Twp",
+    "zipCode": "49001",
+    "latitude": 42.245726190605,
+    "longitude": -85.530785421826,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291675",
+    "businessName": "GIL\u0027S MARKET",
+    "address": "654 River St, Kalamazoo, MI 49048-3511",
+    "city": "Comstock Twp",
+    "zipCode": "49048",
+    "latitude": 42.282384797651,
+    "longitude": -85.515324490615,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283375",
+    "businessName": "ASA BROTHERS LLC",
+    "address": "806 RIVERVIEW DR, KALAMAZOO, MI 49048-1752",
+    "city": "Kalamazoo",
+    "zipCode": "49048",
+    "latitude": 42.299272282057,
+    "longitude": -85.568925997365,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271112",
+    "businessName": "BOTTOMS UP",
+    "address": "930 W Michigan Ave, Kalamazoo, MI 49006-4522",
+    "city": "Kalamazoo",
+    "zipCode": "49006",
+    "latitude": 42.289724510781,
+    "longitude": -85.59682288791,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0258841",
+    "businessName": "Daysha\u0027s Convenience Store",
+    "address": "715 Douglas Ave, Kalamazoo, MI 49007-2324",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.297628749734,
+    "longitude": -85.599570857566,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290697",
+    "businessName": "HOWARD\u0027S PARTY STORE",
+    "address": "1366 Portage St, Kalamazoo, MI 49001-3051",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.277855344245,
+    "longitude": -85.569974209339,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287028",
+    "businessName": "JACKS PARTY STORE",
+    "address": "1601 E Stockbridge Ave, Kalamazoo, MI 49001-4018",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.277512884089,
+    "longitude": -85.560369884627,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245381",
+    "businessName": "JB DISCOUNT LIQUOR",
+    "address": "110 W Stockbridge Ave, Kalamazoo, MI 49001-2792",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.277616263807,
+    "longitude": -85.583268379293,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275628",
+    "businessName": "KILGORE PARTY STORE",
+    "address": "3521 E Kilgore Rd, Kalamazoo, MI 49001-5514",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.245030256664,
+    "longitude": -85.537651478453,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277434",
+    "businessName": "KING MARKET",
+    "address": "407 Mills St, Kalamazoo, MI 49001-2528",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.289170796314,
+    "longitude": -85.566425744071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276143",
+    "businessName": "MARATHON",
+    "address": "605 E Michigan Ave, Kalamazoo, MI 49007-4913",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.294754369472,
+    "longitude": -85.57458295305,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260573",
+    "businessName": "MIDTOWN FRESH MARKET",
+    "address": "412 Howard St, Kalamazoo, MI 49001-2748",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.274149132563,
+    "longitude": -85.588105934241,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263616",
+    "businessName": "MILL STREET MARKET",
+    "address": "1102 Lake St, Kalamazoo, MI 49001-5704",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.280917668652,
+    "longitude": -85.566473431935,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261682",
+    "businessName": "MILWOOD QUICK STOP",
+    "address": "4231 Portage St, Kalamazoo, MI 49001-5265",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.248815835206,
+    "longitude": -85.560172478755,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290986",
+    "businessName": "NORTHPOLE PARTY STORE",
+    "address": "711 N Westnedge Ave, Kalamazoo, MI 49007-3419",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.297843075299,
+    "longitude": -85.589920581171,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237972",
+    "businessName": "ON THE ROCKS",
+    "address": "642 Portage St, Kalamazoo, MI 49007-5326",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.285427306463,
+    "longitude": -85.575021988891,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246913",
+    "businessName": "PAUL\u0027S PANTRY",
+    "address": "1719 Miller Rd, Kalamazoo, MI 49001-4513",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.266894867394,
+    "longitude": -85.558975931508,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288483",
+    "businessName": "PV LIQUOR LLC",
+    "address": "912 E CORK ST, KALAMAZOO, MI 49001",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.259515672557,
+    "longitude": -85.570164355423,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196952",
+    "businessName": "SHIVA MART",
+    "address": "2020 E Cork St, Kalamazoo, MI 49001-6407",
+    "city": "Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.259490436314,
+    "longitude": -85.555203008656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228815",
+    "businessName": "SOUTH WESTNEDGE MARKET",
+    "address": "819 S Westnedge Ave, Kalamazoo, MI 49008-1161",
+    "city": "Kalamazoo",
+    "zipCode": "49008",
+    "latitude": 42.283345030028,
+    "longitude": -85.589494061501,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242176",
+    "businessName": "SUNNY DISCOUNT LIQUOR",
+    "address": "3115 S Westnedge Ave, Kalamazoo, MI 49008-2977",
+    "city": "Kalamazoo",
+    "zipCode": "49008",
+    "latitude": 42.26028095685,
+    "longitude": -85.589530022677,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222750",
+    "businessName": "SPRINKLE WINE \u0026 SPIRITS",
+    "address": "2116 S Sprinkle Rd, Kalamazoo, MI 49001-4156",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49001",
+    "latitude": 42.269191320038,
+    "longitude": -85.530921658041,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9498",
+    "businessName": "HARDING\u0027S",
+    "address": "6430 S Westnedge Ave, Portage, MI 49002-3541",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.223963297381,
+    "longitude": -85.58958454035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10192",
+    "businessName": "HOFFMAN\u0027S CORNER STORE",
+    "address": "5905 S Westnedge Ave, Portage, MI 49002-1458",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.231675444089,
+    "longitude": -85.589409261519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9182",
+    "businessName": "MEIJER #22",
+    "address": "5121 S Westnedge Ave, Portage, MI 49002-0404",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.24311761203,
+    "longitude": -85.589511616984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11326",
+    "businessName": "ON THE WINGS MARKET",
+    "address": "5232 Portage Rd, Portage, MI 49002-1714",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.241355455303,
+    "longitude": -85.56021472439,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165117",
+    "businessName": "SAM\u0027S CLUB #6661",
+    "address": "7021 S Westnedge Ave, Portage, MI 49002-4206",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.215175506731,
+    "longitude": -85.589316221671,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213399",
+    "businessName": "SPRINKLE BEER MARKET",
+    "address": "7907 S Sprinkle Rd, Portage, MI 49002-9431",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.202365288464,
+    "longitude": -85.540456968354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285310",
+    "businessName": "SWEET CONVENIENCE PARTY STORE",
+    "address": "330 E Centre Ave, Portage, MI 49002-5559",
+    "city": "Portage",
+    "zipCode": "49002",
+    "latitude": 42.200943109319,
+    "longitude": -85.586174266242,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800005721",
+    "propertyName": "BATAVIA APARTMENTS",
+    "latitude": 41.852755999365925,
+    "longitude": -88.285415000244,
+    "assistedUnits": 258,
+    "totalUnits": 290
+  },
+  {
+    "propertyId": "800006408",
+    "propertyName": "TOWNE AND COUNTRY APARTMENTS",
+    "latitude": 41.870626998970764,
+    "longitude": -88.21668600008888,
+    "assistedUnits": 179,
+    "totalUnits": 189
+  }
+]

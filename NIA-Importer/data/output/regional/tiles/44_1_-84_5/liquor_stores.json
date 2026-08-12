@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "132121",
+    "businessName": "SUGAR SHACK PARTY STORE",
+    "address": "5490 Butman Rd, Gladwin, MI 48624-9283",
+    "city": "Butman Twp",
+    "zipCode": "48624",
+    "latitude": 44.131487758133,
+    "longitude": -84.467762779335,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282215",
+    "businessName": "LARRY\u0027S",
+    "address": "5449 Round Lake Rd, Gladwin, MI 48624-9215",
+    "city": "Sherman Twp",
+    "zipCode": "48624",
+    "latitude": 44.130660316891,
+    "longitude": -84.486876789263,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

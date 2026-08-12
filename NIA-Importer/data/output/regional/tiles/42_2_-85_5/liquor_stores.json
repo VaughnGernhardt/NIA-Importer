@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0270594",
+    "businessName": "BP GAS",
+    "address": "10230 E Michigan Ave, Galesburg, MI 49053-9606",
+    "city": "Comstock Twp",
+    "zipCode": "49053",
+    "latitude": 42.288692777659,
+    "longitude": -85.430986594092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246687",
+    "businessName": "GALESBURG JOHNNY\u0027S #1250",
+    "address": "10305 Miller Dr, Galesburg, MI 49053-9581",
+    "city": "Comstock Twp",
+    "zipCode": "49053",
+    "latitude": 42.27555504877,
+    "longitude": -85.42859900507,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241512",
+    "businessName": "LIQUOR OUTLET",
+    "address": "8418 E Michigan Ave, Galesburg, MI 49053-9752",
+    "city": "Comstock Twp",
+    "zipCode": "49053",
+    "latitude": 42.288432164794,
+    "longitude": -85.46447662837,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9822",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "54 W Michigan Ave, Galesburg, MI 49053-8647",
+    "city": "Galesburg",
+    "zipCode": "49053",
+    "latitude": 42.288946694603,
+    "longitude": -85.419226836747,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279431",
+    "businessName": "KILGORE GAS",
+    "address": "6710 E N Ave, Kalamazoo, MI 49048-9775",
+    "city": "Pavilion Twp",
+    "zipCode": "49048",
+    "latitude": 42.244804489535,
+    "longitude": -85.499008623278,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

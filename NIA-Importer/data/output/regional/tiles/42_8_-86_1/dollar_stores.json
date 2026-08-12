@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "2279-n-park-dr-ste-510",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2279 N. Park Dr. Ste 510, Holland, MI 49424-8558",
+    "city": "Holland",
+    "zipCode": "49424",
+    "latitude": 42.807316198887,
+    "longitude": -86.089825968875
+  },
+  {
+    "storeId": "3530-w-shore-drive",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3530, W Shore Drive Holland, MI 49424",
+    "city": "W Shore Drive Holland",
+    "zipCode": "49424",
+    "latitude": 42.832036026088,
+    "longitude": -86.093641187545
+  }
+]

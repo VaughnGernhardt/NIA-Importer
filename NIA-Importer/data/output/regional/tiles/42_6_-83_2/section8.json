@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800009898",
+    "propertyName": "AVON TOWERS",
+    "latitude": 42.67718299936963,
+    "longitude": -83.15306800037324,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800010049",
+    "propertyName": "DANISH VILLAGE",
+    "latitude": 42.68101999873018,
+    "longitude": -83.18367999990464,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  }
+]

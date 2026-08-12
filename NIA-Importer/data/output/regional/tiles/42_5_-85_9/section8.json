@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009953",
+    "propertyName": "BRIDGEPORT",
+    "latitude": 42.52204399879562,
+    "longitude": -85.83712399964894,
+    "assistedUnits": 48,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800010151",
+    "propertyName": "GRAND RAVINE SENIOR HOUSING",
+    "latitude": 42.53481499897705,
+    "longitude": -85.8329960001699,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800010589",
+    "propertyName": "SUNSET HOUSE",
+    "latitude": 42.544038998799145,
+    "longitude": -85.85029000040544,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  }
+]

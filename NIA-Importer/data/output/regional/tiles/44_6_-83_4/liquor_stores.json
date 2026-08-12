@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0259179",
+    "businessName": "ALCONA BREW HAUS, INC.",
+    "address": "676 N US 23, Harrisville, MI 48740-9779",
+    "city": "Harrisville Twp",
+    "zipCode": "48740",
+    "latitude": 44.640238555627,
+    "longitude": -83.306417077037,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "152101",
+    "businessName": "HARRISVILLE E-Z MART",
+    "address": "449 S US 23, Harrisville, MI 48740-9431",
+    "city": "Harrisville Twp",
+    "zipCode": "48740",
+    "latitude": 44.638801307736,
+    "longitude": -83.306641358345,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

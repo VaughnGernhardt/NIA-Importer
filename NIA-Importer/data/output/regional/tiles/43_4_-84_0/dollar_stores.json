@@ -1,0 +1,102 @@
+[
+  {
+    "storeId": "3050-bay-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3050, Bay Road Saginaw, MI 48603",
+    "city": "Bay Road Saginaw",
+    "zipCode": "48603",
+    "latitude": 43.451699971938,
+    "longitude": -83.975490850966
+  },
+  {
+    "storeId": "3430-state-st-suite-2",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "3430 State St. Suite 2, Saginaw, MI 48602-3354",
+    "city": "Saginaw",
+    "zipCode": "48602",
+    "latitude": 43.436706870104,
+    "longitude": -83.988646294153
+  },
+  {
+    "storeId": "3173-westbay-dr",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3173, Westbay Dr Saginaw, MI 48604-2535",
+    "city": "Westbay Dr Saginaw",
+    "zipCode": "48604",
+    "latitude": 43.478755861508,
+    "longitude": -83.97965447957
+  },
+  {
+    "storeId": "2790-bay-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2790, Bay Road Saginaw, MI 48603-3309",
+    "city": "Bay Road Saginaw",
+    "zipCode": "48603",
+    "latitude": 43.450546077055,
+    "longitude": -83.975476148443
+  },
+  {
+    "storeId": "3417-e-genesee-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3417, E Genesee Avenue Saginaw, MI 48601",
+    "city": "E Genesee Avenue Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.401820689779,
+    "longitude": -83.913152936662
+  },
+  {
+    "storeId": "2447-e-holland-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2447, E Holland Ave. Saginaw, MI 48601-2235",
+    "city": "E Holland Ave. Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.414824977386,
+    "longitude": -83.91886842547
+  },
+  {
+    "storeId": "3803-n-michigan-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3803, N Michigan Ave Saginaw, MI 48604-1826",
+    "city": "N Michigan Ave Saginaw",
+    "zipCode": "48604",
+    "latitude": 43.462776536285,
+    "longitude": -83.947641165464
+  },
+  {
+    "storeId": "1908-s-michigan-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1908, S. Michigan Avenue Saginaw, MI 48602-1232",
+    "city": "S. Michigan Avenue Saginaw",
+    "zipCode": "48602",
+    "latitude": 43.406023694563,
+    "longitude": -83.978368263916
+  },
+  {
+    "storeId": "3430-state-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3430, State Street Saginaw, MI 48602-3354",
+    "city": "State Street Saginaw",
+    "zipCode": "48602",
+    "latitude": 43.436706870104,
+    "longitude": -83.988646294153
+  },
+  {
+    "storeId": "404-w-genesee-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 404, W Genesee Avenue Saginaw, MI 48602",
+    "city": "W Genesee Avenue Saginaw",
+    "zipCode": "48602",
+    "latitude": 43.434958604874,
+    "longitude": -83.947810372713
+  }
+]

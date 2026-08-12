@@ -1,0 +1,162 @@
+[
+  {
+    "propertyId": "800009876",
+    "propertyName": "ALLEN MANOR",
+    "latitude": 42.952093999287456,
+    "longitude": -85.65320800026637,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800009948",
+    "propertyName": "BRETON VILLAGE GREEN",
+    "latitude": 42.92731499883876,
+    "longitude": -85.61166000029763,
+    "assistedUnits": 162,
+    "totalUnits": 162
+  },
+  {
+    "propertyId": "800009967",
+    "propertyName": "CAMBRIDGE SQUARE II",
+    "latitude": 42.97871199933216,
+    "longitude": -85.62424299982466,
+    "assistedUnits": 62,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800010052",
+    "propertyName": "DAVIDS HOUSE",
+    "latitude": 42.92369599889731,
+    "longitude": -85.69008499970958,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800232185",
+    "propertyName": "DELAWARE HEIGHTS",
+    "latitude": 42.94585699899645,
+    "longitude": -85.66775900017177,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800010057",
+    "propertyName": "DELAWARE MANOR",
+    "latitude": 42.94585699899645,
+    "longitude": -85.66775900017177,
+    "assistedUnits": 46,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800254392",
+    "propertyName": "Eastern Lofts",
+    "latitude": 42.95127099931092,
+    "longitude": -85.64952599995287,
+    "assistedUnits": 11,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800249304",
+    "propertyName": "FERGUSON APTS.",
+    "latitude": 42.96135199890624,
+    "longitude": -85.66647200003388,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010278",
+    "propertyName": "LEONARD PINES APARTMENTS",
+    "latitude": 42.98461599901968,
+    "longitude": -85.63644999960805,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010450",
+    "propertyName": "PINERY PARK APTS",
+    "latitude": 42.92120399898065,
+    "longitude": -85.69369300040323,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800010460",
+    "propertyName": "PLYMOUTH ARMS APTS",
+    "latitude": 42.97871199933216,
+    "longitude": -85.62424299982466,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800010482",
+    "propertyName": "RANSOM TOWERS",
+    "latitude": 42.96432999896466,
+    "longitude": -85.66476700031957,
+    "assistedUnits": 153,
+    "totalUnits": 153
+  },
+  {
+    "propertyId": "800010307",
+    "propertyName": "REFLECTIONS",
+    "latitude": 42.94106699913809,
+    "longitude": -85.65559300039627,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800241371",
+    "propertyName": "SOUTHTOWN SQUARE",
+    "latitude": 42.94144199892622,
+    "longitude": -85.65873099983833,
+    "assistedUnits": 44,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800010584",
+    "propertyName": "STUYVESANT APARTMENTS",
+    "latitude": 42.959791998829765,
+    "longitude": -85.65901299987064,
+    "assistedUnits": 86,
+    "totalUnits": 87
+  },
+  {
+    "propertyId": "800252410",
+    "propertyName": "Seven45 Stocking",
+    "latitude": 42.977510999066304,
+    "longitude": -85.68984100021042,
+    "assistedUnits": 8,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800258432",
+    "propertyName": "VERNE BARRY PLACE APARTMENTS",
+    "latitude": 42.96167199902252,
+    "longitude": -85.6676350003232,
+    "assistedUnits": 86,
+    "totalUnits": 86
+  },
+  {
+    "propertyId": "800010650",
+    "propertyName": "VILLAGE DRIVE APARTMENTS",
+    "latitude": 42.91656499928699,
+    "longitude": -85.61823499983082,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010212",
+    "propertyName": "WALNUT GROVE",
+    "latitude": 42.94963599894665,
+    "longitude": -85.68690799990945,
+    "assistedUnits": 78,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800010700",
+    "propertyName": "WESTON APARTMENTS",
+    "latitude": 42.96201399908176,
+    "longitude": -85.67345300034624,
+    "assistedUnits": 94,
+    "totalUnits": 190
+  }
+]

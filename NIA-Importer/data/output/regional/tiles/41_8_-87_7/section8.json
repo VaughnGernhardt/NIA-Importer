@@ -1,0 +1,674 @@
+[
+  {
+    "propertyId": "800006517",
+    "propertyName": "21ST \u0026 MICHIGAN APARTMENTS",
+    "latitude": 41.85430999902577,
+    "longitude": -87.62366200016245,
+    "assistedUnits": 90,
+    "totalUnits": 250
+  },
+  {
+    "propertyId": "800006520",
+    "propertyName": "36TH \u0026 MICHIGAN TOWNHOUSES",
+    "latitude": 41.828908998755956,
+    "longitude": -87.62404700012692,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800210777",
+    "propertyName": "46th \u0026 VINCENNES APARTMENTS",
+    "latitude": 41.81138399919928,
+    "longitude": -87.61470499997414,
+    "assistedUnits": 11,
+    "totalUnits": 28
+  },
+  {
+    "propertyId": "800006524",
+    "propertyName": "51ST \u0026 KING DRIVE APARTMENTS",
+    "latitude": 41.802294999233304,
+    "longitude": -87.61551000006315,
+    "assistedUnits": 59,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800006519",
+    "propertyName": "65 \u0026 67 E. 36th STREET APTS.",
+    "latitude": 41.829442998728176,
+    "longitude": -87.62404799995184,
+    "assistedUnits": 4,
+    "totalUnits": 4
+  },
+  {
+    "propertyId": "800005688",
+    "propertyName": "ACADEMY SQUARE APTS",
+    "latitude": 41.8774029991146,
+    "longitude": -87.65965200039916,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800005695",
+    "propertyName": "ALPHA TOWERS",
+    "latitude": 41.80976599937172,
+    "longitude": -87.60307899997379,
+    "assistedUnits": 149,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800217610",
+    "propertyName": "ANIXTER VILLAGE",
+    "latitude": 41.865691998789444,
+    "longitude": -87.67809499978202,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800210319",
+    "propertyName": "ARCHER COURTS APARTMENTS",
+    "latitude": 41.851571999073215,
+    "longitude": -87.63499100006186,
+    "assistedUnits": 146,
+    "totalUnits": 146
+  },
+  {
+    "propertyId": "800005686",
+    "propertyName": "Asbury Plaza",
+    "latitude": 41.89593799875026,
+    "longitude": -87.62997999977769,
+    "assistedUnits": 77,
+    "totalUnits": 384
+  },
+  {
+    "propertyId": "800006289",
+    "propertyName": "BARBARA JEAN (BJ) WRIGHT COURT APARTMENTS",
+    "latitude": 41.86440499880264,
+    "longitude": -87.6511930001532,
+    "assistedUnits": 108,
+    "totalUnits": 272
+  },
+  {
+    "propertyId": "800005736",
+    "propertyName": "BOOTH MANOR",
+    "latitude": 41.881652999179394,
+    "longitude": -87.66567999958616,
+    "assistedUnits": 57,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800233174",
+    "propertyName": "BRONZEVILLE ASSOCIATES FAMILY APARTMENTS",
+    "latitude": 41.820425999057974,
+    "longitude": -87.61535600007738,
+    "assistedUnits": 66,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800233173",
+    "propertyName": "BRONZEVILLE FAMILY ASSOCIATES  PHASE. II",
+    "latitude": 41.820425999057974,
+    "longitude": -87.61535600007738,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006198",
+    "propertyName": "BRONZEVILLE SENIOR APARTMENTS",
+    "latitude": 41.82042899890362,
+    "longitude": -87.61388300016665,
+    "assistedUnits": 97,
+    "totalUnits": 97
+  },
+  {
+    "propertyId": "800006169",
+    "propertyName": "Bronzeville Apartments",
+    "latitude": 41.80816599936521,
+    "longitude": -87.61406399991662,
+    "assistedUnits": 21,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800005770",
+    "propertyName": "CAL-MET VILLAGE",
+    "latitude": 41.82019199928425,
+    "longitude": -87.61821200038545,
+    "assistedUnits": 75,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800006400",
+    "propertyName": "CALUMET APARTMENTS",
+    "latitude": 41.8282339988476,
+    "longitude": -87.61856499966454,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800006338",
+    "propertyName": "CAMBRIDGE MANOR",
+    "latitude": 41.84528099923676,
+    "longitude": -87.62191300006722,
+    "assistedUnits": 244,
+    "totalUnits": 312
+  },
+  {
+    "propertyId": "800255222",
+    "propertyName": "CASA DURANGO",
+    "latitude": 41.8565499989843,
+    "longitude": -87.65659600007456,
+    "assistedUnits": 5,
+    "totalUnits": 53
+  },
+  {
+    "propertyId": "800005775",
+    "propertyName": "CASL SENIOR HOUSING",
+    "latitude": 41.8540109988866,
+    "longitude": -87.63609200042693,
+    "assistedUnits": 90,
+    "totalUnits": 91
+  },
+  {
+    "propertyId": "800006226",
+    "propertyName": "CHARLES A. BECKETT APTS.",
+    "latitude": 41.820425999057974,
+    "longitude": -87.61535600007738,
+    "assistedUnits": 133,
+    "totalUnits": 420
+  },
+  {
+    "propertyId": "800005791",
+    "propertyName": "CHINATOWN ELDERLY APARTMENTS",
+    "latitude": 41.851130999247914,
+    "longitude": -87.63478000017467,
+    "assistedUnits": 138,
+    "totalUnits": 139
+  },
+  {
+    "propertyId": "800005794",
+    "propertyName": "CIRCLE PARK APTS",
+    "latitude": 41.86809199892509,
+    "longitude": -87.66381599986322,
+    "assistedUnits": 239,
+    "totalUnits": 418
+  },
+  {
+    "propertyId": "800005814",
+    "propertyName": "CONGRESSMAN GEORGE W. COLLINS APTS.",
+    "latitude": 41.863482999124635,
+    "longitude": -87.65613599976702,
+    "assistedUnits": 195,
+    "totalUnits": 195
+  },
+  {
+    "propertyId": "800258229",
+    "propertyName": "Cottage View Terrace",
+    "latitude": 41.807745998784796,
+    "longitude": -87.60630699982755,
+    "assistedUnits": 10,
+    "totalUnits": 97
+  },
+  {
+    "propertyId": "800005831",
+    "propertyName": "DAMEN COURT APTS.",
+    "latitude": 41.87734799915604,
+    "longitude": -87.6780010000707,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800005836",
+    "propertyName": "DAVIS APARTMENTS",
+    "latitude": 41.82910399874316,
+    "longitude": -87.62298900031792,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800005845",
+    "propertyName": "DELIVERANCE MANOR",
+    "latitude": 41.81835199894397,
+    "longitude": -87.6245030002365,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800005855",
+    "propertyName": "DREXEL PRESERVATION/DREXEL CT \u0026 LAKE PARK EAST",
+    "latitude": 41.81277299899886,
+    "longitude": -87.60419100020948,
+    "assistedUnits": 154,
+    "totalUnits": 155
+  },
+  {
+    "propertyId": "800005857",
+    "propertyName": "DREXEL TOWERS APARTMENTS",
+    "latitude": 41.80546399891202,
+    "longitude": -87.60361100025136,
+    "assistedUnits": 136,
+    "totalUnits": 136
+  },
+  {
+    "propertyId": "800005878",
+    "propertyName": "EL VALOR",
+    "latitude": 41.85568399932236,
+    "longitude": -87.67572300007093,
+    "assistedUnits": 9,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800005883",
+    "propertyName": "ELLIS LAKEVIEW APARTMENTS",
+    "latitude": 41.81062299891219,
+    "longitude": -87.60192599973021,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  },
+  {
+    "propertyId": "800067914",
+    "propertyName": "FELLOWSHIP MANOR",
+    "latitude": 41.80293899896896,
+    "longitude": -87.6329730003531,
+    "assistedUnits": 58,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800212941",
+    "propertyName": "FRED C. MATTHEWS III",
+    "latitude": 41.80256999917502,
+    "longitude": -87.62126799981175,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005940",
+    "propertyName": "GRANT VILLAGE",
+    "latitude": 41.818447999052246,
+    "longitude": -87.60401499958408,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800005946",
+    "propertyName": "GREENCASTLE OF KENWOOD",
+    "latitude": 41.805660998784674,
+    "longitude": -87.60624499990325,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005954",
+    "propertyName": "GREENWOOD PARK",
+    "latitude": 41.8094219992809,
+    "longitude": -87.60205999962452,
+    "assistedUnits": 50,
+    "totalUnits": 122
+  },
+  {
+    "propertyId": "800248427",
+    "propertyName": "Greenwood Park Apartments",
+    "latitude": 41.8094219992809,
+    "longitude": -87.6020710003935,
+    "assistedUnits": 4,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800212453",
+    "propertyName": "HARRISON COURTS",
+    "latitude": 41.87394999896516,
+    "longitude": -87.69931499983024,
+    "assistedUnits": 123,
+    "totalUnits": 123
+  },
+  {
+    "propertyId": "800254416",
+    "propertyName": "Hilliard Homes Phase 1",
+    "latitude": 41.85519899938266,
+    "longitude": -87.62994299996777,
+    "assistedUnits": 17,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800241507",
+    "propertyName": "Illinois Housing Development Authority",
+    "latitude": 41.889745999161995,
+    "longitude": -87.62383899971447,
+    "assistedUnits": 0,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800243430",
+    "propertyName": "Illinois Housing Development Authority",
+    "latitude": 41.889745999161995,
+    "longitude": -87.62383899971447,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800499926",
+    "propertyName": "Illinois Housing Development Authority",
+    "latitude": 41.888041999262065,
+    "longitude": -87.62396900030913,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800006053",
+    "propertyName": "LAKE GROVE VILLAGE",
+    "latitude": 41.83114599920312,
+    "longitude": -87.60847299967429,
+    "assistedUnits": 92,
+    "totalUnits": 458
+  },
+  {
+    "propertyId": "800040451",
+    "propertyName": "LAKE PARK APTS",
+    "latitude": 41.82131599909518,
+    "longitude": -87.60182399962295,
+    "assistedUnits": 60,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800006056",
+    "propertyName": "LAKE PARK MANOR",
+    "latitude": 41.830108999092296,
+    "longitude": -87.60723099974226,
+    "assistedUnits": 115,
+    "totalUnits": 164
+  },
+  {
+    "propertyId": "800006057",
+    "propertyName": "LAKE SHORE PLAZA",
+    "latitude": 41.89250299936084,
+    "longitude": -87.61699200019473,
+    "assistedUnits": 114,
+    "totalUnits": 567
+  },
+  {
+    "propertyId": "800006030",
+    "propertyName": "LAKE VISTA APARTMENTS",
+    "latitude": 41.86322999895043,
+    "longitude": -87.62277099985971,
+    "assistedUnits": 286,
+    "totalUnits": 286
+  },
+  {
+    "propertyId": "800006077",
+    "propertyName": "LIBERTY COMMONS",
+    "latitude": 41.80667999886026,
+    "longitude": -87.61603700031785,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800006095",
+    "propertyName": "LONG GROVE HOUSE",
+    "latitude": 41.8555169988602,
+    "longitude": -87.62367300003312,
+    "assistedUnits": 356,
+    "totalUnits": 448
+  },
+  {
+    "propertyId": "800006099",
+    "propertyName": "LUTHER TERRACE KING DRIVE APTS",
+    "latitude": 41.80767999912239,
+    "longitude": -87.61604300016563,
+    "assistedUnits": 141,
+    "totalUnits": 315
+  },
+  {
+    "propertyId": "800253550",
+    "propertyName": "Lawson House - RAD",
+    "latitude": 41.896498998852,
+    "longitude": -87.62947699981245,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800212455",
+    "propertyName": "Loomis Courts",
+    "latitude": 41.8617469991083,
+    "longitude": -87.65933900040471,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800040094",
+    "propertyName": "MCGILL TERRACE",
+    "latitude": 41.80577199914969,
+    "longitude": -87.60552699985287,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800006143",
+    "propertyName": "MEDS APARTMENTS",
+    "latitude": 41.828908998755956,
+    "longitude": -87.62404700012692,
+    "assistedUnits": 108,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800006144",
+    "propertyName": "MICHIGAN TOWERS",
+    "latitude": 41.82532199924011,
+    "longitude": -87.62332700042671,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800067934",
+    "propertyName": "Margaret Ford Manor",
+    "latitude": 41.8126559989627,
+    "longitude": -87.62483600032243,
+    "assistedUnits": 59,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800241564",
+    "propertyName": "NEWBERRY PARK APARTMENTS",
+    "latitude": 41.86440199901101,
+    "longitude": -87.65535400014252,
+    "assistedUnits": 30,
+    "totalUnits": 84
+  },
+  {
+    "propertyId": "800006170",
+    "propertyName": "NORTH WASHINGTON PARK MANOR",
+    "latitude": 41.80317999924065,
+    "longitude": -87.61214300029224,
+    "assistedUnits": 57,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800006187",
+    "propertyName": "NORTHWEST TOWER",
+    "latitude": 41.8936779987416,
+    "longitude": -87.65756600002004,
+    "assistedUnits": 137,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800006356",
+    "propertyName": "OAKLEY SQUARE APARTMENTS",
+    "latitude": 41.87743799936763,
+    "longitude": -87.68464699974898,
+    "assistedUnits": 221,
+    "totalUnits": 247
+  },
+  {
+    "propertyId": "800225848",
+    "propertyName": "OAKWOOD SHORES SENIOR APARTMENTS",
+    "latitude": 41.826815998931814,
+    "longitude": -87.60856800010886,
+    "assistedUnits": 60,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800006223",
+    "propertyName": "PARKVIEW TOWERS/AKA/BAPTIST TOWER",
+    "latitude": 41.80170699894623,
+    "longitude": -87.61637600025158,
+    "assistedUnits": 102,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800006245",
+    "propertyName": "PIONEER VILLAGE",
+    "latitude": 41.82579299885859,
+    "longitude": -87.61783200044385,
+    "assistedUnits": 152,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800245390",
+    "propertyName": "Paul G. Stewart III Townhomes",
+    "latitude": 41.820425999057974,
+    "longitude": -87.61535600007738,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800006225",
+    "propertyName": "Paul G. Stewart Tower",
+    "latitude": 41.819165999245854,
+    "longitude": -87.61658700013876,
+    "assistedUnits": 180,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800006340",
+    "propertyName": "SOUTH OF THE YARDS",
+    "latitude": 41.80348099936835,
+    "longitude": -87.65346899960483,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800005856",
+    "propertyName": "SUNNYDALE COMMONS APARTMENTS",
+    "latitude": 41.80244399919969,
+    "longitude": -87.60611799968166,
+    "assistedUnits": 103,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800255916",
+    "propertyName": "Southbridge Phase 1A",
+    "latitude": 41.85089399886872,
+    "longitude": -87.6272830003766,
+    "assistedUnits": 3,
+    "totalUnits": 103
+  },
+  {
+    "propertyId": "800255856",
+    "propertyName": "Southbridge Phase IB",
+    "latitude": 41.85025199896162,
+    "longitude": -87.62726800030796,
+    "assistedUnits": 2,
+    "totalUnits": 103
+  },
+  {
+    "propertyId": "800006349",
+    "propertyName": "Spring Grove Apartments",
+    "latitude": 41.8124379989777,
+    "longitude": -87.6046270002276,
+    "assistedUnits": 99,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800006372",
+    "propertyName": "T.E.BROWN APTS",
+    "latitude": 41.828491999117375,
+    "longitude": -87.63243199985473,
+    "assistedUnits": 116,
+    "totalUnits": 117
+  },
+  {
+    "propertyId": "800006374",
+    "propertyName": "T.K. LAWLESS GARDENS I",
+    "latitude": 41.82966699922796,
+    "longitude": -87.61466300014133,
+    "assistedUnits": 436,
+    "totalUnits": 460
+  },
+  {
+    "propertyId": "800006373",
+    "propertyName": "T.K. LAWLESS GARDENS II",
+    "latitude": 41.830792998730224,
+    "longitude": -87.61466999981404,
+    "assistedUnits": 274,
+    "totalUnits": 284
+  },
+  {
+    "propertyId": "800006378",
+    "propertyName": "THE OAKS DEARBORN PARK ELDERLY",
+    "latitude": 41.87133399933209,
+    "longitude": -87.62978499978404,
+    "assistedUnits": 190,
+    "totalUnits": 190
+  },
+  {
+    "propertyId": "800006414",
+    "propertyName": "TRINITY ACRES",
+    "latitude": 41.82293599929748,
+    "longitude": -87.61828799965511,
+    "assistedUnits": 70,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800252570",
+    "propertyName": "The Studios",
+    "latitude": 41.857896999134425,
+    "longitude": -87.6254170001055,
+    "assistedUnits": 20,
+    "totalUnits": 170
+  },
+  {
+    "propertyId": "800006431",
+    "propertyName": "VAN BUREN PARK APARTMENTS",
+    "latitude": 41.87735199896003,
+    "longitude": -87.67826700020946,
+    "assistedUnits": 299,
+    "totalUnits": 299
+  },
+  {
+    "propertyId": "800005698",
+    "propertyName": "VAN BUREN PLACE APARTMENTS",
+    "latitude": 41.876563999294305,
+    "longitude": -87.6649420003426,
+    "assistedUnits": 123,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800006442",
+    "propertyName": "VINCENNES APARTMENTS",
+    "latitude": 41.817411999011874,
+    "longitude": -87.61400000034251,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800006448",
+    "propertyName": "WEST POINT PLAZA",
+    "latitude": 41.87733599907365,
+    "longitude": -87.67684899965202,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800251762",
+    "propertyName": "Warren Apartments",
+    "latitude": 41.882234999051256,
+    "longitude": -87.66633999991025,
+    "assistedUnits": 12,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800006487",
+    "propertyName": "Willa Rawls Manor",
+    "latitude": 41.81982799934988,
+    "longitude": -87.6216939997841,
+    "assistedUnits": 123,
+    "totalUnits": 123
+  }
+]

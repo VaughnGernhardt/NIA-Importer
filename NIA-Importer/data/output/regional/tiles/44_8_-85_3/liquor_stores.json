@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "16957",
+    "businessName": "RAPID CITY E-Z MART",
+    "address": "8227 Rapid City Rd NW, Rapid City, MI 49676-8704",
+    "city": "Clearwater Twp",
+    "zipCode": "49676",
+    "latitude": 44.834588852837,
+    "longitude": -85.2828400299,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206674",
+    "businessName": "VALLEY PARTY STORE",
+    "address": "8174 Rapid City Rd NW, Rapid City, MI 49676-8507",
+    "city": "Clearwater Twp",
+    "zipCode": "49676",
+    "latitude": 44.833162001522,
+    "longitude": -85.282709987666,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206296",
+    "businessName": "VILLAGE MARKET OF RAPID CITY",
+    "address": "9556 Rapid City Rd NW, Rapid City, MI 49676-9485",
+    "city": "Clearwater Twp",
+    "zipCode": "49676",
+    "latitude": 44.853997649479,
+    "longitude": -85.282466819835,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275047",
+    "businessName": "LJW, LLC",
+    "address": "9105 Helena Rd, Alden, MI 49612-5107",
+    "city": "Helena Twp",
+    "zipCode": "49612",
+    "latitude": 44.881179217704,
+    "longitude": -85.274943433121,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

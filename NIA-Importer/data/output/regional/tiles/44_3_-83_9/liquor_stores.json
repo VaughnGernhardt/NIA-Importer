@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "157655",
+    "businessName": "HALE MARATHON",
+    "address": "101 W Main St, Hale, MI 48739",
+    "city": "Plainfield Twp",
+    "zipCode": "48739",
+    "latitude": 44.377917217969,
+    "longitude": -83.806257314266,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288883",
+    "businessName": "LONDO LAKES STORE INCORPORATED",
+    "address": "8585 Lavere Rd, Hale, MI 48739-9214",
+    "city": "Plainfield Twp",
+    "zipCode": "48739",
+    "latitude": 44.356049236522,
+    "longitude": -83.868603783591,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

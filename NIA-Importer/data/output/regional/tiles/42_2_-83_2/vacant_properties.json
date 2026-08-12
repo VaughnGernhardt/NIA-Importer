@@ -1,0 +1,100 @@
+[
+  {
+    "registrationId": "VPO2026-00921",
+    "address": "1097 S Beatrice St",
+    "latitude": 42.279837772,
+    "longitude": -83.144832556,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00141",
+    "address": "1200 S Ethel St",
+    "latitude": 42.278427179,
+    "longitude": -83.143752851,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01375",
+    "address": "1245 S Liddesdale St",
+    "latitude": 42.279502367,
+    "longitude": -83.147537096,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00659",
+    "address": "1314 S Annabelle St",
+    "latitude": 42.278459667,
+    "longitude": -83.14774897,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01345",
+    "address": "1922 S Annabelle St",
+    "latitude": 42.273428158,
+    "longitude": -83.152241274,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00051",
+    "address": "1942 S Edsel St, Apt 1",
+    "latitude": 42.274085265,
+    "longitude": -83.15590414,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01083",
+    "address": "2785 Fort St",
+    "latitude": 42.268639035,
+    "longitude": -83.160995075,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00352",
+    "address": "2913 S Ethel St",
+    "latitude": 42.264713189,
+    "longitude": -83.154402544,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01163",
+    "address": "2943 S Bassett St",
+    "latitude": 42.263957199,
+    "longitude": -83.153832443,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00081",
+    "address": "3040 S Waring St",
+    "latitude": 42.267180823,
+    "longitude": -83.164192203,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01148",
+    "address": "3156 S Annabelle St",
+    "latitude": 42.263967844,
+    "longitude": -83.159844163,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00282",
+    "address": "3430 S Edsel St",
+    "latitude": 42.262910853,
+    "longitude": -83.165271831,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-01015",
+    "address": "374 S Fordson",
+    "latitude": 42.294123043,
+    "longitude": -83.15253091,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00571",
+    "address": "9026 Thaddeus St, #1",
+    "latitude": 42.2903611,
+    "longitude": -83.124387754,
+    "status": "Registered Vacant"
+  }
+]

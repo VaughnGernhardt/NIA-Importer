@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023009",
+    "propertyName": "FIRST AVENUE APARTMENTS",
+    "latitude": 45.1463369992468,
+    "longitude": -89.15759000040012,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800023222",
+    "propertyName": "NORTHSIDE APARTMENTS",
+    "latitude": 45.15820999892325,
+    "longitude": -89.15347399971833,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800240647",
+    "propertyName": "PARK VIEW APARTMENTS",
+    "latitude": 45.14344699912704,
+    "longitude": -89.14992100017459,
+    "assistedUnits": 84,
+    "totalUnits": 84
+  }
+]

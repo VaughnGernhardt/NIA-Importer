@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800023099",
+    "propertyName": "JEFFERSON OAKS WEST APARTMENTS",
+    "latitude": 42.99036999934084,
+    "longitude": -88.81930599971301,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800211217",
+    "propertyName": "ORCHARD HOLLOW APARTMENTS",
+    "latitude": 42.99316599931996,
+    "longitude": -88.82594800009166,
+    "assistedUnits": 19,
+    "totalUnits": 19
+  },
+  {
+    "propertyId": "800023329",
+    "propertyName": "PARKVIEW APTS AND ROCKLAND COURT",
+    "latitude": 42.91578799876642,
+    "longitude": -88.83091599981982,
+    "assistedUnits": 82,
+    "totalUnits": 83
+  },
+  {
+    "propertyId": "800023325",
+    "propertyName": "RIVERVIEW MANOR",
+    "latitude": 42.92724999933424,
+    "longitude": -88.83373899961762,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800023328",
+    "propertyName": "ROCK VIEW APARTMENTS",
+    "latitude": 42.99456199920266,
+    "longitude": -88.80587500043924,
+    "assistedUnits": 4,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023330",
+    "propertyName": "ROCKWELL COURT APTS",
+    "latitude": 42.916049999317934,
+    "longitude": -88.83772200022999,
+    "assistedUnits": 54,
+    "totalUnits": 64
+  }
+]

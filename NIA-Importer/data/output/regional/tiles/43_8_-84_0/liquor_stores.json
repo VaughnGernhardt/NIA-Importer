@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "239606",
+    "businessName": "TOWN \u0026 COUNTRY SUPERMARKET",
+    "address": "704 S Mable St, Pinconning, MI 48650-9348",
+    "city": "Pinconning",
+    "zipCode": "48650",
+    "latitude": 43.853282941576,
+    "longitude": -83.965980313783,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235492",
+    "businessName": "WILSON\u0027S CHEESE SHOPPE",
+    "address": "130 N Mable St, Pinconning, MI 48650-8436",
+    "city": "Pinconning",
+    "zipCode": "48650",
+    "latitude": 43.859001307294,
+    "longitude": -83.966066092529,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

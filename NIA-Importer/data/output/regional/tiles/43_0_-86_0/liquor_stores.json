@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "247748",
+    "businessName": "COOPERSVILLE CITGO AGO",
+    "address": "36 68th Ave S, Coopersville, MI 49404-9764",
+    "city": "Coopersville",
+    "zipCode": "49404",
+    "latitude": 43.059201181837,
+    "longitude": -85.956769346945,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289556",
+    "businessName": "DAP MART LLC",
+    "address": "25 68th Ave N, Coopersville, MI 49404-9223",
+    "city": "Coopersville",
+    "zipCode": "49404",
+    "latitude": 43.06041377098,
+    "longitude": -85.956928507519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132272",
+    "businessName": "FAMILY FARE SUPERMARKETS #635",
+    "address": "1181 W Randall St, Coopersville, MI 49404-9402",
+    "city": "Coopersville",
+    "zipCode": "49404",
+    "latitude": 43.059926401447,
+    "longitude": -85.955933214307,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229009",
+    "businessName": "TASKER\u0027S DRUG STORE",
+    "address": "281 Main St, Coopersville, MI 49404-1232",
+    "city": "Coopersville",
+    "zipCode": "49404",
+    "latitude": 43.063620569367,
+    "longitude": -85.934236129068,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

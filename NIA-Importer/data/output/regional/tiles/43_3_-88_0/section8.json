@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800022921",
+    "propertyName": "COUNTRY HARBOR",
+    "latitude": 43.38076799887168,
+    "longitude": -87.94777499998747,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800022919",
+    "propertyName": "KENDAL OAKS OF SAUKVILLE",
+    "latitude": 43.381240999116926,
+    "longitude": -87.94858000007649,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800079173",
+    "propertyName": "MANCHESTER HEIGHTS",
+    "latitude": 43.313192999201135,
+    "longitude": -87.95784100003844,
+    "assistedUnits": 67,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800023290",
+    "propertyName": "PRAIRIEVIEW APARTMENTS",
+    "latitude": 43.382510998823335,
+    "longitude": -87.95247300027721,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  }
+]

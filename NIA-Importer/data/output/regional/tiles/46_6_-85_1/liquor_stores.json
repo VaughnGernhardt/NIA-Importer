@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "183112",
+    "businessName": "PARADISE RECREATIONAL SPORTS",
+    "address": "8165 N M 123, Paradise, MI 49768-9800",
+    "city": "Whitefish Twp",
+    "zipCode": "49768",
+    "latitude": 46.624805472748,
+    "longitude": -85.03774453885,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270741",
+    "businessName": "THE NORTH CORNER STORE",
+    "address": "8346 N M 123, Paradise, MI 49768-9808",
+    "city": "Whitefish Twp",
+    "zipCode": "49768",
+    "latitude": 46.62703914453,
+    "longitude": -85.037255815591,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

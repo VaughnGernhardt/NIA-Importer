@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800010009",
+    "propertyName": "CLAIR CIRCLE",
+    "latitude": 42.29331099906158,
+    "longitude": -83.76248199981367,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800010044",
+    "propertyName": "CRANBROOK TOWERS",
+    "latitude": 42.245981999222316,
+    "longitude": -83.75527200007075,
+    "assistedUnits": 202,
+    "totalUnits": 202
+  },
+  {
+    "propertyId": "800010117",
+    "propertyName": "FOREST HILLS COOPERATIVE 5",
+    "latitude": 42.23273499922408,
+    "longitude": -83.7131600000374,
+    "assistedUnits": 0,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800010449",
+    "propertyName": "PINELAKE VILLAGE COOPERATIVE",
+    "latitude": 42.27003099938594,
+    "longitude": -83.78212099999611,
+    "assistedUnits": 81,
+    "totalUnits": 129
+  },
+  {
+    "propertyId": "800010540",
+    "propertyName": "SEQUOIA PLACE",
+    "latitude": 42.293282999335105,
+    "longitude": -83.78096699992761,
+    "assistedUnits": 55,
+    "totalUnits": 56
+  }
+]

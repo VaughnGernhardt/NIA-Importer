@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "3343-alpine-avenue-nw",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3343, Alpine Avenue NW Grand Rapids, MI 49544-8249",
+    "city": "Alpine Avenue NW Grand Rapids",
+    "zipCode": "49544",
+    "latitude": 43.024438609879,
+    "longitude": -85.689207313368
+  },
+  {
+    "storeId": "3150-plainfield-ave-ne-ste-b2",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "3150 Plainfield Ave NE Ste B2, Grand Rapids, MI 49525-3273",
+    "city": "Grand Rapids",
+    "zipCode": "49525",
+    "latitude": 43.020417671626,
+    "longitude": -85.634419207811
+  }
+]

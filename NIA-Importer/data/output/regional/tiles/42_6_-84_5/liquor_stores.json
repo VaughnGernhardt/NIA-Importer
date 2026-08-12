@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "238856",
+    "businessName": "TAILGATERS OKEMOS",
+    "address": "3450 Okemos Rd, Okemos, MI 48864-3924",
+    "city": "Alaiedon Twp",
+    "zipCode": "48864",
+    "latitude": 42.68142490452,
+    "longitude": -84.432663481414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270526",
+    "businessName": "TAILGATERS HOLT",
+    "address": "3517 Holt Rd, Holt, MI 48842-9774",
+    "city": "Delhi Twp",
+    "zipCode": "48842",
+    "latitude": 42.640151758451,
+    "longitude": -84.484597633045,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284278",
+    "businessName": "7-ELEVEN STORE #36928",
+    "address": "3500 Okemos Rd, Okemos, MI 48864-3926",
+    "city": "Meridian Twp",
+    "zipCode": "48864",
+    "latitude": 42.682972294528,
+    "longitude": -84.432350913014,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269674",
+    "businessName": "BIG 10-OKEMOS",
+    "address": "2950 Jolly Rd, Okemos, MI 48864-3550",
+    "city": "Meridian Twp",
+    "zipCode": "48864",
+    "latitude": 42.682903958601,
+    "longitude": -84.460422303999,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

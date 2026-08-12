@@ -1,0 +1,122 @@
+[
+  {
+    "businessId": "225694",
+    "businessName": "BEACH PARTY LIQUOR STORE",
+    "address": "220 N Beacon Blvd, Grand Haven, MI 49417-1152",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.063005821728,
+    "longitude": -86.220282623462,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271039",
+    "businessName": "BEECHTREE PARTY STORE",
+    "address": "540 S Beechtree St, Grand Haven, MI 49417-2045",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.056240562716,
+    "longitude": -86.205714157474,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166574",
+    "businessName": "D \u0026 W #1570",
+    "address": "1116 Robbins Rd, Grand Haven, MI 49417-2740",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.044497623257,
+    "longitude": -86.215611446593,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237910",
+    "businessName": "FORTINO\u0027S STORE, LLC",
+    "address": "114 Washington Ave, Grand Haven, MI 49417-1355",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.064306283539,
+    "longitude": -86.232394476401,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284333",
+    "businessName": "ROBBINS PLAZA LIQUOR, LLC",
+    "address": "941-945 ROBBINS RD, GRAND HAVEN, MI 49417",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.044574165231,
+    "longitude": -86.218726894487,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275137",
+    "businessName": "SEAWAY PARTY STORE",
+    "address": "815 Taylor Ave, Grand Haven, MI 49417-2159",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.051781568681,
+    "longitude": -86.222547891409,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289421",
+    "businessName": "SPRING LAKE MINI MART LLC",
+    "address": "327 N Beacon Blvd, Grand Haven, MI 49417-1108",
+    "city": "Grand Haven",
+    "zipCode": "49417",
+    "latitude": 43.064144279897,
+    "longitude": -86.220730541432,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99271",
+    "businessName": "MEIJER #180",
+    "address": "15000 US Highway 31, Grand Haven, MI 49417-8881",
+    "city": "Grand Haven Twp",
+    "zipCode": "49417",
+    "latitude": 43.044441739021,
+    "longitude": -86.220059927656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275249",
+    "businessName": "MUGS PARTY STORE",
+    "address": "13040 US HIGHWAY 31, GRAND HAVEN, MI 49417",
+    "city": "Grand Haven Twp",
+    "zipCode": "49417",
+    "latitude": 43.005404842029,
+    "longitude": -86.203241464126,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233564",
+    "businessName": "SOUTHTOWN MARKET",
+    "address": "15191 168th Ave, Grand Haven, MI 49417-8645",
+    "city": "Grand Haven Twp",
+    "zipCode": "49417",
+    "latitude": 43.044659349611,
+    "longitude": -86.20545720046,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276033",
+    "businessName": "WESCO, INC.",
+    "address": "16770 Ferris St, Grand Haven, MI 49417-9601",
+    "city": "Grand Haven Twp",
+    "zipCode": "49417",
+    "latitude": 43.00839657911,
+    "longitude": -86.203993578885,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11799",
+    "businessName": "WESCO #16",
+    "address": "502 W Savidge St, Spring Lake, MI 49456-1611",
+    "city": "Spring Lake",
+    "zipCode": "49456",
+    "latitude": 43.076643196881,
+    "longitude": -86.203234424973,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

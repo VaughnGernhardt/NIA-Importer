@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0286225",
+    "businessName": "BIG COX\u0027S TRADING POST, LLC",
+    "address": "1334 E Mullett Lake Rd, Indian River, MI 49749-9246",
+    "city": "Koehler Twp",
+    "zipCode": "49749",
+    "latitude": 45.442998003593,
+    "longitude": -84.555250517252,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242787",
+    "businessName": "TOBINABEE MARKET",
+    "address": "1541 N Straits Hwy, Topinabee, MI 49791-9800",
+    "city": "Mullett Twp",
+    "zipCode": "49791",
+    "latitude": 45.484395381848,
+    "longitude": -84.592251836723,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

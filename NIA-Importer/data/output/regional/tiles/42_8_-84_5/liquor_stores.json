@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "132954",
+    "businessName": "SPAGNUOLO\u0027S PARTY STORE \u0026 DELI",
+    "address": "5746 Clark Rd, Bath, MI 48808-9762",
+    "city": "Bath Twp",
+    "zipCode": "48808",
+    "latitude": 42.813123517228,
+    "longitude": -84.44909770772,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279921",
+    "businessName": "SILVER GAS, LLC",
+    "address": "5748 Round Lake Rd, Laingsburg, MI 48848-9449",
+    "city": "Victor Twp",
+    "zipCode": "48848",
+    "latitude": 42.881298505524,
+    "longitude": -84.449975755071,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

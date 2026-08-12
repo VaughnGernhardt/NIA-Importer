@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "235766",
+    "businessName": "SHELL GAS",
+    "address": "8122 M 60, Union City, MI 49094-9634",
+    "city": "Burlington Twp",
+    "zipCode": "49094",
+    "latitude": 42.076989420854,
+    "longitude": -85.135123078929,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269773",
+    "businessName": "JACK\u0027S FAMILY GROCERY OF UNION CITY",
+    "address": "202 S Broadway St, Union City, MI 49094-1102",
+    "city": "Union City",
+    "zipCode": "49094",
+    "latitude": 42.064397273152,
+    "longitude": -85.133285667323,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

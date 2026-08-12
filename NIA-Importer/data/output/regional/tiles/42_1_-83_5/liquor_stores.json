@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0275799",
+    "businessName": "HURON MARKET",
+    "address": "26012 Waltz Rd, New Boston, MI 48164-9327",
+    "city": "Huron Twp",
+    "zipCode": "48164",
+    "latitude": 42.115163538746,
+    "longitude": -83.401712087166,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160858",
+    "businessName": "MARVELOUS PIZZA, LIQUOR \u0026 DELI",
+    "address": "37312 Eureka Rd, Romulus, MI 48174-3632",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.194194817293,
+    "longitude": -83.401059665522,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "136095",
+    "businessName": "LITTLE TOWN LIQUOR \u0026 DELI",
+    "address": "21625 Sumpter Rd, Belleville, MI 48111-8920",
+    "city": "Sumpter Twp",
+    "zipCode": "48111",
+    "latitude": 42.144949571772,
+    "longitude": -83.482037461709,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224793",
+    "businessName": "SUMPTER MARKET",
+    "address": "19731 Sumpter Rd, Belleville, MI 48111-8919",
+    "city": "Sumpter Twp",
+    "zipCode": "48111",
+    "latitude": 42.15971689912,
+    "longitude": -83.482233635626,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229695",
+    "businessName": "THE LIQUOR WAGON",
+    "address": "46351 Willis Rd, Belleville, MI 48111-8973",
+    "city": "Sumpter Twp",
+    "zipCode": "48111",
+    "latitude": 42.159917173778,
+    "longitude": -83.489309140845,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281605",
+    "businessName": "WILLOW PARTY STORE",
+    "address": "25622 Sumpter Rd, Belleville, MI 48111-9629",
+    "city": "Sumpter Twp",
+    "zipCode": "48111",
+    "latitude": 42.115156333294,
+    "longitude": -83.480996361239,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246936",
+    "businessName": "BELLEVILLE PETROLEUM INC.",
+    "address": "15400 Sumpter Rd, Belleville, MI 48111-2905",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.189982991672,
+    "longitude": -83.483471479091,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

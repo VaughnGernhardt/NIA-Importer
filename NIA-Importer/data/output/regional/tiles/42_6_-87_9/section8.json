@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800237182",
+    "propertyName": "ALBERT HOUSE",
+    "latitude": 42.693403998790366,
+    "longitude": -87.83038500020506,
+    "assistedUnits": 156,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800022853",
+    "propertyName": "ASSISI HOMES of KENOSHA",
+    "latitude": 42.62206199937107,
+    "longitude": -87.8414689998821,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800022976",
+    "propertyName": "DURAND PLAZA",
+    "latitude": 42.69674299886631,
+    "longitude": -87.81595099957721,
+    "assistedUnits": 71,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800022876",
+    "propertyName": "NORTHPOINT CROSSINGS",
+    "latitude": 42.62671999885431,
+    "longitude": -87.82981399956944,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800023339",
+    "propertyName": "SAXONY MANOR",
+    "latitude": 42.622700998761545,
+    "longitude": -87.83610100012085,
+    "assistedUnits": 224,
+    "totalUnits": 226
+  },
+  {
+    "propertyId": "800023451",
+    "propertyName": "VILLA NOVA APARTMENTS",
+    "latitude": 42.62415099900504,
+    "longitude": -87.8383089998004,
+    "assistedUnits": 120,
+    "totalUnits": 121
+  },
+  {
+    "propertyId": "800023492",
+    "propertyName": "WESTRIDGE APTS",
+    "latitude": 42.69592299933582,
+    "longitude": -87.8897789998801,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800023508",
+    "propertyName": "WILLOW WOOD APARTMENTS",
+    "latitude": 42.69664099880908,
+    "longitude": -87.8313950003335,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  }
+]

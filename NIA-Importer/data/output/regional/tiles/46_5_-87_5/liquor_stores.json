@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "240419",
+    "businessName": "EZ STOP NORTH",
+    "address": "920 Wright St, Marquette, MI 49855-1833",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.564055888754,
+    "longitude": -87.404402288039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289129",
+    "businessName": "LAHTINEN\u0027S VINEYARD",
+    "address": "700 Chippewa Sq, Marquette, MI 49855-4811",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.539150943036,
+    "longitude": -87.407303789542,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274822",
+    "businessName": "TADYCH\u0027S MARKETPLACE FOODS",
+    "address": "1401 Odovero Dr, Marquette, MI 49855-5501",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.542718028235,
+    "longitude": -87.424131273672,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220316",
+    "businessName": "WALGREEN\u0027S #12776",
+    "address": "1115 W Washington St, Marquette, MI 49855-4001",
+    "city": "Marquette",
+    "zipCode": "49855",
+    "latitude": 46.545837088843,
+    "longitude": -87.418434161918,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275412",
+    "businessName": "JOHNNY\u0027S CORNER STORE",
+    "address": "975 Ontario Ave, Marquette, MI 49855-2356",
+    "city": "Marquette Twp",
+    "zipCode": "49855",
+    "latitude": 46.555798971562,
+    "longitude": -87.437386841771,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138094",
+    "businessName": "KRIST FOOD MART # 34",
+    "address": "2782 US Highway 41 W, Marquette, MI 49855-2255",
+    "city": "Marquette Twp",
+    "zipCode": "49855",
+    "latitude": 46.549681145451,
+    "longitude": -87.449223424338,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

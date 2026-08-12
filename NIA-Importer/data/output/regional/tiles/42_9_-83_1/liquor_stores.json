@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "170732",
+    "businessName": "KOMMUNITY KRACKER BARREL",
+    "address": "200 N Main St, Almont, MI 48003-1100",
+    "city": "Almont",
+    "zipCode": "48003",
+    "latitude": 42.921550116533,
+    "longitude": -83.045099555923,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228284",
+    "businessName": "VINCKIER FOODS",
+    "address": "4545 Van Dyke Rd, Almont, MI 48003-8511",
+    "city": "Almont",
+    "zipCode": "48003",
+    "latitude": 42.93372572823,
+    "longitude": -83.055090221509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233145",
+    "businessName": "COUNTRY SMOKE HOUSE",
+    "address": "3294 Van Dyke Rd, Almont, MI 48003-8033",
+    "city": "Almont Twp",
+    "zipCode": "48003",
+    "latitude": 42.969379599959,
+    "longitude": -83.057647949268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196113",
+    "businessName": "MOBIL X",
+    "address": "3983 Van Dyke Rd, Almont, MI 48003-8048",
+    "city": "Almont Twp",
+    "zipCode": "48003",
+    "latitude": 42.949256910782,
+    "longitude": -83.056479451358,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

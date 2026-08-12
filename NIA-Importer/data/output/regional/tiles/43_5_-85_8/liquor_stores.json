@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "10988",
+    "businessName": "WESCO #22",
+    "address": "304 S Charles St, White Cloud, MI 49349",
+    "city": "White Cloud",
+    "zipCode": "49349",
+    "latitude": 43.559345710517,
+    "longitude": -85.771585647429,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229265",
+    "businessName": "BOB\u0027S PARTY STORE 1",
+    "address": "2120 N Evergreen Dr, White Cloud, MI 49349-9339",
+    "city": "Wilcox Twp",
+    "zipCode": "49349",
+    "latitude": 43.592670714838,
+    "longitude": -85.771225981201,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

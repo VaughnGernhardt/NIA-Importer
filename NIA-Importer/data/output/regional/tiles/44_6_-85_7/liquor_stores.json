@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0284816",
+    "businessName": "GT LIQUOR",
+    "address": "939 US Highway 31 S, Traverse City, MI 49685-8038",
+    "city": "Blair Twp",
+    "zipCode": "49685",
+    "latitude": 44.673376733646,
+    "longitude": -85.656164672085,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10328",
+    "businessName": "PANTRY SHELF",
+    "address": "5840 US Highway 31, Grawn, MI 49637-8601",
+    "city": "Blair Twp",
+    "zipCode": "49637",
+    "latitude": 44.66498489131,
+    "longitude": -85.692752546198,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266109",
+    "businessName": "TRUE NORTH ENERGY, LLC (A DELAWARE LIMITED LIABILITY COMPANY)",
+    "address": "948 US Highway 31 S, Traverse City, MI 49685-8038",
+    "city": "Blair Twp",
+    "zipCode": "49685",
+    "latitude": 44.673691098459,
+    "longitude": -85.656328259419,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

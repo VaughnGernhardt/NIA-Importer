@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "143245",
+    "businessName": "ACE PARTY STORE",
+    "address": "125 N Milford Rd, Highland, MI 48357-4535",
+    "city": "Highland Twp",
+    "zipCode": "48357",
+    "latitude": 42.638302720368,
+    "longitude": -83.617709513578,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12422",
+    "businessName": "COUNTRY LAKE FOOD CENTER",
+    "address": "2150 N Milford Rd, Highland, MI 48357-3816",
+    "city": "Highland Twp",
+    "zipCode": "48357",
+    "latitude": 42.659059389804,
+    "longitude": -83.618501544342,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242226",
+    "businessName": "HICKORY RIDGE MARKET",
+    "address": "3255 W Highland Rd, Highland, MI 48357-4226",
+    "city": "Highland Twp",
+    "zipCode": "48357",
+    "latitude": 42.636079414635,
+    "longitude": -83.661049094159,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149426",
+    "businessName": "PINE RIDGE MARKET",
+    "address": "1075 S Milford Rd, Highland, MI 48357-4854",
+    "city": "Highland Twp",
+    "zipCode": "48357",
+    "latitude": 42.630551839506,
+    "longitude": -83.616478587357,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

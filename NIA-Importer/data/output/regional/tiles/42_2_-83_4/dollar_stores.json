@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "2651-s-wayne-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2651, S Wayne Rd Westland, MI 48186-5558",
+    "city": "S Wayne Rd Westland",
+    "zipCode": "48186",
+    "latitude": 42.289561647323,
+    "longitude": -83.385458596667
+  },
+  {
+    "storeId": "35769-van-born-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 35769, Van Born Rd. Romulus, MI 48174-4064",
+    "city": "Van Born Rd. Romulus",
+    "zipCode": "48174",
+    "latitude": 42.266498282206,
+    "longitude": -83.391221518165
+  },
+  {
+    "storeId": "1963-s-wayne-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1963, S Wayne Road Westland, MI 48186",
+    "city": "S Wayne Road Westland",
+    "zipCode": "48186",
+    "latitude": 42.294336330304,
+    "longitude": -83.387993554477
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0281586",
+    "businessName": "FOUR SEASONS PARTY STORE",
+    "address": "9613 E Houghton Lake Dr, Houghton Lake, MI 48629-8604",
+    "city": "Lake Twp",
+    "zipCode": "48629",
+    "latitude": 44.375442956849,
+    "longitude": -84.749628018242,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281396",
+    "businessName": "HINES HAUS",
+    "address": "8900 W Houghton Lake Dr, Houghton Lake, MI 48629-9719",
+    "city": "Lake Twp",
+    "zipCode": "48629",
+    "latitude": 44.335835403822,
+    "longitude": -84.792170467836,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237547",
+    "businessName": "LYMAN\u0027S ON THE LAKE",
+    "address": "6560 W Houghton Lake Dr, Houghton Lake, MI 48629-9708",
+    "city": "Roscommon Twp",
+    "zipCode": "48629",
+    "latitude": 44.313617525904,
+    "longitude": -84.763239260961,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246977",
+    "businessName": "SATNAM GAS",
+    "address": "7039 W Houghton Lake Dr, Houghton Lake, MI 48629-9715",
+    "city": "Roscommon Twp",
+    "zipCode": "48629",
+    "latitude": 44.319684641675,
+    "longitude": -84.76912592617,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266114",
+    "businessName": "TRUE NORTH ENERGY, LLC (A DELAWARE LIMITED LIABILITY COMPANY)",
+    "address": "5661 W Houghton Lake Dr, Houghton Lake, MI 48629-8211",
+    "city": "Roscommon Twp",
+    "zipCode": "48629",
+    "latitude": 44.3032450703,
+    "longitude": -84.751534918317,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

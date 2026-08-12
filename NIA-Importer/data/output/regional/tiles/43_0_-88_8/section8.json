@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800022841",
+    "propertyName": "ALVERNO HOUSING",
+    "latitude": 43.004030998840335,
+    "longitude": -88.79263500006289,
+    "assistedUnits": 26,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800217899",
+    "propertyName": "TAU CROSSING I",
+    "latitude": 43.00056099897732,
+    "longitude": -88.79387100014713,
+    "assistedUnits": 8,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800219641",
+    "propertyName": "TAU CROSSING II",
+    "latitude": 43.00060699874342,
+    "longitude": -88.79351100029702,
+    "assistedUnits": 8,
+    "totalUnits": 10
+  }
+]

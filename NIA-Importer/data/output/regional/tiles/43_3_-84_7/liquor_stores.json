@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0265606",
+    "businessName": "7 STAR PARTY STORE",
+    "address": "426 Wright Ave, Alma, MI 48801-1613",
+    "city": "Alma",
+    "zipCode": "48801",
+    "latitude": 43.379354423723,
+    "longitude": -84.666712263456,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245311",
+    "businessName": "SKY\u0027S OUTLET-BOOMERS PARTY STORE \u0026 DELI",
+    "address": "100 Woodworth Ave, Alma, MI 48801-2441",
+    "city": "Alma",
+    "zipCode": "48801",
+    "latitude": 43.374424023927,
+    "longitude": -84.660198167777,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223024",
+    "businessName": "SUN UP FOOD MART",
+    "address": "1604 E Superior St, Alma, MI 48801-2666",
+    "city": "Alma",
+    "zipCode": "48801",
+    "latitude": 43.37883643054,
+    "longitude": -84.637214397751,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272660",
+    "businessName": "ALMA EZ MART",
+    "address": "100 W Lincoln Rd, Alma, MI 48801-9711",
+    "city": "Pine River Twp",
+    "zipCode": "48801",
+    "latitude": 43.378826638558,
+    "longitude": -84.609836545425,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

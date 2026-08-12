@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800010485",
+    "propertyName": "COVENTRY PLACE",
+    "latitude": 42.36045299939055,
+    "longitude": -83.27739099988912,
+    "assistedUnits": 57,
+    "totalUnits": 58
+  },
+  {
+    "propertyId": "800221283",
+    "propertyName": "COVENTRY PLACE II",
+    "latitude": 42.36045299939055,
+    "longitude": -83.27739099988912,
+    "assistedUnits": 39,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800010054",
+    "propertyName": "DEARBORN HEIGHTS COOPERATIVE APTS",
+    "latitude": 42.34121299896275,
+    "longitude": -83.25234600031058,
+    "assistedUnits": 199,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800010461",
+    "propertyName": "PLYMOUTH SQUARE VILLAGE APTS.",
+    "latitude": 42.371675999040505,
+    "longitude": -83.23849800038698,
+    "assistedUnits": 280,
+    "totalUnits": 280
+  },
+  {
+    "propertyId": "800010573",
+    "propertyName": "ST SARKIS TOWER",
+    "latitude": 42.32874199938337,
+    "longitude": -83.24009299959813,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010641",
+    "propertyName": "URBAN HOMES",
+    "latitude": 42.38224999932618,
+    "longitude": -83.26095399962114,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800224051",
+    "propertyName": "VILLAGE OF ST. MARTHAS",
+    "latitude": 42.357972998956015,
+    "longitude": -83.20033100043285,
+    "assistedUnits": 45,
+    "totalUnits": 46
+  }
+]

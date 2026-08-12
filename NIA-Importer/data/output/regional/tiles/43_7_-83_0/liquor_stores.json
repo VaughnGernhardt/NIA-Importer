@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "250035",
+    "businessName": "STOLI, LLC",
+    "address": "2245 E Main St, Ubly, MI 48475-9566",
+    "city": "Bingham Twp",
+    "zipCode": "48475",
+    "latitude": 43.710220808017,
+    "longitude": -82.930294016638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283561",
+    "businessName": "SPEEDYQ MARKETS #8261",
+    "address": "4497 N Washington St, Ubly, MI 48475-9548",
+    "city": "Ubly",
+    "zipCode": "48475",
+    "latitude": 43.710078725434,
+    "longitude": -82.938712261034,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "185713",
+    "businessName": "RICK\u0027S \u0026 NICK\u0027S",
+    "address": "32 Thompson Rd, Bad Axe, MI 48413-8212",
+    "city": "Verona Twp",
+    "zipCode": "48413",
+    "latitude": 43.787574977556,
+    "longitude": -82.999082639047,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

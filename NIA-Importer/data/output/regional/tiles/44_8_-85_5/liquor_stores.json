@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "231724",
+    "businessName": "ELK RAPIDS EZ MART",
+    "address": "100 1st St, Elk Rapids, MI 49629",
+    "city": "Elk Rapids",
+    "zipCode": "49629",
+    "latitude": 44.894163327082,
+    "longitude": -85.41172315876,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279583",
+    "businessName": "US 31 DISCOUNT LIQUOR INC",
+    "address": "11324 S US Highway 31, Williamsburg, MI 49690-9405",
+    "city": "Elk Rapids Twp",
+    "zipCode": "49690",
+    "latitude": 44.8694370119,
+    "longitude": -85.424536184252,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

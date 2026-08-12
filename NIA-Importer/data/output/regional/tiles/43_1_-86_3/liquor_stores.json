@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "0287429",
+    "businessName": "COSTCO WHOLESALE #1744",
+    "address": "6110 S Harvey St, MUSKEGON, MI 49444",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.14320457807,
+    "longitude": -86.205849169357,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224283",
+    "businessName": "EL ROYAL FOOD",
+    "address": "4644 Airline Rd, Muskegon, MI 49444-4501",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.168174503569,
+    "longitude": -86.200012027713,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163200",
+    "businessName": "MEIJER #232",
+    "address": "5300 Harvey St, Muskegon, MI 49444-6716",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.156007174633,
+    "longitude": -86.205662914367,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288217",
+    "businessName": "BLUEBIRD",
+    "address": "3408 Hoyt St, Muskegon Heights, MI 49444-3815",
+    "city": "Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.189761542214,
+    "longitude": -86.240669130685,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138843",
+    "businessName": "LADD\u0027S \u0026 COMPANY",
+    "address": "R 1 4230 Henry St, Norton Shores, MI 49441-4924",
+    "city": "Norton Shores",
+    "zipCode": "49441",
+    "latitude": 43.175593598857,
+    "longitude": -86.263700464116,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9807",
+    "businessName": "MEIJER #19",
+    "address": "700 W Norton Ave, Norton Shores, MI 49441-4751",
+    "city": "Norton Shores",
+    "zipCode": "49441",
+    "latitude": 43.190833143042,
+    "longitude": -86.261487840806,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201038",
+    "businessName": "NORTON MINI MART",
+    "address": "3381 McCracken St, Norton Shores, MI 49441-3670",
+    "city": "Norton Shores",
+    "zipCode": "49441",
+    "latitude": 43.191461528607,
+    "longitude": -86.293567102161,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214106",
+    "businessName": "NORTON SHORES LIQUOR",
+    "address": "770 W Summit Ave, Norton Shores, MI 49441-4036",
+    "city": "Norton Shores",
+    "zipCode": "49441",
+    "latitude": 43.1982082154,
+    "longitude": -86.262458663561,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249672",
+    "businessName": "TWO BROTHERZ",
+    "address": "2906 S Getty St, Norton Shores, MI 49444-2357",
+    "city": "Norton Shores",
+    "zipCode": "49444",
+    "latitude": 43.199615438855,
+    "longitude": -86.22492253918,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239840",
+    "businessName": "WESCO #68",
+    "address": "1025 E Pontaluna Rd, Norton Shores, MI 49456-9687",
+    "city": "Norton Shores",
+    "zipCode": "49456",
+    "latitude": 43.132382427257,
+    "longitude": -86.219966821971,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "170592",
+    "businessName": "WAL-MART SUPERCENTER #3876",
+    "address": "3285 Henry St, Roosevelt Pk, MI 49441-4019",
+    "city": "Roosevelt Park",
+    "zipCode": "49441",
+    "latitude": 43.192694281352,
+    "longitude": -86.263456863387,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

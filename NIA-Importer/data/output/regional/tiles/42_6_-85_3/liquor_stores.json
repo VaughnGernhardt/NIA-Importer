@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "206536",
+    "businessName": "FAMILY FARE #1990",
+    "address": "902 W State St, Hastings, MI 49058-1661",
+    "city": "Hastings",
+    "zipCode": "49058",
+    "latitude": 42.648603316622,
+    "longitude": -85.299643155257,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240305",
+    "businessName": "MEGA-BEV HASTINGS, LLC",
+    "address": "304 N Broadway St, Hastings, MI 49058-1404",
+    "city": "Hastings",
+    "zipCode": "49058",
+    "latitude": 42.650617243424,
+    "longitude": -85.290754022467,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277532",
+    "businessName": "THE SUPERETTE",
+    "address": "205 N Michigan Ave, Hastings, MI 49058-1416",
+    "city": "Hastings",
+    "zipCode": "49058",
+    "latitude": 42.64976223964,
+    "longitude": -85.286078876549,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275832",
+    "businessName": "KERPA INC",
+    "address": "1729 S M 37 Hwy, Hastings, MI 49058-8322",
+    "city": "Hastings Twp",
+    "zipCode": "49058",
+    "latitude": 42.631323444469,
+    "longitude": -85.283634778437,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

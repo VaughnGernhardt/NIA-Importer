@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "247973",
+    "businessName": "CLAYTON MARKET",
+    "address": "4101 S Sheridan Rd, Lennon, MI 48449-9402",
+    "city": "Clayton Twp",
+    "zipCode": "48449",
+    "latitude": 42.968814001531,
+    "longitude": -83.928733335762,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "205820",
+    "businessName": "NINA\u0027S SOUTH SIDE MARKET",
+    "address": "503 S Oak St, Durand, MI 48429-1685",
+    "city": "Durand",
+    "zipCode": "48429",
+    "latitude": 42.906988350625,
+    "longitude": -83.987590100428,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11200",
+    "businessName": "RIVERSIDE MARKET",
+    "address": "311 N Oak St, Durand, MI 48429-1221",
+    "city": "Durand",
+    "zipCode": "48429",
+    "latitude": 42.913589434699,
+    "longitude": -83.987930748091,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14661",
+    "businessName": "TOTAL",
+    "address": "8982 E Lansing Rd, Durand, MI 48429-1033",
+    "city": "Durand",
+    "zipCode": "48429",
+    "latitude": 42.925233631268,
+    "longitude": -83.989049232933,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287522",
+    "businessName": "GAINES CONVENIENCE STORE",
+    "address": "8030 Duffield Rd, Gaines, MI 48436-9716",
+    "city": "Gaines Twp",
+    "zipCode": "48436",
+    "latitude": 42.912120307857,
+    "longitude": -83.90971946173,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12405",
+    "businessName": "MARTHA\u0027S QUICK STOP",
+    "address": "8995 E M 21, Corunna, MI 48817-9522",
+    "city": "Venice Twp",
+    "zipCode": "48817",
+    "latitude": 42.999588577238,
+    "longitude": -83.986905131214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265926",
+    "businessName": "PPL PETROLEUM--LENNON, INC.",
+    "address": "11941 E Corunna Rd, Lennon, MI 48449-9654",
+    "city": "Venice Twp",
+    "zipCode": "48449",
+    "latitude": 42.999050006114,
+    "longitude": -83.929721259192,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

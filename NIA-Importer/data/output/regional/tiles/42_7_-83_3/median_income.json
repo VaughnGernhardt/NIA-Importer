@@ -1,0 +1,20 @@
+[
+  {
+    "zipCode": "48359",
+    "medianHouseholdIncome": 93125,
+    "latitude": 42.720766,
+    "longitude": -83.275499
+  },
+  {
+    "zipCode": "48360",
+    "medianHouseholdIncome": 140865,
+    "latitude": 42.747358,
+    "longitude": -83.261
+  },
+  {
+    "zipCode": "48362",
+    "medianHouseholdIncome": 115230,
+    "latitude": 42.782351,
+    "longitude": -83.269423
+  }
+]

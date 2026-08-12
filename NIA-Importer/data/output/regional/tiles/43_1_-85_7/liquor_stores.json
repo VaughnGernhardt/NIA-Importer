@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "238466",
+    "businessName": "ALGOMA LIQUOR, LLC",
+    "address": "8450 Algoma Ave NE, Rockford, MI 49341-9170",
+    "city": "Algoma Twp",
+    "zipCode": "49341",
+    "latitude": 43.11886419036,
+    "longitude": -85.61075036423,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226441",
+    "businessName": "ALL AMERICAN NORTH COUNTRY STORE INC. #2",
+    "address": "11764 N Division Ave, Sparta, MI 49345-9572",
+    "city": "Algoma Twp",
+    "zipCode": "49345",
+    "latitude": 43.17775121871,
+    "longitude": -85.670889021052,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246304",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "8501 Algoma Ave NE, Rockford, MI 49341-9102",
+    "city": "Algoma Twp",
+    "zipCode": "49341",
+    "latitude": 43.119015353614,
+    "longitude": -85.610907983302,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144757",
+    "businessName": "MEIJER #226",
+    "address": "2799 10 Mile Rd NE, Rockford, MI 49341-9100",
+    "city": "Algoma Twp",
+    "zipCode": "49341",
+    "latitude": 43.117062342956,
+    "longitude": -85.600417962319,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

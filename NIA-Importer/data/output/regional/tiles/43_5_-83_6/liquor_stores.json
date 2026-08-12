@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "145447",
+    "businessName": "HALIES QUIK STOP",
+    "address": "4240 Beach St, Akron, MI 48701-9531",
+    "city": "Akron",
+    "zipCode": "48701",
+    "latitude": 43.566402930209,
+    "longitude": -83.514606899897,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285285",
+    "businessName": "AMR1, LLC",
+    "address": "5015-5019 CENTER ST, FAIRGROVE, MI 48733",
+    "city": "Fairgrove",
+    "zipCode": "48733",
+    "latitude": 43.5235203755,
+    "longitude": -83.543978501757,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

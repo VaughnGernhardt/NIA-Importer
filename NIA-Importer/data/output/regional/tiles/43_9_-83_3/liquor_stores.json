@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "145737",
+    "businessName": "CASEVILLE ONE STOP",
+    "address": "7095 Main St, Caseville, MI 48725-5113",
+    "city": "Caseville",
+    "zipCode": "48725",
+    "latitude": 43.932162361936,
+    "longitude": -83.284500192175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264006",
+    "businessName": "MAIN STREET PARTYSTORE",
+    "address": "6592 Main St, Caseville, MI 48725-9457",
+    "city": "Caseville",
+    "zipCode": "48725",
+    "latitude": 43.942705364084,
+    "longitude": -83.272785631621,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243492",
+    "businessName": "FRANK\u0027S PARTY STORE",
+    "address": "4795 Port Austin Rd, Caseville, MI 48725-9669",
+    "city": "Lake Twp",
+    "zipCode": "48725",
+    "latitude": 43.981464788818,
+    "longitude": -83.201846337142,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

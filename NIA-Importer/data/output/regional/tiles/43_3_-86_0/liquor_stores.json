@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0271283",
+    "businessName": "BRIDGETON GENERAL STORE",
+    "address": "5462 W 112th St, Grant, MI 49327-9713",
+    "city": "Bridgeton Twp",
+    "zipCode": "49327",
+    "latitude": 43.346785985243,
+    "longitude": -85.936129984543,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243921",
+    "businessName": "GARY\u0027S MINI MART",
+    "address": "10460 S Warner Ave, Fremont, MI 49412-9210",
+    "city": "Bridgeton Twp",
+    "zipCode": "49412",
+    "latitude": 43.365267829257,
+    "longitude": -85.939424160845,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

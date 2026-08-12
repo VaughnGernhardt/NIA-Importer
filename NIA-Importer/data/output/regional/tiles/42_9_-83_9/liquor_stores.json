@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0263135",
+    "businessName": "KHODAL INC",
+    "address": "9010 Miller Rd, Swartz Creek, MI 48473-1144",
+    "city": "Clayton Twp",
+    "zipCode": "48473",
+    "latitude": 42.956993709047,
+    "longitude": -83.851038660545,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233676",
+    "businessName": "ISAAC\u0027S GROCERY",
+    "address": "7539 Grand Blanc Rd, Swartz Creek, MI 48473-9435",
+    "city": "Gaines Twp",
+    "zipCode": "48473",
+    "latitude": 42.912825242927,
+    "longitude": -83.828309976818,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143428",
+    "businessName": "KROGER STORE #711",
+    "address": "7084 Miller Rd, Swartz Creek, MI 48473-1527",
+    "city": "Swartz Creek",
+    "zipCode": "48473",
+    "latitude": 42.963065626701,
+    "longitude": -83.813898413739,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230416",
+    "businessName": "MEIJER STORE #259",
+    "address": "4141 Morrish Rd, Swartz Creek, MI 48473-7900",
+    "city": "Swartz Creek",
+    "zipCode": "48473",
+    "latitude": 42.967573096818,
+    "longitude": -83.83069512246,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "229747",
+    "businessName": "NA-TAH-KA CORNER STORE",
+    "address": "5826 N Bass Lke, Irons, MI 49644",
+    "city": "Sauble Twp",
+    "zipCode": "49644",
+    "latitude": 44.073179557204,
+    "longitude": -85.977515376016,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228572",
+    "businessName": "SWEETFERN CAFE \u0026 EMPORIUM, INC.",
+    "address": "7595 W 5 Mile Rd, Irons, MI 49644-8995",
+    "city": "Sauble Twp",
+    "zipCode": "49644",
+    "latitude": 44.061346253349,
+    "longitude": -85.954552778393,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

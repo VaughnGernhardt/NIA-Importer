@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "15942",
+    "businessName": "HANSEN\u0027S QUICK STOP",
+    "address": "135 S Saginaw St, Byron, MI 48418-9572",
+    "city": "Byron",
+    "zipCode": "48418",
+    "latitude": 42.823525527855,
+    "longitude": -83.944293627654,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240693",
+    "businessName": "THE VILLAGE LIMITS",
+    "address": "421 W Maple St, Byron, MI 48418-9763",
+    "city": "Byron",
+    "zipCode": "48418",
+    "latitude": 42.823780362281,
+    "longitude": -83.950984295186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267751",
+    "businessName": "CRIST FAMILY STORAGE LLC",
+    "address": "111 Genesee St, Gaines, MI 48436-7700",
+    "city": "Gaines",
+    "zipCode": "48436",
+    "latitude": 42.872866138097,
+    "longitude": -83.913362061575,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

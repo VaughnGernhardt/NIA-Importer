@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "265726",
+    "businessName": "STURGIS PARTY STORE",
+    "address": "402 N Nottawa St, Sturgis, MI 49091-1474",
+    "city": "Sturgis",
+    "zipCode": "49091",
+    "latitude": 41.804200023243,
+    "longitude": -85.418770277885,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269194",
+    "businessName": "STURGIS SUNNY MART",
+    "address": "1240 E Chicago Rd, Sturgis, MI 49091-1926",
+    "city": "Sturgis",
+    "zipCode": "49091",
+    "latitude": 41.801137684928,
+    "longitude": -85.404177465508,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

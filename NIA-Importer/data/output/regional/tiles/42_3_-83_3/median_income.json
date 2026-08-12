@@ -1,0 +1,32 @@
+[
+  {
+    "zipCode": "48127",
+    "medianHouseholdIncome": 60742,
+    "latitude": 42.335793,
+    "longitude": -83.283296
+  },
+  {
+    "zipCode": "48128",
+    "medianHouseholdIncome": 101037,
+    "latitude": 42.320411,
+    "longitude": -83.259969
+  },
+  {
+    "zipCode": "48223",
+    "medianHouseholdIncome": 44512,
+    "latitude": 42.393398,
+    "longitude": -83.246136
+  },
+  {
+    "zipCode": "48228",
+    "medianHouseholdIncome": 30680,
+    "latitude": 42.355145,
+    "longitude": -83.218208
+  },
+  {
+    "zipCode": "48239",
+    "medianHouseholdIncome": 71151,
+    "latitude": 42.376245,
+    "longitude": -83.286394
+  }
+]

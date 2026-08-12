@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "17303",
+    "businessName": "BORLAND BP",
+    "address": "4981 Northland Dr, Morley, MI 49336-9522",
+    "city": "Aetna Twp",
+    "zipCode": "49336",
+    "latitude": 43.540242018288,
+    "longitude": -85.443616018707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281270",
+    "businessName": "DAVIS BRIDGE EZ MART",
+    "address": "20751 8 Mile Rd, Stanwood, MI 49346-9402",
+    "city": "Mecosta Twp",
+    "zipCode": "49346",
+    "latitude": 43.583741275252,
+    "longitude": -85.495583417144,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238090",
+    "businessName": "COPPER TOP",
+    "address": "7494 Northland Dr, Stanwood, MI 49346-8743",
+    "city": "Stanwood",
+    "zipCode": "49346",
+    "latitude": 43.578164642507,
+    "longitude": -85.450839156873,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

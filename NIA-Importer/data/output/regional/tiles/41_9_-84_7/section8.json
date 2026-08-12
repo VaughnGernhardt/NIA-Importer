@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010215",
+    "propertyName": "BEACON HILL",
+    "latitude": 41.918997999380956,
+    "longitude": -84.64488100020448,
+    "assistedUnits": 198,
+    "totalUnits": 198
+  },
+  {
+    "propertyId": "800010214",
+    "propertyName": "HILLSDALE GARDEN APARTMENTS",
+    "latitude": 41.92682399910721,
+    "longitude": -84.65139600036154,
+    "assistedUnits": 80,
+    "totalUnits": 88
+  },
+  {
+    "propertyId": "800010425",
+    "propertyName": "PARKWOOD APARTMENTS",
+    "latitude": 41.99069899890982,
+    "longitude": -84.65850099962414,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "11124",
+    "businessName": "BOTTLE GOURMET",
+    "address": "204 E Saint Paul St, Brighton, MI 48116-1623",
+    "city": "Brighton",
+    "zipCode": "48116",
+    "latitude": 42.530705842255,
+    "longitude": -83.779497617631,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246922",
+    "businessName": "BUSCH\u0027S",
+    "address": "9870 E Grand River Ave, Brighton, MI 48116-1911",
+    "city": "Brighton",
+    "zipCode": "48116",
+    "latitude": 42.522318399123,
+    "longitude": -83.765593951339,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212205",
+    "businessName": "23 PLACE LIQUOR",
+    "address": "1227 S Old US Highway 23, Brighton, MI 48114-9608",
+    "city": "Brighton Twp",
+    "zipCode": "48114",
+    "latitude": 42.585772522425,
+    "longitude": -83.753616478734,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224839",
+    "businessName": "BEVERAGE CELLAR",
+    "address": "4722 S Old US Highway 23, Brighton, MI 48114-8803",
+    "city": "Brighton Twp",
+    "zipCode": "48114",
+    "latitude": 42.533647440177,
+    "longitude": -83.756268008782,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "209437",
+    "businessName": "BRIGHTON BP",
+    "address": "3452 S Old US Highway 23, Brighton, MI 48114-7520",
+    "city": "Brighton Twp",
+    "zipCode": "48114",
+    "latitude": 42.553008394755,
+    "longitude": -83.753281884838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134644",
+    "businessName": "GRAND PARTY STORE",
+    "address": "5760 Whitmore Lake Rd, Brighton, MI 48116-1902",
+    "city": "Brighton Twp",
+    "zipCode": "48116",
+    "latitude": 42.518739183778,
+    "longitude": -83.759262367446,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291989",
+    "businessName": "HAKIM BRIGHTON, INC.",
+    "address": "2848 S Old US Highway 23, Brighton, MI 48114-8601",
+    "city": "Brighton Twp",
+    "zipCode": "48114",
+    "latitude": 42.561978642383,
+    "longitude": -83.754998178268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157015",
+    "businessName": "PARTYVILLE",
+    "address": "9901 E Grand River Ave, Brighton, MI 48116-1923",
+    "city": "Brighton Twp",
+    "zipCode": "48116",
+    "latitude": 42.522125195219,
+    "longitude": -83.764255196741,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10926",
+    "businessName": "WOODLAND, TOO",
+    "address": "8064 Grand River Rd, Brighton, MI 48114-9341",
+    "city": "Brighton Twp",
+    "zipCode": "48114",
+    "latitude": 42.556512679003,
+    "longitude": -83.792829520446,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138702",
+    "businessName": "BRIGHTON MARKET",
+    "address": "10840 Grand River Rd, Brighton, MI 48116-9539",
+    "city": "Green Oak Twp",
+    "zipCode": "48116",
+    "latitude": 42.516069531803,
+    "longitude": -83.737478869858,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155956",
+    "businessName": "COSTCO #786",
+    "address": "6700 Whitmore Lake Rd, Brighton, MI 48116-2160",
+    "city": "Green Oak Twp",
+    "zipCode": "48116",
+    "latitude": 42.504715245005,
+    "longitude": -83.759694890068,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

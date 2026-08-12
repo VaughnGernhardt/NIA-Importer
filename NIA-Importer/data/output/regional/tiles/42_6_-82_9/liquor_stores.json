@@ -1,0 +1,192 @@
+[
+  {
+    "businessId": "0272585",
+    "businessName": "23 \u0026 GRATIOT BP",
+    "address": "50901 Gratiot Ave, Chesterfield, MI 48051-3135",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.673769158158,
+    "longitude": -82.83406467685,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142688",
+    "businessName": "BLUE DOG PARTY PLACE, L.L.C.",
+    "address": "49108 Gratiot Ave, Chesterfield, MI 48051-2519",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.661217335574,
+    "longitude": -82.843957578754,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225543",
+    "businessName": "BLUE DOG PARTY STORE",
+    "address": "46420 Gratiot Ave, Chesterfield, MI 48051-2801",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.640969306628,
+    "longitude": -82.855151108227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284140",
+    "businessName": "BUSCEMI\u0027S PARTY SHOPPE #106",
+    "address": "45935 JEFFERSON AVE, CHESTERFIELD, MI 48047",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.63701736831,
+    "longitude": -82.818353300245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289325",
+    "businessName": "FASTLANE STATION",
+    "address": "28230 23 Mile Rd, Chesterfield, MI 48051-2317",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.674389721136,
+    "longitude": -82.825281187072,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12480",
+    "businessName": "MEIJER #105",
+    "address": "27255 23 Mile Rd, Chesterfield, MI 48051-2036",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.674866383532,
+    "longitude": -82.835795330138,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233529",
+    "businessName": "MIKE\u0027S MINI MART",
+    "address": "30534 Twenty Three Mile, New Baltimore, MI 48047",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.674627616945,
+    "longitude": -82.802530772521,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202133",
+    "businessName": "WAL-MART SUPERCENTER #2692",
+    "address": "45400 Marketplace Blvd, Chesterfield, MI 48051-3279",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.630561491696,
+    "longitude": -82.854245406634,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271810",
+    "businessName": "WINE VALLEY PARTY STORE",
+    "address": "50093 Gratiot Ave, Chesterfield, MI 48051-3121",
+    "city": "Chesterfield Twp",
+    "zipCode": "48051",
+    "latitude": 42.668176702058,
+    "longitude": -82.838517906187,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247952",
+    "businessName": "ZORA OIL, INC.",
+    "address": "47191 Jefferson Ave, Chesterfield, MI 48047-5137",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.647498170252,
+    "longitude": -82.810227796197,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17176",
+    "businessName": "D BROTHERS PARTY STORE",
+    "address": "43544 N Gratiot Ave, Clinton Township, MI 48036-3329",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.614839490971,
+    "longitude": -82.868548522265,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261689",
+    "businessName": "FIVE STAR FUEL LLC",
+    "address": "44975 N Gratiot Ave, Clinton Township, MI 48036-1320",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.628651156746,
+    "longitude": -82.861635052533,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222769",
+    "businessName": "GROESBECK \u0026 ELIZABETH BP",
+    "address": "43561 N Groesbeck Hwy, Clinton Township, MI 48036-1195",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.617185660768,
+    "longitude": -82.884973316513,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229484",
+    "businessName": "BUSCEMIS OF MACOMB",
+    "address": "21790 23 Mile Rd, Macomb, MI 48044",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.673068745053,
+    "longitude": -82.898308890684,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "210299",
+    "businessName": "HALL ROAD BP",
+    "address": "22961 Hall Rd, Macomb, MI 48042-5221",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.630162191797,
+    "longitude": -82.876954774051,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227928",
+    "businessName": "NORTHVIEW WINE SHOPPE",
+    "address": "23015 21 Mile, Macomb, MI 48042",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.644295832236,
+    "longitude": -82.876493690352,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285208",
+    "businessName": "BNK MOUNT CLEMENS, INC.",
+    "address": "186 Northbound Gratiot Ave, Mount Clemens, MI 48043-5721",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.602812301021,
+    "longitude": -82.874804132863,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10133",
+    "businessName": "HUBBARD PARTY STORE",
+    "address": "129 Hubbard St, Mount Clemens, MI 48043-5539",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.602826243093,
+    "longitude": -82.888230421588,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217058",
+    "businessName": "NORTHVIEW LIQUOR",
+    "address": "293 North Ave, Mount Clemens, MI 48043-1761",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.610248586107,
+    "longitude": -82.879952617867,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

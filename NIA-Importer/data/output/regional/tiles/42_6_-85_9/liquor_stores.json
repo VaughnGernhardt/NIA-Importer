@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0268709",
+    "businessName": "DUMONT LAKE PARTY STORE LLC",
+    "address": "2498 30th St, Allegan, MI 49010-8223",
+    "city": "Monterey Twp",
+    "zipCode": "49010",
+    "latitude": 42.60272114217,
+    "longitude": -85.843732382245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271749",
+    "businessName": "MONTEREY PINES GENERAL STORE LLC",
+    "address": "2730 136th Ave, Hopkins, MI 49328-9740",
+    "city": "Monterey Twp",
+    "zipCode": "49328",
+    "latitude": 42.680551451236,
+    "longitude": -85.812387268252,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261230",
+    "businessName": "STOP, SHOP, AND ROLL ENTERPRISES, LLC",
+    "address": "3000 130th Ave, Hopkins, MI 49328-9749",
+    "city": "Monterey Twp",
+    "zipCode": "49328",
+    "latitude": 42.638236445056,
+    "longitude": -85.840560358283,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

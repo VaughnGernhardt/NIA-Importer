@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "10945",
+    "businessName": "LAKE GENERAL STORE",
+    "address": "9300 School St, Lake, MI 48632-9503",
+    "city": "Garfield Twp",
+    "zipCode": "48632",
+    "latitude": 43.853821234039,
+    "longitude": -85.006357967494,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278945",
+    "businessName": "ONE STOP MART",
+    "address": "8289 Ludington Dr, Lake, MI 48632-9572",
+    "city": "Garfield Twp",
+    "zipCode": "48632",
+    "latitude": 43.859297686396,
+    "longitude": -85.017681676361,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

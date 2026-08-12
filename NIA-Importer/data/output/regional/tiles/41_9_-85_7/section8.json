@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800224539",
+    "propertyName": "MAPLECREST APARTMENTS",
+    "latitude": 41.93854699914663,
+    "longitude": -85.64574999992804,
+    "assistedUnits": 52,
+    "totalUnits": 52
+  },
+  {
+    "propertyId": "800010220",
+    "propertyName": "RIVER COUNTRY APARTMENTS",
+    "latitude": 41.94335399918263,
+    "longitude": -85.64667600039091,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800010506",
+    "propertyName": "RIVERSIDE",
+    "latitude": 41.95481399896622,
+    "longitude": -85.61039599972598,
+    "assistedUnits": 126,
+    "totalUnits": 126
+  }
+]

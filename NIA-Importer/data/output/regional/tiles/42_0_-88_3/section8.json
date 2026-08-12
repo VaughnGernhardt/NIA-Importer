@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800006023",
+    "propertyName": "BUENA VISTA TOWERS",
+    "latitude": 42.034000999007375,
+    "longitude": -88.28616400025655,
+    "assistedUnits": 96,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800240911",
+    "propertyName": "CENTRAL PARK TOWERS",
+    "latitude": 42.033357999034145,
+    "longitude": -88.28536900021327,
+    "assistedUnits": 149,
+    "totalUnits": 164
+  },
+  {
+    "propertyId": "800005749",
+    "propertyName": "ELGIN SCHOOLHOUSE",
+    "latitude": 42.0423209991239,
+    "longitude": -88.28125699972945,
+    "assistedUnits": 27,
+    "totalUnits": 27
+  },
+  {
+    "propertyId": "800243157",
+    "propertyName": "FAMILY COURT TOWNHOMES",
+    "latitude": 42.033357999034145,
+    "longitude": -88.28536900021327,
+    "assistedUnits": 74,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800211381",
+    "propertyName": "KANE COOK HOMES",
+    "latitude": 42.04544099901572,
+    "longitude": -88.29947599970463,
+    "assistedUnits": 13,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800500419",
+    "propertyName": "Wildwood Commons",
+    "latitude": 42.01667699921484,
+    "longitude": -88.2844639996668,
+    "assistedUnits": 2,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800501308",
+    "propertyName": "Wildwood Trace",
+    "latitude": 42.016646998758915,
+    "longitude": -88.28494800026378,
+    "assistedUnits": 8,
+    "totalUnits": 50
+  }
+]

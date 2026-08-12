@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "9232",
+    "businessName": "READING P.S. FOOD MART",
+    "address": "600 S Main St, Reading, MI 49274-9805",
+    "city": "Reading",
+    "zipCode": "49274",
+    "latitude": 41.835075500047,
+    "longitude": -84.747923736636,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "128416",
+    "businessName": "LONG LAKE GROCERY",
+    "address": "9651 Bankers Rd, Reading, MI 49274-9201",
+    "city": "Reading Twp",
+    "zipCode": "49274",
+    "latitude": 41.883816056241,
+    "longitude": -84.798835995139,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

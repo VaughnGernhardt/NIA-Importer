@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0281889",
+    "businessName": "COURTADE EZ MART",
+    "address": "233 High Lake Rd, Traverse City, MI 49696-9426",
+    "city": "East Bay Twp",
+    "zipCode": "49696",
+    "latitude": 44.690306259767,
+    "longitude": -85.512517905108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "182473",
+    "businessName": "FAST BREAK E-Z MART",
+    "address": "4946 Garfield Rd, Kingsley, MI 49649-9787",
+    "city": "Paradise Twp",
+    "zipCode": "49649",
+    "latitude": 44.613967094675,
+    "longitude": -85.525977896556,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279429",
+    "businessName": "MAYFIELD PARTY STORE",
+    "address": "4044 S Garfield Rd, Mayfield, MI 49666-9800",
+    "city": "Paradise Twp",
+    "zipCode": "49666",
+    "latitude": 44.626324896479,
+    "longitude": -85.528690499815,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

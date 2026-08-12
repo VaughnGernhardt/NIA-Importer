@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "162045",
+    "businessName": "GREGORY MARKET",
+    "address": "157 Main St, Gregory, MI 48137-9592",
+    "city": "Unadilla Twp",
+    "zipCode": "48137",
+    "latitude": 42.45841796602,
+    "longitude": -84.084164155667,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279798",
+    "businessName": "UNADILLA LIQUOR",
+    "address": "13329 Unadilla Rd, Gregory, MI 48137-9707",
+    "city": "Unadilla Twp",
+    "zipCode": "48137",
+    "latitude": 42.430668043604,
+    "longitude": -84.057935788188,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

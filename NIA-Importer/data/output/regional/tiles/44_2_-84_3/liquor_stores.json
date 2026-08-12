@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "237508",
+    "businessName": "CORNER EXPRESS 2",
+    "address": "2997 Cook Rd, West Branch, MI 48661-9338",
+    "city": "West Branch Twp",
+    "zipCode": "48661",
+    "latitude": 44.24767556429,
+    "longitude": -84.225468204566,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150110",
+    "businessName": "WAL-MART SUPER CENTER #5159",
+    "address": "2750 Cook Rd, West Branch, MI 48661-8744",
+    "city": "West Branch Twp",
+    "zipCode": "48661",
+    "latitude": 44.254747276774,
+    "longitude": -84.22510007662,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

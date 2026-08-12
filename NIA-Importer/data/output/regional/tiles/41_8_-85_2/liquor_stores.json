@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "229606",
+    "businessName": "BRONSON MARATHON",
+    "address": "325 W Chicago St, Bronson, MI 49028-1250",
+    "city": "Bronson",
+    "zipCode": "49028",
+    "latitude": 41.871656986107,
+    "longitude": -85.198581867201,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14808",
+    "businessName": "BRONSON SHELL #1050",
+    "address": "215 E Chicago St, Bronson, MI 49028-1316",
+    "city": "Bronson",
+    "zipCode": "49028",
+    "latitude": 41.872647956138,
+    "longitude": -85.193267101581,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

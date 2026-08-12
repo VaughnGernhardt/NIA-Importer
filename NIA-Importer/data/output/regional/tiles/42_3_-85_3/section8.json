@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009914",
+    "propertyName": "BEDFORD MANOR",
+    "latitude": 42.34103899897044,
+    "longitude": -85.23098800029096,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800009917",
+    "propertyName": "BENT TREE",
+    "latitude": 42.35146899930165,
+    "longitude": -85.2269639996707,
+    "assistedUnits": 164,
+    "totalUnits": 164
+  },
+  {
+    "propertyId": "800061682",
+    "propertyName": "MEADOWS(THE)",
+    "latitude": 42.33406099881747,
+    "longitude": -85.21536199995981,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800222946",
+    "propertyName": "VILLAGE OF MILL CREEK",
+    "latitude": 42.318901998741225,
+    "longitude": -85.20608500010432,
+    "assistedUnits": 44,
+    "totalUnits": 45
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "storeId": "15516-grand-river-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 15516, Grand River Ave Detroit, MI 48227-2223",
+    "city": "Grand River Ave Detroit",
+    "zipCode": "48227",
+    "latitude": 42.392818051238,
+    "longitude": -83.198605044661
+  },
+  {
+    "storeId": "2300-w-davison-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2300, W Davison Street Detroit, MI 48238-3544",
+    "city": "W Davison Street Detroit",
+    "zipCode": "48238",
+    "latitude": 42.394362050302,
+    "longitude": -83.118584873308
+  },
+  {
+    "storeId": "6138-w-vernor-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 6138, W Vernor Hwy. Detroit, MI 48209-2064",
+    "city": "W Vernor Hwy. Detroit",
+    "zipCode": "48209",
+    "latitude": 42.31576888069,
+    "longitude": -83.107548661362
+  },
+  {
+    "storeId": "12207-grand-river-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 12207, Grand River Ave. Detroit, MI 48204-1839",
+    "city": "Grand River Ave. Detroit",
+    "zipCode": "48204",
+    "latitude": 42.378399612931,
+    "longitude": -83.163132413709
+  },
+  {
+    "storeId": "11630-greenfield-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 11630, Greenfield Rd Detroit, MI 48227-2019",
+    "city": "Greenfield Rd Detroit",
+    "zipCode": "48227",
+    "latitude": 42.372773988619,
+    "longitude": -83.197492603983
+  },
+  {
+    "storeId": "9360-greenfield-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 9360, Greenfield Road Detroit, MI 48228",
+    "city": "Greenfield Road Detroit",
+    "zipCode": "48228",
+    "latitude": 42.364080782236,
+    "longitude": -83.197170769325
+  },
+  {
+    "storeId": "4271-livernois-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4271, Livernois Ave Detroit, MI 48210-2435",
+    "city": "Livernois Ave Detroit",
+    "zipCode": "48210",
+    "latitude": 42.332042605402,
+    "longitude": -83.121101466357
+  },
+  {
+    "storeId": "8000-michigan-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 8000, Michigan Ave Detroit, MI 48210-2125",
+    "city": "Michigan Ave Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331156659806,
+    "longitude": -83.14123689608
+  },
+  {
+    "storeId": "7937-schaefer-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 7937, Schaefer Rd Dearborn, MI 48126-1173",
+    "city": "Schaefer Rd Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.350687458842,
+    "longitude": -83.17723671724
+  },
+  {
+    "storeId": "8916-tireman-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 8916, Tireman Street Detroit, MI 48204",
+    "city": "Tireman Street Detroit",
+    "zipCode": "48204",
+    "latitude": 42.351796992206,
+    "longitude": -83.156431979952
+  }
+]

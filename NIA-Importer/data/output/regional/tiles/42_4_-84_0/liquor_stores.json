@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0281165",
+    "businessName": "DMA HOLDING COMPANY, LLC",
+    "address": "9270 McGregor Rd, Pinckney, MI 48169-9445",
+    "city": "Dexter Twp",
+    "zipCode": "48169",
+    "latitude": 42.418144838711,
+    "longitude": -83.90575881984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223491",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "211 E Main St, Pinckney, MI 48169",
+    "city": "Pinckney",
+    "zipCode": "48169",
+    "latitude": 42.456930865542,
+    "longitude": -83.944972792335,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223030",
+    "businessName": "PINCKNEY PETROLEUM, LLC",
+    "address": "850 E Main St, Pinckney, MI 48169-8104",
+    "city": "Pinckney",
+    "zipCode": "48169",
+    "latitude": 42.45696692099,
+    "longitude": -83.93729599469,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

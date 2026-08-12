@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0260377",
+    "businessName": "DEPOT HILL PARTY STORE",
+    "address": "500 N Main St, Allegan, MI 49010-1132",
+    "city": "Allegan",
+    "zipCode": "49010",
+    "latitude": 42.537123086588,
+    "longitude": -85.843547135766,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289776",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "100 MONROE ST, ALLEGAN, MI 49010",
+    "city": "Allegan",
+    "zipCode": "49010",
+    "latitude": 42.530506508664,
+    "longitude": -85.849402789358,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234734",
+    "businessName": "MIGHTY MIDGET CONVENIENCE STORE",
+    "address": "231 Western Ave, Allegan, MI 49010-1239",
+    "city": "Allegan",
+    "zipCode": "49010",
+    "latitude": 42.528430748146,
+    "longitude": -85.860175348447,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267300",
+    "businessName": "SAMS DISCOUNT LIQUOR",
+    "address": "1608 Lincoln Rd, Allegan, MI 49010-9410",
+    "city": "Allegan Twp",
+    "zipCode": "49010",
+    "latitude": 42.535906332307,
+    "longitude": -85.874679320423,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286190",
+    "businessName": "SIDE DOOR CONVENIENCE STORE",
+    "address": "1875 Lincoln Rd, Allegan, MI 49010-9063",
+    "city": "Allegan Twp",
+    "zipCode": "49010",
+    "latitude": 42.554516804994,
+    "longitude": -85.890738653052,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

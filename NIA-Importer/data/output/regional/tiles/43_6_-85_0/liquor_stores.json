@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0284688",
+    "businessName": "OUT A BOUNDS",
+    "address": "50 N COLDWATER RD, LAKE ISABELLA, MI 48893",
+    "city": "Lake Isabella",
+    "zipCode": "48893",
+    "latitude": 43.640434891605,
+    "longitude": -84.987603300075,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237595",
+    "businessName": "WEIDMAN EZ MART",
+    "address": "3011 N Woodruff Rd, Weidman, MI 48893-9701",
+    "city": "Sherman Twp",
+    "zipCode": "48893",
+    "latitude": 43.683468445926,
+    "longitude": -84.96858176327,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

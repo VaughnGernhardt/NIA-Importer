@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800009975",
+    "propertyName": "CANTERBURY GARDENS",
+    "latitude": 41.948716998914314,
+    "longitude": -85.0155950001152,
+    "assistedUnits": 30,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010174",
+    "propertyName": "COLDWATER CROSSING",
+    "latitude": 41.935575999235034,
+    "longitude": -85.0040129995975,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800255116",
+    "propertyName": "ENGLEWOOD APARTMENTS",
+    "latitude": 41.939586999072404,
+    "longitude": -85.00556099985128,
+    "assistedUnits": 96,
+    "totalUnits": 192
+  },
+  {
+    "propertyId": "800010221",
+    "propertyName": "HORIZON APARTMENTS",
+    "latitude": 41.95641999891932,
+    "longitude": -85.00403400041222,
+    "assistedUnits": 17,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800252032",
+    "propertyName": "The Lofts at Milnes Plaza",
+    "latitude": 41.94176599911024,
+    "longitude": -85.00375599967956,
+    "assistedUnits": 8,
+    "totalUnits": 52
+  }
+]

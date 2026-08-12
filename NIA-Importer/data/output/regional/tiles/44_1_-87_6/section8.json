@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800022981",
+    "propertyName": "EDGEWATER TERRACE",
+    "latitude": 44.140084998987,
+    "longitude": -87.58864900044223,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023457",
+    "propertyName": "VILLAGE GREEN EAST",
+    "latitude": 44.15564299883029,
+    "longitude": -87.55664500029265,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800023458",
+    "propertyName": "VILLAGE GREEN WEST",
+    "latitude": 44.157702998970265,
+    "longitude": -87.57566900035688,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  }
+]

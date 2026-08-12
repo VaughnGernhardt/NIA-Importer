@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0268416",
+    "businessName": "ALCOCK\u0027S MARKET",
+    "address": "523 Mackinaw Ave, Cheboygan, MI 49721-1143",
+    "city": "Cheboygan",
+    "zipCode": "49721",
+    "latitude": 45.648352438305,
+    "longitude": -84.476553048483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227360",
+    "businessName": "COURT STREET PARTY MART",
+    "address": "1101 Court St, Cheboygan, MI 49721-1407",
+    "city": "Cheboygan",
+    "zipCode": "49721",
+    "latitude": 45.640491376061,
+    "longitude": -84.488659743846,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141911",
+    "businessName": "FAMILY FARE #1504",
+    "address": "992 S Main St, Cheboygan, MI 49721-2604",
+    "city": "Cheboygan",
+    "zipCode": "49721",
+    "latitude": 45.629287956302,
+    "longitude": -84.479396349617,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144801",
+    "businessName": "WAL-MART SUPER CENTER #2100",
+    "address": "1150 S MAIN ST, CHEBOYGAN, MI 49721-2325",
+    "city": "Cheboygan",
+    "zipCode": "49721",
+    "latitude": 45.626773676826,
+    "longitude": -84.477827370729,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264705",
+    "businessName": "ARTHUR\u0027S SOUTH END",
+    "address": "11154 N Straits Hwy, Cheboygan, MI 49721-9090",
+    "city": "Inverness Twp",
+    "zipCode": "49721",
+    "latitude": 45.620221551098,
+    "longitude": -84.478503271912,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279268",
+    "businessName": "CHEBOYGAN EZ MART",
+    "address": "9851 N Straits Hwy, Cheboygan, MI 49721-9074",
+    "city": "Inverness Twp",
+    "zipCode": "49721",
+    "latitude": 45.601808753919,
+    "longitude": -84.474076872165,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

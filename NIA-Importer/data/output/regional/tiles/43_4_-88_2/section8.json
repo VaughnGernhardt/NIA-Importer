@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800022848",
+    "propertyName": "ARBOR TRACE",
+    "latitude": 43.412047998896,
+    "longitude": -88.17028300036988,
+    "assistedUnits": 71,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800023166",
+    "propertyName": "MEADOW BROOK MANOR II",
+    "latitude": 43.42869599918062,
+    "longitude": -88.19743799971867,
+    "assistedUnits": 74,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800244427",
+    "propertyName": "Meadowbrook Manor I",
+    "latitude": 43.42869599918062,
+    "longitude": -88.19743799971867,
+    "assistedUnits": 71,
+    "totalUnits": 71
+  }
+]

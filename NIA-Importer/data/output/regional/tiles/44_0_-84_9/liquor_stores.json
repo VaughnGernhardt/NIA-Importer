@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "237594",
+    "businessName": "HARRISON FIRST ST EZ MART",
+    "address": "701 N 1st St, Harrison, MI 48625-8429",
+    "city": "Harrison",
+    "zipCode": "48625",
+    "latitude": 44.026340201936,
+    "longitude": -84.803818437047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281242",
+    "businessName": "SATNAM PARTY STORE LLC",
+    "address": "4719 N Clare Ave, Harrison, MI 48625-8697",
+    "city": "Hayes Twp",
+    "zipCode": "48625",
+    "latitude": 44.055554978524,
+    "longitude": -84.808392612119,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800022894",
+    "propertyName": "BROOKDALE MANOR",
+    "latitude": 42.83374299921897,
+    "longitude": -88.75260000018783,
+    "assistedUnits": 66,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800023052",
+    "propertyName": "GREEN VALLEY ESTATES",
+    "latitude": 42.82739199902774,
+    "longitude": -88.73922900029021,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023440",
+    "propertyName": "UNIVERSITY GARDENS",
+    "latitude": 42.840939999275086,
+    "longitude": -88.75095599967456,
+    "assistedUnits": 101,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800023502",
+    "propertyName": "WHITEWATER MANOR",
+    "latitude": 42.836487998745554,
+    "longitude": -88.75271599964046,
+    "assistedUnits": 26,
+    "totalUnits": 26
+  }
+]

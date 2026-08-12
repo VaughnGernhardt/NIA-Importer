@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0261744",
+    "businessName": "QUICK AND EASY MART INC.",
+    "address": "108 E Main St, Hartford, MI 49057-1121",
+    "city": "Hartford",
+    "zipCode": "49057",
+    "latitude": 42.20692888434,
+    "longitude": -86.165378610875,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249472",
+    "businessName": "ADJ PETROLEUM",
+    "address": "57887 Red Arrow Hwy, Lawrence, MI 49064-9636",
+    "city": "Lawrence Twp",
+    "zipCode": "49064",
+    "latitude": 42.216497204436,
+    "longitude": -86.107584173258,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "242486",
+    "businessName": "ALEX\u0027S MARKET \u0026 GRILL",
+    "address": "4707 White Lake Rd, Clarkston, MI 48346-2554",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.707245088377,
+    "longitude": -83.44156479582,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17139",
+    "businessName": "BIANCA\u0027S II",
+    "address": "7880 Andersonville Rd, Clarkston, MI 48346-2512",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.703346402423,
+    "longitude": -83.443132607471,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245689",
+    "businessName": "CLARKSTON SUNOCO",
+    "address": "7650 Ortonville rd, Clarkston, MI 48348",
+    "city": "Independence Twp",
+    "zipCode": "48348",
+    "latitude": 42.749502995226,
+    "longitude": -83.419630621955,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13094",
+    "businessName": "KROGER STORE #620",
+    "address": "6625 Dixie Hwy, Clarkston, MI 48346-3422",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.717439319012,
+    "longitude": -83.415002327527,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229763",
+    "businessName": "ZETOUNA LIQUOR FINE WINE \u0026 CIGARS II",
+    "address": "5890 Dixie Hwy, Clarkston, MI 48346-3358",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.706374942715,
+    "longitude": -83.405105006179,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225668",
+    "businessName": "BUSCEMI\u0027S OF CLARKSTON",
+    "address": "9811 Dixie Hwy, Clarkston, MI 48348-2431",
+    "city": "Springfield Twp",
+    "zipCode": "48348",
+    "latitude": 42.75972582359,
+    "longitude": -83.482575532689,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12986",
+    "businessName": "DIXIE HIGHWAY MARKET",
+    "address": "9420 Dixie Hwy, Clarkston, MI 48348-4139",
+    "city": "Springfield Twp",
+    "zipCode": "48348",
+    "latitude": 42.750144405002,
+    "longitude": -83.475099014084,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149663",
+    "businessName": "KROGER STORE #709",
+    "address": "9741 Dixie Hwy, Clarkston, MI 48348-4145",
+    "city": "Springfield Twp",
+    "zipCode": "48348",
+    "latitude": 42.757621606522,
+    "longitude": -83.481514099745,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272071",
+    "businessName": "COACH LIQUOR",
+    "address": "5939 Andersonville Rd, Waterford, MI 48329-1515",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.70054377689,
+    "longitude": -83.406492374347,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

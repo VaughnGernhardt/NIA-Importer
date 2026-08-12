@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0265336",
+    "businessName": "BILL\u0027S MARKET",
+    "address": "479 Marshall St, Coldwater, MI 49036-1162",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.954471951268,
+    "longitude": -85.000594476301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242430",
+    "businessName": "STOP N\u0027 SHOP",
+    "address": "147 W Chicago St, Coldwater, MI 49036",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.941632733193,
+    "longitude": -85.007257722419,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149944",
+    "businessName": "SUPER LIQUOR II",
+    "address": "487 W Chicago St, Coldwater, MI 49036-3807",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.943646201909,
+    "longitude": -85.019491189358,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223421",
+    "businessName": "LUCKY DISCOUNT LIQUOR",
+    "address": "293 N Angola Rd, Coldwater, MI 49036-8577",
+    "city": "Coldwater Twp",
+    "zipCode": "49036",
+    "latitude": 41.924738294806,
+    "longitude": -85.005139360525,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800009930",
+    "propertyName": "BIRCHGROVE APTS",
+    "latitude": 42.89052599894466,
+    "longitude": -85.62613599985995,
+    "assistedUnits": 19,
+    "totalUnits": 19
+  },
+  {
+    "propertyId": "800010252",
+    "propertyName": "COUNTRYSIDE TOWNHOUSES",
+    "latitude": 42.87518499901304,
+    "longitude": -85.6484999999309,
+    "assistedUnits": 141,
+    "totalUnits": 146
+  },
+  {
+    "propertyId": "800010165",
+    "propertyName": "GREENTREE",
+    "latitude": 42.884935999322025,
+    "longitude": -85.62574000002482,
+    "assistedUnits": 152,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800010339",
+    "propertyName": "METROPOLITAN APARTMENTS",
+    "latitude": 42.879172999187986,
+    "longitude": -85.60342000033481,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800061574",
+    "propertyName": "OAK RIDGE RETIREMENT COMMUNITY",
+    "latitude": 42.8962619990991,
+    "longitude": -85.63087699980738,
+    "assistedUnits": 45,
+    "totalUnits": 45
+  },
+  {
+    "propertyId": "800010597",
+    "propertyName": "TAMARISK APTS",
+    "latitude": 42.88163199882682,
+    "longitude": -85.62194399990851,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010646",
+    "propertyName": "VILLA ESPERANZA",
+    "latitude": 42.88413399899812,
+    "longitude": -85.69982699989546,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  }
+]

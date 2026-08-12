@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "325-mall-dr",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 325, Mall Dr Portage, MI 49024-2805",
+    "city": "Mall Dr Portage",
+    "zipCode": "49024",
+    "latitude": 42.224649679794,
+    "longitude": -85.592452176244
+  },
+  {
+    "storeId": "5224-s-westnedge-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5224, S Westnedge Ave Portage, MI 49002-0405",
+    "city": "S Westnedge Ave Portage",
+    "zipCode": "49002",
+    "latitude": 42.24136669278,
+    "longitude": -85.589633757497
+  },
+  {
+    "storeId": "2032-e-cork-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2032, E Cork St Kalamazoo, MI 49001-5025",
+    "city": "E Cork St Kalamazoo",
+    "zipCode": "49001",
+    "latitude": 42.259491495599,
+    "longitude": -85.554969433598
+  },
+  {
+    "storeId": "507-n-park-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 507, N Park St Kalamazoo, MI 49007-3337",
+    "city": "N Park St Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.29575317018,
+    "longitude": -85.587497642888
+  }
+]

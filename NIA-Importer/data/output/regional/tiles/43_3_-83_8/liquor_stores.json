@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "247892",
+    "businessName": "CONLEE OIL COMPANY",
+    "address": "1015 S Main St, Frankenmuth, MI 48734-1811",
+    "city": "Frankenmuth",
+    "zipCode": "48734",
+    "latitude": 43.321298726647,
+    "longitude": -83.740369479618,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238618",
+    "businessName": "CVS/PHARMACY #10790",
+    "address": "111 N Main St, Frankenmuth, MI 48734-1109",
+    "city": "Frankenmuth",
+    "zipCode": "48734",
+    "latitude": 43.335964664655,
+    "longitude": -83.738063675835,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

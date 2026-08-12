@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "225015",
+    "businessName": "MULTANI PARTY STORE",
+    "address": "2080 W Hyde Rd, Saint Johns, MI 48879-9497",
+    "city": "Greenbush Twp",
+    "zipCode": "48879",
+    "latitude": 43.096664409079,
+    "longitude": -84.565218324825,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13469",
+    "businessName": "HANSEN\u0027S QUIK STOP #16",
+    "address": "709 W State St, Saint Johns, MI 48879-1464",
+    "city": "St Johns",
+    "zipCode": "48879",
+    "latitude": 43.001485053448,
+    "longitude": -84.568038662657,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161250",
+    "businessName": "MAZZ\u0027S ENDZONE PARTY STORE",
+    "address": "224 N Clinton Ave, Saint Johns, MI 48879-1504",
+    "city": "St Johns",
+    "zipCode": "48879",
+    "latitude": 43.002703176041,
+    "longitude": -84.558378848163,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

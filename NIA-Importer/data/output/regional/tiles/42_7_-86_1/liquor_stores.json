@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "246294",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "1796 M 40, Holland, MI 49423-8518",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.736495376776,
+    "longitude": -86.064344941111,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235130",
+    "businessName": "JC\u0027S LIQUOR CENTER, L.L.C.",
+    "address": "457 E 32nd St, Holland, MI 49423-5416",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.768702224885,
+    "longitude": -86.086630739161,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147656",
+    "businessName": "LINCOLNSHIRE PARTY STORE",
+    "address": "1110 Lincoln Ave, Holland, MI 49423-5308",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.757551819954,
+    "longitude": -86.096966497136,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11396",
+    "businessName": "MEIJER #47",
+    "address": "746 E 16th St, Holland, MI 49423-3884",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.783158526651,
+    "longitude": -86.075288484726,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133281",
+    "businessName": "ADAMS COURT CONVENIENCE",
+    "address": "9700 Adams St, Holland, MI 49424-9175",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.783378607047,
+    "longitude": -86.020291668265,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259304",
+    "businessName": "VANSH LIQUOR LLC",
+    "address": "394 Chicago Dr, Holland, MI 49423-2964",
+    "city": "Holland Twp",
+    "zipCode": "49423",
+    "latitude": 42.792250200587,
+    "longitude": -86.089767975709,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

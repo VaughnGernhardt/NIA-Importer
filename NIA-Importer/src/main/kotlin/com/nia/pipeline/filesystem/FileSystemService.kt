@@ -9,30 +9,63 @@ class FileSystemService {
 
     fun initialize() {
 
-        createDirectory("data")
-        createDirectory("data/input")
-        createDirectory("data/output")
-        createDirectory("data/logs")
-        createDirectory("data/temp")
+        createDirectory(
+            "data"
+        )
 
+        createDirectory(
+            "data/input"
+        )
+
+        createDirectory(
+            "data/output"
+        )
+
+        createDirectory(
+            "data/output/regional"
+        )
+
+        createDirectory(
+            "data/output/regional/tiles"
+        )
+
+        createDirectory(
+            "data/logs"
+        )
+
+        createDirectory(
+            "data/temp"
+        )
     }
 
-    private fun createDirectory(directory: String) {
+    private fun createDirectory(
+        directory: String
+    ) {
 
-        val path: Path = Paths.get(directory)
+        val path: Path =
+            Paths.get(
+                directory
+            )
 
-        if (Files.exists(path)) {
+        if (
+            Files.exists(
+                path
+            )
+        ) {
 
-            Log.logger.info { "Directory exists: $directory" }
+            Log.logger.info {
+                "Directory exists: $directory"
+            }
 
         } else {
 
-            Files.createDirectories(path)
+            Files.createDirectories(
+                path
+            )
 
-            Log.logger.info { "Created directory: $directory" }
-
+            Log.logger.info {
+                "Created directory: $directory"
+            }
         }
-
     }
-
 }

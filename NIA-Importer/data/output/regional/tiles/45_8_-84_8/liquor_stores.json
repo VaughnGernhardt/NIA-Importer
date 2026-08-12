@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "17212",
+    "businessName": "CIRCLE K # 2746204",
+    "address": "W274 W US 2, Saint Ignace, MI 49781",
+    "city": "Moran Twp",
+    "zipCode": "49781",
+    "latitude": 45.856283497297,
+    "longitude": -84.739710944968,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153804",
+    "businessName": "ST. IGNACE E-Z MART AND TRUCK STOP",
+    "address": "W253 US 2, Saint Ignace, MI 49781",
+    "city": "Moran Twp",
+    "zipCode": "49781",
+    "latitude": 45.855204317739,
+    "longitude": -84.748261370308,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

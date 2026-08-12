@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023123",
+    "propertyName": "LAKELAND APARTMENTS",
+    "latitude": 42.62857099931223,
+    "longitude": -88.66510399988641,
+    "assistedUnits": 82,
+    "totalUnits": 82
+  },
+  {
+    "propertyId": "800023523",
+    "propertyName": "WOODVIEW PARK",
+    "latitude": 42.62961599914301,
+    "longitude": -88.63288600037491,
+    "assistedUnits": 91,
+    "totalUnits": 91
+  }
+]

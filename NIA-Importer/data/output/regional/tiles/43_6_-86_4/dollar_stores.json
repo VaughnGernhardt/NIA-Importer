@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4148-w-polk-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4148, W Polk Rd Hart, MI 49420-8175",
+    "city": "W Polk Rd Hart",
+    "zipCode": "49420",
+    "latitude": 43.68903301302,
+    "longitude": -86.381071945046
+  },
+  {
+    "storeId": "3687-w-polk-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3687, W Polk Road Hart, MI 49420-8131",
+    "city": "W Polk Road Hart",
+    "zipCode": "49420",
+    "latitude": 43.688631827705,
+    "longitude": -86.367739890142
+  }
+]

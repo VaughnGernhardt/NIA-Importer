@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0287133",
+    "businessName": "GRANT LIQUOR, LLC",
+    "address": "12633 S Mason Dr, Grant, MI 49327-9661",
+    "city": "Ashland Twp",
+    "zipCode": "49327",
+    "latitude": 43.324992372425,
+    "longitude": -85.810644899656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247982",
+    "businessName": "GENE\u0027S FAMILY MARKET",
+    "address": "33 E State Rd, Grant, MI 49327-9752",
+    "city": "Grant",
+    "zipCode": "49327",
+    "latitude": 43.336603075081,
+    "longitude": -85.810106000506,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14358",
+    "businessName": "WESCO #44",
+    "address": "136 S Maple St, Grant, MI 49327-9699",
+    "city": "Grant",
+    "zipCode": "49327",
+    "latitude": 43.334245724548,
+    "longitude": -85.810486772417,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

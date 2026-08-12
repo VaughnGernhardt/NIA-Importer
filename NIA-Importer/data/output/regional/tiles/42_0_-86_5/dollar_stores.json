@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "2090-niles-rd-unit-100",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2090 Niles Rd Unit 100, St Joseph, MI 49085",
+    "city": "St Joseph",
+    "zipCode": "49085",
+    "latitude": 42.078518092446,
+    "longitude": -86.482912325158
+  },
+  {
+    "storeId": "1240-m-139-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "1240 M 139, Hwy Benton Harbor, MI 49022-4026",
+    "city": "Hwy Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.096387238098,
+    "longitude": -86.435010929258
+  },
+  {
+    "storeId": "2830-niles-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2830, Niles Ave St. Joseph, MI 49085-2416",
+    "city": "Niles Ave St. Joseph",
+    "zipCode": "49085",
+    "latitude": 42.084737410582,
+    "longitude": -86.485494153348
+  }
+]

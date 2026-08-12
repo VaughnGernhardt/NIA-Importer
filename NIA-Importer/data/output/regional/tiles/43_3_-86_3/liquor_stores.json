@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0288768",
+    "businessName": "RUSSELL RD AGO",
+    "address": "232 E Bard Rd, Muskegon, MI 49445-9587",
+    "city": "Dalton Twp",
+    "zipCode": "49445",
+    "latitude": 43.324796129152,
+    "longitude": -86.235740243998,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288769",
+    "businessName": "WHITEHALL AGO",
+    "address": "1845 W White Lake Dr, Whitehall, MI 49461-9205",
+    "city": "Fruitland Twp",
+    "zipCode": "49461",
+    "latitude": 43.384001626091,
+    "longitude": -86.287109491205,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10677",
+    "businessName": "WESCO #19",
+    "address": "7415 Whitehall Rd, Whitehall, MI 49461-9351",
+    "city": "Whitehall Twp",
+    "zipCode": "49461",
+    "latitude": 43.393143380931,
+    "longitude": -86.29919344407,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

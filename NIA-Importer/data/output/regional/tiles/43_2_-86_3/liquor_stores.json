@@ -1,0 +1,242 @@
+[
+  {
+    "businessId": "0282247",
+    "businessName": "RAY\u0027S MINI MART",
+    "address": "2210 Holton Rd, Muskegon, MI 49445-1667",
+    "city": "Dalton Twp",
+    "zipCode": "49445",
+    "latitude": 43.295271680989,
+    "longitude": -86.202370776934,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138637",
+    "businessName": "SAM\u0027S CLUB #6562",
+    "address": "1707 E Sherman Blvd, Muskegon, MI 49444-1862",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.205144241783,
+    "longitude": -86.201386419395,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15446",
+    "businessName": "WESCO #2",
+    "address": "1487 Whitehall Rd, Muskegon, MI 49445-1346",
+    "city": "Laketon Twp",
+    "zipCode": "49445",
+    "latitude": 43.2798110003,
+    "longitude": -86.261564593684,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278518",
+    "businessName": "DOWNTOWN MARKET",
+    "address": "45 E Muskegon Ave, Muskegon, MI 49440-1314",
+    "city": "Muskegon",
+    "zipCode": "49440",
+    "latitude": 43.236798088174,
+    "longitude": -86.243545850492,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276428",
+    "businessName": "FRONTIER MART",
+    "address": "631 W Southern Ave, Muskegon, MI 49441-1881",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.224278897131,
+    "longitude": -86.259107292027,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145504",
+    "businessName": "GHEZZI\u0027S MARKET",
+    "address": "2017 Lakeshore Dr, Muskegon, MI 49441-1675",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.215414756355,
+    "longitude": -86.293215086167,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269607",
+    "businessName": "L \u0026 G FAMILY MARKET",
+    "address": "1813 S Getty St, Muskegon, MI 49442-5801",
+    "city": "Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.219196902313,
+    "longitude": -86.224464609113,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279815",
+    "businessName": "LAKESHORE LIQUOR FEATURING WAYNE\u0027S DELI",
+    "address": "746 W Laketon Ave, Muskegon, MI 49441-2926",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.219903138182,
+    "longitude": -86.261709096066,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261361",
+    "businessName": "LIGHTHOUSE LIQUOR",
+    "address": "860 W Sherman Blvd, Muskegon, MI 49441-3533",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.205384167474,
+    "longitude": -86.264655032701,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276381",
+    "businessName": "MUSKEGON FAMILY FOOD",
+    "address": "1157 3rd St, Muskegon, MI 49441-2053",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.23140210059,
+    "longitude": -86.248970406413,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270278",
+    "businessName": "SAM\u0027S DRINK ALL",
+    "address": "1500 S Getty St, Muskegon, MI 49442-5133",
+    "city": "Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.225076735602,
+    "longitude": -86.224282196522,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138195",
+    "businessName": "SUNNY MART",
+    "address": "1301 E Apple Ave, Muskegon, MI 49442-3747",
+    "city": "Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.234087400296,
+    "longitude": -86.211931445354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279669",
+    "businessName": "WOOD ST LIQUOR, LLC",
+    "address": "1149 Wood St, Muskegon, MI 49442-3527",
+    "city": "Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.231388194911,
+    "longitude": -86.234170184979,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275267",
+    "businessName": "BROADWAY LIQUOR",
+    "address": "114 E Broadway Ave, Muskegon Heights, MI 49444-2135",
+    "city": "Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.201076245594,
+    "longitude": -86.242368783839,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270995",
+    "businessName": "DISCOUNT LIQUOR, LLC",
+    "address": "2701 Sanford St, Muskegon Heights, MI 49444-2073",
+    "city": "Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.202842208466,
+    "longitude": -86.246003024144,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260651",
+    "businessName": "JASS, INC.",
+    "address": "2146 Hoyt St, Muskegon Heights, MI 49444-1121",
+    "city": "Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.213296397978,
+    "longitude": -86.239393008954,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131309",
+    "businessName": "RAJA MART",
+    "address": "201 E Sherman Blvd, Muskegon Heights, MI 49444-1534",
+    "city": "Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.204928991351,
+    "longitude": -86.239572695605,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266423",
+    "businessName": "FRESHWAY FOODS",
+    "address": "1270 Holton Rd, Muskegon, MI 49445-2518",
+    "city": "Muskegon Twp",
+    "zipCode": "49445",
+    "latitude": 43.274938130192,
+    "longitude": -86.238088511641,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12058",
+    "businessName": "MEIJER #71",
+    "address": "1800 Holton Rd, North Muskegon, MI 49445-1532",
+    "city": "Muskegon Twp",
+    "zipCode": "49445",
+    "latitude": 43.285170787098,
+    "longitude": -86.222979102199,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141621",
+    "businessName": "ROADSIDE EXPRESS",
+    "address": "310 Ruddiman Dr, North Muskegon, MI 49445-2734",
+    "city": "North Muskegon",
+    "zipCode": "49445",
+    "latitude": 43.243887175365,
+    "longitude": -86.298466596032,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16094",
+    "businessName": "WESCO #18",
+    "address": "1858 Ruddiman Dr, North Muskegon, MI 49445-3146",
+    "city": "North Muskegon",
+    "zipCode": "49445",
+    "latitude": 43.260980517388,
+    "longitude": -86.261677295865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244946",
+    "businessName": "OZZIE\u0027S",
+    "address": "1354 E Broadway Ave, Norton Shores, MI 49444-2411",
+    "city": "Norton Shores",
+    "zipCode": "49444",
+    "latitude": 43.201474586037,
+    "longitude": -86.211079301833,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270253",
+    "businessName": "PUNJAB GROUP MUSKEGON INC",
+    "address": "2628 Henry St, Norton Shores, MI 49441-3508",
+    "city": "Norton Shores",
+    "zipCode": "49441",
+    "latitude": 43.204618888985,
+    "longitude": -86.263008125815,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "146718",
+    "businessName": "WESCO #03",
+    "address": "1385 W Sherman Blvd, Roosevelt Pk, MI 49441-3538",
+    "city": "Roosevelt Park",
+    "zipCode": "49441",
+    "latitude": 43.205489174566,
+    "longitude": -86.277754949842,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "628-palms-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 628, Palms Ave Ishpeming, MI 49849-1035",
+    "city": "Palms Ave Ishpeming",
+    "zipCode": "49849",
+    "latitude": 46.503815195381,
+    "longitude": -87.664034971384
+  },
+  {
+    "storeId": "602-palms-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "Now Weekly AdSame Day Delivery Store Info 602, Palms Ave Ishpeming, MI 49849-1078",
+    "city": "Palms Ave Ishpeming",
+    "zipCode": "49849",
+    "latitude": 46.503408879441,
+    "longitude": -87.665936492649
+  }
+]

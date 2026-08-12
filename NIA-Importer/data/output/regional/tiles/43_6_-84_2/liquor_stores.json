@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0285340",
+    "businessName": "7-ELEVEN STORE #36927",
+    "address": "3217 Bay City Rd, Midland, MI 48642-6911",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.604997650157,
+    "longitude": -84.188353244588,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269084",
+    "businessName": "COSTCO STORE#  1420",
+    "address": "4816 Bay City Rd, Midland, MI 48642",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.604985118867,
+    "longitude": -84.170684146717,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263201",
+    "businessName": "WALDO MARKET",
+    "address": "2713 Waldo Ave, Midland, MI 48642-4858",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.623201531578,
+    "longitude": -84.187505843492,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162425",
+    "businessName": "FRUITLAND MARKET",
+    "address": "1646 W Midland Rd, Auburn, MI 48611-9567",
+    "city": "Williams Twp",
+    "zipCode": "48611",
+    "latitude": 43.604193089732,
+    "longitude": -84.114751998193,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230714",
+    "businessName": "MIESKES MARKET",
+    "address": "2509 W Midland Rd, Midland, MI 48642-9242",
+    "city": "Williams Twp",
+    "zipCode": "48642",
+    "latitude": 43.604560673212,
+    "longitude": -84.148845391445,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

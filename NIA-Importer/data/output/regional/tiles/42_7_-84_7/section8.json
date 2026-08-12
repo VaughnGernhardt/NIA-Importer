@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800218049",
+    "propertyName": "ALISON HOUSE",
+    "latitude": 42.744563998760476,
+    "longitude": -84.64525799977302,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800010038",
+    "propertyName": "CORONADO GARDENS COOPERATIVE",
+    "latitude": 42.76567499925599,
+    "longitude": -84.60254400004023,
+    "assistedUnits": 50,
+    "totalUnits": 64
+  },
+  {
+    "propertyId": "800225871",
+    "propertyName": "DELTA RIVER SENIOR VILLAGE",
+    "latitude": 42.73394299902142,
+    "longitude": -84.63709700035122,
+    "assistedUnits": 36,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800010087",
+    "propertyName": "ELMWOOD PARK",
+    "latitude": 42.74593499892548,
+    "longitude": -84.62180599975582,
+    "assistedUnits": 156,
+    "totalUnits": 156
+  },
+  {
+    "propertyId": "800010652",
+    "propertyName": "LANSING MANOR",
+    "latitude": 42.74554899880833,
+    "longitude": -84.62249000036935,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800251591",
+    "propertyName": "WAVERLY PLACE",
+    "latitude": 42.767929999023345,
+    "longitude": -84.60133700026829,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  }
+]

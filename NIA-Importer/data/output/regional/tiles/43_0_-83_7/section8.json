@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800253448",
+    "propertyName": "800 E COURT STREET VILLAGE",
+    "latitude": 43.01658899892026,
+    "longitude": -83.67934300021847,
+    "assistedUnits": 149,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800249332",
+    "propertyName": "CLARK COMMONS",
+    "latitude": 43.02691799914753,
+    "longitude": -83.69380399971215,
+    "assistedUnits": 39,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800256475",
+    "propertyName": "CLARK COMMONS III",
+    "latitude": 43.029021998856564,
+    "longitude": -83.69383600039751,
+    "assistedUnits": 96,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800010137",
+    "propertyName": "GARDENVIEW",
+    "latitude": 43.02662799917617,
+    "longitude": -83.69111900000662,
+    "assistedUnits": 117,
+    "totalUnits": 118
+  },
+  {
+    "propertyId": "800254394",
+    "propertyName": "Georgia Manor Apartments",
+    "latitude": 43.01849699883715,
+    "longitude": -83.69611500022219,
+    "assistedUnits": 5,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800256178",
+    "propertyName": "MACH 1",
+    "latitude": 43.050845998806814,
+    "longitude": -83.6378370000825,
+    "assistedUnits": 389,
+    "totalUnits": 389
+  },
+  {
+    "propertyId": "800010094",
+    "propertyName": "MIDWAY SQUARE TOWNHOMES",
+    "latitude": 43.00210399879895,
+    "longitude": -83.64444099992801,
+    "assistedUnits": 363,
+    "totalUnits": 365
+  },
+  {
+    "propertyId": "800235824",
+    "propertyName": "OAK STREET SENIOR APARTMENTS",
+    "latitude": 43.00894699906228,
+    "longitude": -83.69185299995054,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010492",
+    "propertyName": "RIDGECREST VILLAGE TOWNHOUSES",
+    "latitude": 43.075002999286696,
+    "longitude": -83.65941199995795,
+    "assistedUnits": 163,
+    "totalUnits": 163
+  },
+  {
+    "propertyId": "800010501",
+    "propertyName": "RIVER VILLAGE",
+    "latitude": 43.025426998753616,
+    "longitude": -83.69297900042994,
+    "assistedUnits": 340,
+    "totalUnits": 340
+  },
+  {
+    "propertyId": "800010523",
+    "propertyName": "ROLLINGWOOD MANOR",
+    "latitude": 43.062357999163815,
+    "longitude": -83.65982799988457,
+    "assistedUnits": 135,
+    "totalUnits": 136
+  },
+  {
+    "propertyId": "800221047",
+    "propertyName": "SHILOH COMMONS II",
+    "latitude": 43.0446179991003,
+    "longitude": -83.6991360003867,
+    "assistedUnits": 142,
+    "totalUnits": 142
+  }
+]

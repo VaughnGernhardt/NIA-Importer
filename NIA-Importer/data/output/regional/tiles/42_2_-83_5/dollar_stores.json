@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "10880-belleville-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 10880, Belleville Rd. Belleville, MI 48111-5304",
+    "city": "Belleville Rd. Belleville",
+    "zipCode": "48111",
+    "latitude": 42.223263977994,
+    "longitude": -83.485121937034
+  },
+  {
+    "storeId": "2950-s-newburgh-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2950, S Newburgh Rd Wayne, MI 48184-1002",
+    "city": "S Newburgh Rd Wayne",
+    "zipCode": "48184",
+    "latitude": 42.287378913333,
+    "longitude": -83.407251400267
+  }
+]

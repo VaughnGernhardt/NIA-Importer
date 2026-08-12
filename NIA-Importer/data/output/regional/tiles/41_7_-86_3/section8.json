@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800215683",
+    "propertyName": "AHEPA 100",
+    "latitude": 41.71130199904267,
+    "longitude": -86.20385300019576,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800253443",
+    "propertyName": "AHEPA 100-II APARTMENTS",
+    "latitude": 41.71130199904267,
+    "longitude": -86.20385300019576,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800006816",
+    "propertyName": "LAUREL WOODS APARTMENTS",
+    "latitude": 41.74398099937114,
+    "longitude": -86.26369700013258,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

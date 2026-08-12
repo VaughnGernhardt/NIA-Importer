@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023160",
+    "propertyName": "MARY JOHN VANDERLOOP VILLA",
+    "latitude": 45.889510999215,
+    "longitude": -89.69991099980274,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023516",
+    "propertyName": "WOOD COURT APARTMENTS",
+    "latitude": 45.894636998825334,
+    "longitude": -89.69963200014348,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023518",
+    "propertyName": "WOODLAND LAKE ESTATES",
+    "latitude": 45.897372998792704,
+    "longitude": -89.69786999962946,
+    "assistedUnits": 22,
+    "totalUnits": 22
+  }
+]

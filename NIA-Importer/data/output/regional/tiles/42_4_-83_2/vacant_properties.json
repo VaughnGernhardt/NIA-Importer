@@ -1,0 +1,1871 @@
+[
+  {
+    "registrationId": "VPO2025-01237",
+    "address": "10035 Curtis St",
+    "latitude": 42.423961038,
+    "longitude": -83.1613483,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00528",
+    "address": "10124 W McNichols Rd",
+    "latitude": 42.417118064,
+    "longitude": -83.162060756,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01427",
+    "address": "1014 Carmel St",
+    "latitude": 42.435499016,
+    "longitude": -83.114328448,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00482",
+    "address": "10200 W McNichols Rd",
+    "latitude": 42.417093819,
+    "longitude": -83.16278842,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2023-01431",
+    "address": "10320 W Seven Mile",
+    "latitude": 42.43156538,
+    "longitude": -83.164704578,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2023-01432",
+    "address": "10326 W Seven Mile",
+    "latitude": 42.431520014,
+    "longitude": -83.164754725,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2023-01433",
+    "address": "10330 W Seven Mile",
+    "latitude": 42.431519628,
+    "longitude": -83.164839934,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00679",
+    "address": "10800 Puritan St",
+    "latitude": 42.409813399,
+    "longitude": -83.168947867,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00872",
+    "address": "10810 W Seven Mile",
+    "latitude": 42.431509695,
+    "longitude": -83.170046363,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2010-02727",
+    "address": "12918 Fenkell St",
+    "latitude": 42.402402,
+    "longitude": -83.1719835,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00522",
+    "address": "12924 W Seven Mile",
+    "latitude": 42.431476822,
+    "longitude": -83.17352495,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00368",
+    "address": "12934 Fenkell St",
+    "latitude": 42.402365497,
+    "longitude": -83.172167785,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00047",
+    "address": "13011 W McNichols Rd",
+    "latitude": 42.416430035,
+    "longitude": -83.173541026,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00049",
+    "address": "13121 W Eight Mile",
+    "latitude": 42.445064536,
+    "longitude": -83.176075651,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01150",
+    "address": "13128 W Seven Mile",
+    "latitude": 42.431407764,
+    "longitude": -83.17645029,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00328",
+    "address": "13331 Puritan St",
+    "latitude": 42.409209628,
+    "longitude": -83.176953195,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00943",
+    "address": "13830 Vassar Ave",
+    "latitude": 42.434888514,
+    "longitude": -83.183774044,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-01039",
+    "address": "13841 Fenkell St",
+    "latitude": 42.401854941,
+    "longitude": -83.182081824,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2022-00190",
+    "address": "14037 Fenkell St",
+    "latitude": 42.401808,
+    "longitude": -83.183112,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01356",
+    "address": "14125 W McNichols Rd",
+    "latitude": 42.41629681,
+    "longitude": -83.184621808,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01263",
+    "address": "14137 PURITAN",
+    "latitude": 42.409282441,
+    "longitude": -83.184165875,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00031",
+    "address": "14201 W 8 Mile Rd",
+    "latitude": 42.444839344,
+    "longitude": -83.18618268,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2011-03155",
+    "address": "14300 W McNichols Rd",
+    "latitude": 42.416757,
+    "longitude": -83.1864105,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00973",
+    "address": "14327 W McNichols Rd",
+    "latitude": 42.416284376,
+    "longitude": -83.186781859,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00975",
+    "address": "14341 W McNichols Rd",
+    "latitude": 42.416260615,
+    "longitude": -83.187049701,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01099",
+    "address": "14501 Puritan St",
+    "latitude": 42.408919942,
+    "longitude": -83.188275796,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01326",
+    "address": "14726 Puritan St",
+    "latitude": 42.409179548,
+    "longitude": -83.191089452,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00676",
+    "address": "14900 Linwood St",
+    "latitude": 42.40102752,
+    "longitude": -83.126421563,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00552",
+    "address": "15016 Washburn St",
+    "latitude": 42.400547712,
+    "longitude": -83.160378213,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01415",
+    "address": "15037 W Eight Mile Rd",
+    "latitude": 42.444681359,
+    "longitude": -83.195172991,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01106",
+    "address": "15054 Cruse St",
+    "latitude": 42.400614673,
+    "longitude": -83.183056606,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00397",
+    "address": "15060 Appoline St",
+    "latitude": 42.400943212,
+    "longitude": -83.170112858,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01085",
+    "address": "15084 Manor St",
+    "latitude": 42.401320729,
+    "longitude": -83.167998946,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00317",
+    "address": "15119 Washburn St",
+    "latitude": 42.401973586,
+    "longitude": -83.160982214,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00405",
+    "address": "15121 Lesure St",
+    "latitude": 42.401556757,
+    "longitude": -83.181424689,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00085",
+    "address": "15212 Fenkell St",
+    "latitude": 42.40174107,
+    "longitude": -83.195384317,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01179",
+    "address": "15330 Coyle St",
+    "latitude": 42.402386642,
+    "longitude": -83.19352132,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00656",
+    "address": "15330 Petoskey Ave",
+    "latitude": 42.403253772,
+    "longitude": -83.138866699,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00279",
+    "address": "15344 Lawton St",
+    "latitude": 42.403678528,
+    "longitude": -83.129179971,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00969",
+    "address": "15360 Kentucky St",
+    "latitude": 42.403499226,
+    "longitude": -83.158388405,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00994",
+    "address": "15365 Northlawn St",
+    "latitude": 42.403706518,
+    "longitude": -83.15359906,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00364",
+    "address": "15366 Ward St",
+    "latitude": 42.40363923,
+    "longitude": -83.17350996,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00770",
+    "address": "15374 Cloverlawn St",
+    "latitude": 42.403888261,
+    "longitude": -83.152168125,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00917",
+    "address": "15374 Dexter Ave",
+    "latitude": 42.404146011,
+    "longitude": -83.135322703,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00510",
+    "address": "15380 Monica St",
+    "latitude": 42.403775349,
+    "longitude": -83.143354171,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00122",
+    "address": "15385 Stansbury St",
+    "latitude": 42.403480981,
+    "longitude": -83.182540851,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00701",
+    "address": "15420 Littlefield St",
+    "latitude": 42.404345653,
+    "longitude": -83.175741198,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00986",
+    "address": "15427 Lauder St",
+    "latitude": 42.404019469,
+    "longitude": -83.191736012,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00629",
+    "address": "15431 Cruse St",
+    "latitude": 42.404296758,
+    "longitude": -83.183736559,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00068",
+    "address": "15462 Cloverlawn St",
+    "latitude": 42.4053256,
+    "longitude": -83.152232177,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00758",
+    "address": "15464 Wisconsin St",
+    "latitude": 42.405344221,
+    "longitude": -83.156291688,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00974",
+    "address": "15474 Prest St",
+    "latitude": 42.404500925,
+    "longitude": -83.19735608,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00375",
+    "address": "15480 Muirland St",
+    "latitude": 42.40574826,
+    "longitude": -83.133190092,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01380",
+    "address": "15491 Appoline St",
+    "latitude": 42.405392469,
+    "longitude": -83.170828872,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01225",
+    "address": "15494 Sorrento St",
+    "latitude": 42.405429494,
+    "longitude": -83.172422542,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00302",
+    "address": "15505 Quincy St",
+    "latitude": 42.40602298,
+    "longitude": -83.138633452,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2024-01079",
+    "address": "15526 Wabash St",
+    "latitude": 42.406011,
+    "longitude": -83.11878,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00896",
+    "address": "15559 Normandy St",
+    "latitude": 42.406248873,
+    "longitude": -83.126520675,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01053",
+    "address": "15574 Wabash St",
+    "latitude": 42.406665349,
+    "longitude": -83.118789277,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00304",
+    "address": "15587 Log Cabin St",
+    "latitude": 42.406751503,
+    "longitude": -83.121570685,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00453",
+    "address": "15625 Baylis St",
+    "latitude": 42.407230016,
+    "longitude": -83.12407312,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00893",
+    "address": "15664 Normandy St",
+    "latitude": 42.407701502,
+    "longitude": -83.125992923,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00426",
+    "address": "15720 Snowden St",
+    "latitude": 42.406149818,
+    "longitude": -83.176870431,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00805",
+    "address": "15728 Sussex St",
+    "latitude": 42.405949227,
+    "longitude": -83.19485897,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01171",
+    "address": "15740 Wyoming St",
+    "latitude": 42.406790259,
+    "longitude": -83.15961078,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00114",
+    "address": "15755 Livernois Ave",
+    "latitude": 42.407047769,
+    "longitude": -83.140756445,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00562",
+    "address": "15756 Robson St",
+    "latitude": 42.406642663,
+    "longitude": -83.192586155,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00915",
+    "address": "15759 Robson St",
+    "latitude": 42.406606429,
+    "longitude": -83.193133105,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01363",
+    "address": "15760 Lauder St",
+    "latitude": 42.406759798,
+    "longitude": -83.191310424,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00121",
+    "address": "15762 Appoline St",
+    "latitude": 42.406898495,
+    "longitude": -83.170398249,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00483",
+    "address": "15770 Greenfield Rd",
+    "latitude": 42.406702341,
+    "longitude": -83.198554999,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01159",
+    "address": "15771 Tracey St",
+    "latitude": 42.407090419,
+    "longitude": -83.180628539,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01302",
+    "address": "15774 Ward St",
+    "latitude": 42.407055945,
+    "longitude": -83.173687789,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00560",
+    "address": "15775 Ward St",
+    "latitude": 42.407049736,
+    "longitude": -83.174204948,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01200",
+    "address": "15787 Hartwell St",
+    "latitude": 42.407233042,
+    "longitude": -83.178444791,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01301",
+    "address": "15787 Linwood St",
+    "latitude": 42.407807545,
+    "longitude": -83.127839736,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00614",
+    "address": "15793 Kentucky St",
+    "latitude": 42.40771446,
+    "longitude": -83.159080523,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01271",
+    "address": "15816 Snowden St",
+    "latitude": 42.407927306,
+    "longitude": -83.177015565,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01000",
+    "address": "15824 Cherrylawn St",
+    "latitude": 42.408359572,
+    "longitude": -83.154335586,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00025",
+    "address": "15828 Cruse St",
+    "latitude": 42.407872323,
+    "longitude": -83.183403153,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00353",
+    "address": "15862 Stansbury St",
+    "latitude": 42.40840073,
+    "longitude": -83.182304289,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01186",
+    "address": "15868 Stansbury St",
+    "latitude": 42.408494377,
+    "longitude": -83.182320933,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00293",
+    "address": "15870 Lesure St",
+    "latitude": 42.408630617,
+    "longitude": -83.1812649,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00709",
+    "address": "15875 Strathmoor St",
+    "latitude": 42.408433317,
+    "longitude": -83.188339123,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00115",
+    "address": "15910 Livernois Ave",
+    "latitude": 42.409219799,
+    "longitude": -83.140137318,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00113",
+    "address": "15930 Livernois Ave",
+    "latitude": 42.409462722,
+    "longitude": -83.140145307,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00163",
+    "address": "16141 Manor St",
+    "latitude": 42.41026572,
+    "longitude": -83.168948352,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00555",
+    "address": "16156 Cruse St",
+    "latitude": 42.410162168,
+    "longitude": -83.183533254,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00245",
+    "address": "16165 Washburn St",
+    "latitude": 42.410706022,
+    "longitude": -83.1613469,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00608",
+    "address": "16174 Griggs St",
+    "latitude": 42.410833928,
+    "longitude": -83.163071601,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00443",
+    "address": "16199 Strathmoor St",
+    "latitude": 42.410550392,
+    "longitude": -83.188407131,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00922",
+    "address": "16204 Indiana St",
+    "latitude": 42.411282159,
+    "longitude": -83.157638812,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01430",
+    "address": "16207 Lesure St",
+    "latitude": 42.410899756,
+    "longitude": -83.181875733,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-01027",
+    "address": "16212 Tracey St",
+    "latitude": 42.411008061,
+    "longitude": -83.180333407,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00853",
+    "address": "16225 Greenfield Rd",
+    "latitude": 42.410201258,
+    "longitude": -83.19942977,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00756",
+    "address": "16227 Cherrylawn St",
+    "latitude": 42.411597529,
+    "longitude": -83.154821507,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-01002",
+    "address": "16232 Kentucky St",
+    "latitude": 42.411671104,
+    "longitude": -83.158739806,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00928",
+    "address": "16240 Hartwell St",
+    "latitude": 42.411431996,
+    "longitude": -83.178247957,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00171",
+    "address": "16245 Cruse St",
+    "latitude": 42.411314072,
+    "longitude": -83.184068356,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00824",
+    "address": "16252 Woodingham Dr",
+    "latitude": 42.412041509,
+    "longitude": -83.149621845,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01202",
+    "address": "16254 Linwood St",
+    "latitude": 42.412350474,
+    "longitude": -83.127629275,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00606",
+    "address": "16511 Parkside St",
+    "latitude": 42.412761829,
+    "longitude": -83.131631444,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01198",
+    "address": "16523 Cheyenne St",
+    "latitude": 42.412278461,
+    "longitude": -83.175521318,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00914",
+    "address": "16529 Cheyenne St",
+    "latitude": 42.412373416,
+    "longitude": -83.175541907,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00017",
+    "address": "16529 Pinehurst St",
+    "latitude": 42.412512599,
+    "longitude": -83.166888965,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01445",
+    "address": "16540 Marlowe St",
+    "latitude": 42.412090078,
+    "longitude": -83.190238255,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00852",
+    "address": "16551 Pinehurst St",
+    "latitude": 42.412828495,
+    "longitude": -83.166952105,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2016-00485",
+    "address": "16566 Sorrento St",
+    "latitude": 42.412923,
+    "longitude": -83.172843,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01180",
+    "address": "16568 Wyoming St",
+    "latitude": 42.413192273,
+    "longitude": -83.159902901,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01175",
+    "address": "16572 Wyoming St",
+    "latitude": 42.41327669,
+    "longitude": -83.159925454,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00953",
+    "address": "16576 Ilene St",
+    "latitude": 42.413221588,
+    "longitude": -83.162067916,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00012",
+    "address": "16580 Wyoming St",
+    "latitude": 42.413388915,
+    "longitude": -83.159900124,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00537",
+    "address": "16595 Ardmore St",
+    "latitude": 42.413025636,
+    "longitude": -83.185256908,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00362",
+    "address": "16600 Woodingham Dr",
+    "latitude": 42.413681079,
+    "longitude": -83.149694332,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00696",
+    "address": "16617 Log Cabin St",
+    "latitude": 42.413793982,
+    "longitude": -83.122003125,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01111",
+    "address": "16634 Log Cabin St",
+    "latitude": 42.414002069,
+    "longitude": -83.121393209,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01431",
+    "address": "16639 Monica St",
+    "latitude": 42.414310768,
+    "longitude": -83.144182462,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00138",
+    "address": "16643 Log Cabin St",
+    "latitude": 42.414109482,
+    "longitude": -83.122019783,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01391",
+    "address": "16685 Woodingham Dr",
+    "latitude": 42.414827985,
+    "longitude": -83.150239055,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00465",
+    "address": "16700 Coyle St",
+    "latitude": 42.414094705,
+    "longitude": -83.194044779,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01341",
+    "address": "16803 Mendota St",
+    "latitude": 42.414504371,
+    "longitude": -83.165918654,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00303",
+    "address": "16803 Normandy St",
+    "latitude": 42.415164852,
+    "longitude": -83.127192761,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01097",
+    "address": "16811 Greenfield Rd",
+    "latitude": 42.414387357,
+    "longitude": -83.199686566,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01098",
+    "address": "16831 Greenfield Rd",
+    "latitude": 42.414755646,
+    "longitude": -83.199646386,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00521",
+    "address": "16835 Livernois Ave",
+    "latitude": 42.415311408,
+    "longitude": -83.141075093,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00520",
+    "address": "16849 Livernois Ave",
+    "latitude": 42.41544822,
+    "longitude": -83.141074647,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00891",
+    "address": "17132 Greenlawn St",
+    "latitude": 42.417656117,
+    "longitude": -83.150902781,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01250",
+    "address": "17141 Monica St",
+    "latitude": 42.417796501,
+    "longitude": -83.144413285,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00714",
+    "address": "17141 Monica St, #1",
+    "latitude": 42.417796507,
+    "longitude": -83.144413282,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00469",
+    "address": "17152 Ohio St",
+    "latitude": 42.417839471,
+    "longitude": -83.155725948,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00200",
+    "address": "17167 Stansbury St",
+    "latitude": 42.417653953,
+    "longitude": -83.183684899,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00493",
+    "address": "17175 Mendota St",
+    "latitude": 42.417914272,
+    "longitude": -83.166126435,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00199",
+    "address": "17179 Mark Twain St",
+    "latitude": 42.41775116,
+    "longitude": -83.187595403,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00021",
+    "address": "17181 Schaefer Hwy",
+    "latitude": 42.417826682,
+    "longitude": -83.180131052,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00819",
+    "address": "17197 Cherrylawn St",
+    "latitude": 42.418480948,
+    "longitude": -83.155247509,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01168",
+    "address": "17300 Wyoming St",
+    "latitude": 42.419188331,
+    "longitude": -83.160108203,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00617",
+    "address": "17312 Indiana St",
+    "latitude": 42.419024012,
+    "longitude": -83.157949856,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01374",
+    "address": "17331 Quincy St, Apt 1",
+    "latitude": 42.419517955,
+    "longitude": -83.139184728,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01358",
+    "address": "17332 Stoepel St",
+    "latitude": 42.41950475,
+    "longitude": -83.141760116,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01449",
+    "address": "17356 Santa Rosa Dr",
+    "latitude": 42.419811186,
+    "longitude": -83.14286753,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00320",
+    "address": "17372 Livernois Ave, #F",
+    "latitude": 42.420144052,
+    "longitude": -83.140649673,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00449",
+    "address": "17416 Indiana St, #2",
+    "latitude": 42.420478895,
+    "longitude": -83.158015769,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00713",
+    "address": "17417 Birwood St",
+    "latitude": 42.420300423,
+    "longitude": -83.165095345,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00998",
+    "address": "17419 Prairie St",
+    "latitude": 42.420624275,
+    "longitude": -83.145580445,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01205",
+    "address": "17511 Schaefer Hwy",
+    "latitude": 42.420667366,
+    "longitude": -83.180318093,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2012-02445",
+    "address": "17514 Woodward Ave",
+    "latitude": 42.419849219,
+    "longitude": -83.106322442,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2012-02447",
+    "address": "17518 Woodward Ave",
+    "latitude": 42.41992564,
+    "longitude": -83.106300161,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01204",
+    "address": "17527 Schaefer Hwy",
+    "latitude": 42.420797476,
+    "longitude": -83.180311073,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00803",
+    "address": "17530 Santa Barbara Dr",
+    "latitude": 42.421245658,
+    "longitude": -83.148589456,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00624",
+    "address": "17575 Livernois Ave",
+    "latitude": 42.421986517,
+    "longitude": -83.141387032,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2019-03213",
+    "address": "17575 Stoepel St",
+    "latitude": 42.421896,
+    "longitude": -83.1424185,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01022",
+    "address": "17655 Manderson Rd",
+    "latitude": 42.42129705,
+    "longitude": -83.117883052,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2024-01392",
+    "address": "17725 Manderson Rd",
+    "latitude": 42.422166,
+    "longitude": -83.118447,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00943",
+    "address": "18039 John R St",
+    "latitude": 42.425206648,
+    "longitude": -83.102267756,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01359",
+    "address": "18052 Schaefer Hwy",
+    "latitude": 42.42285388,
+    "longitude": -83.17976092399999,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00755",
+    "address": "18063 James Couzens Fwy",
+    "latitude": 42.422819018,
+    "longitude": -83.178503466,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01357",
+    "address": "18153 San Juan Dr",
+    "latitude": 42.424181446,
+    "longitude": -83.146930458,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00686",
+    "address": "18213 Meyers Rd",
+    "latitude": 42.424299706,
+    "longitude": -83.170744202,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01278",
+    "address": "18223 John R St",
+    "latitude": 42.425843596,
+    "longitude": -83.102367431,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01229",
+    "address": "18229 Wyoming St",
+    "latitude": 42.42470055,
+    "longitude": -83.16103607,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00847",
+    "address": "18248 Robson St",
+    "latitude": 42.424197212,
+    "longitude": -83.193258882,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00210",
+    "address": "18279 Livernois Ave",
+    "latitude": 42.42558612,
+    "longitude": -83.141555548,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2017-01818",
+    "address": "18285 Cherrylawn St",
+    "latitude": 42.425559,
+    "longitude": -83.1556035,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00706",
+    "address": "18295 Hubbell St",
+    "latitude": 42.424927494,
+    "longitude": -83.190075789,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00135",
+    "address": "18299 Greenfield Rd",
+    "latitude": 42.42459281,
+    "longitude": -83.199963553,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00793",
+    "address": "18326 Woodward Ave",
+    "latitude": 42.426456535,
+    "longitude": -83.110585123,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00473",
+    "address": "18421 Kentucky St",
+    "latitude": 42.426346657,
+    "longitude": -83.159960045,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01285",
+    "address": "18427 Kentucky St",
+    "latitude": 42.426470355,
+    "longitude": -83.159971141,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01376",
+    "address": "18445 Roselawn St",
+    "latitude": 42.4267556,
+    "longitude": -83.15318702,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00673",
+    "address": "18450 Strathmoor St",
+    "latitude": 42.426149574,
+    "longitude": -83.188386537,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00987",
+    "address": "18493 Santa Barbara Dr",
+    "latitude": 42.427402481,
+    "longitude": -83.149618994,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00223",
+    "address": "18600 Snowden St",
+    "latitude": 42.427694547,
+    "longitude": -83.177658791,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00569",
+    "address": "18601 Robson St",
+    "latitude": 42.427121327,
+    "longitude": -83.193916734,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00986",
+    "address": "18603 Snowden St",
+    "latitude": 42.427667396,
+    "longitude": -83.178285525,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00502",
+    "address": "18628 Mark Twain St",
+    "latitude": 42.427665647,
+    "longitude": -83.18721439,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01134",
+    "address": "18666 Appoline St",
+    "latitude": 42.428632515,
+    "longitude": -83.171484223,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01197",
+    "address": "18668 Steel St",
+    "latitude": 42.428636785,
+    "longitude": -83.172671864,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00072",
+    "address": "18679 Santa Barbara Dr",
+    "latitude": 42.429054387,
+    "longitude": -83.149646764,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00157",
+    "address": "18711 John R St",
+    "latitude": 42.429345158,
+    "longitude": -83.102507521,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01138",
+    "address": "18715 Kentucky St",
+    "latitude": 42.4294577,
+    "longitude": -83.160109735,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00161",
+    "address": "18723 John R St",
+    "latitude": 42.429566712,
+    "longitude": -83.102477541,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01249",
+    "address": "18910 Fairway Dr",
+    "latitude": 42.430138987,
+    "longitude": -83.130975163,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01089",
+    "address": "18921 John R St",
+    "latitude": 42.430950542,
+    "longitude": -83.102656177,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00459",
+    "address": "18921 Snowden St",
+    "latitude": 42.429710867,
+    "longitude": -83.178348563,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01187",
+    "address": "18947 Cherrylawn St",
+    "latitude": 42.430325276,
+    "longitude": -83.155728065,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00047",
+    "address": "18955 Livernois Ave",
+    "latitude": 42.430338,
+    "longitude": -83.141793,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00146",
+    "address": "18964 Coyle St",
+    "latitude": 42.429762046,
+    "longitude": -83.194699471,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00670",
+    "address": "18974 Robson St",
+    "latitude": 42.429887639,
+    "longitude": -83.193484779,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00762",
+    "address": "18985 Monica St",
+    "latitude": 42.430988534,
+    "longitude": -83.144965333,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01164",
+    "address": "19031 Livernois Ave",
+    "latitude": 42.431171098,
+    "longitude": -83.141785481,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00496",
+    "address": "19160 Freeland St",
+    "latitude": 42.431834397,
+    "longitude": -83.186125241,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00380",
+    "address": "19160 Prairie St",
+    "latitude": 42.432477426,
+    "longitude": -83.145530957,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00985",
+    "address": "19211 Birwood St",
+    "latitude": 42.432960515,
+    "longitude": -83.165661551,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00066",
+    "address": "19325 Hartwell St",
+    "latitude": 42.433471082,
+    "longitude": -83.179742263,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00208",
+    "address": "19350 Littlefield St",
+    "latitude": 42.43405714,
+    "longitude": -83.177068849,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00170",
+    "address": "19350 Livernois Ave",
+    "latitude": 42.434266835,
+    "longitude": -83.141132377,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2021-00615",
+    "address": "19375 Blake St",
+    "latitude": 42.435318943,
+    "longitude": -83.108507818,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00877",
+    "address": "19448 Strathmoor St",
+    "latitude": 42.435262111,
+    "longitude": -83.188677804,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00657",
+    "address": "19452 Troy Pl",
+    "latitude": 42.435046388,
+    "longitude": -83.115289883,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01306",
+    "address": "19475 Schaefer Hwy",
+    "latitude": 42.435909409,
+    "longitude": -83.180996346,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01308",
+    "address": "19481 Schaefer Hwy",
+    "latitude": 42.435909409,
+    "longitude": -83.180996346,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01309",
+    "address": "19487 Schaefer Hwy",
+    "latitude": 42.43610058,
+    "longitude": -83.181004549,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00776",
+    "address": "19490 Ilene St",
+    "latitude": 42.43641199,
+    "longitude": -83.163012281,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00254",
+    "address": "19503 Whitcomb St",
+    "latitude": 42.435556223,
+    "longitude": -83.197967016,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00516",
+    "address": "19510 Stratford Rd",
+    "latitude": 42.436635205,
+    "longitude": -83.135507295,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01162",
+    "address": "19677 Roslyn Rd",
+    "latitude": 42.438173055,
+    "longitude": -83.138266442,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01189",
+    "address": "19715 Pennington Ave",
+    "latitude": 42.437149178,
+    "longitude": -83.148638734,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01310",
+    "address": "19741 Schaefer Hwy",
+    "latitude": 42.437089509,
+    "longitude": -83.181037884,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00155",
+    "address": "19782 STOEPEL",
+    "latitude": 42.438067127,
+    "longitude": -83.142701219,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01381",
+    "address": "19789 Meyers Rd",
+    "latitude": 42.437910227,
+    "longitude": -83.171228637,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01382",
+    "address": "19791 Meyers Rd",
+    "latitude": 42.437910227,
+    "longitude": -83.171228637,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00642",
+    "address": "19900 Robson St",
+    "latitude": 42.438051481,
+    "longitude": -83.193760222,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01437",
+    "address": "19935 Monte Vista St",
+    "latitude": 42.439090871,
+    "longitude": -83.169097849,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00634",
+    "address": "19961 Santa Rosa Dr",
+    "latitude": 42.439745907,
+    "longitude": -83.144173307,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00791",
+    "address": "19981 Derby St",
+    "latitude": 42.440741945,
+    "longitude": -83.104086821,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00169",
+    "address": "19981 Schaefer Hwy",
+    "latitude": 42.439473658,
+    "longitude": -83.181092912,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01297",
+    "address": "19994 Greenfield Rd",
+    "latitude": 42.43904246,
+    "longitude": -83.199908682,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01007",
+    "address": "20038 Manor St",
+    "latitude": 42.440503575,
+    "longitude": -83.169714494,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01012",
+    "address": "20085 James Couzens Fwy",
+    "latitude": 42.439806563,
+    "longitude": -83.19754488,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00837",
+    "address": "201 W Parkhurst Pl",
+    "latitude": 42.419671113,
+    "longitude": -83.105324706,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01203",
+    "address": "20101 Strathmoor St",
+    "latitude": 42.440713101,
+    "longitude": -83.189633563,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01322",
+    "address": "20126 Steel St",
+    "latitude": 42.441105802,
+    "longitude": -83.172969453,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00823",
+    "address": "20139 Prairie St",
+    "latitude": 42.441867272,
+    "longitude": -83.14640695,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00966",
+    "address": "20159 Stoepel St",
+    "latitude": 42.442205861,
+    "longitude": -83.143284865,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00386",
+    "address": "20200 Lesure St",
+    "latitude": 42.44221702,
+    "longitude": -83.183029664,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00963",
+    "address": "20214 Griggs St",
+    "latitude": 42.442512673,
+    "longitude": -83.164383777,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00100",
+    "address": "20243 Meyers Rd",
+    "latitude": 42.442734702,
+    "longitude": -83.171439365,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01314",
+    "address": "20404 Woodward Ave",
+    "latitude": 42.444179118,
+    "longitude": -83.122759702,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01216",
+    "address": "20458 Monica St",
+    "latitude": 42.444528072,
+    "longitude": -83.144850709,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01402",
+    "address": "20493 Ilene St",
+    "latitude": 42.444552831,
+    "longitude": -83.163870262,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00498",
+    "address": "20516 Appoline St",
+    "latitude": 42.444730188,
+    "longitude": -83.172036443,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00274",
+    "address": "20539 Derby St",
+    "latitude": 42.44647424,
+    "longitude": -83.104348302,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00242",
+    "address": "2103 Pilgrim St",
+    "latitude": 42.407281382,
+    "longitude": -83.120273072,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00392",
+    "address": "239 Cedarhurst Pl",
+    "latitude": 42.420398184,
+    "longitude": -83.106007963,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00759",
+    "address": "256 W Montana St",
+    "latitude": 42.423487497,
+    "longitude": -83.106843135,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00990",
+    "address": "2561 Puritan St",
+    "latitude": 42.40997776,
+    "longitude": -83.126737012,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00973",
+    "address": "300 E Eight Mile",
+    "latitude": 42.446724991,
+    "longitude": -83.101537865,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00235",
+    "address": "3021 Puritan St",
+    "latitude": 42.409910329,
+    "longitude": -83.131285957,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00625",
+    "address": "39 W Arizona St",
+    "latitude": 42.418724287,
+    "longitude": -83.10252478,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01228",
+    "address": "450 W Grixdale Ave",
+    "latitude": 42.427781692,
+    "longitude": -83.107918514,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2022-00066",
+    "address": "550 W Grixdale Ave",
+    "latitude": 42.427665,
+    "longitude": -83.1099285,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00646",
+    "address": "56 E Nevada St",
+    "latitude": 42.424525017,
+    "longitude": -83.10080035,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01167",
+    "address": "6329 W Seven Mile",
+    "latitude": 42.431339507,
+    "longitude": -83.141887308,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2024-01355",
+    "address": "6369 Ellsworth St",
+    "latitude": 42.401745,
+    "longitude": -83.141532,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00811",
+    "address": "6374 Ellsworth St",
+    "latitude": 42.402082732,
+    "longitude": -83.141739811,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00272",
+    "address": "7031 Fenkell St",
+    "latitude": 42.402487908,
+    "longitude": -83.142058905,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00879",
+    "address": "7306 Puritan St",
+    "latitude": 42.410028094,
+    "longitude": -83.143945141,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00945",
+    "address": "7318 Puritan St",
+    "latitude": 42.410022381,
+    "longitude": -83.1441678,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00878",
+    "address": "7324 Puritan St",
+    "latitude": 42.410032354,
+    "longitude": -83.144389876,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00850",
+    "address": "7330 W Seven Mile",
+    "latitude": 42.431736034,
+    "longitude": -83.145389202,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01046",
+    "address": "74 W Longwood Pl",
+    "latitude": 42.422049767,
+    "longitude": -83.103412018,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00461",
+    "address": "7405 W McNichols Rd",
+    "latitude": 42.41692534,
+    "longitude": -83.145402582,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00463",
+    "address": "7421 W McNichols Rd",
+    "latitude": 42.416966081,
+    "longitude": -83.145592449,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00486",
+    "address": "7525 Fenkell St",
+    "latitude": 42.402458187,
+    "longitude": -83.146520277,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2021-00011",
+    "address": "7577 W Eight Mile",
+    "latitude": 42.445736356,
+    "longitude": -83.149118352,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00213",
+    "address": "7641 W McNichols Rd",
+    "latitude": 42.416919796,
+    "longitude": -83.148320916,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00295",
+    "address": "7645 W McNichols Rd",
+    "latitude": 42.416809878,
+    "longitude": -83.148701619,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00812",
+    "address": "7711 Ellsworth St",
+    "latitude": 42.40164577,
+    "longitude": -83.148767087,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00813",
+    "address": "8163 Ellsworth St",
+    "latitude": 42.401671913,
+    "longitude": -83.151010193,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-00947",
+    "address": "8223 W Seven Mile",
+    "latitude": 42.431202143,
+    "longitude": -83.153711107,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00693",
+    "address": "8231 Marygrove Dr",
+    "latitude": 42.413709594,
+    "longitude": -83.152884464,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01404",
+    "address": "831 Merton Rd",
+    "latitude": 42.418238256,
+    "longitude": -83.113914469,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00817",
+    "address": "8323 Desoto St",
+    "latitude": 42.40092123,
+    "longitude": -83.154078834,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2026-00419",
+    "address": "8436 W McNichols Rd",
+    "latitude": 42.417233398,
+    "longitude": -83.154381348,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2024-01077",
+    "address": "8545 W Eight Mile",
+    "latitude": 42.445488026,
+    "longitude": -83.156984311,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2024-01390",
+    "address": "951 Whitmore Rd",
+    "latitude": 42.420123,
+    "longitude": -83.1162735,
+    "status": "Registered Vacant"
+  },
+  {
+    "registrationId": "VPO2025-01209",
+    "address": "999 Whitmore Rd, #A12",
+    "latitude": 42.420326208,
+    "longitude": -83.116419192,
+    "status": "Registered Vacant"
+  }
+]

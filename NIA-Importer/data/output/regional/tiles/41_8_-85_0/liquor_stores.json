@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0288619",
+    "businessName": "JL MARKET",
+    "address": "301 S Fremont Rd, Coldwater, MI 49036-9430",
+    "city": "Algansee Twp",
+    "zipCode": "49036",
+    "latitude": 41.869194133447,
+    "longitude": -84.931730896574,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235362",
+    "businessName": "SHORT\u0027S ON THE WATER",
+    "address": "685 W Channel Dr, Coldwater, MI 49036-9171",
+    "city": "Ovid Twp",
+    "zipCode": "49036",
+    "latitude": 41.870856503546,
+    "longitude": -84.942129693744,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

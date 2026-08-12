@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0288431",
+    "businessName": "SHERIDAN MARATHON",
+    "address": "118 N Main St, Sheridan, MI 48884-8350",
+    "city": "Evergreen Twp",
+    "zipCode": "48884",
+    "latitude": 43.214158386418,
+    "longitude": -85.073468595678,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12748",
+    "businessName": "VILLAGE MARKET",
+    "address": "617 S Main St, Sheridan, MI 48884",
+    "city": "Sheridan",
+    "zipCode": "48884",
+    "latitude": 43.206969294962,
+    "longitude": -85.073568275358,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265697",
+    "businessName": "M-66 MINI MART",
+    "address": "2990 S Sheridan Rd, Stanton, MI 48888-8908",
+    "city": "Sidney Twp",
+    "zipCode": "48888",
+    "latitude": 43.249196563679,
+    "longitude": -85.073665639794,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290036",
+    "businessName": "IDS CHHINA INC.",
+    "address": "134 W Main St, Stanton, MI 48888",
+    "city": "Stanton",
+    "zipCode": "48888",
+    "latitude": 43.29263535675,
+    "longitude": -85.081998389259,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17567",
+    "businessName": "J \u0026 H FAMILY STORES-STANTON",
+    "address": "319 W Main St, Stanton, MI 48888-9348",
+    "city": "Stanton",
+    "zipCode": "48888",
+    "latitude": 43.292562469477,
+    "longitude": -85.085504700255,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "135633",
+    "businessName": "STANTON AGO",
+    "address": "707 E Main St, Stanton, MI 48888-9529",
+    "city": "Stanton",
+    "zipCode": "48888",
+    "latitude": 43.29260506023,
+    "longitude": -85.073825753929,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

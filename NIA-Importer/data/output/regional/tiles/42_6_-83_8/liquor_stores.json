@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "214253",
+    "businessName": "CVS/PHARMACY #8295",
+    "address": "10073 E Highland Rd, Howell, MI 48843-1367",
+    "city": "Hartland Twp",
+    "zipCode": "48843",
+    "latitude": 42.633110175322,
+    "longitude": -83.75360825492,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9679",
+    "businessName": "EAGLE EXPRESS LIQUOR \u0026 DELI",
+    "address": "9576 E Highland Rd, Howell, MI 48843-9098",
+    "city": "Hartland Twp",
+    "zipCode": "48843",
+    "latitude": 42.632395317349,
+    "longitude": -83.766832048073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279551",
+    "businessName": "HARTLAND AC HOLDINGS, LLC",
+    "address": "10440 Highland Rd, Hartland, MI 48353-2621",
+    "city": "Hartland Twp",
+    "zipCode": "48353",
+    "latitude": 42.633724314061,
+    "longitude": -83.745366234357,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140722",
+    "businessName": "HARTLAND MOBIL",
+    "address": "10050 Clyde Rd, Fenton, MI 48430-9532",
+    "city": "Hartland Twp",
+    "zipCode": "48430",
+    "latitude": 42.676835334451,
+    "longitude": -83.757228471848,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197472",
+    "businessName": "KROGER STORE #444",
+    "address": "10059 E Highland Rd, Howell, MI 48843-1367",
+    "city": "Hartland Twp",
+    "zipCode": "48843",
+    "latitude": 42.63309660325,
+    "longitude": -83.753900522766,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204158",
+    "businessName": "MEIJER #245",
+    "address": "2160 Hartland Rd, Hartland, MI 48353-2502",
+    "city": "Hartland Twp",
+    "zipCode": "48353",
+    "latitude": 42.636855411737,
+    "longitude": -83.746721339933,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247803",
+    "businessName": "MUGG \u0026 BOPPS #17",
+    "address": "11055 Highland Rd, Hartland, MI 48353-2703",
+    "city": "Hartland Twp",
+    "zipCode": "48353",
+    "latitude": 42.635636267205,
+    "longitude": -83.733844168921,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274519",
+    "businessName": "RED BARN MARKET #16, INC.",
+    "address": "10045 Clyde Rd, Fenton, MI 48430-9532",
+    "city": "Hartland Twp",
+    "zipCode": "48430",
+    "latitude": 42.676949068736,
+    "longitude": -83.757316409854,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800067943",
+    "propertyName": "GREENCASTLE OF STERLING, INC.",
+    "latitude": 41.80863699928989,
+    "longitude": -89.69774599978089,
+    "assistedUnits": 31,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800217573",
+    "propertyName": "SCI APARTMENTS IV",
+    "latitude": 41.808950999101455,
+    "longitude": -89.67156499967722,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800006361",
+    "propertyName": "STERLING TOWER APARTMENTS",
+    "latitude": 41.806025999279626,
+    "longitude": -89.66964900007571,
+    "assistedUnits": 110,
+    "totalUnits": 111
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "131036",
+    "businessName": "LUZERNE EXPRESS",
+    "address": "3535 W Park Rd, Luzerne, MI 48636-9756",
+    "city": "Big Creek Twp",
+    "zipCode": "48636",
+    "latitude": 44.615886130961,
+    "longitude": -84.289842803206,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9207",
+    "businessName": "PARMALEE TRADING POST",
+    "address": "78 N Red Oak Rd, Lewiston, MI 49756-7532",
+    "city": "Greenwood Twp",
+    "zipCode": "49756",
+    "latitude": 44.682486157753,
+    "longitude": -84.291991562584,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

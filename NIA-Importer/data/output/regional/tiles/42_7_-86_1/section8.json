@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010720",
+    "propertyName": "BAY POINTE APARTMENTS",
+    "latitude": 42.783453999202465,
+    "longitude": -86.07472199988699,
+    "assistedUnits": 47,
+    "totalUnits": 156
+  },
+  {
+    "propertyId": "800079948",
+    "propertyName": "GREENBRIAR APARTMENTS",
+    "latitude": 42.79359699881002,
+    "longitude": -86.07747899956252,
+    "assistedUnits": 125,
+    "totalUnits": 125
+  }
+]

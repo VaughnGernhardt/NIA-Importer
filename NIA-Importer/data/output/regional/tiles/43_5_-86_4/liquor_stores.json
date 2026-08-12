@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "132897",
+    "businessName": "WESCO #17",
+    "address": "4667 1st St, New Era, MI 49446-5101",
+    "city": "New Era",
+    "zipCode": "49446",
+    "latitude": 43.560221145849,
+    "longitude": -86.345472758028,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9704",
+    "businessName": "WESCO #51",
+    "address": "7588 S Michigan Ave, Rothbury, MI 49452-8001",
+    "city": "Rothbury",
+    "zipCode": "49452",
+    "latitude": 43.507057667062,
+    "longitude": -86.347709604164,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288772",
+    "businessName": "NEW ERA AGO",
+    "address": "4061 S Oceana Dr, New Era, MI 49446-9781",
+    "city": "Shelby Twp",
+    "zipCode": "49446",
+    "latitude": 43.570184040736,
+    "longitude": -86.351342013424,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

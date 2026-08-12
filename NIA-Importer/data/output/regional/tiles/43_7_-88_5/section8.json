@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800254456",
+    "propertyName": "EXCHANGE AT 104",
+    "latitude": 43.77602599925311,
+    "longitude": -88.44717999999092,
+    "assistedUnits": 44,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800022966",
+    "propertyName": "LAKESIDE GARDENS",
+    "latitude": 43.78998699916189,
+    "longitude": -88.47261100025715,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800022923",
+    "propertyName": "MAPLEWOOD COMMONS",
+    "latitude": 43.754015999044796,
+    "longitude": -88.43153100009356,
+    "assistedUnits": 81,
+    "totalUnits": 82
+  },
+  {
+    "propertyId": "800023287",
+    "propertyName": "PORTLAND SQUARE/OAKWOOD",
+    "latitude": 43.7803629991994,
+    "longitude": -88.4456569998515,
+    "assistedUnits": 110,
+    "totalUnits": 110
+  },
+  {
+    "propertyId": "800023322",
+    "propertyName": "RIVERVIEW APTS",
+    "latitude": 43.77347799919803,
+    "longitude": -88.45086599960406,
+    "assistedUnits": 101,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800023488",
+    "propertyName": "WESTNOR APARTMENTS",
+    "latitude": 43.787630999210634,
+    "longitude": -88.4714809995798,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

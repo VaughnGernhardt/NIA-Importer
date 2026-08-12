@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0279063",
+    "businessName": "A\u0026B NAPIER, INC.",
+    "address": "5701 E Napier Ave, Benton Harbor, MI 49022-9613",
+    "city": "Bainbridge Twp",
+    "zipCode": "49022",
+    "latitude": 42.094093472934,
+    "longitude": -86.32015959324,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292161",
+    "businessName": "CLEAR WATER MEATS",
+    "address": "5976 Old Pipestone Rd, Eau Claire, MI 49111-9737",
+    "city": "Pipestone Twp",
+    "zipCode": "49111",
+    "latitude": 42.009287834927,
+    "longitude": -86.300512345838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285588",
+    "businessName": "NAVROOPS, LLC",
+    "address": "4091 River Rd, Sodus, MI 49126-9776",
+    "city": "Sodus Twp",
+    "zipCode": "49126",
+    "latitude": 42.043856888031,
+    "longitude": -86.397542086469,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

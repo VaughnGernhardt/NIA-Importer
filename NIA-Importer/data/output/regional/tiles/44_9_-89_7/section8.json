@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800023481",
+    "propertyName": "DIAMOND VIEW",
+    "latitude": 44.97765599925896,
+    "longitude": -89.64649800035737,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800069639",
+    "propertyName": "HARRY \u0026 VELMA HAMILTON VILLA",
+    "latitude": 44.955140998839184,
+    "longitude": -89.68566100019623,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800022837",
+    "propertyName": "IMPACT HOUSING",
+    "latitude": 44.9882569988025,
+    "longitude": -89.64788300040455,
+    "assistedUnits": 103,
+    "totalUnits": 103
+  },
+  {
+    "propertyId": "800023108",
+    "propertyName": "KANNENBERG PLAZA",
+    "latitude": 44.97759999934497,
+    "longitude": -89.64232300012436,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  },
+  {
+    "propertyId": "800023341",
+    "propertyName": "MARATHON COUNTY HOUSING-SCATTERED SITES",
+    "latitude": 44.93034299911748,
+    "longitude": -89.61436899963599,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023412",
+    "propertyName": "TERRACE HEIGHTS APARTMENTS",
+    "latitude": 44.944869999371036,
+    "longitude": -89.6086879998803,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  }
+]

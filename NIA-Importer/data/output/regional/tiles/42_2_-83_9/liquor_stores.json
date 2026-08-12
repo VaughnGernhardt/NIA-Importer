@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "236693",
+    "businessName": "ANN ARBOR LIQUOR EMPORIUM",
+    "address": "3937 Jackson Rd, Ann Arbor, MI 48103-1823",
+    "city": "Scio Twp",
+    "zipCode": "48103",
+    "latitude": 42.284833636791,
+    "longitude": -83.807750003643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282835",
+    "businessName": "BAXTER\u0027S",
+    "address": "293 N Zeeb Rd, Ann Arbor, MI 48103-1550",
+    "city": "Scio Twp",
+    "zipCode": "48103",
+    "latitude": 42.29298518122,
+    "longitude": -83.838724870616,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223700",
+    "businessName": "CVS PHARMACY #7137",
+    "address": "5449 Jackson Rd, Ann Arbor, MI 48103-1861",
+    "city": "Scio Twp",
+    "zipCode": "48103",
+    "latitude": 42.288241992959,
+    "longitude": -83.836998935768,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99197",
+    "businessName": "MEIJER #173",
+    "address": "5645 Jackson Rd, Ann Arbor, MI 48103-9504",
+    "city": "Scio Twp",
+    "zipCode": "48103",
+    "latitude": 42.288833450612,
+    "longitude": -83.841258378824,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144485",
+    "businessName": "SCIO FOODS PARTY STORE",
+    "address": "6950 Jackson Rd, Ann Arbor, MI 48103-9106",
+    "city": "Scio Twp",
+    "zipCode": "48103",
+    "latitude": 42.292562662958,
+    "longitude": -83.86644723159,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

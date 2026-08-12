@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800235763",
+    "propertyName": "HARBOR HOUSE MOVIN OUT",
+    "latitude": 43.04984199890434,
+    "longitude": -89.50821499986658,
+    "assistedUnits": 11,
+    "totalUnits": 11
+  },
+  {
+    "propertyId": "800254571",
+    "propertyName": "Point Place",
+    "latitude": 43.061426998941634,
+    "longitude": -89.51951399962878,
+    "assistedUnits": 30,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800023411",
+    "propertyName": "TERRACE EAST/WEST \u0026 LLORI",
+    "latitude": 43.04607199878596,
+    "longitude": -89.50048500044,
+    "assistedUnits": 64,
+    "totalUnits": 64
+  },
+  {
+    "propertyId": "800023499",
+    "propertyName": "WEXFORD RIDGE",
+    "latitude": 43.06572799914379,
+    "longitude": -89.50280100007458,
+    "assistedUnits": 246,
+    "totalUnits": 246
+  }
+]

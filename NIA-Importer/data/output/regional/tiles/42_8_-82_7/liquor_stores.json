@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0286812",
+    "businessName": "S\u0026G #107",
+    "address": "7855 Fred W Moore Hwy, Casco, MI 48064-1531",
+    "city": "Casco Twp",
+    "zipCode": "48064",
+    "latitude": 42.81324295793,
+    "longitude": -82.624682009636,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229221",
+    "businessName": "TREESIDE MARKET",
+    "address": "8792 Gratiot Ave, Columbus, MI 48063-3750",
+    "city": "Columbus Twp",
+    "zipCode": "48063",
+    "latitude": 42.837805430411,
+    "longitude": -82.668680955604,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236859",
+    "businessName": "RED BARN MARKET",
+    "address": "7053 Gratiot Ave, Saint Clair, MI 48079-2202",
+    "city": "St Clair Twp",
+    "zipCode": "48079",
+    "latitude": 42.865936825277,
+    "longitude": -82.600490059619,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

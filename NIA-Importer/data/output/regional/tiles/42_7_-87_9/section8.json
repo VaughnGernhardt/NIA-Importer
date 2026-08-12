@@ -1,0 +1,82 @@
+[
+  {
+    "propertyId": "800022925",
+    "propertyName": "CHATEAU/OAKWOOD",
+    "latitude": 42.70933899907549,
+    "longitude": -87.83927000042337,
+    "assistedUnits": 44,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800023136",
+    "propertyName": "LINCOLN MANOR OF RACINE",
+    "latitude": 42.71260299878782,
+    "longitude": -87.85130200030456,
+    "assistedUnits": 24,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800023155",
+    "propertyName": "MARIAN HOUSING CENTER",
+    "latitude": 42.73454999915678,
+    "longitude": -87.82799900025027,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023196",
+    "propertyName": "MOUNT PLEASANT MANOR",
+    "latitude": 42.749976999129764,
+    "longitude": -87.80824000041721,
+    "assistedUnits": 0,
+    "totalUnits": 79
+  },
+  {
+    "propertyId": "800023137",
+    "propertyName": "MOUNT PLEASANT PLACE",
+    "latitude": 42.711184998996686,
+    "longitude": -87.85064100015558,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800023226",
+    "propertyName": "OAKVIEW MANOR",
+    "latitude": 42.70932499931612,
+    "longitude": -87.83773300004025,
+    "assistedUnits": 78,
+    "totalUnits": 79
+  },
+  {
+    "propertyId": "800023358",
+    "propertyName": "SOUTH WILLOW APARTMENTS",
+    "latitude": 42.708429998953775,
+    "longitude": -87.84094400017554,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800023402",
+    "propertyName": "SUNSET TERRACE APTS",
+    "latitude": 42.709400998914745,
+    "longitude": -87.84629400039343,
+    "assistedUnits": 118,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800023469",
+    "propertyName": "WASHINGTON APARTMENTS",
+    "latitude": 42.71449699875868,
+    "longitude": -87.80340099966217,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023471",
+    "propertyName": "WASHINGTON COURT APARTMENTS",
+    "latitude": 42.714999998972154,
+    "longitude": -87.83956599980105,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  }
+]

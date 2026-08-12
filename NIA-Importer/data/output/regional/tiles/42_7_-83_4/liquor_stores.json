@@ -1,0 +1,132 @@
+[
+  {
+    "businessId": "177095",
+    "businessName": "CLARK GAS STATION OF CLARKSTON",
+    "address": "4951 Sashabaw Rd, Clarkston, MI 48346-3847",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.710933221089,
+    "longitude": -83.378649864446,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "218863",
+    "businessName": "CLARKSTON BPA",
+    "address": "6480 Sashabaw Rd, Clarkston, MI 48346-2262",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.73330817012,
+    "longitude": -83.379472304599,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193752",
+    "businessName": "CVS/PHARMACY #3538",
+    "address": "5756 Clarkston Rd, Clarkston, MI 48348-4706",
+    "city": "Independence Twp",
+    "zipCode": "48348",
+    "latitude": 42.751858012719,
+    "longitude": -83.380784714494,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214320",
+    "businessName": "CVS/PHARMACY #8155",
+    "address": "5529 Sashabaw Rd, Clarkston, MI 48346-3147",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.719352787183,
+    "longitude": -83.379017577603,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150960",
+    "businessName": "KROGER STORE #651",
+    "address": "5990 Sashabaw Rd, Clarkston, MI 48346-3154",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.72254828752,
+    "longitude": -83.378999063876,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10230",
+    "businessName": "LAKEVIEW FOOD BASKET",
+    "address": "4710 Clarkston Rd, Clarkston, MI 48348-3558",
+    "city": "Independence Twp",
+    "zipCode": "48348",
+    "latitude": 42.763936349721,
+    "longitude": -83.339334820477,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287160",
+    "businessName": "MEIJER #656",
+    "address": "5820 Waldon Rd, Clarkston, MI 48346-2268",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.733587177137,
+    "longitude": -83.384197516548,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271632",
+    "businessName": "MY STOP, LLC",
+    "address": "6889 Sashabaw Rd, Clarkston, MI 48348-4733",
+    "city": "Independence Twp",
+    "zipCode": "48348",
+    "latitude": 42.739451693616,
+    "longitude": -83.379854975691,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166172",
+    "businessName": "PINE KNOB WINE SHOPPE",
+    "address": "5726 Maybee Rd, Clarkston, MI 48346-3129",
+    "city": "Independence Twp",
+    "zipCode": "48346",
+    "latitude": 42.719221736847,
+    "longitude": -83.377021952857,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214152",
+    "businessName": "CVS/PHARMACY #8071",
+    "address": "3475 S Baldwin Rd, Lake Orion, MI 48359-1032",
+    "city": "Orion Twp",
+    "zipCode": "48359",
+    "latitude": 42.729235905013,
+    "longitude": -83.307655916917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131962",
+    "businessName": "KROGER STORE #649",
+    "address": "3097 S Baldwin Rd, Orion, MI 48359-1028",
+    "city": "Orion Twp",
+    "zipCode": "48359",
+    "latitude": 42.734213151772,
+    "longitude": -83.307888741794,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10120",
+    "businessName": "ORION KEG \u0026 WINE PARTY STORE",
+    "address": "2250 S Baldwin Rd, Lake Orion, MI 48360-1500",
+    "city": "Orion Twp",
+    "zipCode": "48360",
+    "latitude": 42.746976172003,
+    "longitude": -83.307933216713,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247739",
+    "businessName": "CLINTONVILLE MARKET",
+    "address": "4494 Clintonville Rd, Waterford, MI 48329-2307",
+    "city": "Waterford Twp",
+    "zipCode": "48329",
+    "latitude": 42.705217357385,
+    "longitude": -83.348670715421,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

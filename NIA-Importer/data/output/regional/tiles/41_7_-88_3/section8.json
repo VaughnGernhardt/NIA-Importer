@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800005710",
+    "propertyName": "AURORA RESIDENTIAL SERVICE",
+    "latitude": 41.78215999903022,
+    "longitude": -88.28316900003131,
+    "assistedUnits": 15,
+    "totalUnits": 15
+  },
+  {
+    "propertyId": "800006504",
+    "propertyName": "FOREST RIDGE APARTMENTS",
+    "latitude": 41.75028799904713,
+    "longitude": -88.28577300044431,
+    "assistedUnits": 89,
+    "totalUnits": 89
+  }
+]

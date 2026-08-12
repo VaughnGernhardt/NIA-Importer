@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0287200",
+    "businessName": "SCHMIDTS LONG LAKE COUNTRY MARKET LLC",
+    "address": "9538 W Long Lake Rd, Alpena, MI 49707-9327",
+    "city": "Alpena Twp",
+    "zipCode": "49707",
+    "latitude": 45.184029903425,
+    "longitude": -83.46787376725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270549",
+    "businessName": "SEYMOURS LONG LAKE INC.",
+    "address": "8943 US Highway 23 N, Alpena, MI 49707-8947",
+    "city": "Alpena Twp",
+    "zipCode": "49707",
+    "latitude": 45.177608100514,
+    "longitude": -83.418447264979,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

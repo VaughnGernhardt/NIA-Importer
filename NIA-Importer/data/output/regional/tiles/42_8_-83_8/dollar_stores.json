@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1545-n-leroy-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1545, N Leroy St. Fenton, MI 48430-1971",
+    "city": "N Leroy St. Fenton",
+    "zipCode": "48430",
+    "latitude": 42.818647987914,
+    "longitude": -83.707648313159
+  },
+  {
+    "storeId": "495-w-broad-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 495, W. Broad Street Linden, MI 48451",
+    "city": "W. Broad Street Linden",
+    "zipCode": "48451",
+    "latitude": 42.813105688223,
+    "longitude": -83.788691714878
+  }
+]

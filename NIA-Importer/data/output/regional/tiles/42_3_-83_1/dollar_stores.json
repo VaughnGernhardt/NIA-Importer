@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "2720-e-jefferson-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2720, E Jefferson Ave. Detroit, MI 48207-4106",
+    "city": "E Jefferson Ave. Detroit",
+    "zipCode": "48207",
+    "latitude": 42.338701727575,
+    "longitude": -83.021427497211
+  },
+  {
+    "storeId": "9215-joseph-campau-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 9215, Joseph Campau St Hamtramck, MI 48212-3730",
+    "city": "Joseph Campau St Hamtramck",
+    "zipCode": "48212",
+    "latitude": 42.393371418481,
+    "longitude": -83.055677479534
+  },
+  {
+    "storeId": "2322-w-grand-blvd-2340",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "2322 W Grand Blvd #2340, Detroit, MI 48208-1116",
+    "city": "Detroit",
+    "zipCode": "48208",
+    "latitude": 42.36058464368,
+    "longitude": -83.098585436462
+  },
+  {
+    "storeId": "4645-w-vernor-highway",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4645, W Vernor Highway Detroit, MI 48209",
+    "city": "W Vernor Highway Detroit",
+    "zipCode": "48209",
+    "latitude": 42.31946677191,
+    "longitude": -83.097658456298
+  }
+]

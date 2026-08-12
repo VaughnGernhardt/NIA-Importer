@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005922",
+    "propertyName": "GREEN FARMS TOWN HOUSES",
+    "latitude": 42.24695199907045,
+    "longitude": -88.85767000020894,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800006318",
+    "propertyName": "SHADLEY APARTMENTS",
+    "latitude": 42.25416399884313,
+    "longitude": -88.82563599992211,
+    "assistedUnits": 119,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800006319",
+    "propertyName": "SHEFFIELD MEADOW APTS",
+    "latitude": 42.24292899873394,
+    "longitude": -88.84515299990585,
+    "assistedUnits": 102,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800006008",
+    "propertyName": "Townhomes of Cedar Village",
+    "latitude": 42.26308599932342,
+    "longitude": -88.85892399983655,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  }
+]

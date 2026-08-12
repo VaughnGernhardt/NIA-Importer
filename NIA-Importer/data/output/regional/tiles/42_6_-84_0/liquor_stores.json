@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0267798",
+    "businessName": "Mugg\u0026Bopps",
+    "address": "6801 Oak Grove Rd, Howell, MI 48855-8249",
+    "city": "Cohoctah Twp",
+    "zipCode": "48855",
+    "latitude": 42.699448903552,
+    "longitude": -83.947490618894,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100127",
+    "businessName": "MEIJER #172",
+    "address": "3883 E Grand River Ave, Howell, MI 48843-8564",
+    "city": "Genoa Twp",
+    "zipCode": "48843",
+    "latitude": 42.630721704299,
+    "longitude": -83.991566360345,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141662",
+    "businessName": "WAL-MART SUPER CENTER #1754",
+    "address": "3850 E Grand River Ave, Howell, MI 48843-8593",
+    "city": "Genoa Twp",
+    "zipCode": "48843",
+    "latitude": 42.630484300594,
+    "longitude": -83.99088697175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289570",
+    "businessName": "HOWELL 2 GO",
+    "address": "1100 S Michigan Ave, Howell, MI 48843-2669",
+    "city": "Howell",
+    "zipCode": "48843",
+    "latitude": 42.616392306466,
+    "longitude": -83.925913634332,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149225",
+    "businessName": "JONNA\u0027S MARKET",
+    "address": "1455 N Michigan Ave, Howell, MI 48843-3102",
+    "city": "Howell",
+    "zipCode": "48843",
+    "latitude": 42.62152563122,
+    "longitude": -83.925067212018,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149985",
+    "businessName": "KROGER STORE #720",
+    "address": "108 W Highland Rd, Howell, MI 48843-1159",
+    "city": "Howell",
+    "zipCode": "48843",
+    "latitude": 42.622673413968,
+    "longitude": -83.926502380215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225398",
+    "businessName": "MUGG \u0026 BOPP\u0027S",
+    "address": "763 S Michigan Ave, Howell, MI 48843-2634",
+    "city": "Howell",
+    "zipCode": "48843",
+    "latitude": 42.601246725766,
+    "longitude": -83.933460242341,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244063",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "433 E Highland Rd, Howell, MI 48843-1260",
+    "city": "Howell Twp",
+    "zipCode": "48843",
+    "latitude": 42.622382660738,
+    "longitude": -83.916404590386,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287389",
+    "businessName": "SPARTAN STORES FUEL, LLC",
+    "address": "3813 Tractor Dr, Howell, MI 48855-7253",
+    "city": "Howell Twp",
+    "zipCode": "48855",
+    "latitude": 42.62023225236,
+    "longitude": -83.991195035878,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

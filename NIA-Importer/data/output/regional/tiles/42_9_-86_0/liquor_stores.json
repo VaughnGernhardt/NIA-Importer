@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "0282876",
+    "businessName": "ALLENDALE LIQUOR",
+    "address": "4963 LAKE MICHIGAN DR, ALLENDALE, MI 49401",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972541542255,
+    "longitude": -85.908650313725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225785",
+    "businessName": "CAMPUS PARTY STORE",
+    "address": "4814 Lake Michigan Dr, Allendale, MI 49401-9400",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972129301421,
+    "longitude": -85.90205014676,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246288",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "6209 Lake Michigan Dr, Allendale, MI 49401-9102",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972433121067,
+    "longitude": -85.939558211799,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141918",
+    "businessName": "FAMILY FARE #137",
+    "address": "6370 Lake Michigan Dr, Allendale, MI 49401-8068",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972160723673,
+    "longitude": -85.943510575454,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279000",
+    "businessName": "GVL PARTY STORE WEST",
+    "address": "11233 Sixty Eighth Ave, Allendale, MI 49401",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972876179,
+    "longitude": -85.954125596839,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266733",
+    "businessName": "HARRY\u0027S ONE STOP",
+    "address": "10745 48TH AVE, ALLENDALE, MI 49401",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.964977672442,
+    "longitude": -85.904173162247,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269687",
+    "businessName": "M45, LLC",
+    "address": "4773 LAKE MICHIGAN DR, ALLENDALE, MI 49401",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972519931912,
+    "longitude": -85.90371869239,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281202",
+    "businessName": "THE TOBACCO SHOP",
+    "address": "6173 Lake Michigan Dr, Allendale, MI 49401-9244",
+    "city": "Allendale Twp",
+    "zipCode": "49401",
+    "latitude": 42.972410915495,
+    "longitude": -85.938279736081,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "246301",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "1991 Baldwin St, Jenison, MI 49428-8915",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.907232245299,
+    "longitude": -85.831648203296,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166579",
+    "businessName": "FAMILY FARE #1589",
+    "address": "1965 Baldwin St, Jenison, MI 49428-8915",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.90722775501,
+    "longitude": -85.830994871495,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149616",
+    "businessName": "J \u0026 H FAMILY STORES-COTTONWOOD EXPRESS",
+    "address": "8407 Cottonwood Dr, Jenison, MI 49428-7318",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.920865052511,
+    "longitude": -85.810803332473,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270518",
+    "businessName": "WESCO #66",
+    "address": "7661 36th Ave, Hudsonville, MI 49426-8613",
+    "city": "Georgetown Twp",
+    "zipCode": "49426",
+    "latitude": 42.908464476653,
+    "longitude": -85.872633514254,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

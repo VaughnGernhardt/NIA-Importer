@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0290166",
+    "businessName": "KROGER # 416",
+    "address": "15100 Silver Pkwy, Fenton, MI 48430-3449",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.800401216456,
+    "longitude": -83.734033315885,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240725",
+    "businessName": "LOCKE\u0027S PARTY SHOPPE \u0026 DELI",
+    "address": "1228 N Leroy St, Fenton, MI 48430-2760",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.811591120017,
+    "longitude": -83.707288849479,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261942",
+    "businessName": "SLINGIN SISTERS EVENT BARTENDING LLC",
+    "address": "2117 S Long Lake Rd, Fenton, MI 48430-1455",
+    "city": "Fenton",
+    "zipCode": "48430",
+    "latitude": 42.81775139384,
+    "longitude": -83.712374257639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270957",
+    "businessName": "GILBERT\u0027S LAKESIDE MARKET",
+    "address": "2242 N Long Lake Rd, Fenton, MI 48430-8807",
+    "city": "Fenton Twp",
+    "zipCode": "48430",
+    "latitude": 42.856951930747,
+    "longitude": -83.716308022435,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160045",
+    "businessName": "PARTY TIME DELI \u0026 SPIRITS",
+    "address": "3235 W Thompson Rd, Fenton, MI 48430-9616",
+    "city": "Fenton Twp",
+    "zipCode": "48430",
+    "latitude": 42.862924286837,
+    "longitude": -83.736978701133,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289524",
+    "businessName": "S\u0026G #117",
+    "address": "3238 W Thompson Rd, Fenton, MI 48430-9600",
+    "city": "Fenton Twp",
+    "zipCode": "48430",
+    "latitude": 42.863040244568,
+    "longitude": -83.737080623655,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274905",
+    "businessName": "SHORE DO",
+    "address": "13257 Jennings Rd, Linden, MI 48451-8473",
+    "city": "Fenton Twp",
+    "zipCode": "48451",
+    "latitude": 42.833937577591,
+    "longitude": -83.745708530485,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197074",
+    "businessName": "ALPINE MARKETPLACE",
+    "address": "604 W Broad St, Linden, MI 48451-8658",
+    "city": "Linden",
+    "zipCode": "48451",
+    "latitude": 42.812617213311,
+    "longitude": -83.790338985685,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197713",
+    "businessName": "CALABRIA PARTY STORE",
+    "address": "517 E Broad St, Linden, MI 48451-8914",
+    "city": "Linden",
+    "zipCode": "48451",
+    "latitude": 42.814937342614,
+    "longitude": -83.776762161434,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800211316",
+    "propertyName": "CHRISTIAN LIFE RETIREMENT CENTER IV",
+    "latitude": 42.3234219988841,
+    "longitude": -88.9966420004378,
+    "assistedUnits": 39,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800232154",
+    "propertyName": "COMMONWEALTH APARTMENTS",
+    "latitude": 42.323261998991576,
+    "longitude": -88.9885880002478,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800005792",
+    "propertyName": "GREENCASTLE  OF MULFORD",
+    "latitude": 42.300696999367936,
+    "longitude": -88.99941900020485,
+    "assistedUnits": 115,
+    "totalUnits": 116
+  }
+]

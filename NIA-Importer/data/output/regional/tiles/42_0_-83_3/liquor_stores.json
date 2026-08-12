@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "140408",
+    "businessName": "KROGER STORE #708",
+    "address": "20645 Gibraltar Rd, Brownstown Township, MI 48183-5087",
+    "city": "Brownstown Twp",
+    "zipCode": "48183",
+    "latitude": 42.095319580673,
+    "longitude": -83.236085696246,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287254",
+    "businessName": "PATIO LIQUOR STORE",
+    "address": "32234 W Jefferson Ave, Rockwood, MI 48173-9644",
+    "city": "Brownstown Twp",
+    "zipCode": "48173",
+    "latitude": 42.074025276638,
+    "longitude": -83.211123769789,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229832",
+    "businessName": "7-ELEVEN #34544-A",
+    "address": "22475 Huron River Dr, Rockwood, MI 48173-1123",
+    "city": "Rockwood",
+    "zipCode": "48173",
+    "latitude": 42.069357920683,
+    "longitude": -83.251296762571,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269435",
+    "businessName": "ROCKWOOD MARKETPLACE LIQUOR",
+    "address": "32825 Fort Rd, Rockwood, MI 48173-1157",
+    "city": "Rockwood",
+    "zipCode": "48173",
+    "latitude": 42.069277207474,
+    "longitude": -83.249017097627,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "158686",
+    "businessName": "HOLDEN\u0027S DIXIE PARTY STORE, INC.",
+    "address": "11995 Dixie Hwy, South Rockwood, MI 48179-9566",
+    "city": "South Rockwood",
+    "zipCode": "48179",
+    "latitude": 42.061262774677,
+    "longitude": -83.256592647526,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

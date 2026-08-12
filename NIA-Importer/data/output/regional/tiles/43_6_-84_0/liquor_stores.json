@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "0289198",
+    "businessName": "7-ELEVEN STORE #36913B",
+    "address": "3543 Old Kawkawlin Rd, Bay City, MI 48706-2040",
+    "city": "Bangor Twp",
+    "zipCode": "48706",
+    "latitude": 43.637269775859,
+    "longitude": -83.914000990804,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132497",
+    "businessName": "KROGER STORE #424",
+    "address": "945 N Euclid Ave, Bay City, MI 48706-2400",
+    "city": "Bangor Twp",
+    "zipCode": "48706",
+    "latitude": 43.61441954138,
+    "longitude": -83.91470406375,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9201",
+    "businessName": "BRISSETTE\u0027S 6 TWELVE",
+    "address": "717 N Henry St, Bay City, MI 48706-4749",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.607886195657,
+    "longitude": -83.900014055996,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "203755",
+    "businessName": "EUCLID PARTY STORE",
+    "address": "200 N Euclid Ave, Bay City, MI 48706-2942",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.602840685048,
+    "longitude": -83.915065815708,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238645",
+    "businessName": "OLD TOWN STORE, LLC",
+    "address": "204 S Henry St, Bay City, MI 48706-4713",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.60111660196,
+    "longitude": -83.900301822992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264903",
+    "businessName": "DOUBLE S PARTY STORE",
+    "address": "1459 \u0026 1461 S Huron Rd, Kawkawlin, MI 48631-9410",
+    "city": "Kawkawlin Twp",
+    "zipCode": "48631",
+    "latitude": 43.69702321772,
+    "longitude": -83.967651949006,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9172",
+    "businessName": "MEIJER #48",
+    "address": "2980 Wilder Rd, Bay City, MI 48706-9213",
+    "city": "Monitor Twp",
+    "zipCode": "48706",
+    "latitude": 43.623935168725,
+    "longitude": -83.93219713271,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274489",
+    "businessName": "TANIA RAJ, LLC",
+    "address": "105 W Grove St, Kawkawlin, MI 48631-2503",
+    "city": "Monitor Twp",
+    "zipCode": "48631",
+    "latitude": 43.651600270878,
+    "longitude": -83.945134575915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279386",
+    "businessName": "TOP GUN BEER WINE LIQUOR",
+    "address": "2981 Midland Rd, Bay City, MI 48706-9287",
+    "city": "Monitor Twp",
+    "zipCode": "48706",
+    "latitude": 43.602309574569,
+    "longitude": -83.933197440603,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270274",
+    "businessName": "WILDER PARTY STORE",
+    "address": "2951 Wilder Rd, Bay City, MI 48706-9213",
+    "city": "Monitor Twp",
+    "zipCode": "48706",
+    "latitude": 43.624053420684,
+    "longitude": -83.933315066721,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

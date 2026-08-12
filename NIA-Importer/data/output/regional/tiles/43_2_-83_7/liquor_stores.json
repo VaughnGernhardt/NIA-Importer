@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0272221",
+    "businessName": "SIMON\u0027S OUR FAMILY #4658",
+    "address": "7600 Birch Run Rd, Millington, MI 48746-9531",
+    "city": "Arbela Twp",
+    "zipCode": "48746",
+    "latitude": 43.251735811084,
+    "longitude": -83.606993772492,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275865",
+    "businessName": "COUNTY PARTY, INC.",
+    "address": "14483 N Bray Rd, Clio, MI 48420-7930",
+    "city": "Thetford Twp",
+    "zipCode": "48420",
+    "latitude": 43.220527959197,
+    "longitude": -83.660940596657,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

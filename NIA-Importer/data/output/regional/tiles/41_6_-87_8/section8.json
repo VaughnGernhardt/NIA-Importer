@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800006196",
+    "propertyName": "PARK LAWN HOMES, INC.",
+    "latitude": 41.66374299873412,
+    "longitude": -87.72871700011495,
+    "assistedUnits": 15,
+    "totalUnits": 15
+  },
+  {
+    "propertyId": "800246623",
+    "propertyName": "RICHARD FLOWERS",
+    "latitude": 41.63894499920089,
+    "longitude": -87.70534100026573,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800211364",
+    "propertyName": "ST PETER CLAVER SENIOR HOUSING",
+    "latitude": 41.63561099928137,
+    "longitude": -87.71031599966659,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800068324",
+    "propertyName": "SUN RISE/FAMILY SERVICE CENTERS",
+    "latitude": 41.624224999048955,
+    "longitude": -87.70169499993725,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  }
+]

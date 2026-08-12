@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "241924",
+    "businessName": "CASK \u0026 KEG",
+    "address": "24182 Red Arrow Hwy, Mattawan, MI 49071-9766",
+    "city": "Antwerp Twp",
+    "zipCode": "49071",
+    "latitude": 42.236966166854,
+    "longitude": -85.787508271286,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275895",
+    "businessName": "PORT OF CALL",
+    "address": "25142 Red Arrow Hwy, Mattawan, MI 49071-7755",
+    "city": "Antwerp Twp",
+    "zipCode": "49071",
+    "latitude": 42.235130672272,
+    "longitude": -85.796587937717,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140051",
+    "businessName": "WAGONER\u0027S - YOUR HOMETOWN FOOD STORE",
+    "address": "24064 W McGillen Ave, Mattawan, MI 49071-9303",
+    "city": "Mattawan",
+    "zipCode": "49071",
+    "latitude": 42.215325995926,
+    "longitude": -85.785907582105,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "198052",
+    "businessName": "DOUGHERTY\u0027S CORNER MARKET",
+    "address": "8441 W Main St, Kalamazoo, MI 49009-8236",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.29571836814,
+    "longitude": -85.715091986449,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277378",
+    "businessName": "EZ MART",
+    "address": "8469 Stadium Dr, Kalamazoo, MI 49009-9481",
+    "city": "Oshtemo Twp",
+    "zipCode": "49009",
+    "latitude": 42.251607360275,
+    "longitude": -85.715395350118,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

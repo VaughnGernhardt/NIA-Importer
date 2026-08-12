@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "136100",
+    "businessName": "IRONS E-Z MART",
+    "address": "5456 W 10 1/2 Mile Rd, Irons, MI 49644-9493",
+    "city": "Eden Twp",
+    "zipCode": "49644",
+    "latitude": 44.140411099536,
+    "longitude": -85.91223688465,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11434",
+    "businessName": "DUBLIN GENERAL STORE",
+    "address": "18382 Hoxeyville Rd, Wellston, MI 49689-9755",
+    "city": "Norman Twp",
+    "zipCode": "49689",
+    "latitude": 44.179472512839,
+    "longitude": -85.933821909533,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

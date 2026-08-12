@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0282739",
+    "businessName": "LARA\u0027S 2 GO",
+    "address": "1256 S Poseyville Rd, Midland, MI 48640-7616",
+    "city": "Midland Twp",
+    "zipCode": "48640",
+    "latitude": 43.575972595855,
+    "longitude": -84.247832480612,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283347",
+    "businessName": "LODGE LIQUOR",
+    "address": "742 S Poseyville Rd, Midland, MI 48640-8911",
+    "city": "Midland Twp",
+    "zipCode": "48640",
+    "latitude": 43.590568242013,
+    "longitude": -84.247737318686,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

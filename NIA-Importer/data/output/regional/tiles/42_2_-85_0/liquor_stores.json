@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "227664",
+    "businessName": "WRIGHT\u0027S CORNER",
+    "address": "9016 17 Mile Rd, Marshall, MI 49068",
+    "city": "Fredonia Twp",
+    "zipCode": "49068",
+    "latitude": 42.203439357307,
+    "longitude": -84.962631089236,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279401",
+    "businessName": "JH LIQUOR INC",
+    "address": "908 E Michigan Ave, Marshall, MI 49068-2032",
+    "city": "Marengo Twp",
+    "zipCode": "49068",
+    "latitude": 42.27415201774,
+    "longitude": -84.942552588035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193266",
+    "businessName": "FAMILY FARE #1995",
+    "address": "15900 W Michigan Ave, Marshall, MI 49068-8541",
+    "city": "Marshall",
+    "zipCode": "49068",
+    "latitude": 42.271357715034,
+    "longitude": -84.985245399363,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

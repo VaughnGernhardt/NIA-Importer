@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "199513",
+    "businessName": "DEERFIELD BP",
+    "address": "185 Carey St, Deerfield, MI 49238-9701",
+    "city": "Deerfield",
+    "zipCode": "49238",
+    "latitude": 41.889791065086,
+    "longitude": -83.779201127638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "210018",
+    "businessName": "LIGHTNING QUICK GAS \u0026 GO",
+    "address": "640 Saline St, Petersburg, MI 49270-9301",
+    "city": "Petersburg",
+    "zipCode": "49270",
+    "latitude": 41.8957212164,
+    "longitude": -83.71436019475,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "190196",
+    "businessName": "PIROLLI PARK AND PARTY STORE",
+    "address": "6030 Sylvania Petersburg Rd, Petersburg, MI 49270-9337",
+    "city": "Summerfield Twp",
+    "zipCode": "49270",
+    "latitude": 41.861838958636,
+    "longitude": -83.709494254286,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

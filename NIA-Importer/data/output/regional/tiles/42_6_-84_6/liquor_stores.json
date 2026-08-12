@@ -1,0 +1,252 @@
+[
+  {
+    "businessId": "229712",
+    "businessName": "DE ROSAS PARTY STORE",
+    "address": "1961 Cedar St, Holt, MI 48842-1805",
+    "city": "Delhi Twp",
+    "zipCode": "48842",
+    "latitude": 42.638995200883,
+    "longitude": -84.513961306339,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15640",
+    "businessName": "KROGER STORE #887",
+    "address": "2495 Cedar St, Holt, MI 48842-7400",
+    "city": "Delhi Twp",
+    "zipCode": "48842",
+    "latitude": 42.654255392817,
+    "longitude": -84.532194624379,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231192",
+    "businessName": "RICH\u0027S COUNTRY STORE",
+    "address": "6237 Bishop Rd, Lansing, MI 48911-6208",
+    "city": "Delhi Twp",
+    "zipCode": "48911",
+    "latitude": 42.661937963699,
+    "longitude": -84.593263749279,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275511",
+    "businessName": "ROYAL WINE \u0026 SPIRITS",
+    "address": "2005 Eifert Rd, Holt, MI 48842-1021",
+    "city": "Delhi Twp",
+    "zipCode": "48842",
+    "latitude": 42.640526587304,
+    "longitude": -84.543118217311,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287367",
+    "businessName": "ADVANCED UZP INC.",
+    "address": "4700 Pleasant Grove Rd, Lansing, MI 48910-5037",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.686647102932,
+    "longitude": -84.582438279666,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287627",
+    "businessName": "CAPITOL PARTY STORE",
+    "address": "3330 S Cedar St, Lansing, MI 48910-3436",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.698276924142,
+    "longitude": -84.548115737747,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10683",
+    "businessName": "KROGER STORE #884",
+    "address": "921 W Holmes Rd, Lansing, MI 48910-0439",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.697475741603,
+    "longitude": -84.564726031638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "267606",
+    "businessName": "LANSING GAS STATION",
+    "address": "4600 S Cedar St, Lansing, MI 48910-5468",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.687475205955,
+    "longitude": -84.548116930915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264790",
+    "businessName": "LIQUOR KING",
+    "address": "4405 S Martin Luther King Jr Blvd, Lansing, MI 48910-5265",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.689406146335,
+    "longitude": -84.567496127486,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279772",
+    "businessName": "LM BROS. #4, INC.",
+    "address": "7045 S Cedar St, Lansing, MI 48911",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.657270566757,
+    "longitude": -84.535380873079,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275691",
+    "businessName": "MARIO\u0027S MARKET",
+    "address": "6200 S Martin Luther King Jr Blvd, Lansing, MI 48911-5401",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.668901074986,
+    "longitude": -84.584328279618,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273137",
+    "businessName": "MEENU 95 LLC",
+    "address": "6065 S Washington Ave, Lansing, MI 48911-4910",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.670120242216,
+    "longitude": -84.562859665793,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242390",
+    "businessName": "MEGA-BEV CEDAR STREET, LLC",
+    "address": "3630 S Cedar St, Lansing, MI 48910-4610",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.69525505992,
+    "longitude": -84.548150768964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9150",
+    "businessName": "MEIJER #324",
+    "address": "6200 S Pennsylvania Ave, Lansing, MI 48911-5719",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.668548721856,
+    "longitude": -84.538256522815,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11607",
+    "businessName": "QUALITY DAIRY",
+    "address": "917 E Cavanaugh Rd, Lansing, MI 48910-5623",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.690226134598,
+    "longitude": -84.538981834351,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11736",
+    "businessName": "QUALITY DAIRY",
+    "address": "720 W Jolly Rd, Lansing, MI 48910-6695",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.683103336536,
+    "longitude": -84.562010925374,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15408",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "5010 Dunckel Rd, Lansing, MI 48910-5895",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.683614349331,
+    "longitude": -84.513505833856,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16121",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "2121 W Holmes Rd, Lansing, MI 48910-3393",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.697512127464,
+    "longitude": -84.580647458478,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269704",
+    "businessName": "QUICKY 2",
+    "address": "4013 Aurelius Rd, Lansing, MI 48910-4812",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.692155712535,
+    "longitude": -84.52332571847,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244089",
+    "businessName": "ROYAL LIQUOR",
+    "address": "3325 S Martin Luther King Jr Blvd, Lansing, MI 48910-5930",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.698458351224,
+    "longitude": -84.567253962143,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268953",
+    "businessName": "RURAL, INC.",
+    "address": "6030 S PENNSYLVANIA AVE, LANSING, MI 48911-0215",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.669998542868,
+    "longitude": -84.538260065871,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271240",
+    "businessName": "SSM 1989 INC.",
+    "address": "5008 S MARTIN LUTHER KING JR BLVD, LANSING, MI 48910",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.684823485852,
+    "longitude": -84.567765532047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263127",
+    "businessName": "ST. IDES VILLAGE FOOD MARKET",
+    "address": "2110 W Jolly Rd, Lansing, MI 48910-5190",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.683129839232,
+    "longitude": -84.581475128807,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134117",
+    "businessName": "TONY\u0027S PARTY STORE",
+    "address": "6100 S Cedar St, Lansing, MI 48911-5750",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.669214891308,
+    "longitude": -84.544105137668,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275786",
+    "businessName": "VON\u0027S FOOD MARKET",
+    "address": "3434 PLEASANT GROVE RD, LANSING, MI 48910",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.697461664281,
+    "longitude": -84.582295830357,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

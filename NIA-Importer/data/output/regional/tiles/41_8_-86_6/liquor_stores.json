@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "172792",
+    "businessName": "SAWYER GARDEN CENTER",
+    "address": "5865 Sawyer Rd, Sawyer, MI 49125-9380",
+    "city": "Chikaming Twp",
+    "zipCode": "49125",
+    "latitude": 41.885547943267,
+    "longitude": -86.593956154291,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280224",
+    "businessName": "MOLLY\u0027S CORNER STORE",
+    "address": "13451 California Rd, New Troy, MI 49119-5115",
+    "city": "Weesaw Twp",
+    "zipCode": "49119",
+    "latitude": 41.875420038141,
+    "longitude": -86.550023668593,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800022995",
+    "propertyName": "EVERGREEN SQUARE I, II, \u0026 III",
+    "latitude": 42.987288999218805,
+    "longitude": -88.00940200035471,
+    "assistedUnits": 234,
+    "totalUnits": 237
+  },
+  {
+    "propertyId": "800022998",
+    "propertyName": "EVERGREEN SQUARE IV",
+    "latitude": 42.987330999163994,
+    "longitude": -88.0094009996315,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023017",
+    "propertyName": "FOREST ACRES",
+    "latitude": 42.94334299898261,
+    "longitude": -88.03868999993833,
+    "assistedUnits": 55,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800023074",
+    "propertyName": "HERITAGE HOUSE",
+    "latitude": 42.99525199899733,
+    "longitude": -88.0558319998379,
+    "assistedUnits": 142,
+    "totalUnits": 142
+  },
+  {
+    "propertyId": "800023078",
+    "propertyName": "LSS MANOR, INC.-NEW BERLIN",
+    "latitude": 42.98711399880988,
+    "longitude": -88.08199100020028,
+    "assistedUnits": 47,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800023225",
+    "propertyName": "OAK WEST APARTMENTS",
+    "latitude": 42.988321998977455,
+    "longitude": -88.0510299997911,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800023309",
+    "propertyName": "RIDGEDALE APARTMENTS",
+    "latitude": 42.94504899904505,
+    "longitude": -88.01001499992483,
+    "assistedUnits": 220,
+    "totalUnits": 220
+  },
+  {
+    "propertyId": "800023392",
+    "propertyName": "SUNRISE APARTMENTS",
+    "latitude": 42.98845399930637,
+    "longitude": -88.02259900017508,
+    "assistedUnits": 172,
+    "totalUnits": 176
+  },
+  {
+    "propertyId": "800023510",
+    "propertyName": "WINDSONG VILLAGE",
+    "latitude": 42.988314998772864,
+    "longitude": -88.05003599955619,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  }
+]

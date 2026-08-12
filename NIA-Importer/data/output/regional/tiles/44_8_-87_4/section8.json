@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023232",
+    "propertyName": "ORCHARD VALLEY",
+    "latitude": 44.85062699886106,
+    "longitude": -87.36441799990385,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800023403",
+    "propertyName": "SUNSET VIEW",
+    "latitude": 44.84419099893163,
+    "longitude": -87.37445999966538,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "propertyId": "800252031",
+    "propertyName": "Apple Ridge Apartments",
+    "latitude": 42.26878599918731,
+    "longitude": -85.56856599972492,
+    "assistedUnits": 7,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800010679",
+    "propertyName": "CITY VIEW IN THE SQUARE",
+    "latitude": 42.279698999144145,
+    "longitude": -85.57188300016544,
+    "assistedUnits": 216,
+    "totalUnits": 216
+  },
+  {
+    "propertyId": "800010046",
+    "propertyName": "CROSSTOWN PARKWAY APARTMENTS",
+    "latitude": 42.275081999222785,
+    "longitude": -85.59172499983917,
+    "assistedUnits": 177,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800225136",
+    "propertyName": "GLADYS STREET APARTMENTS",
+    "latitude": 42.223884999387806,
+    "longitude": -85.58464899999056,
+    "assistedUnits": 10,
+    "totalUnits": 11
+  },
+  {
+    "propertyId": "800010249",
+    "propertyName": "KALAMAZOO MR II",
+    "latitude": 42.2584959990394,
+    "longitude": -85.5516599998269,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800255659",
+    "propertyName": "LODGE HOUSE",
+    "latitude": 42.279619999119795,
+    "longitude": -85.58936499982366,
+    "assistedUnits": 35,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800061679",
+    "propertyName": "MILHAM PARKSIDE APTS",
+    "latitude": 42.25425199900612,
+    "longitude": -85.5798150001567,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800010512",
+    "propertyName": "RIVERVIEW CO-OP I",
+    "latitude": 42.29898799893683,
+    "longitude": -85.56756499981731,
+    "assistedUnits": 88,
+    "totalUnits": 118
+  },
+  {
+    "propertyId": "800010561",
+    "propertyName": "SKYRISE",
+    "latitude": 42.28632999895664,
+    "longitude": -85.58268200033544,
+    "assistedUnits": 204,
+    "totalUnits": 204
+  },
+  {
+    "propertyId": "800249572",
+    "propertyName": "Selinon Park",
+    "latitude": 42.20115699928221,
+    "longitude": -85.57081600013558,
+    "assistedUnits": 13,
+    "totalUnits": 63
+  }
+]

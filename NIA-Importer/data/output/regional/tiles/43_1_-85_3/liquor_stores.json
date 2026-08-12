@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0287552",
+    "businessName": "FLAT RIVER SPIRITS",
+    "address": "111 W Washington St, Greenville, MI 48838-1939",
+    "city": "Greenville",
+    "zipCode": "48838",
+    "latitude": 43.17736375889,
+    "longitude": -85.253392471217,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259158",
+    "businessName": "HANDY MARKET",
+    "address": "813 S Lafayette St, Greenville, MI 48838-2319",
+    "city": "Greenville",
+    "zipCode": "48838",
+    "latitude": 43.173534506307,
+    "longitude": -85.253236122687,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280160",
+    "businessName": "NUVUFUELS MICHIGAN, LLC",
+    "address": "1122 W Washington St, Greenville, MI 48838-2169",
+    "city": "Greenville",
+    "zipCode": "48838",
+    "latitude": 43.177360090426,
+    "longitude": -85.26965862853,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159512",
+    "businessName": "WAL-MART SUPERCENTER #3328",
+    "address": "10772 W Carson City Rd, Greenville, MI 48838-9141",
+    "city": "Greenville",
+    "zipCode": "48838",
+    "latitude": 43.177138673817,
+    "longitude": -85.28871620536,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14315",
+    "businessName": "WESCO #45",
+    "address": "128 W Washington St, Greenville, MI 48838-1940",
+    "city": "Greenville",
+    "zipCode": "48838",
+    "latitude": 43.177479842853,
+    "longitude": -85.253665772227,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0260161",
+    "businessName": "JB LIQUOR AND GROCERY, INC.",
+    "address": "68150 County Road 388, South Haven, MI 49090-9327",
+    "city": "",
+    "zipCode": "49090",
+    "latitude": 42.403936273573,
+    "longitude": -86.208730284151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235682",
+    "businessName": "NORTH SIDE MEMORIES",
+    "address": "112 Dyckman Ave, South Haven, MI 49090-1005",
+    "city": "South Haven",
+    "zipCode": "49090",
+    "latitude": 42.407879584462,
+    "longitude": -86.277693114143,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "267878",
+    "businessName": "RJC DEPOT, LLC",
+    "address": "555 Dyckman Ave, South Haven, MI 49090-1594",
+    "city": "South Haven",
+    "zipCode": "49090",
+    "latitude": 42.406306877791,
+    "longitude": -86.271570503018,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230418",
+    "businessName": "MEIJER STORE #271",
+    "address": "1223 Phoenix St, South Haven, MI 49090-7911",
+    "city": "South Haven Twp",
+    "zipCode": "49090",
+    "latitude": 42.403540276237,
+    "longitude": -86.256218660727,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "226525",
+    "businessName": "PARKDALE EZ MART",
+    "address": "1021 E Parkdale Ave, Manistee, MI 49660-9312",
+    "city": "Manistee Twp",
+    "zipCode": "49660",
+    "latitude": 44.270716567331,
+    "longitude": -86.283067966416,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263369",
+    "businessName": "QUENCHER\u0027S CORNER",
+    "address": "2377 Water St, Manistee, MI 49660-9409",
+    "city": "Stronach Twp",
+    "zipCode": "49660",
+    "latitude": 44.213603701767,
+    "longitude": -86.275409954769,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

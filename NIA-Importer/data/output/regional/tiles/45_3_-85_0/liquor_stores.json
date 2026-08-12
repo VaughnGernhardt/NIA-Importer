@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "148087",
+    "businessName": "THE LITTLE TRAVERSE BAY BANDS OF ODAWA INDIANS",
+    "address": "2169 N US Highway 31, Petoskey, MI 49770-9368",
+    "city": "Bear Creek Twp",
+    "zipCode": "49770",
+    "latitude": 45.384569816628,
+    "longitude": -84.940395243778,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142741",
+    "businessName": "WAL-MART SUPERCENTER #2417",
+    "address": "1850 Anderson Rd, Petoskey, MI 49770-8893",
+    "city": "Bear Creek Twp",
+    "zipCode": "49770",
+    "latitude": 45.35956609079,
+    "longitude": -84.970910117737,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142575",
+    "businessName": "SYMONS GENERAL STORE/CASK 401",
+    "address": "401 E Lake St, Petoskey, MI 49770-2419",
+    "city": "Petoskey",
+    "zipCode": "49770",
+    "latitude": 45.375014423335,
+    "longitude": -84.955532825614,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9135",
+    "businessName": "THE CORNER GROCER",
+    "address": "1045 Kalamazoo Ave, Petoskey, MI 49770-3220",
+    "city": "Petoskey",
+    "zipCode": "49770",
+    "latitude": 45.366943435667,
+    "longitude": -84.945276446919,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239240",
+    "businessName": "TOM AND DICK\u0027S",
+    "address": "921 Emmet St, Petoskey, MI 49770-2927",
+    "city": "Petoskey",
+    "zipCode": "49770",
+    "latitude": 45.368681632644,
+    "longitude": -84.958757330145,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10178",
+    "businessName": "WESTSIDE MARKET",
+    "address": "523 Charlevoix Ave, Petoskey, MI 49770-2205",
+    "city": "Petoskey",
+    "zipCode": "49770",
+    "latitude": 45.370124262829,
+    "longitude": -84.967692361703,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

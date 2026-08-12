@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0262595",
+    "businessName": "DOUG\u0027S PARTY STORE",
+    "address": "6721 Whiteford Center Rd, Lambertville, MI 48144-9731",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.737725251886,
+    "longitude": -83.6422718696,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289249",
+    "businessName": "ETHREES PROPERTIES LLC",
+    "address": "3320 Sterns Rd, Lambertville, MI 48144-9738",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.74912623546,
+    "longitude": -83.626103897245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262926",
+    "businessName": "INDEPENDENT DAIRY",
+    "address": "8021 Secor Rd, Lambertville, MI 48144-8673",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.759950110626,
+    "longitude": -83.6261694767,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140736",
+    "businessName": "KROGER STORE #864",
+    "address": "3462 Sterns Rd, Lambertville, MI 48144-9576",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.749090754851,
+    "longitude": -83.628796885342,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245774",
+    "businessName": "LIQUOR CABINET",
+    "address": "7375 Secor Rd, Lambertville, MI 48144-9737",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.748488164732,
+    "longitude": -83.625690068337,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274736",
+    "businessName": "TONY\u0027S COUNTRY STORE",
+    "address": "8503 Secor Rd, Lambertville, MI 48144-9333",
+    "city": "Bedford Twp",
+    "zipCode": "48144",
+    "latitude": 41.770177478083,
+    "longitude": -83.626576241281,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262255",
+    "businessName": "LIGHTENING QUICK GAS-N-GO #16",
+    "address": "6050 US 223, OTTAWA LAKE, MI 49267",
+    "city": "Whiteford Twp",
+    "zipCode": "49267",
+    "latitude": 41.798032774424,
+    "longitude": -83.692763515643,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "236588",
+    "businessName": "CORK AND BOTTLE LIQUOR",
+    "address": "324 S Cochran Ave, Charlotte, MI 48813-1511",
+    "city": "Charlotte",
+    "zipCode": "48813",
+    "latitude": 42.559935442784,
+    "longitude": -84.83594011577,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214284",
+    "businessName": "CVS/PHARMACY #8087",
+    "address": "301 S Cochran Ave, Charlotte, MI 48813-1518",
+    "city": "Charlotte",
+    "zipCode": "48813",
+    "latitude": 42.566620335008,
+    "longitude": -84.83599859131,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275544",
+    "businessName": "KULBIR INC.",
+    "address": "311 Lansing St, Charlotte, MI 48813-1685",
+    "city": "Charlotte",
+    "zipCode": "48813",
+    "latitude": 42.568137801786,
+    "longitude": -84.82758818653,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131729",
+    "businessName": "MEIJER #194",
+    "address": "1167 E Clinton Trl, Charlotte, MI 48813-7318",
+    "city": "Charlotte",
+    "zipCode": "48813",
+    "latitude": 42.553118190594,
+    "longitude": -84.814064169436,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141663",
+    "businessName": "WAL-MART SUPERCENTER #1642",
+    "address": "1680 Packard Hwy, Charlotte, MI 48813-9717",
+    "city": "Charlotte",
+    "zipCode": "48813",
+    "latitude": 42.581998602266,
+    "longitude": -84.803560729455,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202574",
+    "businessName": "ONE STOP PARTY SHOP",
+    "address": "1671 Lansing Rd, Charlotte, MI 48813-8442",
+    "city": "Eaton Twp",
+    "zipCode": "48813",
+    "latitude": 42.585010976278,
+    "longitude": -84.803783653642,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

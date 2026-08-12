@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0272272",
+    "businessName": "EXPRESS STOP #4692",
+    "address": "6989 Marsh Rd, Shelbyville, MI 49344-9642",
+    "city": "Orangeville Twp",
+    "zipCode": "49344",
+    "latitude": 42.552278108449,
+    "longitude": -85.518929503001,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237278",
+    "businessName": "RJ GAS AND FOOD, INC.",
+    "address": "11937 Marsh Rd, Shelbyville, MI 49344-9407",
+    "city": "Orangeville Twp",
+    "zipCode": "49344",
+    "latitude": 42.587139429787,
+    "longitude": -85.521956187255,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

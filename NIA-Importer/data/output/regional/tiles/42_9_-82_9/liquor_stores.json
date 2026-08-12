@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0285169",
+    "businessName": "BERVILLE COUNTRY MARKET",
+    "address": "495 North Ave, Allenton, MI 48002-4521",
+    "city": "Berlin Twp",
+    "zipCode": "48002",
+    "latitude": 42.909731023968,
+    "longitude": -82.883412438644,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133778",
+    "businessName": "LIFE OF RILEY",
+    "address": "1539 Riley Center Rd, Memphis, MI 48041-2313",
+    "city": "Riley Twp",
+    "zipCode": "48041",
+    "latitude": 42.940487388765,
+    "longitude": -82.841767880636,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

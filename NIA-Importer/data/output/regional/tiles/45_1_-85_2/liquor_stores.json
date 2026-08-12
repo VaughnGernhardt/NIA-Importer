@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0260676",
+    "businessName": "EAST JORDAN SOUTH ARM",
+    "address": "530 Maple St, East Jordan, MI 49727-9778",
+    "city": "Charlevoix",
+    "zipCode": "49727",
+    "latitude": 45.149568962272,
+    "longitude": -85.119228809214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17193",
+    "businessName": "EAST JORDAN E-Z MART",
+    "address": "651 Water St, East Jordan, MI 49727-8696",
+    "city": "East Jordan",
+    "zipCode": "49727",
+    "latitude": 45.154050166093,
+    "longitude": -85.139444728059,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141952",
+    "businessName": "GLEN\u0027S MARKETS #1514",
+    "address": "240 S Lake St, East Jordan, MI 49727-9376",
+    "city": "East Jordan",
+    "zipCode": "49727",
+    "latitude": 45.15076019939,
+    "longitude": -85.139940624427,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

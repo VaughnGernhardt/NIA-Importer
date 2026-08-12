@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "233953",
+    "businessName": "BP GAS",
+    "address": "8203 Lewis Ave, Temperance, MI 48182-3215",
+    "city": "Bedford Twp",
+    "zipCode": "48182",
+    "latitude": 41.76501379785,
+    "longitude": -83.568303640662,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270471",
+    "businessName": "COX\u0027S LIQUOR",
+    "address": "6201 Lewis Ave, Temperance, MI 48182-1012",
+    "city": "Bedford Twp",
+    "zipCode": "48182",
+    "latitude": 41.729753967437,
+    "longitude": -83.566945942396,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288523",
+    "businessName": "ELLAS LIQUOR \u0026 GROCERY STORE",
+    "address": "6517 TELEGRAPH RD, ERIE, MI 48133",
+    "city": "Bedford Twp",
+    "zipCode": "48133",
+    "latitude": 41.735425310871,
+    "longitude": -83.5479374844,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227905",
+    "businessName": "LIQUOR CABINET",
+    "address": "7370 Lewis Ave, Temperance, MI 48182-1208",
+    "city": "Bedford Twp",
+    "zipCode": "48182",
+    "latitude": 41.74939375298,
+    "longitude": -83.567659861053,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234462",
+    "businessName": "TEMPERANCE FUEL STOP BEER \u0026 WINE",
+    "address": "9010 Lewis Ave, Temperance, MI 48182-1608",
+    "city": "Bedford Twp",
+    "zipCode": "48182",
+    "latitude": 41.77957013057,
+    "longitude": -83.568786242907,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

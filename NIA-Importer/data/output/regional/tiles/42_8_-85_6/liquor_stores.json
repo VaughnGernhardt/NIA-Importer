@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "246307",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "4919 Town Center Ct SE, Grand Rapids, MI 49512-9669",
+    "city": "Cascade Twp",
+    "zipCode": "49512",
+    "latitude": 42.85958904199,
+    "longitude": -85.54542239316,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268115",
+    "businessName": "DUTTON BP, LLC",
+    "address": "3495 68th St SE, Caledonia, MI 49316-8911",
+    "city": "Gaines Twp",
+    "zipCode": "49316",
+    "latitude": 42.84116481449,
+    "longitude": -85.578054151773,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220824",
+    "businessName": "DUTTON LIQUOR",
+    "address": "3555 68th St SE, Caledonia, MI 49316",
+    "city": "Gaines Twp",
+    "zipCode": "49316",
+    "latitude": 42.841158428004,
+    "longitude": -85.576623596461,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269356",
+    "businessName": "BAILEY\u0027S GROVE BEVERAGES",
+    "address": "3864 \u0026 3866 52nd St SE, Kentwood, MI 49512",
+    "city": "Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.868965937769,
+    "longitude": -85.569882674899,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

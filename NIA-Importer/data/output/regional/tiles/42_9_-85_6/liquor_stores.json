@@ -1,0 +1,142 @@
+[
+  {
+    "businessId": "155922",
+    "businessName": "COSTCO WHOLESALE #784",
+    "address": "5100 28th St, Grand Rapids, MI 49508",
+    "city": "Cascade Twp",
+    "zipCode": "49508",
+    "latitude": 42.912623684794,
+    "longitude": -85.54297238834,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166590",
+    "businessName": "D \u0026 W #1573",
+    "address": "6425 28th St SE, Grand Rapids, MI 49506",
+    "city": "Cascade Twp",
+    "zipCode": "49506",
+    "latitude": 42.913186746494,
+    "longitude": -85.509020162169,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9374",
+    "businessName": "MEIJER #50",
+    "address": "5531 28th St SE, Grand Rapids, MI 49508",
+    "city": "Cascade Twp",
+    "zipCode": "49508",
+    "latitude": 42.912999481452,
+    "longitude": -85.531040490567,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267545",
+    "businessName": "TOTAL WINE \u0026 MORE",
+    "address": "4923 28th St SE, Grand Rapids, MI 49512-2046",
+    "city": "Cascade Twp",
+    "zipCode": "49512",
+    "latitude": 42.912671893578,
+    "longitude": -85.546009542017,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201936",
+    "businessName": "WAL-MART SUPERCENTER #2493",
+    "address": "5859 28th St SE, Grand Rapids, MI 49546",
+    "city": "Cascade Twp",
+    "zipCode": "49546",
+    "latitude": 42.913111165579,
+    "longitude": -85.524778651077,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229904",
+    "businessName": "INTERNATIONAL BEVERAGE COMPANY, LLC",
+    "address": "3835 28th St SE, Grand Rapids, MI 49512",
+    "city": "Grand Rapids",
+    "zipCode": "49512",
+    "latitude": 42.91258725047,
+    "longitude": -85.572721406652,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265831",
+    "businessName": "MEGA-BEV GR",
+    "address": "2770 29th St SE, Grand Rapids, MI 49512-1719",
+    "city": "Grand Rapids",
+    "zipCode": "49512",
+    "latitude": 42.910089562379,
+    "longitude": -85.598695640245,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11171",
+    "businessName": "MEIJER #158",
+    "address": "1997 E Beltline Ave NE, Grand Rapids, MI 49525-4545",
+    "city": "Grand Rapids",
+    "zipCode": "49525",
+    "latitude": 42.998682723258,
+    "longitude": -85.590560919187,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230351",
+    "businessName": "FOREST HILLS FOODS #1400",
+    "address": "4668 Cascade Rd SE, Grand Rapids, MI 49546-3718",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49546",
+    "latitude": 42.945945524827,
+    "longitude": -85.553760961825,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282683",
+    "businessName": "JJ GHOTRA INC",
+    "address": "4591 Cascade Rd SE, Grand Rapids, MI 49546-3634",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49546",
+    "latitude": 42.946154080301,
+    "longitude": -85.556053840571,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206476",
+    "businessName": "THE CRUSHED GRAPE",
+    "address": "2869 Knapp St NE, Grand Rapids, MI 49525-5809",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49525",
+    "latitude": 42.998872138654,
+    "longitude": -85.598056914479,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286283",
+    "businessName": "JAID LIQUOR STORE #2, LLC",
+    "address": "2882 SHAFFER AVE SE, KENTWOOD, MI 49512",
+    "city": "Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.910820904478,
+    "longitude": -85.588214622527,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "268282",
+    "businessName": "PARIS SPIRITS \u0026 WINE",
+    "address": "2871 East Paris Ave SE, Kentwood, MI 49512-1945",
+    "city": "Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.911181106033,
+    "longitude": -85.568655479076,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235679",
+    "businessName": "SAM\u0027S CLUB #6319",
+    "address": "4326 28th St SE, Kentwood, MI 49512",
+    "city": "Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.912495678156,
+    "longitude": -85.560438943443,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

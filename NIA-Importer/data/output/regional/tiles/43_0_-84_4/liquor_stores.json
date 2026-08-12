@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0258825",
+    "businessName": "ELSIE MARKET",
+    "address": "109 E Main St, Elsie, MI 48831-5113",
+    "city": "Elsie",
+    "zipCode": "48831",
+    "latitude": 43.088755057949,
+    "longitude": -84.386925906708,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240793",
+    "businessName": "BUK\u0027S PARTY STORE",
+    "address": "106 N Main St, Ovid, MI 48866-5104",
+    "city": "Ovid",
+    "zipCode": "48866",
+    "latitude": 43.005527676528,
+    "longitude": -84.371628735671,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11715",
+    "businessName": "HANSEN\u0027S QUICK STOP",
+    "address": "8998 E M 21, Ovid, MI 48866-9542",
+    "city": "Ovid",
+    "zipCode": "48866",
+    "latitude": 43.001347241541,
+    "longitude": -84.386432769012,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

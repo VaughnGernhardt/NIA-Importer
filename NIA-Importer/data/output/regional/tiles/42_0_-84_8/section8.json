@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010133",
+    "propertyName": "FRIENDSHIP VILLAGE",
+    "latitude": 42.050110998963234,
+    "longitude": -84.76956199992065,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800061512",
+    "propertyName": "RIVERSIDE APARTMENTS",
+    "latitude": 42.050110998963234,
+    "longitude": -84.76956199992065,
+    "assistedUnits": 9,
+    "totalUnits": 48
+  }
+]

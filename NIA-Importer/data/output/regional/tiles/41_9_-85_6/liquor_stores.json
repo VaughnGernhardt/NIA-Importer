@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "9358",
+    "businessName": "CENTREVILLE SHELL #1090",
+    "address": "201 E Main St, Centreville, MI 49032-9624",
+    "city": "Centreville",
+    "zipCode": "49032",
+    "latitude": 41.9237242135,
+    "longitude": -85.525128085023,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286739",
+    "businessName": "SUNNY BEV",
+    "address": "678 E Main St, Centreville, MI 49032-9301",
+    "city": "Centreville",
+    "zipCode": "49032",
+    "latitude": 41.921587011605,
+    "longitude": -85.511098694077,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

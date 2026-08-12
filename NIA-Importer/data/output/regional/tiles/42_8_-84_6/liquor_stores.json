@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0260734",
+    "businessName": "DEWITT PARTY STORE",
+    "address": "129 S Bridge St, Dewitt, MI 48820-9418",
+    "city": "De Witt",
+    "zipCode": "48820",
+    "latitude": 42.841942536908,
+    "longitude": -84.569035116186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "181852",
+    "businessName": "MEIJER #209",
+    "address": "12821 Cross Over Dr, Dewitt, MI 48820-7993",
+    "city": "De Witt Twp",
+    "zipCode": "48820",
+    "latitude": 42.830025734195,
+    "longitude": -84.540248121354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238826",
+    "businessName": "WALGREEN PHARMACY",
+    "address": "13020 S US Highway 27, Dewitt, MI 48820-9325",
+    "city": "De Witt Twp",
+    "zipCode": "48820",
+    "latitude": 42.827434451392,
+    "longitude": -84.543011990385,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

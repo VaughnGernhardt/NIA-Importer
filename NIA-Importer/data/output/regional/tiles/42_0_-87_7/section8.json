@@ -1,0 +1,130 @@
+[
+  {
+    "propertyId": "800005786",
+    "propertyName": "CHASE STREET APTS",
+    "latitude": 42.01379199929503,
+    "longitude": -87.66633700043552,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800005800",
+    "propertyName": "CLARK STREET APARTMENTS",
+    "latitude": 42.002100998957026,
+    "longitude": -87.67222700042859,
+    "assistedUnits": 23,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800247724",
+    "propertyName": "Claridge Apartments",
+    "latitude": 42.04130099881006,
+    "longitude": -87.67593399995812,
+    "assistedUnits": 5,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800005851",
+    "propertyName": "DAMEN CENTER APARTMENTS",
+    "latitude": 42.00084599873618,
+    "longitude": -87.68044300010197,
+    "assistedUnits": 21,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800005868",
+    "propertyName": "EBENEZER PRIMM TOWERS",
+    "latitude": 42.052280999372336,
+    "longitude": -87.68478300019142,
+    "assistedUnits": 101,
+    "totalUnits": 107
+  },
+  {
+    "propertyId": "800005891",
+    "propertyName": "ESTES PAULINA APARTMENTS",
+    "latitude": 42.0108739992372,
+    "longitude": -87.67252399963118,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800005892",
+    "propertyName": "EVANSTON APARTMENTS",
+    "latitude": 42.020190999101175,
+    "longitude": -87.6840140000874,
+    "assistedUnits": 21,
+    "totalUnits": 21
+  },
+  {
+    "propertyId": "800241804",
+    "propertyName": "EVANSTON SENIOR REDEVELOPMENT",
+    "latitude": 42.0524679988435,
+    "longitude": -87.6820010004015,
+    "assistedUnits": 199,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800245183",
+    "propertyName": "Emerson Square",
+    "latitude": 42.05376099873863,
+    "longitude": -87.69336899976068,
+    "assistedUnits": 4,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800005902",
+    "propertyName": "FARWELL-JARVIS APTS",
+    "latitude": 42.015956999050594,
+    "longitude": -87.6658570000365,
+    "assistedUnits": 84,
+    "totalUnits": 85
+  },
+  {
+    "propertyId": "800067903",
+    "propertyName": "JACOB BLAKE MANOR",
+    "latitude": 42.05231899937011,
+    "longitude": -87.69468199983783,
+    "assistedUnits": 75,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800219171",
+    "propertyName": "MORNINGSIDE COURTS",
+    "latitude": 42.00813799904128,
+    "longitude": -87.66389600022914,
+    "assistedUnits": 171,
+    "totalUnits": 171
+  },
+  {
+    "propertyId": "800006173",
+    "propertyName": "NORTHPOINT",
+    "latitude": 42.02120699907146,
+    "longitude": -87.67331500037483,
+    "assistedUnits": 304,
+    "totalUnits": 304
+  },
+  {
+    "propertyId": "800006185",
+    "propertyName": "OAK TREE VILLAGE",
+    "latitude": 42.054083998806156,
+    "longitude": -87.69340899994364,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800006329",
+    "propertyName": "SHORE LINE PLACE",
+    "latitude": 42.07391699917581,
+    "longitude": -87.68992300034702,
+    "assistedUnits": 43,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800006386",
+    "propertyName": "THE CENTER APARTMENTS",
+    "latitude": 42.0187479989004,
+    "longitude": -87.68278100037618,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "16877",
+    "businessName": "ALCONA CANOE RENTAL",
+    "address": "6351 Bamfield Rd, Glennie, MI 48737-9595",
+    "city": "Curtis Twp",
+    "zipCode": "48737",
+    "latitude": 44.563857938678,
+    "longitude": -83.780753210017,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241600",
+    "businessName": "NORTHERN OUTPOST",
+    "address": "2520 State Rd, Glennie, MI 48737-9794",
+    "city": "Curtis Twp",
+    "zipCode": "48737",
+    "latitude": 44.579705924693,
+    "longitude": -83.74132739622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287632",
+    "businessName": "SWEET GLENNIE LIQUOR, LLC",
+    "address": "3303 State Rd, Glennie, MI 48737-9774",
+    "city": "Curtis Twp",
+    "zipCode": "48737",
+    "latitude": 44.558735377849,
+    "longitude": -83.724388028031,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

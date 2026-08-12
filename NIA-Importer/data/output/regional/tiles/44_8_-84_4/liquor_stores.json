@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0277562",
+    "businessName": "LEWISTON EZ MART",
+    "address": "3521 County Road 612, Lewiston, MI 49756-8617",
+    "city": "Albert Twp",
+    "zipCode": "49756",
+    "latitude": 44.883829150031,
+    "longitude": -84.322826259481,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277537",
+    "businessName": "SNYDER LAKE EZ MART",
+    "address": "5535 N Red Oak Rd, Lewiston, MI 49756-8572",
+    "city": "Greenwood Twp",
+    "zipCode": "49756",
+    "latitude": 44.842501661875,
+    "longitude": -84.311654271493,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

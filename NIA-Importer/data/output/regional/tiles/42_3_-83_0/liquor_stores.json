@@ -1,0 +1,232 @@
+[
+  {
+    "businessId": "10127",
+    "businessName": "AAA PARTY STORE",
+    "address": "13023 E Warren Ave, Detroit, MI 48215-2014",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.392650970237,
+    "longitude": -82.966807488399,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274533",
+    "businessName": "BIG D LIQUOR",
+    "address": "14341 E Warren Ave, Detroit, MI 48215-2119",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.395235645393,
+    "longitude": -82.959616770162,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233712",
+    "businessName": "BLUE LIGHT MARKET",
+    "address": "8844 Mack Ave, Detroit, MI 48214-1952",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.370416579211,
+    "longitude": -82.997461237075,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249858",
+    "businessName": "EAST SIDE LIQUOR DEPOT",
+    "address": "15500 E Warren Ave, Detroit, MI 48224-3155",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.39907452561,
+    "longitude": -82.948737863444,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284613",
+    "businessName": "EASTOWN LIQUOR",
+    "address": "10520 E Jefferson Ave, Detroit, MI 48214-3237",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.363523542658,
+    "longitude": -82.97775325864,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283472",
+    "businessName": "GIO LIQUOR, INC.",
+    "address": "12400 E Warren Ave, Detroit, MI 48215-2053",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.390172197592,
+    "longitude": -82.973326480592,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14994",
+    "businessName": "HARDING MARKET",
+    "address": "10501 E Warren Ave, Detroit, MI 48214-1545",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.384084479395,
+    "longitude": -82.992469827053,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228868",
+    "businessName": "HIBBARD PARTY STORE",
+    "address": "8935 E Jefferson Ave, Detroit, MI 48214-2916",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.357054386942,
+    "longitude": -82.98694809457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10318",
+    "businessName": "JEFFERSON LIQUOR MART",
+    "address": "7875 E Jefferson Ave, Detroit, MI 48214-2511",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.350998393999,
+    "longitude": -82.995618467838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197372",
+    "businessName": "K \u0026 G DELI",
+    "address": "5625 Conner St, Detroit, MI 48213-3407",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.393154224735,
+    "longitude": -82.983772727181,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271181",
+    "businessName": "M\u0026M LIQUOR STORE",
+    "address": "11585 HARPER AVE, DETROIT, MI 48213",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.397613402932,
+    "longitude": -82.988697473189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286281",
+    "businessName": "NNDS, LLC",
+    "address": "12535 Mack Ave, Detroit, MI 48215-2228",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.383772077178,
+    "longitude": -82.967412396211,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287823",
+    "businessName": "PAHUL NIRVAIR, LLC",
+    "address": "11205 Mack Ave, Detroit, MI 48214-3529",
+    "city": "Detroit",
+    "zipCode": "48214",
+    "latitude": 42.378703102201,
+    "longitude": -82.97971956176,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224784",
+    "businessName": "PAPA SAM\u0027S FOOD \u0026 LIQUOR",
+    "address": "14622 E Warren Ave, Detroit, MI 48215-2136",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.396164875312,
+    "longitude": -82.956685644305,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231152",
+    "businessName": "PARKIE\u0027S LIQUOR SHOPPE",
+    "address": "17255 Mack Ave, Detroit, MI 48224-2248",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.396763533123,
+    "longitude": -82.920833266828,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99486",
+    "businessName": "PERRY\u0027S DELI AND PARTY SHOPPE",
+    "address": "14214 E Jefferson Ave, Detroit, MI 48215-2930",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.372069689861,
+    "longitude": -82.946157541239,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163474",
+    "businessName": "RIVERSIDE PARTY STORE",
+    "address": "12706-12708 E Jefferson Ave, Detroit, MI 48215-2757",
+    "city": "Detroit",
+    "zipCode": "48215",
+    "latitude": 42.370192781932,
+    "longitude": -82.956374898892,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281646",
+    "businessName": "SKU LIQUOR, LLC",
+    "address": "15001-15015 Mack Ave, Detroit, MI 48224",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.387559563951,
+    "longitude": -82.946460105865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132936",
+    "businessName": "WONDER FOOD SUPERMARKET",
+    "address": "10450 Shoemaker St, Detroit, MI 48213-3353",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.389349366377,
+    "longitude": -82.996840624287,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214265",
+    "businessName": "CVS/PHARMACY #8081",
+    "address": "17120 Kercheval Ave, Grosse Pointe, MI 48230-1661",
+    "city": "Grosse Pointe",
+    "zipCode": "48230",
+    "latitude": 42.390887241146,
+    "longitude": -82.913908526641,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10204",
+    "businessName": "NOTRE DAME PHARMACY, INC.",
+    "address": "16926 Kercheval Ave, Grosse Pointe, MI 48230-1533",
+    "city": "Grosse Pointe",
+    "zipCode": "48230",
+    "latitude": 42.389245965957,
+    "longitude": -82.917360155709,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12134",
+    "businessName": "PARK PLACE LIQUOR",
+    "address": "15135 Charlevoix St, Grosse Pointe Park, MI 48230-1007",
+    "city": "Grosse Pte Park",
+    "zipCode": "48230",
+    "latitude": 42.38548288954,
+    "longitude": -82.943544738029,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225050",
+    "businessName": "VILLAGE WINE",
+    "address": "15228 E Jefferson Ave, Grosse Pointe Park, MI 48230-1314",
+    "city": "Grosse Pte Park",
+    "zipCode": "48230",
+    "latitude": 42.376245037806,
+    "longitude": -82.935902919828,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

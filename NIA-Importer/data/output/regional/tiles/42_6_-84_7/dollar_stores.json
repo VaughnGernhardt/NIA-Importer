@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "3825-w-jolly-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3825, W Jolly Rd Lansing, MI 48911-3362",
+    "city": "W Jolly Rd Lansing",
+    "zipCode": "48911",
+    "latitude": 42.683085049309,
+    "longitude": -84.60224567834
+  },
+  {
+    "storeId": "5058-s-waverly-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 5058, S Waverly Rd Lansing, MI 48911-2761",
+    "city": "S Waverly Rd Lansing",
+    "zipCode": "48911",
+    "latitude": 42.683025752299,
+    "longitude": -84.603184915836
+  }
+]

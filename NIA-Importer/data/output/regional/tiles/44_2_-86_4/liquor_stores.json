@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "141786",
+    "businessName": "CYPRESS STREET E-Z MART",
+    "address": "313 1st St, Manistee, MI 49660-1705",
+    "city": "Bear Lake Twp",
+    "zipCode": "49660",
+    "latitude": 44.24570579624,
+    "longitude": -86.318687184683,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100142",
+    "businessName": "FAMILY FARE #647",
+    "address": "1057 S US 31, Manistee, MI 49660",
+    "city": "Filer Twp",
+    "zipCode": "49660",
+    "latitude": 44.233135183941,
+    "longitude": -86.313795256531,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266177",
+    "businessName": "SCOOBYS SNACK SHACK",
+    "address": "21 Cypress St, Manistee, MI 49660-1419",
+    "city": "Manistee",
+    "zipCode": "49660",
+    "latitude": 44.248248344777,
+    "longitude": -86.317851446127,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15923",
+    "businessName": "WESCO #33",
+    "address": "75 Cypress St, Manistee, MI 49660-1459",
+    "city": "Manistee",
+    "zipCode": "49660",
+    "latitude": 44.247059014961,
+    "longitude": -86.318332340707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16229",
+    "businessName": "WESC0 #36",
+    "address": "330 W Parkdale Ave, Manistee, MI 49660-1159",
+    "city": "Manistee Twp",
+    "zipCode": "49660",
+    "latitude": 44.267311625434,
+    "longitude": -86.304324569991,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

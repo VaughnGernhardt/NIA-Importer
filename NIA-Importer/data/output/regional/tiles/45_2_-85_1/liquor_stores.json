@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0274983",
+    "businessName": "HORTON BAY GENERAL STORE \u0026 INN, LLC",
+    "address": "5115 Boyne City Rd, Boyne City, MI 49712-9237",
+    "city": "Bay Twp",
+    "zipCode": "49712",
+    "latitude": 45.284374285173,
+    "longitude": -85.077463608648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212460",
+    "businessName": "BOYNE COUNTRY PROVISIONS",
+    "address": "127 Water St, Boyne City, MI 49712-1242",
+    "city": "Boyne",
+    "zipCode": "49712",
+    "latitude": 45.21370469787,
+    "longitude": -85.014347036325,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261138",
+    "businessName": "SOMMERSET GENERAL STORE, LLC",
+    "address": "4672 Lakeshore Rd, Boyne City, MI 49712-9757",
+    "city": "Eveline Twp",
+    "zipCode": "49712",
+    "latitude": 45.219174746123,
+    "longitude": -85.071074849479,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "businessId": "211598",
+    "businessName": "DEWITT SUNOCO",
+    "address": "1019 E State Rd, Lansing, MI 48906-5674",
+    "city": "De Witt Twp",
+    "zipCode": "48906",
+    "latitude": 42.784224669649,
+    "longitude": -84.540642106029,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14391",
+    "businessName": "KROGER STORE #890",
+    "address": "1550 W Lake Lansing Rd, East Lansing, MI 48823-1386",
+    "city": "East Lansing",
+    "zipCode": "48823",
+    "latitude": 42.760808913733,
+    "longitude": -84.504644009454,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9378",
+    "businessName": "MEIJER #52",
+    "address": "1350 W Lake Lansing Rd, East Lansing, MI 48823-1314",
+    "city": "East Lansing",
+    "zipCode": "48823",
+    "latitude": 42.760823878814,
+    "longitude": -84.501095033411,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287366",
+    "businessName": "ADVANCED UZP INC.",
+    "address": "1825 E Michigan Ave, Lansing, MI 48912-2826",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.733702557751,
+    "longitude": -84.524592289494,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11126",
+    "businessName": "AIRPORT PARTY STORE",
+    "address": "4209 N Grand River Ave, Lansing, MI 48906-2610",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.76614014996,
+    "longitude": -84.588549583918,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287651",
+    "businessName": "CAPITAL CITY SPIRITS LLC",
+    "address": "726 E Michigan Ave, Lansing, MI 48912-1435",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.733520255947,
+    "longitude": -84.541819813451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10675",
+    "businessName": "DRSD PARTY STORE",
+    "address": "1300-1302 E Malcolm X St, Lansing, MI 48912-1930",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.725544224398,
+    "longitude": -84.532963379383,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225084",
+    "businessName": "ERIC\u0027S MARKET",
+    "address": "838 N Pennsylvania Ave, Lansing, MI 48906-5321",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.742820671634,
+    "longitude": -84.537718076359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225363",
+    "businessName": "FOX ISLAND PARTY STORE",
+    "address": "5131 N Grand River Ave, Lansing, MI 48906-5811",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.768949152766,
+    "longitude": -84.598822576533,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263324",
+    "businessName": "GENES QUICK STOP",
+    "address": "3127 Turner St, Lansing, MI 48906-3124",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.764841178903,
+    "longitude": -84.555827810154,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280917",
+    "businessName": "GORMANS FOOD MARKET",
+    "address": "2802 N Grand River Ave, Lansing, MI 48906-3806",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.761185908234,
+    "longitude": -84.570741887913,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274613",
+    "businessName": "JACKPOT PARTY STORE",
+    "address": "2922 S Cedar St, Lansing, MI 48910-3033",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.702601796657,
+    "longitude": -84.548100412481,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15745",
+    "businessName": "KROGER STORE #852",
+    "address": "443 Mall Ct, Lansing, MI 48912-5222",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.739870124296,
+    "longitude": -84.506382503682,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276982",
+    "businessName": "L\u0026M",
+    "address": "1701 W Willow St, Lansing, MI 48915-1427",
+    "city": "Lansing",
+    "zipCode": "48915",
+    "latitude": 42.748260535056,
+    "longitude": -84.574630103279,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288019",
+    "businessName": "LIQUOR EXPRESS LANSING INC",
+    "address": "925 E Kalamazoo St, Lansing, MI 48912",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.729958704005,
+    "longitude": -84.539144471211,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134723",
+    "businessName": "LOUIES PARTY STORE",
+    "address": "1931 S Washington Ave, Lansing, MI 48910-9162",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.711852229576,
+    "longitude": -84.552524423212,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237552",
+    "businessName": "MARATHON",
+    "address": "601 W Saginaw St, Lansing, MI 48933-8023",
+    "city": "Lansing",
+    "zipCode": "48933",
+    "latitude": 42.740889535556,
+    "longitude": -84.560005099177,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264419",
+    "businessName": "MEIJER STORE #662",
+    "address": "600 E Michigan Ave, Lansing, MI 48912-1151",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.733536020078,
+    "longitude": -84.54459479491,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "151274",
+    "businessName": "ONE STOP FOOD MART",
+    "address": "1245 East Cesar E Chavez Ave, Lansing, MI 48906-5465",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.74745712449,
+    "longitude": -84.534867860657,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286088",
+    "businessName": "PARINAAZ, INC.",
+    "address": "200 S Martin Luther King Jr Blvd, Lansing, MI 48915-1718",
+    "city": "Lansing",
+    "zipCode": "48915",
+    "latitude": 42.734793929123,
+    "longitude": -84.566770771174,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245825",
+    "businessName": "PETE\u0027S HY-GRADE MARKET",
+    "address": "533 S Chestnut St, Lansing, MI 48933-2210",
+    "city": "Lansing",
+    "zipCode": "48933",
+    "latitude": 42.728284603368,
+    "longitude": -84.558479430879,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13228",
+    "businessName": "QUALITY DAIRY",
+    "address": "2600 S Cedar St, Lansing, MI 48910-3000",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.705114405449,
+    "longitude": -84.54808437627,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10206",
+    "businessName": "QUALITY DAIRY",
+    "address": "1412 W Mount Hope Ave, Lansing, MI 48910-9073",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.712097765437,
+    "longitude": -84.571549720867,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11530",
+    "businessName": "QUALITY DAIRY",
+    "address": "2100 N Larch St, Lansing, MI 48906-4115",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.756369914924,
+    "longitude": -84.543996676603,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16959",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "2400 E Michigan Ave, Lansing, MI 48912-4020",
+    "city": "Lansing",
+    "zipCode": "48912",
+    "latitude": 42.73358095758,
+    "longitude": -84.517468887853,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9436",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "500 E Saginaw St, Lansing, MI 48906-5252",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.740808137208,
+    "longitude": -84.546417120919,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278032",
+    "businessName": "ROCK\u0027S LIQUOR",
+    "address": "1830 W Saginaw St, Lansing, MI 48915-1359",
+    "city": "Lansing",
+    "zipCode": "48915",
+    "latitude": 42.741110786828,
+    "longitude": -84.577041781969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264954",
+    "businessName": "RONNY\u0027S LIQUOR STORE",
+    "address": "1700 S Washington Ave, Lansing, MI 48910-1535",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.714826534663,
+    "longitude": -84.552464402345,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "198515",
+    "businessName": "SAV-ON",
+    "address": "736 W Willow St, Lansing, MI 48906-4781",
+    "city": "Lansing",
+    "zipCode": "48906",
+    "latitude": 42.748828503916,
+    "longitude": -84.562318420669,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228028",
+    "businessName": "SHORT STOP",
+    "address": "1901 S Martin Luther King Jr Blvd, Lansing, MI 48910-9013",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.711981319793,
+    "longitude": -84.567364410493,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272162",
+    "businessName": "TOOLAN\u0027S",
+    "address": "918 W Saginaw St, Lansing, MI 48915-1965",
+    "city": "Lansing",
+    "zipCode": "48915",
+    "latitude": 42.741024144252,
+    "longitude": -84.564814984039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283980",
+    "businessName": "VICE CONVENIENCE, LLC",
+    "address": "1826 S Cedar St, Lansing, MI 48910-9102",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.712796818033,
+    "longitude": -84.547588529532,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243786",
+    "businessName": "EASTWOOD PARTY STORE",
+    "address": "1910 Lake Lansing Rd, Lansing, MI 48912-3713",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.760676926718,
+    "longitude": -84.524239496775,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153825",
+    "businessName": "SAM\u0027S CLUB #4781",
+    "address": "2925 Towne Centre Blvd, Lansing, MI 48912-5650",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.76385474153,
+    "longitude": -84.517930647799,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241498",
+    "businessName": "SAV-WAY FOOD CENTER",
+    "address": "2317 W Michigan Ave, Lansing, MI 48917-4917",
+    "city": "Lansing Twp",
+    "zipCode": "48917",
+    "latitude": 42.733799454423,
+    "longitude": -84.582384628247,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264492",
+    "businessName": "SPARTY LIQUOR #1",
+    "address": "314 S Clippert St, Lansing, MI 48912-4606",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.730861677933,
+    "longitude": -84.508475970376,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "263570",
+    "businessName": "VILLAGE PARTY STORE",
+    "address": "2601 E Kalamazoo St, Lansing, MI 48912-3920",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.730032593405,
+    "longitude": -84.515086881015,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202113",
+    "businessName": "WAL-MART SUPERCENTER #2867",
+    "address": "3225 Towne Centre Blvd, Lansing, MI 48912-5620",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.76332790833,
+    "longitude": -84.517937248265,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235703",
+    "businessName": "WEST SAGINAW PARTY STORE",
+    "address": "2823 W Saginaw St, Lansing, MI 48917-2304",
+    "city": "Lansing Twp",
+    "zipCode": "48917",
+    "latitude": 42.741038231108,
+    "longitude": -84.587845375079,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10184",
+    "businessName": "WESTLUND\u0027S APPLE MARKET",
+    "address": "2301 E Grand River Ave, Lansing, MI 48912-3223",
+    "city": "Lansing Twp",
+    "zipCode": "48912",
+    "latitude": 42.743363243658,
+    "longitude": -84.518720635286,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

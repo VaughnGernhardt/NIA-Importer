@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "249294",
+    "businessName": "JB\u0027S COUNTRY STORE LLC",
+    "address": "5885 N Hillman Rd, Six Lakes, MI 48886-9782",
+    "city": "Douglass Twp",
+    "zipCode": "48886",
+    "latitude": 43.377619825884,
+    "longitude": -85.183936431606,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232905",
+    "businessName": "TRI LAKES GENERAL STORE",
+    "address": "4538 W Stanton Rd, Stanton, MI 48888-9215",
+    "city": "Douglass Twp",
+    "zipCode": "48888",
+    "latitude": 43.30030584907,
+    "longitude": -85.175238071259,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005914",
+    "propertyName": "CANTICLE PLACE",
+    "latitude": 41.85805899880884,
+    "longitude": -88.13477299963388,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800006120",
+    "propertyName": "MARIAN PARK",
+    "latitude": 41.85623199929022,
+    "longitude": -88.1370129999988,
+    "assistedUnits": 142,
+    "totalUnits": 210
+  },
+  {
+    "propertyId": "800256625",
+    "propertyName": "Main Street Lofts",
+    "latitude": 41.88219599924972,
+    "longitude": -88.19857400024382,
+    "assistedUnits": 6,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800040219",
+    "propertyName": "VILLAGEBROOK APARTMENTS",
+    "latitude": 41.89814599912791,
+    "longitude": -88.11233400011817,
+    "assistedUnits": 147,
+    "totalUnits": 189
+  }
+]

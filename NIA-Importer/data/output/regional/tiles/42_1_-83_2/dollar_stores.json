@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "14271-eureka-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 14271, Eureka Rd Southgate, MI 48195",
+    "city": "Eureka Rd Southgate",
+    "zipCode": "48195",
+    "latitude": 42.199140277293,
+    "longitude": -83.197091439189
+  },
+  {
+    "storeId": "14521-eureka-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 14521, Eureka Rd Southgate, MI 48195",
+    "city": "Eureka Rd Southgate",
+    "zipCode": "48195",
+    "latitude": 42.199094203007,
+    "longitude": -83.199903758978
+  }
+]

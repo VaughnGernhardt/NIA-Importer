@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "3220-sheridan-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3220, Sheridan Ave Sheridan Plaza Saginaw, MI 48601-4452",
+    "city": "Sheridan Ave Sheridan Plaza Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.396963714139,
+    "longitude": -83.935850456344
+  },
+  {
+    "storeId": "3137-williamson-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3137, Williamson Rd Saginaw, MI 48601-5659",
+    "city": "Williamson Rd Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.377072172816,
+    "longitude": -83.913132445118
+  }
+]

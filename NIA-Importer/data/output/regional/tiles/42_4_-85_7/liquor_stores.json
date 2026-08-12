@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "0259669",
+    "businessName": "3RD BASE PARTY STORE",
+    "address": "595 10th St, Plainwell, MI 49080-1030",
+    "city": "Gun Plain Twp",
+    "zipCode": "49080",
+    "latitude": 42.464291255722,
+    "longitude": -85.641847118924,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272147",
+    "businessName": "EXPRESS STOP #4690",
+    "address": "1194 M 89, Plainwell, MI 49080-1134",
+    "city": "Gun Plain Twp",
+    "zipCode": "49080",
+    "latitude": 42.449860221419,
+    "longitude": -85.66230098857,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131917",
+    "businessName": "MEIJER #191",
+    "address": "1195 M 89, Plainwell, MI 49080-1135",
+    "city": "Gun Plain Twp",
+    "zipCode": "49080",
+    "latitude": 42.449971235901,
+    "longitude": -85.660491077013,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276276",
+    "businessName": "R STORE",
+    "address": "582 10th St, Plainwell, MI 49080-1067",
+    "city": "Gun Plain Twp",
+    "zipCode": "49080",
+    "latitude": 42.463828099881,
+    "longitude": -85.642002450117,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264226",
+    "businessName": "BROOKSIDE MARKET",
+    "address": "545 E Allegan St, Otsego, MI 49078-1303",
+    "city": "Otsego",
+    "zipCode": "49078",
+    "latitude": 42.456448469906,
+    "longitude": -85.688022471683,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265864",
+    "businessName": "OTSEGO PARTY STORE",
+    "address": "629 S Farmer St, Otsego, MI 49078-1407",
+    "city": "Otsego",
+    "zipCode": "49078",
+    "latitude": 42.453570620297,
+    "longitude": -85.699283406628,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229620",
+    "businessName": "JK LIQUORS INC",
+    "address": "1392 M 89, Otsego, MI 49078",
+    "city": "Otsego Twp",
+    "zipCode": "49078",
+    "latitude": 42.451210447093,
+    "longitude": -85.681132729846,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141661",
+    "businessName": "WAL-MART SUPERCENTER #2061",
+    "address": "412 Oaks Xing, Plainwell, MI 49080-1900",
+    "city": "Otsego Twp",
+    "zipCode": "49080",
+    "latitude": 42.449047139555,
+    "longitude": -85.667242898889,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236490",
+    "businessName": "EASTSIDE GROCERY",
+    "address": "519 E Bridge St, Plainwell, MI 49080-1803",
+    "city": "Plainwell",
+    "zipCode": "49080",
+    "latitude": 42.442892425137,
+    "longitude": -85.634434430062,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10761",
+    "businessName": "HARDING\u0027S MARKET",
+    "address": "102 S Main St, Plainwell, MI 49080-1699",
+    "city": "Plainwell",
+    "zipCode": "49080",
+    "latitude": 42.4427219123,
+    "longitude": -85.641936396916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249094",
+    "businessName": "Joe\u0027s Market",
+    "address": "1059 102nd Ave, Plainwell, MI 49080-1503",
+    "city": "Plainwell",
+    "zipCode": "49080",
+    "latitude": 42.435534045057,
+    "longitude": -85.647705501062,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

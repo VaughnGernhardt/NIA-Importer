@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800215178",
+    "propertyName": "AHEPA 118",
+    "latitude": 41.72106499878239,
+    "longitude": -83.5902500001578,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800017000",
+    "propertyName": "NORTH TOWNE VILLAGE",
+    "latitude": 41.720670998938786,
+    "longitude": -83.55463400001489,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800017044",
+    "propertyName": "OTTAWA COVE APARTMENTS",
+    "latitude": 41.71489699906194,
+    "longitude": -83.50120800015073,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

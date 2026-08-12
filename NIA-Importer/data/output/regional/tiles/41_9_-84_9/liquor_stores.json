@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0268046",
+    "businessName": "CONVENIENCE KING GROUP, INC.",
+    "address": "1 W Chicago St, Quincy, MI 49082-1103",
+    "city": "Quincy",
+    "zipCode": "49082",
+    "latitude": 41.944140372171,
+    "longitude": -84.88403390115,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271295",
+    "businessName": "BARRY\u0027S CADDY SHACK",
+    "address": "288 N Ray Quincy Rd, Quincy, MI 49082-9744",
+    "city": "Quincy Twp",
+    "zipCode": "49082",
+    "latitude": 41.925298577092,
+    "longitude": -84.88394359373,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283127",
+    "businessName": "HASTEN STATION, INC",
+    "address": "1294 E Chicago Rd, Quincy, MI 49082-9714",
+    "city": "Quincy Twp",
+    "zipCode": "49082",
+    "latitude": 41.948693769566,
+    "longitude": -84.826579927217,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

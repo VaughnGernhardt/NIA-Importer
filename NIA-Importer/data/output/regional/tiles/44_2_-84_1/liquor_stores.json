@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "232037",
+    "businessName": "JACKSONVILLE STORE",
+    "address": "987 E M 55, West Branch, MI 48661-9036",
+    "city": "Churchill Twp",
+    "zipCode": "48661",
+    "latitude": 44.276873978863,
+    "longitude": -84.085230919445,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276283",
+    "businessName": "JAX LAKESIDE",
+    "address": "3011 Rifle River Trl, West Branch, MI 48661-9739",
+    "city": "Mills Twp",
+    "zipCode": "48661",
+    "latitude": 44.246629032509,
+    "longitude": -84.064527700257,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

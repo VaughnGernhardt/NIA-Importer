@@ -1,0 +1,842 @@
+[
+  {
+    "businessId": "135111",
+    "businessName": "ASHLEY\u0027S MARKET",
+    "address": "9000 Hayes St, Detroit, MI 48213-2033",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.404793071375,
+    "longitude": -82.964256271011,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144023",
+    "businessName": "CARMENS LIQUOR \u0026 DELI",
+    "address": "14650 Gratiot Ave, Detroit, MI 48205-1939",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.439797872386,
+    "longitude": -82.974501111338,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291810",
+    "businessName": "CHEERS LIQUOR",
+    "address": "12344 E 8 Mile Rd, Detroit, MI 48205-1044",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.448887158095,
+    "longitude": -82.99969142092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219721",
+    "businessName": "COACH PARTY STORE",
+    "address": "13624 Gratiot Ave, Detroit, MI 48205-3434",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.426378266457,
+    "longitude": -82.983348946442,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249152",
+    "businessName": "COGNAC CASTLE",
+    "address": "15415 Harper Ave, Detroit, MI 48224-3055",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.407410819412,
+    "longitude": -82.955318261822,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11377",
+    "businessName": "DIAMOND MARKET",
+    "address": "15250 Houston Whittier St, Detroit, MI 48205-4129",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.420720963375,
+    "longitude": -82.964230433606,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226990",
+    "businessName": "GM PARTY STORE",
+    "address": "10648 Gratiot Ave, Detroit, MI 48213-1200",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.403228568074,
+    "longitude": -82.998514885048,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153945",
+    "businessName": "GRATIOT FAIRMOUNT MARKET",
+    "address": "14999 Gratiot Ave, Detroit, MI 48205-1944",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.444334610839,
+    "longitude": -82.971680008782,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231734",
+    "businessName": "GRATIOT PARTY PLACE",
+    "address": "11901 Gratiot Ave, Detroit, MI 48213-1338",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.411515346854,
+    "longitude": -82.993266120697,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "176892",
+    "businessName": "GRATIOT RIGLEY DRUGS",
+    "address": "12278 Gratiot Ave, Detroit, MI 48205-3904",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.415690750862,
+    "longitude": -82.990356709321,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287753",
+    "businessName": "HANDY SPOT LIQUOR",
+    "address": "15900 E 8 Mile Rd, Detroit, MI 48205-1464",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.449984294927,
+    "longitude": -82.956524599594,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225506",
+    "businessName": "HAYES LIQUOR BASKET",
+    "address": "11002 Hayes St, Detroit, MI 48213-1526",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.415913470889,
+    "longitude": -82.964747159191,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290940",
+    "businessName": "HAYES LIQUOR STORE, LLC",
+    "address": "13001 Hayes St, Detroit, MI 48205-3534",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.426461606001,
+    "longitude": -82.965319696947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266057",
+    "businessName": "HOLIDAY HOUSE WINE SHOP",
+    "address": "11200 Morang Dr, Detroit, MI 48224-1705",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.423639712137,
+    "longitude": -82.943764776744,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265962",
+    "businessName": "INNER CITY LIQUOR L.L.C.",
+    "address": "14205 Harper Ave, Detroit, MI 48213-3632",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.403943777718,
+    "longitude": -82.967263378777,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266166",
+    "businessName": "JAY\u0027S BEER \u0026 WINE, INC.",
+    "address": "17300 Harper Ave, Detroit, MI 48224-1920",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.41780560962,
+    "longitude": -82.933995081422,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285997",
+    "businessName": "JAY\u0027S SPOT LIQUOR",
+    "address": "9200 Cadieux Rd, Detroit, MI 48224-1874",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.417811389539,
+    "longitude": -82.937443443479,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291507",
+    "businessName": "LIQUOR CAPTAIN",
+    "address": "18077 Kelly Rd, Detroit, MI 48224-1565",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.428290749078,
+    "longitude": -82.957939357096,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222171",
+    "businessName": "LIQUOR ISLAND",
+    "address": "11731 Chalmers St, Detroit, MI 48205-4159",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.420151214326,
+    "longitude": -82.974537475708,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261299",
+    "businessName": "LIQUOR ISLAND MARKET",
+    "address": "17342 E Warren Ave, Detroit, MI 48224-2216",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.407194541106,
+    "longitude": -82.926588922888,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283276",
+    "businessName": "LITTLE MIKES",
+    "address": "12339-12341 E Mc Nichols Rd, Detroit, MI 48205",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.421933819351,
+    "longitude": -82.998650640741,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99533",
+    "businessName": "LUCKY 7 CONVENIENCE STORE",
+    "address": "11050 Morang Dr, Detroit, MI 48224-1844",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.422975587814,
+    "longitude": -82.942135225903,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259638",
+    "businessName": "MCDONNELL DRUGS",
+    "address": "16636 Harper Ave, Detroit, MI 48224-1946",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.413540479221,
+    "longitude": -82.940822424061,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165172",
+    "businessName": "MIRAGE LIQUOR STORE",
+    "address": "13887 Gratiot Ave, Detroit, MI 48205-2830",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.429119323002,
+    "longitude": -82.981710211303,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10962",
+    "businessName": "MR. S PARTY SHOP",
+    "address": "12343 Morang Dr, Detroit, MI 48224-1562",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.427944801198,
+    "longitude": -82.954610607519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143367",
+    "businessName": "NARRA\u0027S MARKET",
+    "address": "13547 E 7 Mile Rd, Detroit, MI 48205-2255",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.434965184131,
+    "longitude": -82.985770738062,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155654",
+    "businessName": "NINO\u0027S MARKET",
+    "address": "15911 E Warren Ave, Detroit, MI 48224-3221",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.401052243589,
+    "longitude": -82.943702092657,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238521",
+    "businessName": "PONY KEG WINE SHOPPE",
+    "address": "17900 E Warren Ave, Detroit, MI 48224-1334",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.409496877178,
+    "longitude": -82.920284197362,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290333",
+    "businessName": "ROYALTY FOODS",
+    "address": "16086 E 8 Mile Rd, Detroit, MI 48205-1416",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.450016408802,
+    "longitude": -82.954757731312,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "169652",
+    "businessName": "SHORTY\u0027S LIQUOR STORE",
+    "address": "12840 E 7 Mile Rd, Detroit, MI 48205-2216",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.434684867384,
+    "longitude": -82.99311710222,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264460",
+    "businessName": "SUPER SPOT LIQUOR",
+    "address": "13214 Harper Ave, Detroit, MI 48213-3655",
+    "city": "Detroit",
+    "zipCode": "48213",
+    "latitude": 42.402666319531,
+    "longitude": -82.971187596101,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280543",
+    "businessName": "SUPER STORE LIQUOR",
+    "address": "15038 Houston Whittier St, Detroit, MI 48205-4127",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.420693216334,
+    "longitude": -82.966999554095,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285851",
+    "businessName": "SUPREME LIQUOR",
+    "address": "18932-18934-18940-18942 HAYES ST, DETROIT, MI 48205",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.434177639858,
+    "longitude": -82.965377931005,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12879",
+    "businessName": "THREE STAR PARTY STORE",
+    "address": "19650 Schoenherr St, Detroit, MI 48205-1760",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.440074483204,
+    "longitude": -82.985250810422,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281609",
+    "businessName": "VALENTINA, INC.",
+    "address": "14100-14102-14110 E 8 MILE RD, DETROIT, MI 48205",
+    "city": "Detroit",
+    "zipCode": "48205",
+    "latitude": 42.449411464963,
+    "longitude": -82.978134932215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10895",
+    "businessName": "WHITTIER MINI MART",
+    "address": "10542 Whittier St, Detroit, MI 48224-1751",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.416697522238,
+    "longitude": -82.952321292034,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11878",
+    "businessName": "WINE BASKET PARTY SHOPPE",
+    "address": "16450 E Warren Ave, Detroit, MI 48224-2741",
+    "city": "Detroit",
+    "zipCode": "48224",
+    "latitude": 42.403309333777,
+    "longitude": -82.937189322792,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288855",
+    "businessName": "#926",
+    "address": "19001 E 9 Mile Rd, Eastpointe, MI 48021-2041",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.465632137603,
+    "longitude": -82.92321938842,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243534",
+    "businessName": "9 \u0026 KELLY BP",
+    "address": "18701 E 9 Mile Rd, Eastpointe, MI 48021-2029",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.465525725963,
+    "longitude": -82.926560686393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241777",
+    "businessName": "A \u0026 B WINE SHOPPE",
+    "address": "18405 E 9 Mile Rd, Eastpointe, MI 48021-1950",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.46539609704,
+    "longitude": -82.930516767103,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150456",
+    "businessName": "BUSCEMI\u0027S",
+    "address": "22044 Gratiot Ave, Eastpointe, MI 48021-2226",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.459377899411,
+    "longitude": -82.961180752994,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226072",
+    "businessName": "EASTLAND LIQUOR",
+    "address": "17003 E 8 Mile Rd, Eastpointe, MI 48021-3053",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.450597840598,
+    "longitude": -82.945909587999,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11132",
+    "businessName": "JOSEPH\u0027S KEG \u0026 WINE",
+    "address": "16753 E 9 Mile Rd, Eastpointe, MI 48021-2444",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.464839541592,
+    "longitude": -82.949245381083,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12151",
+    "businessName": "KELLY\u0027S BEVERAGES \u0026 DELI",
+    "address": "22744 Kelly Rd, Eastpointe, MI 48021-2037",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.46585273259,
+    "longitude": -82.926512481387,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283263",
+    "businessName": "KFAJ, INC.",
+    "address": "24404 Gratiot Ave, Eastpointe, MI 48021-3307",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.473940039289,
+    "longitude": -82.951620704943,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231639",
+    "businessName": "LIQUOR LAND",
+    "address": "17934 E 9 Mile Rd, Eastpointe, MI 48021-2570",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.465115913926,
+    "longitude": -82.935975979421,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288986",
+    "businessName": "LUCKY STAR LIQUOR",
+    "address": "17024 E 9 Mile Rd, Eastpointe, MI 48021-2451",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.464797818611,
+    "longitude": -82.946503168581,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143103",
+    "businessName": "ONE STOP LIQUOR SHOPPE",
+    "address": "15125 E 9 Mile Rd, Eastpointe, MI 48021-3805",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.4647827406,
+    "longitude": -82.965890399613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285144",
+    "businessName": "VAN\u0027S",
+    "address": "15153 E 10 Mile Rd, Eastpointe, MI 48021-1068",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.479599090412,
+    "longitude": -82.964892730562,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275948",
+    "businessName": "WINES OF THE WORLD",
+    "address": "18020 E 10 Mile Rd, Eastpointe, MI 48021-1344",
+    "city": "Eastpointe",
+    "zipCode": "48021",
+    "latitude": 42.47991648336,
+    "longitude": -82.935762586504,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241894",
+    "businessName": "GP PETRO, INC.",
+    "address": "19100 Mack Ave, Grosse Pointe Farms, MI 48236-2804",
+    "city": "Grosse Pte Farms",
+    "zipCode": "48236",
+    "latitude": 42.417121376051,
+    "longitude": -82.910450271106,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141618",
+    "businessName": "MR. C\u0027S PIZZA \u0026 DELI #2, INC.",
+    "address": "18660 Mack Ave, Grosse Pointe Farms, MI 48236-3244",
+    "city": "Grosse Pte Farms",
+    "zipCode": "48236",
+    "latitude": 42.412980011164,
+    "longitude": -82.912094681937,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153515",
+    "businessName": "VILLAGE FOOD MARKET",
+    "address": "18330 Mack Ave, Grosse Pointe Farms, MI 48236-3219",
+    "city": "Grosse Pte Farms",
+    "zipCode": "48236",
+    "latitude": 42.408624060563,
+    "longitude": -82.914113927459,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214301",
+    "businessName": "CVS/PHARMACY #8107",
+    "address": "20460 Mack Ave, Grosse Pointe Woods, MI 48236-1659",
+    "city": "Grosse Pte Woods",
+    "zipCode": "48236",
+    "latitude": 42.439520544014,
+    "longitude": -82.90745686981,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "198982",
+    "businessName": "MERCHANT\u0027S FINE WINES",
+    "address": "21034-21038 Mack Ave, Grosse Pointe Woods, MI 48236-1334",
+    "city": "Grosse Pte Woods",
+    "zipCode": "48236",
+    "latitude": 42.448190780534,
+    "longitude": -82.905506339874,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10213",
+    "businessName": "MERIT WOODS DRUGS",
+    "address": "19325 Mack Ave, Grosse Pointe Woods, MI 48236-2833",
+    "city": "Grosse Pte Woods",
+    "zipCode": "48236",
+    "latitude": 42.421244889812,
+    "longitude": -82.910408647614,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "173892",
+    "businessName": "OXFORD BEVERAGE",
+    "address": "20107 Mack Ave, Grosse Pointe Woods, MI 48236-1819",
+    "city": "Grosse Pte Woods",
+    "zipCode": "48236",
+    "latitude": 42.434044182677,
+    "longitude": -82.908611679855,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "128600",
+    "businessName": "WOODS WHOLESALE WINE",
+    "address": "20787 Mack Ave, Grosse Pointe Woods, MI 48236-1437",
+    "city": "Grosse Pte Woods",
+    "zipCode": "48236",
+    "latitude": 42.445368840528,
+    "longitude": -82.90680130116,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155110",
+    "businessName": "ANGELO\u0027S PARTY STORE",
+    "address": "19330 Kelly Rd, Harper Woods, MI 48225-1906",
+    "city": "Harper Woods",
+    "zipCode": "48225",
+    "latitude": 42.437744619151,
+    "longitude": -82.950423170547,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214157",
+    "businessName": "CVS/PHARMACY #8052",
+    "address": "19818 Kelly Rd, Harper Woods, MI 48225-1914",
+    "city": "Harper Woods",
+    "zipCode": "48225",
+    "latitude": 42.441922962774,
+    "longitude": -82.947274780637,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247845",
+    "businessName": "FW FUELS, INC.",
+    "address": "19930 Kelly Rd, Harper Woods, MI 48225-1919",
+    "city": "Harper Woods",
+    "zipCode": "48225",
+    "latitude": 42.443808088593,
+    "longitude": -82.945868583577,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223872",
+    "businessName": "GLENN\u0027S LIQUOR SHOP",
+    "address": "20810 Harper Ave, Harper Woods, MI 48225-1143",
+    "city": "Harper Woods",
+    "zipCode": "48225",
+    "latitude": 42.447945450419,
+    "longitude": -82.9157252948,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225324",
+    "businessName": "R GANG PARTY STORE",
+    "address": "19500 Kelly Rd, Harper Woods, MI 48225-1912",
+    "city": "Harper Woods",
+    "zipCode": "48225",
+    "latitude": 42.438776183872,
+    "longitude": -82.949645584394,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234877",
+    "businessName": "11 \u0026 GRATIOT BP",
+    "address": "27030 Gratiot Ave, Roseville, MI 48066-2926",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.495157045602,
+    "longitude": -82.937682116847,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14075",
+    "businessName": "COSTCO WHOLESALE #394",
+    "address": "27118 Gratiot Ave, Roseville, MI 48066-2915",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.496163719801,
+    "longitude": -82.937026908276,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276390",
+    "businessName": "FOUR SEASON\u0027S GAS \u0026 GO, LLC",
+    "address": "26133 Gratiot Ave, Roseville, MI 48066-5105",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.488202976655,
+    "longitude": -82.942246354112,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12327",
+    "businessName": "KELLY CORNER",
+    "address": "18540 Frazho Rd, Roseville, MI 48066-4940",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.487568665073,
+    "longitude": -82.928474196823,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12104",
+    "businessName": "ROSEVILLE LIQUOR SHOPPE",
+    "address": "26760 Gratiot Ave, Roseville, MI 48066-5110",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.49321300746,
+    "longitude": -82.938943648061,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280925",
+    "businessName": "ROSEVILLE PARTY STORE",
+    "address": "15520 Frazho Rd, Roseville, MI 48066-5027",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.486857753494,
+    "longitude": -82.962003337023,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290388",
+    "businessName": "THE LIQUOR BOOK",
+    "address": "17732 Frazho Rd, Roseville, MI 48066-3864",
+    "city": "Roseville",
+    "zipCode": "48066",
+    "latitude": 42.487263935536,
+    "longitude": -82.939498713482,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281899",
+    "businessName": "7-ELEVEN STORE #32367C",
+    "address": "27630 Little Mack Ave, Saint Clair Shores, MI 48081-1844",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.494790403893,
+    "longitude": -82.907584849108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239895",
+    "businessName": "9 MILE MOBILE",
+    "address": "19600 E 9 Mile Rd, Saint Clair Shores, MI 48080-1638",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.465582466826,
+    "longitude": -82.92041961921,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "200756",
+    "businessName": "BUSCEMIS",
+    "address": "24720 Harper Ave, Saint Clair Shores, MI 48080-1255",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.477669407396,
+    "longitude": -82.902677282469,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12656",
+    "businessName": "COLLIE DRUGS",
+    "address": "21800 Harper Ave, Saint Clair Shores, MI 48080-2261",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.456791179164,
+    "longitude": -82.911847355094,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214213",
+    "businessName": "CVS/PHARMACY #8183",
+    "address": "22515 Greater Mack Ave, Saint Clair Shores, MI 48080-2040",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.459702365887,
+    "longitude": -82.900827222749,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197494",
+    "businessName": "KROGER STORE #749",
+    "address": "22801 HARPER AVE, SAINT CLAIR SHORES, MI 48080-1898",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.464007678482,
+    "longitude": -82.908793307299,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234056",
+    "businessName": "MARVIN\u0027S MINI MARKET",
+    "address": "27633 Little Mack Ave, Saint Clair Shores, MI 48081-1833",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.494802633834,
+    "longitude": -82.907740896352,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213138",
+    "businessName": "ST CLAIR BEVERAGE",
+    "address": "26529 Little Mack Ave, Saint Clair Shores, MI 48081-1831",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.488500733349,
+    "longitude": -82.907513488597,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10585",
+    "businessName": "THE WINE GARDEN",
+    "address": "22425 Harper Ave, Saint Clair Shores, MI 48080-1819",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.461260960267,
+    "longitude": -82.909998442122,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235670",
+    "businessName": "EASTLAND LIQUOR",
+    "address": "12459 E 8 Mile Rd, Warren, MI 48089-3137",
+    "city": "Warren",
+    "zipCode": "48089",
+    "latitude": 42.449390714406,
+    "longitude": -82.996458854079,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12669",
+    "businessName": "GALAXY PARTY STORE",
+    "address": "14520 Stephens Rd, Warren, MI 48089-5767",
+    "city": "Warren",
+    "zipCode": "48089",
+    "latitude": 42.471685215466,
+    "longitude": -82.973666376634,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246697",
+    "businessName": "MEIJER #306",
+    "address": "25225 Schoenherr Rd, Warren, MI 48089",
+    "city": "Warren",
+    "zipCode": "48089",
+    "latitude": 42.479812191461,
+    "longitude": -82.986883243951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248144",
+    "businessName": "Shell",
+    "address": "27027 Schoenherr Rd, Warren, MI 48088-4717",
+    "city": "Warren",
+    "zipCode": "48088",
+    "latitude": 42.493232524063,
+    "longitude": -82.987241794358,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237372",
+    "businessName": "THE WINE \u0026 LIQUOR SHOPPE II, INC.",
+    "address": "22664 Schoenherr Rd, Warren, MI 48089-2753",
+    "city": "Warren",
+    "zipCode": "48089",
+    "latitude": 42.462014264391,
+    "longitude": -82.986043450052,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

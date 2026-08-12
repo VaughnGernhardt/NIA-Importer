@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "245196",
+    "businessName": "MUGG\u0026BOPPS",
+    "address": "329 N Main St, Munith, MI 49259-9637",
+    "city": "Waterloo Twp",
+    "zipCode": "49259",
+    "latitude": 42.393847629129,
+    "longitude": -84.250461757235,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143629",
+    "businessName": "VAL\u0027S COUNTRY CORNERS",
+    "address": "12226 Seymour Rd, Grass Lake, MI 49240-9628",
+    "city": "Waterloo Twp",
+    "zipCode": "49240",
+    "latitude": 42.32309680152,
+    "longitude": -84.225442602607,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

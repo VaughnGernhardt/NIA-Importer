@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800211455",
+    "propertyName": "CLARE MELIN VILLA",
+    "latitude": 45.636131998757975,
+    "longitude": -89.43568499957227,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800023080",
+    "propertyName": "HIGHLAND ESTATES II",
+    "latitude": 45.640970999054574,
+    "longitude": -89.43294499961515,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023304",
+    "propertyName": "RHINE HAUS HIGHLAND ESTATES",
+    "latitude": 45.642310998746076,
+    "longitude": -89.43051799965248,
+    "assistedUnits": 95,
+    "totalUnits": 95
+  },
+  {
+    "propertyId": "800069930",
+    "propertyName": "SUMAC TRAIL APARTMENTS",
+    "latitude": 45.6405799988329,
+    "longitude": -89.43187199973751,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800211406",
+    "propertyName": "THELMA WOODLAND VILLA",
+    "latitude": 45.639642999329794,
+    "longitude": -89.4357919997024,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  }
+]

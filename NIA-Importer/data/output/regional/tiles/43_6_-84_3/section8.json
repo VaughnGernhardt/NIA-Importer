@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009998",
+    "propertyName": "CHARTER SQUARE",
+    "latitude": 43.65258999934717,
+    "longitude": -84.22662999969943,
+    "assistedUnits": 152,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800009851",
+    "propertyName": "CLEVELAND MANOR II",
+    "latitude": 43.61736099926172,
+    "longitude": -84.22573699974684,
+    "assistedUnits": 91,
+    "totalUnits": 91
+  },
+  {
+    "propertyId": "800010162",
+    "propertyName": "GREENHILL",
+    "latitude": 43.61926799882526,
+    "longitude": -84.21437600006038,
+    "assistedUnits": 214,
+    "totalUnits": 214
+  },
+  {
+    "propertyId": "800010385",
+    "propertyName": "NORTHWIND FOREST APTS",
+    "latitude": 43.64539299905666,
+    "longitude": -84.28672999972929,
+    "assistedUnits": 73,
+    "totalUnits": 181
+  }
+]

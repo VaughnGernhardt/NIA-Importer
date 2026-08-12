@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "228713",
+    "businessName": "AU SABLE MARKET",
+    "address": "402 S State St, Oscoda, MI 48750",
+    "city": "Au Sable Twp",
+    "zipCode": "48750",
+    "latitude": 44.412575436036,
+    "longitude": -83.326992563409,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9777",
+    "businessName": "BLOCK \u0026 BOTTLE",
+    "address": "5155 N US Highway 23, Oscoda, MI 48750-9559",
+    "city": "Oscoda Twp",
+    "zipCode": "48750",
+    "latitude": 44.430160524814,
+    "longitude": -83.330270028426,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9621",
+    "businessName": "GILBERT\u0027S DRUG STORE, INC.",
+    "address": "212 N State St, Oscoda, MI 48750-1716",
+    "city": "Oscoda Twp",
+    "zipCode": "48750",
+    "latitude": 44.421534926558,
+    "longitude": -83.330209370525,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274335",
+    "businessName": "PETES PARTY STORE",
+    "address": "6521 N US Highway 23, Oscoda, MI 48750-8719",
+    "city": "Oscoda Twp",
+    "zipCode": "48750",
+    "latitude": 44.468544379474,
+    "longitude": -83.323666475451,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

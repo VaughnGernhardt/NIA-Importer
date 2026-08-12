@@ -1,0 +1,152 @@
+[
+  {
+    "businessId": "224073",
+    "businessName": "TARGET #2415",
+    "address": "47330 Michigan Ave, Canton, MI 48188-2582",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.267453278537,
+    "longitude": -83.504603688789,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10031",
+    "businessName": "WILLOW CREEK MARKET",
+    "address": "49230 Michigan Ave, Belleville, MI 48111-1037",
+    "city": "Van Buren Twp",
+    "zipCode": "48111",
+    "latitude": 42.262319755649,
+    "longitude": -83.522688596123,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162646",
+    "businessName": "7-ELEVEN #33597-B",
+    "address": "6040 Rawsonville Rd, Belleville, MI 48111-2339",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48111",
+    "latitude": 42.203040655984,
+    "longitude": -83.543202865388,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289977",
+    "businessName": "A \u0026 W PARTY STORE",
+    "address": "1011 E Michigan Ave, Ypsilanti, MI 48198-5805",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.243777665423,
+    "longitude": -83.590653699455,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279473",
+    "businessName": "ALL STAR PETRO INC",
+    "address": "1166 Ecorse Rd, Ypsilanti, MI 48198-5850",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.235041741938,
+    "longitude": -83.588194036866,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239705",
+    "businessName": "CITGO",
+    "address": "1521 Holmes Rd, Ypsilanti, MI 48198-4147",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.253808292259,
+    "longitude": -83.580467080732,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213587",
+    "businessName": "EARLY TIMES LIQUOR STORE",
+    "address": "2433 E Michigan Ave, Ypsilanti, MI 48198-6059",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.250789556111,
+    "longitude": -83.562693428655,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147621",
+    "businessName": "HARVEST LIQUOR SHOP",
+    "address": "1645 Holmes Rd, Ypsilanti, MI 48198-4155",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.253862271473,
+    "longitude": -83.577931371408,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241903",
+    "businessName": "LUNCH \u0026 LIQUOR",
+    "address": "1424 Ecorse Rd, Ypsilanti, MI 48198-5985",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.234886139165,
+    "longitude": -83.581825326309,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10283",
+    "businessName": "MARIA\u0027S ITALIAN BAKERY",
+    "address": "3344 S Grove St, Ypsilanti, MI 48198-9236",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.213655598673,
+    "longitude": -83.544706059156,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247958",
+    "businessName": "QUICK MART",
+    "address": "9035 Textile Rd, Ypsilanti, MI 48197-7066",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48197",
+    "latitude": 42.202877591527,
+    "longitude": -83.581036320634,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10995",
+    "businessName": "ROUND HAUS PIZZA",
+    "address": "5970 Bridge Rd, Ypsilanti, MI 48197-8263",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48197",
+    "latitude": 42.203777709283,
+    "longitude": -83.557705098984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287530",
+    "businessName": "TEXTILE GAS AND GROCERY INC.",
+    "address": "10131 Textile Rd, Ypsilanti, MI 48197-9427",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48197",
+    "latitude": 42.20291721294,
+    "longitude": -83.560895089737,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12426",
+    "businessName": "WILLOW RUN PARTY STORE, INC.",
+    "address": "1278 Ridge Rd, Ypsilanti, MI 48198-3374",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.259045565843,
+    "longitude": -83.553825524073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274037",
+    "businessName": "YPSI IN \u0026 OUT",
+    "address": "1100 Share Ave, Ypsilanti, MI 48198-6485",
+    "city": "Ypsilanti Twp",
+    "zipCode": "48198",
+    "latitude": 42.230056165631,
+    "longitude": -83.583008052563,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

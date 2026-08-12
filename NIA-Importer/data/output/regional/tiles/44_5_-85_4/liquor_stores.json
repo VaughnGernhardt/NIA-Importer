@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0280448",
+    "businessName": "FIFE LAKE PARTY STORE",
+    "address": "228 E State St, Fife Lake, MI 49633-9322",
+    "city": "Fife Lake",
+    "zipCode": "49633",
+    "latitude": 44.575917147042,
+    "longitude": -85.347559657225,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283438",
+    "businessName": "FIFE LAKE EZ MARKET",
+    "address": "620 Boyd St, Fife Lake, MI 49633-9333",
+    "city": "Fife Lake Twp",
+    "zipCode": "49633",
+    "latitude": 44.584482875433,
+    "longitude": -85.352744157566,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

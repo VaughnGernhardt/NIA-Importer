@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800217969",
+    "propertyName": "CHIPPEWA COURT APARTMENTS",
+    "latitude": 42.98121399878623,
+    "longitude": -82.46237199959127,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800010155",
+    "propertyName": "GRANDVIEW TOWER",
+    "latitude": 42.973406999073475,
+    "longitude": -82.4272850002512,
+    "assistedUnits": 111,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800010247",
+    "propertyName": "JOHNSTONE APARTMENTS",
+    "latitude": 42.96070899919561,
+    "longitude": -82.42877599970525,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800010320",
+    "propertyName": "MARINERS COURT APARTMENTS",
+    "latitude": 42.95532799883407,
+    "longitude": -82.43851000039355,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800215126",
+    "propertyName": "SPRINGHILL III",
+    "latitude": 42.91784199896169,
+    "longitude": -82.49306500021184,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800010655",
+    "propertyName": "VILLAGE MANOR APARTMENTS",
+    "latitude": 42.947582999025826,
+    "longitude": -82.44343000044113,
+    "assistedUnits": 123,
+    "totalUnits": 123
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "141898",
+    "businessName": "FAMILY FARE #1524",
+    "address": "1204 N State St, Gladwin, MI 48624-1246",
+    "city": "Gladwin",
+    "zipCode": "48624",
+    "latitude": 43.990327747429,
+    "longitude": -84.485748977716,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157652",
+    "businessName": "FORWARD SHELL",
+    "address": "951 W Cedar Ave, Gladwin, MI 48624",
+    "city": "Gladwin",
+    "zipCode": "48624",
+    "latitude": 43.980758209457,
+    "longitude": -84.497564005767,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237846",
+    "businessName": "SATNAM PETROLEUM",
+    "address": "800 N Silverleaf St, Gladwin, MI 48624-1612",
+    "city": "Gladwin",
+    "zipCode": "48624",
+    "latitude": 43.986883387842,
+    "longitude": -84.486452435163,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

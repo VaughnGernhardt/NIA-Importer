@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0269403",
+    "businessName": "RED PARTY STORE",
+    "address": "14136 Oakville Waltz Rd, Willis, MI 48191-9611",
+    "city": "London Twp",
+    "zipCode": "48191",
+    "latitude": 42.079451386399,
+    "longitude": -83.570590468613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276537",
+    "businessName": "MAYBEE C STORE",
+    "address": "7595 Bluebush Rd, Maybee, MI 48159",
+    "city": "Maybee",
+    "zipCode": "48159",
+    "latitude": 42.003312137635,
+    "longitude": -83.513737069265,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

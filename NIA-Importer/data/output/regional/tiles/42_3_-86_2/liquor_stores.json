@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0266609",
+    "businessName": "BANGOR PETROLEUM",
+    "address": "204 W Monroe St, Bangor, MI 49013-1331",
+    "city": "Bangor",
+    "zipCode": "49013",
+    "latitude": 42.313497817717,
+    "longitude": -86.112321086421,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239684",
+    "businessName": "CALABASH PARTY STORE",
+    "address": "122 W Monroe St, Bangor, MI 49013-1333",
+    "city": "Bangor",
+    "zipCode": "49013",
+    "latitude": 42.313130936437,
+    "longitude": -86.111207327628,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

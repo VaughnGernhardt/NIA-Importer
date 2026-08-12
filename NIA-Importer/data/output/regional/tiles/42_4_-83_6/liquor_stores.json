@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "241216",
+    "businessName": "KROGER STORE #366",
+    "address": "51847 10 Mile Rd, South Lyon, MI 48178-9720",
+    "city": "Lyon Twp",
+    "zipCode": "48178",
+    "latitude": 42.463880249388,
+    "longitude": -83.55996897632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214329",
+    "businessName": "CVS/PHARMACY #8161",
+    "address": "47200 W 10 Mile Rd, Novi, MI 48374-2932",
+    "city": "Novi",
+    "zipCode": "48374",
+    "latitude": 42.46557722139,
+    "longitude": -83.512156548042,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133273",
+    "businessName": "KROGER STORE #632",
+    "address": "47650 Grand River Ave, Novi, MI 48374-1217",
+    "city": "Novi",
+    "zipCode": "48374",
+    "latitude": 42.490438672943,
+    "longitude": -83.518477963593,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162990",
+    "businessName": "SAM\u0027S CLUB #6657",
+    "address": "27300 Wixom Rd, Novi, MI 48374-1120",
+    "city": "Novi",
+    "zipCode": "48374",
+    "latitude": 42.490765061547,
+    "longitude": -83.535510205984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217639",
+    "businessName": "USA 2 GO",
+    "address": "47300 Citygate Dr, Novi, MI 48374-1355",
+    "city": "Novi",
+    "zipCode": "48374",
+    "latitude": 42.490960265407,
+    "longitude": -83.513873439212,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284008",
+    "businessName": "SAMANTHA Q, INC.",
+    "address": "9760 7 Mile Rd, Northville, MI 48167-9133",
+    "city": "Salem Twp",
+    "zipCode": "48167",
+    "latitude": 42.420590086698,
+    "longitude": -83.574971942699,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10619",
+    "businessName": "MEIJER #122",
+    "address": "49900 Grand River Ave, Wixom, MI 48393-3308",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.49616381202,
+    "longitude": -83.544326170352,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "businessId": "247353",
+    "businessName": "MARATHON STATION",
+    "address": "544 68th St SW, Kentwood, MI 49548-7122",
+    "city": "Byron Twp",
+    "zipCode": "49548",
+    "latitude": 42.84086085609,
+    "longitude": -85.676947293158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261984",
+    "businessName": "PELIA, LLC",
+    "address": "7101 Division Ave S, Wyoming, MI 49548-7131",
+    "city": "Byron Twp",
+    "zipCode": "49548",
+    "latitude": 42.835226744618,
+    "longitude": -85.663718719641,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230375",
+    "businessName": "THE LIQUOR STORE",
+    "address": "6135 Division Ave S, Grand Rapids, MI 49548-6727",
+    "city": "Byron Twp",
+    "zipCode": "49548",
+    "latitude": 42.852422700907,
+    "longitude": -85.663798344134,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279238",
+    "businessName": "76TH STREET LIQUOR",
+    "address": "51 76th St SE, Grand Rapids, MI 49508-7273",
+    "city": "Gaines Twp",
+    "zipCode": "49508",
+    "latitude": 42.826207171532,
+    "longitude": -85.662257065844,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281931",
+    "businessName": "CRYSTAL SPRINGS VINEYARD",
+    "address": "6630 KALAMAZOO AVE SE, KENTWOOD, MI 49508",
+    "city": "Gaines Twp",
+    "zipCode": "49508",
+    "latitude": 42.843522169821,
+    "longitude": -85.624670676672,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141963",
+    "businessName": "FAMILY FARE #265",
+    "address": "6127 Kalamazoo Ave SE, Kentwood, MI 49508-7019",
+    "city": "Gaines Twp",
+    "zipCode": "49508",
+    "latitude": 42.852672919029,
+    "longitude": -85.624935247022,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157339",
+    "businessName": "MEIJER #199",
+    "address": "1801 Marketplace Dr SE, Caledonia, MI 49316-8506",
+    "city": "Gaines Twp",
+    "zipCode": "49316",
+    "latitude": 42.844830993026,
+    "longitude": -85.624727920957,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282515",
+    "businessName": "SK PARTY HOUSE, LLC",
+    "address": "6572 Division Ave S, Grand Rapids, MI 49548-7845",
+    "city": "Gaines Twp",
+    "zipCode": "49548",
+    "latitude": 42.844401649522,
+    "longitude": -85.663622095537,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220205",
+    "businessName": "WALGREEN\u0027S #5534",
+    "address": "6020 Kalamazoo Ave SE, Kentwood, MI 49508-7018",
+    "city": "Gaines Twp",
+    "zipCode": "49508",
+    "latitude": 42.854313411898,
+    "longitude": -85.624789280564,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269612",
+    "businessName": "DI TOWN \u0026 COUNTRY",
+    "address": "4317 Kalamazoo Ave SE, Grand Rapids, MI 49508-3673",
+    "city": "Grand Rapids",
+    "zipCode": "49508",
+    "latitude": 42.885138371971,
+    "longitude": -85.626130487505,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237992",
+    "businessName": "AIKAN\u0027S LIQUORS",
+    "address": "1640 44th St SE, Kentwood, MI 49508",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.883603294017,
+    "longitude": -85.624912203176,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268260",
+    "businessName": "BUDDY\u0027S LIQUOR",
+    "address": "4443 Breton Rd SE, Kentwood, MI 49508-8424",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.88317857644,
+    "longitude": -85.606450401299,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282024",
+    "businessName": "CALEDONIA LIQ, LLC",
+    "address": "5262 EASTERN AVE SE, KENTWOOD, MI 49508",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.868006516859,
+    "longitude": -85.645027845457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241518",
+    "businessName": "EAST 44TH ST AGO",
+    "address": "1920 44th St SE, Kentwood, MI 49508",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.883649984035,
+    "longitude": -85.619269237535,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285871",
+    "businessName": "FRESH MINIMART",
+    "address": "1992 \u0026 1994 44th St SE, Kentwood, MI 49508-5049",
+    "city": "Kentwood",
+    "zipCode": "49508",
+    "latitude": 42.883656567841,
+    "longitude": -85.616321444584,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273312",
+    "businessName": "KEERAT PETROLEUM, LLC",
+    "address": "777 44th St SE, Kentwood, MI 49548-7527",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.883870160844,
+    "longitude": -85.646387047019,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260116",
+    "businessName": "KENTWOOD LIQUOR",
+    "address": "5416 Division Ave S, Kentwood, MI 49548-5721",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.865303199295,
+    "longitude": -85.663995622343,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "200453",
+    "businessName": "QUICK STOP",
+    "address": "751 48th St SE, Kentwood, MI 49548-7519",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.876635793858,
+    "longitude": -85.646964718772,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285579",
+    "businessName": "SOUTH POINT LIQUOR",
+    "address": "5522 Division Ave, Kentwood, MI 49548",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.863690430609,
+    "longitude": -85.663935607663,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241571",
+    "businessName": "THE TINY GIANT",
+    "address": "749 44th St SE, Kentwood, MI 49548-7527",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.88388127766,
+    "longitude": -85.647356697204,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156727",
+    "businessName": "UNCLE FRED\u0027S PARTY STORE",
+    "address": "4940 Division Ave S, Kentwood, MI 49548-4455",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.873161367532,
+    "longitude": -85.664267233483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281758",
+    "businessName": "Y\u0026K PARTY STORE",
+    "address": "5658 Division Ave S, Kentwood, MI 49548-5754",
+    "city": "Kentwood",
+    "zipCode": "49548",
+    "latitude": 42.860692711341,
+    "longitude": -85.663842362408,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274881",
+    "businessName": "BIG TOP MARKET",
+    "address": "3630 CLYDE PARK AVE SW, WYOMING, MI 49509-4093",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.898126963447,
+    "longitude": -85.684915187352,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156137",
+    "businessName": "CLYDE PARK FOODS",
+    "address": "4227 Clyde Park Ave SW, Wyoming, MI 49509-4035",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.887239226061,
+    "longitude": -85.684696563093,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214260",
+    "businessName": "CVS/PHARMACY #8290",
+    "address": "3601 Clyde Park Ave SW, Wyoming, MI 49509-4023",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.898748419746,
+    "longitude": -85.685088840408,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273767",
+    "businessName": "GERT\u0027S PARTY STORE",
+    "address": "1298 36th St SW, Wyoming, MI 49509-3468",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.898799400946,
+    "longitude": -85.697387041913,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276695",
+    "businessName": "J \u0026 R SUPERMARKET",
+    "address": "3900 Division Ave S, Wyoming, MI 49548-3274",
+    "city": "Wyoming",
+    "zipCode": "49548",
+    "latitude": 42.893187347891,
+    "longitude": -85.665002132749,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9846",
+    "businessName": "MEIJER #36",
+    "address": "5500 Clyde Park Ave SW, Wyoming, MI 49509-9525",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.864257526848,
+    "longitude": -85.683750050975,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286440",
+    "businessName": "SINRIA LLC",
+    "address": "835 36th St SW, Wyoming, MI 49509-3543",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.89886736911,
+    "longitude": -85.685896017556,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286302",
+    "businessName": "SUPER 7 BEER \u0026 WINE",
+    "address": "109 44th St SW, Wyoming, MI 49548-4103",
+    "city": "Wyoming",
+    "zipCode": "49548",
+    "latitude": 42.884084077445,
+    "longitude": -85.668164376705,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

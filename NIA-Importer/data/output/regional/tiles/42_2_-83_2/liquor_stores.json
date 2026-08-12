@@ -1,0 +1,452 @@
+[
+  {
+    "businessId": "0267234",
+    "businessName": "7-Eleven #32817",
+    "address": "3307 Greenfield Rd, Dearborn, MI 48120-1212",
+    "city": "Dearborn",
+    "zipCode": "48120",
+    "latitude": 42.290695923492,
+    "longitude": -83.173477968034,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219583",
+    "businessName": "A \u0026 D MARKET",
+    "address": "2205 S Schaefer Hwy, Detroit, MI 48217-1242",
+    "city": "Detroit",
+    "zipCode": "48217",
+    "latitude": 42.275133164692,
+    "longitude": -83.151358082127,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11765",
+    "businessName": "K C LIQUOR STORE",
+    "address": "1370 S Oakwood, Detroit, MI 48217-1328",
+    "city": "Detroit",
+    "zipCode": "48217",
+    "latitude": 42.285387754794,
+    "longitude": -83.163081048145,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242387",
+    "businessName": "WOODSIDE PARTY STORE",
+    "address": "9210 W Fort St, Detroit, MI 48209-2571",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.296489779258,
+    "longitude": -83.129009740089,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149909",
+    "businessName": "7TH STREET MARKET",
+    "address": "270 Southfield Rd, Ecorse, MI 48229-1168",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.244116046591,
+    "longitude": -83.155701669979,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224167",
+    "businessName": "ECORSE MARKET",
+    "address": "585 Visger Rd, Ecorse, MI 48229-1368",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.264212401243,
+    "longitude": -83.15277479164,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155505",
+    "businessName": "LOVELAND PARTY STORE",
+    "address": "4030 W Jefferson Ave, Ecorse, MI 48229-1749",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.251520854501,
+    "longitude": -83.141004314489,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278452",
+    "businessName": "MIDGET MARKEL LIQUOR",
+    "address": "4106-4108-4112 W Jefferson Ave, Ecorse, MI 48229",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.249790503639,
+    "longitude": -83.141736258308,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157493",
+    "businessName": "O\u0027BRIENS SUPERMARKET",
+    "address": "185 Southfield Rd, Ecorse, MI 48229-1158",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.243161712635,
+    "longitude": -83.152356870234,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144133",
+    "businessName": "RIVERSIDE LIQUOR",
+    "address": "348 Southfield Rd, Ecorse, MI 48229-1171",
+    "city": "Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.244798366039,
+    "longitude": -83.158406063205,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287092",
+    "businessName": "1608 RBM LLC",
+    "address": "2568 Dix Hwy, Lincoln Park, MI 48146-2511",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.247356690405,
+    "longitude": -83.195413004374,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259853",
+    "businessName": "7-ELEVEN # 25554-B",
+    "address": "1010 Southfield Rd, Lincoln Park, MI 48146-2604",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.248595630331,
+    "longitude": -83.171407624093,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289377",
+    "businessName": "AIDEN CONVENIENCE STORE LLC",
+    "address": "4141 Dix Hwy, Lincoln Park, MI 48146-4029",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.223043639364,
+    "longitude": -83.19413292168,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12543",
+    "businessName": "APPLEWOOD LIQUOR STORE",
+    "address": "743 Southfield Rd, Lincoln Park, MI 48146-2608",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.246990601245,
+    "longitude": -83.166571311692,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214300",
+    "businessName": "CVS/PHARMACY #8131",
+    "address": "2400 Fort St, Lincoln Park, MI 48146-2496",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.245330479184,
+    "longitude": -83.180013476774,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288881",
+    "businessName": "DB MARKET",
+    "address": "1086 Dix Hwy, Lincoln Park, MI 48146-1259",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.266174605645,
+    "longitude": -83.184125070901,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14637",
+    "businessName": "KROGER STORE #693",
+    "address": "2060 Dix Hwy, Lincoln Park, MI 48146-2274",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.254267977674,
+    "longitude": -83.193768019227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132627",
+    "businessName": "LINCOLN LIQUOR",
+    "address": "3065 Fort St, Lincoln Park, MI 48146-2448",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.241135944405,
+    "longitude": -83.179882395587,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222667",
+    "businessName": "LINCOLN MART",
+    "address": "900 Fort St, Lincoln Park, MI 48146-1811",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.262093647665,
+    "longitude": -83.167504241759,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283446",
+    "businessName": "LINCOLN PARK FUEL",
+    "address": "1312 Fort St, Lincoln Park, MI 48146-1815",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.256131747731,
+    "longitude": -83.172477166528,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232420",
+    "businessName": "LUXOR FOOD \u0026 LIQUOR SHOPPE",
+    "address": "3174 Dix Hwy, Lincoln Park, MI 48146-3452",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.238862921678,
+    "longitude": -83.194982557933,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291083",
+    "businessName": "MAANRIYU LLC",
+    "address": "735 Harrison Blvd, Lincoln Park, MI 48146-4323",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.223497638574,
+    "longitude": -83.171139099013,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155103",
+    "businessName": "MEIJER #208",
+    "address": "3710 Dix Hwy, Lincoln Park, MI 48146-3807",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.230837482452,
+    "longitude": -83.194675616188,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248734",
+    "businessName": "PINEWOOD PARTY STORE",
+    "address": "1412 Fort St, Lincoln Park, MI 48146-1806",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.255199661472,
+    "longitude": -83.173239732286,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131699",
+    "businessName": "ROCKEY TOWN PARTY SHOPPE",
+    "address": "4178 Dix Hwy, LINCOLN PARK, MI 48146",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.222568903024,
+    "longitude": -83.194251942029,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283186",
+    "businessName": "ROYALTON LIQUOR SPLASH",
+    "address": "455 Southfield Rd, Lincoln Park, MI 48146-2645",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.245196961944,
+    "longitude": -83.160483872294,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291325",
+    "businessName": "SANDIHA LIQUOR, LLC",
+    "address": "1317 Dix Hwy, Lincoln Park, MI 48146-1319",
+    "city": "Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.263185818885,
+    "longitude": -83.186428604075,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132639",
+    "businessName": "GLENOS MARKET",
+    "address": "2955 Oakwood Blvd, Melvindale, MI 48122-1249",
+    "city": "Melvindale",
+    "zipCode": "48122",
+    "latitude": 42.282843553571,
+    "longitude": -83.173500888158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245469",
+    "businessName": "MELVINDALE LIQUOR MARKET",
+    "address": "17973 Allen Rd, Melvindale, MI 48122-1570",
+    "city": "Melvindale",
+    "zipCode": "48122",
+    "latitude": 42.285040867913,
+    "longitude": -83.185067335936,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233413",
+    "businessName": "TOM BOY LIQUOR",
+    "address": "18800 Dix Rd, Melvindale, MI 48122-1816",
+    "city": "Melvindale",
+    "zipCode": "48122",
+    "latitude": 42.273713977483,
+    "longitude": -83.17766891345,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154334",
+    "businessName": "VINEYARDS LIQUOR STORE",
+    "address": "24692 Outer Dr, Melvindale, MI 48122-1840",
+    "city": "Melvindale",
+    "zipCode": "48122",
+    "latitude": 42.271343280319,
+    "longitude": -83.18645083393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284015",
+    "businessName": "M SANDHU LLC",
+    "address": "1874 Coolidge Hwy, River Rouge, MI 48218-1006",
+    "city": "River Rouge",
+    "zipCode": "48218",
+    "latitude": 42.275604574334,
+    "longitude": -83.142753943831,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280704",
+    "businessName": "RIVER ROUGE LIQUOR",
+    "address": "10391 W Jefferson Ave, River Rouge, MI 48218-1304",
+    "city": "River Rouge",
+    "zipCode": "48218",
+    "latitude": 42.27551965005,
+    "longitude": -83.132865425801,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "209637",
+    "businessName": "RIVER ROUGE MARKET",
+    "address": "99 Le Roy St, River Rouge, MI 48218-1641",
+    "city": "River Rouge",
+    "zipCode": "48218",
+    "latitude": 42.27460102687,
+    "longitude": -83.131844275454,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221907",
+    "businessName": "7-ELEVEN #34340-A",
+    "address": "12990 Fort St, Southgate, MI 48195-1061",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213868738235,
+    "longitude": -83.181199644846,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9698",
+    "businessName": "BEER COOLER #2",
+    "address": "12570 Dix Toledo Rd, Southgate, MI 48195-1752",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.21635578475,
+    "longitude": -83.193955956197,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246851",
+    "businessName": "CITGO",
+    "address": "13230 Fort St, Southgate, MI 48195",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.21185989689,
+    "longitude": -83.181096446882,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165013",
+    "businessName": "SOUTHTOWN MARKET",
+    "address": "13500 Dix Toledo Rd, Southgate, MI 48195-2432",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.209347673386,
+    "longitude": -83.19901622232,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15672",
+    "businessName": "WINE TOWN PARTY STORE",
+    "address": "13337 Dix Toledo Rd, Southgate, MI 48195-1849",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.210710791166,
+    "longitude": -83.197167263274,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227837",
+    "businessName": "BENNY\u0027S LIQUOR",
+    "address": "1012 Ford Ave, Wyandotte, MI 48192-3812",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.213971651492,
+    "longitude": -83.165606338497,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214210",
+    "businessName": "CVS/PHARMACY #8029",
+    "address": "2025 Fort St, Wyandotte, MI 48192-3841",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.213109720207,
+    "longitude": -83.180537010159,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9924",
+    "businessName": "DISCOUNT DRINKS, ETC.",
+    "address": "2811 Fort St, Wyandotte, MI 48192-4821",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.203990188505,
+    "longitude": -83.180119373962,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269902",
+    "businessName": "JERRY\u0027S FOOD MARKET",
+    "address": "1168 Oak St, Wyandotte, MI 48192-4924",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.203961993544,
+    "longitude": -83.16701036179,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282802",
+    "businessName": "SHOPPERS VALLEY MARKET",
+    "address": "750 Biddle Ave, Wyandotte, MI 48192-2716",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.226625525719,
+    "longitude": -83.150007604289,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206154",
+    "businessName": "WYANDOTTE PETROLEUM",
+    "address": "2000 Biddle Ave, Wyandotte, MI 48192-4031",
+    "city": "Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.214085967571,
+    "longitude": -83.150018865704,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

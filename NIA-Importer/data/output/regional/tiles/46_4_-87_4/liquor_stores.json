@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "246267",
+    "businessName": "CIRCLE K # 2746231",
+    "address": "5095 US Highway 41 S, Marquette, MI 49855-9001",
+    "city": "Chocolay Twp",
+    "zipCode": "49855",
+    "latitude": 46.48721889563,
+    "longitude": -87.350209924621,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249965",
+    "businessName": "GREAT LAKES FRESH MARKET",
+    "address": "101 Carmen Dr, Marquette, MI 49855-9380",
+    "city": "Chocolay Twp",
+    "zipCode": "49855",
+    "latitude": 46.485834615346,
+    "longitude": -87.348585415982,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12123",
+    "businessName": "KASSEL\u0027S KORNER",
+    "address": "6400 US Highway 41 S, Marquette, MI 49855-9017",
+    "city": "Chocolay Twp",
+    "zipCode": "49855",
+    "latitude": 46.463148464495,
+    "longitude": -87.316231233807,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

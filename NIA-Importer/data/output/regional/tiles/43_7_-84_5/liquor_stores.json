@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0270865",
+    "businessName": "SNACK STOP \u0026 SHOP, LLC",
+    "address": "3054 W Saginaw Rd, Coleman, MI 48618-9769",
+    "city": "Geneva Twp",
+    "zipCode": "48618",
+    "latitude": 43.711027861321,
+    "longitude": -84.489223186791,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248636",
+    "businessName": "COLEMAN M-18 EZ MART",
+    "address": "4993 M 18, Coleman, MI 48618-9504",
+    "city": "Warren Twp",
+    "zipCode": "48618",
+    "latitude": 43.755846244553,
+    "longitude": -84.486776107725,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

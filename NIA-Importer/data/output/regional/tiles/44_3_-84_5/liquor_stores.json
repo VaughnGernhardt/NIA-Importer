@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "157650",
+    "businessName": "FORWARD ENTERPRISES, INC.",
+    "address": "2007 N Saint Helen Rd, Saint Helen, MI 48656-9347",
+    "city": "Richfield Twp",
+    "zipCode": "48656",
+    "latitude": 44.363609670307,
+    "longitude": -84.410340220678,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144620",
+    "businessName": "SUNRISE STORES, L.L.C.",
+    "address": "1747 N Saint Helen Rd, Saint Helen, MI 48656-9514",
+    "city": "Richfield Twp",
+    "zipCode": "48656",
+    "latitude": 44.359069052202,
+    "longitude": -84.410302315557,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

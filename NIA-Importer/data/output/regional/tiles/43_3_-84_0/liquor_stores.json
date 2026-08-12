@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0283003",
+    "businessName": "LUCKY CORNER",
+    "address": "4570 Dixie Hwy, Saginaw, MI 48601-4256",
+    "city": "Bridgeport Twp",
+    "zipCode": "48601",
+    "latitude": 43.390727167735,
+    "longitude": -83.905492012601,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263048",
+    "businessName": "PAMMA LIQUOR INC",
+    "address": "4448 Dixie Hwy, Saginaw, MI 48601-4274",
+    "city": "Bridgeport Twp",
+    "zipCode": "48601",
+    "latitude": 43.391683159664,
+    "longitude": -83.906233428485,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9958",
+    "businessName": "LIQUOR BASKET PARTY STORE",
+    "address": "3581 Dixie Hwy, Saginaw, MI 48601-4204",
+    "city": "Buena Vista Twp",
+    "zipCode": "48601",
+    "latitude": 43.399640518776,
+    "longitude": -83.911525889309,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246531",
+    "businessName": "GREAT GIANT OF SAGINAW, INC.",
+    "address": "3216 Sheridan Ave, Saginaw, MI 48601-4452",
+    "city": "Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.397044629331,
+    "longitude": -83.935852192713,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265305",
+    "businessName": "IN \u0026 OUT PARTY STORE",
+    "address": "3241 S Washington Ave, Saginaw, MI 48601-4907",
+    "city": "Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.395210026684,
+    "longitude": -83.955325665491,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238069",
+    "businessName": "KANWALPREET, LLC",
+    "address": "2076 Williamson St, Saginaw, MI 48601-4464",
+    "city": "Saginaw",
+    "zipCode": "48601",
+    "latitude": 43.393714544225,
+    "longitude": -83.939973188369,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282290",
+    "businessName": "FASTWAY PARTY STORE",
+    "address": "4991 EAST RD, SAGINAW, MI 48601",
+    "city": "Spaulding Twp",
+    "zipCode": "48601",
+    "latitude": 43.351112527145,
+    "longitude": -83.954387146196,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "businessId": "0287099",
+    "businessName": "SINGH BEVERAGE 2 LLC",
+    "address": "16203 S US Highway 27, Lansing, MI 48906-5634",
+    "city": "De Witt Twp",
+    "zipCode": "48906",
+    "latitude": 42.774383598997,
+    "longitude": -84.669311256153,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273360",
+    "businessName": "BJ\u0027S WHOLESALE CLUB",
+    "address": "825 N MARKETPLACE BLVD, LANSING, MI 48917",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.741273610408,
+    "longitude": -84.675046398161,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9953",
+    "businessName": "KROGER STORE #888",
+    "address": "6430 W Saginaw Hwy, Lansing, MI 48917-1106",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.741118205789,
+    "longitude": -84.643096000435,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227906",
+    "businessName": "LANSING VENTURES, INC.",
+    "address": "4037 W Saginaw Hwy, Lansing, MI 48917-2152",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.741073645253,
+    "longitude": -84.605510864163,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272098",
+    "businessName": "LM BROS. #3, INC.",
+    "address": "6007-6009 W Saginaw Hwy, Lansing, MI 48917",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.740989593873,
+    "longitude": -84.634906468458,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9711",
+    "businessName": "MEIJER #23",
+    "address": "5125 W Saginaw Hwy, Lansing, MI 48917-2635",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.74105153884,
+    "longitude": -84.622608396612,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9823",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "4500 W Saginaw Hwy, Lansing, MI 48917-2703",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.741120473228,
+    "longitude": -84.613555966763,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12095",
+    "businessName": "QUALITY DAIRY COMPANY",
+    "address": "6400 W St Joe Hwy, Lansing, MI 48917-4877",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.726622133775,
+    "longitude": -84.642386557379,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250355",
+    "businessName": "SAM\u0027S W PARTY STORE",
+    "address": "104 S Waverly Rd, Lansing, MI 48917-3625",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.73378998711,
+    "longitude": -84.603020213186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "187252",
+    "businessName": "WAL-MART SUPERCENTER #2869",
+    "address": "409 N Marketplace Blvd, Lansing, MI 48917-7732",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.739899108815,
+    "longitude": -84.674489479195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284547",
+    "businessName": "BKJ \u0026 SONS, LLC",
+    "address": "3820 W Saginaw St, Lansing, MI 48917-2201",
+    "city": "Lansing Twp",
+    "zipCode": "48917",
+    "latitude": 42.741150614978,
+    "longitude": -84.601430809585,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237748",
+    "businessName": "FABIANO\u0027S GROCERY AND DELI",
+    "address": "8949 W Grand River Hwy, Grand Ledge, MI 48837-9229",
+    "city": "Watertown Twp",
+    "zipCode": "48837",
+    "latitude": 42.790657553942,
+    "longitude": -84.699967600143,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "250216",
+    "businessName": "A \u0026 C MILAN, INC.",
+    "address": "1200 Dexter St, Milan, MI 48160-1100",
+    "city": "Milan",
+    "zipCode": "48160",
+    "latitude": 42.08385290829,
+    "longitude": -83.676177281726,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246788",
+    "businessName": "CITGO",
+    "address": "341 County St, Milan, MI 48160-1386",
+    "city": "Milan",
+    "zipCode": "48160",
+    "latitude": 42.084283932488,
+    "longitude": -83.677106277911,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271275",
+    "businessName": "KAJY MILAN, INC.",
+    "address": "1225 Dexter St, Milan, MI 48160-1168",
+    "city": "Milan",
+    "zipCode": "48160",
+    "latitude": 42.083166065188,
+    "longitude": -83.676419784366,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147179",
+    "businessName": "KROGER STORE #576",
+    "address": "531 W Main St, Milan, MI 48160-9559",
+    "city": "Milan",
+    "zipCode": "48160",
+    "latitude": 42.09010234493,
+    "longitude": -83.696878201868,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "189753",
+    "businessName": "MILAN CITY MARKET",
+    "address": "825 Dexter St, Milan, MI 48160-1150",
+    "city": "Milan",
+    "zipCode": "48160",
+    "latitude": 42.082940739973,
+    "longitude": -83.676448462138,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "11118",
+    "businessName": "RIC\u0027S FOOD CENTER II",
+    "address": "1006 E Center St, Ithaca, MI 48847-1618",
+    "city": "Ithaca",
+    "zipCode": "48847",
+    "latitude": 43.291590442978,
+    "longitude": -84.593256415339,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274011",
+    "businessName": "THE KEG PARTY STORE",
+    "address": "1044 E Center St, Ithaca, MI 48847-1600",
+    "city": "Ithaca",
+    "zipCode": "48847",
+    "latitude": 43.291590442943,
+    "longitude": -84.592601621019,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17631",
+    "businessName": "BEACON \u0026 BRIDGE MARKET",
+    "address": "1210 E Washington Rd, Ithaca, MI 48847-9490",
+    "city": "North Star Twp",
+    "zipCode": "48847",
+    "latitude": 43.29159750927,
+    "longitude": -84.580032492861,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0274800",
+    "businessName": "THE BUCKLEY GENERAL STORE",
+    "address": "115 W Wexford Ave, Buckley, MI 49620-5102",
+    "city": "Buckley",
+    "zipCode": "49620",
+    "latitude": 44.504284816046,
+    "longitude": -85.677362373136,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247905",
+    "businessName": "NORTHLAND SPEED MART, LLC",
+    "address": "2255 E M 113, Kingsley, MI 49649",
+    "city": "Kingsley",
+    "zipCode": "49649",
+    "latitude": 44.584566347009,
+    "longitude": -85.616831452719,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141227",
+    "businessName": "GAS-N-SHOP",
+    "address": "7072 M 37, Kingsley, MI 49649-9317",
+    "city": "Mayfield Twp",
+    "zipCode": "49649",
+    "latitude": 44.583577148057,
+    "longitude": -85.656037414178,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

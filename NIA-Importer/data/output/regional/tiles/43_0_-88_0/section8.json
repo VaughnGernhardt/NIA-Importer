@@ -1,0 +1,402 @@
+[
+  {
+    "propertyId": "800022856",
+    "propertyName": "ATKINSON COURT",
+    "latitude": 43.08472899911716,
+    "longitude": -87.92483900035428,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800022857",
+    "propertyName": "AUER COURT APARTMENTS",
+    "latitude": 43.044101999301425,
+    "longitude": -87.93111099993875,
+    "assistedUnits": 54,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800022885",
+    "propertyName": "BOULEVARD APARTMENTS",
+    "latitude": 43.01399499929275,
+    "longitude": -87.94674300011772,
+    "assistedUnits": 138,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800022896",
+    "propertyName": "BURNHAM VILLAGE APTS.",
+    "latitude": 43.01034499926057,
+    "longitude": -87.97809899963879,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800247736",
+    "propertyName": "Boulevard Apartments",
+    "latitude": 43.0444389990561,
+    "longitude": -87.94954599982402,
+    "assistedUnits": 35,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800502178",
+    "propertyName": "Bronzeville Apartments",
+    "latitude": 43.06050899912601,
+    "longitude": -87.91876000021533,
+    "assistedUnits": 4,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800069645",
+    "propertyName": "C. G. ROBINSON TERRACE",
+    "latitude": 43.05718199885413,
+    "longitude": -87.93127300032047,
+    "assistedUnits": 24,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800022902",
+    "propertyName": "CALVARY GARDENS",
+    "latitude": 43.073329998814245,
+    "longitude": -87.93167500000337,
+    "assistedUnits": 70,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800023197",
+    "propertyName": "CALVIN COURTYARD APARTMENTS I \u0026 II",
+    "latitude": 43.058261999018654,
+    "longitude": -87.9141749999035,
+    "assistedUnits": 128,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800022913",
+    "propertyName": "CASA CATALINA",
+    "latitude": 43.012533998781954,
+    "longitude": -87.95947200013292,
+    "assistedUnits": 15,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800022935",
+    "propertyName": "CLARE CENTRAL/CLARE PLACE",
+    "latitude": 43.07881099885466,
+    "longitude": -87.96698499982452,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800022936",
+    "propertyName": "CLARE TOWERS APARTMENTS",
+    "latitude": 43.01504499936239,
+    "longitude": -87.95008399994936,
+    "assistedUnits": 140,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800022938",
+    "propertyName": "CLARENCE PARRISH APTS.",
+    "latitude": 43.075766998998915,
+    "longitude": -87.9145130000123,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800022948",
+    "propertyName": "CONGRESS \u0026 ERIN WAY",
+    "latitude": 43.02113299923731,
+    "longitude": -87.96302800004972,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  },
+  {
+    "propertyId": "800221438",
+    "propertyName": "CONVENT HILL GARDENS",
+    "latitude": 43.04801799936688,
+    "longitude": -87.9061140000408,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800256421",
+    "propertyName": "Eighteen87 On Water",
+    "latitude": 43.05609799934274,
+    "longitude": -87.90040899999568,
+    "assistedUnits": 11,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800023006",
+    "propertyName": "FERNWOOD COURT",
+    "latitude": 43.07939499932307,
+    "longitude": -87.99525999980493,
+    "assistedUnits": 120,
+    "totalUnits": 121
+  },
+  {
+    "propertyId": "800502138",
+    "propertyName": "Five Points Lofts",
+    "latitude": 43.07925699920005,
+    "longitude": -87.91636199966666,
+    "assistedUnits": 11,
+    "totalUnits": 19
+  },
+  {
+    "propertyId": "800022839",
+    "propertyName": "GARDENVIEW APARTMENTS",
+    "latitude": 43.09926899916804,
+    "longitude": -87.94656400001757,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800023043",
+    "propertyName": "GRAND HAVEN APARTMENTS",
+    "latitude": 43.03736999874399,
+    "longitude": -87.93768299999722,
+    "assistedUnits": 79,
+    "totalUnits": 79
+  },
+  {
+    "propertyId": "800023060",
+    "propertyName": "HADLEY TERRACE",
+    "latitude": 43.06957299908447,
+    "longitude": -87.95754800013549,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800022986",
+    "propertyName": "HARBOUR PORTFOLIO FKA HISPANIC HOUSING CORP",
+    "latitude": 43.04012199890782,
+    "longitude": -87.95228400013131,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800022898",
+    "propertyName": "HIGHLAND PARK APARTMENTS",
+    "latitude": 43.04457199881603,
+    "longitude": -87.93367299962065,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800023085",
+    "propertyName": "HOME SWEET HOME",
+    "latitude": 43.01531399895293,
+    "longitude": -87.92378099964695,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023098",
+    "propertyName": "JEFFERSON COURT",
+    "latitude": 43.04682899923379,
+    "longitude": -87.90639799972294,
+    "assistedUnits": 221,
+    "totalUnits": 222
+  },
+  {
+    "propertyId": "800023115",
+    "propertyName": "LA CORONA  APARTMENTS",
+    "latitude": 43.01313899934559,
+    "longitude": -87.9142080004138,
+    "assistedUnits": 55,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800023187",
+    "propertyName": "LH Scattered Sites",
+    "latitude": 43.080872998798675,
+    "longitude": -87.93992800038501,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023139",
+    "propertyName": "LINDSAY COMMONS",
+    "latitude": 43.05120599922267,
+    "longitude": -87.93782100008947,
+    "assistedUnits": 115,
+    "totalUnits": 115
+  },
+  {
+    "propertyId": "800023348",
+    "propertyName": "LSS OF WISCONSIN 9 SCATTERED SITES",
+    "latitude": 43.07889799874581,
+    "longitude": -87.9951100000171,
+    "assistedUnits": 126,
+    "totalUnits": 126
+  },
+  {
+    "propertyId": "800023151",
+    "propertyName": "MAIN STREET GARDENS",
+    "latitude": 43.02616999879964,
+    "longitude": -87.98775100031128,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800023164",
+    "propertyName": "MCKINLEY GARDENS",
+    "latitude": 43.04844699938466,
+    "longitude": -87.93907800009013,
+    "assistedUnits": 119,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800023170",
+    "propertyName": "MEADOW VILLAGE",
+    "latitude": 43.05045299934837,
+    "longitude": -87.93404500006464,
+    "assistedUnits": 90,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800022901",
+    "propertyName": "MELVIN J BATTLE APTS",
+    "latitude": 43.075305999215466,
+    "longitude": -87.91426799978993,
+    "assistedUnits": 35,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023463",
+    "propertyName": "NEW WAICO APARTMENTS",
+    "latitude": 43.053930998994986,
+    "longitude": -87.92683100012377,
+    "assistedUnits": 143,
+    "totalUnits": 143
+  },
+  {
+    "propertyId": "800023202",
+    "propertyName": "NORTHWOOD  APARTMENTS",
+    "latitude": 43.06490499903293,
+    "longitude": -87.91407600016932,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800023302",
+    "propertyName": "PARC WEST",
+    "latitude": 43.06164399930457,
+    "longitude": -87.95730000043837,
+    "assistedUnits": 51,
+    "totalUnits": 51
+  },
+  {
+    "propertyId": "800022907",
+    "propertyName": "PARK HILL SENIOR APARTMENTS",
+    "latitude": 43.078703998917106,
+    "longitude": -87.91741500035113,
+    "assistedUnits": 62,
+    "totalUnits": 62
+  },
+  {
+    "propertyId": "800023284",
+    "propertyName": "PLYMOUTH HILL",
+    "latitude": 43.05140999893613,
+    "longitude": -87.92252399964629,
+    "assistedUnits": 110,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800023113",
+    "propertyName": "REV. DAVILA VILLAGE",
+    "latitude": 43.019094999127326,
+    "longitude": -87.91951599990057,
+    "assistedUnits": 13,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800023305",
+    "propertyName": "RICHARDSON MANOR",
+    "latitude": 43.05704899886824,
+    "longitude": -87.92581000012467,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023369",
+    "propertyName": "ST MARK PLACE",
+    "latitude": 43.05726299934584,
+    "longitude": -87.93035400042862,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800023378",
+    "propertyName": "STATE STREET APTS",
+    "latitude": 43.043210999004124,
+    "longitude": -87.93033500016205,
+    "assistedUnits": 51,
+    "totalUnits": 52
+  },
+  {
+    "propertyId": "800023418",
+    "propertyName": "THE FOUNTAINS OF WEST ALLIS",
+    "latitude": 43.01780799899228,
+    "longitude": -87.98645400012765,
+    "assistedUnits": 35,
+    "totalUnits": 35
+  },
+  {
+    "propertyId": "800079208",
+    "propertyName": "THE GARDENS",
+    "latitude": 43.0814619988895,
+    "longitude": -87.9874700001039,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800023431",
+    "propertyName": "TOSA GLEN",
+    "latitude": 43.04856399892845,
+    "longitude": -87.99803400009725,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800112186",
+    "propertyName": "UCC VILLAGE",
+    "latitude": 43.02029499903585,
+    "longitude": -87.92059200015126,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023382",
+    "propertyName": "URBAN WORKS TOO!",
+    "latitude": 43.08681199906972,
+    "longitude": -87.91704299990714,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023466",
+    "propertyName": "WALNUT PARK APTS",
+    "latitude": 43.051671999143025,
+    "longitude": -87.92405500018164,
+    "assistedUnits": 148,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800023509",
+    "propertyName": "WINCHESTER VILLAGE",
+    "latitude": 43.004803999219405,
+    "longitude": -87.90175600040803,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800041913",
+    "propertyName": "WINDSOR COURT",
+    "latitude": 43.04567699924618,
+    "longitude": -87.93611800002499,
+    "assistedUnits": 239,
+    "totalUnits": 239
+  }
+]

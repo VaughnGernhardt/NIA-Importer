@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "233809",
+    "businessName": "MEIJER STORE #270",
+    "address": "2805 W Cheesman Rd, Alma, MI 48801-1095",
+    "city": "Alma",
+    "zipCode": "48801",
+    "latitude": 43.400654959516,
+    "longitude": -84.661685275094,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277534",
+    "businessName": "MACKENZIE\u0027S PARTY STORE",
+    "address": "7890 N Alger Rd, Alma, MI 48801-9321",
+    "city": "Pine River Twp",
+    "zipCode": "48801",
+    "latitude": 43.40660285237,
+    "longitude": -84.666683593123,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

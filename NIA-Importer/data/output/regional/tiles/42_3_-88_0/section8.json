@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005709",
+    "propertyName": "AUGUSTANA GROUP HOME",
+    "latitude": 42.362213999388636,
+    "longitude": -87.97801199960014,
+    "assistedUnits": 15,
+    "totalUnits": 15
+  },
+  {
+    "propertyId": "800005717",
+    "propertyName": "BROOKHAVEN APARTMENTS",
+    "latitude": 42.36178099873021,
+    "longitude": -87.91841500043384,
+    "assistedUnits": 181,
+    "totalUnits": 181
+  },
+  {
+    "propertyId": "800005921",
+    "propertyName": "GRAND OAKS APARTMENTS",
+    "latitude": 42.38652999876273,
+    "longitude": -87.99705099973299,
+    "assistedUnits": 45,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800005980",
+    "propertyName": "HICKORY ROAD MANOR",
+    "latitude": 42.39699399892429,
+    "longitude": -87.9058529999249,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  }
+]

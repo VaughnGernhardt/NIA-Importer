@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0286529",
+    "businessName": "ALLEN ENTERPRISE OF STANDISH, LLC",
+    "address": "4378 S HURON RD, STANDISH, MI 48658-9498",
+    "city": "Lincoln Twp",
+    "zipCode": "48658",
+    "latitude": 43.957603758969,
+    "longitude": -83.964122844621,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280214",
+    "businessName": "GAUTAMA LLC",
+    "address": "201 N Main St, Standish, MI 48658-2520",
+    "city": "Standish",
+    "zipCode": "48658",
+    "latitude": 43.983886441517,
+    "longitude": -83.959795990346,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "199894",
+    "businessName": "SAGAMOK GAS \u0026 CONVENIENCE STORE, LLC",
+    "address": "5537 S Huron Rd, Pinconning, MI 48650-6414",
+    "city": "Standish Twp",
+    "zipCode": "48650",
+    "latitude": 43.923872190356,
+    "longitude": -83.966398817285,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

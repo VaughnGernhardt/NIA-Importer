@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0268232",
+    "businessName": "CARP LAKE GENERAL STORE",
+    "address": "6420 E Gill Rd, Carp Lake, MI 49718-9762",
+    "city": "Carp Lake Twp",
+    "zipCode": "49718",
+    "latitude": 45.694527059511,
+    "longitude": -84.781814108943,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132156",
+    "businessName": "WILLIAMS GROCERY",
+    "address": "5727 US 31, Levering, MI 49755",
+    "city": "Mckinley Twp",
+    "zipCode": "49755",
+    "latitude": 45.633077318384,
+    "longitude": -84.78249056099,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800022910",
+    "propertyName": "CANTICLE COURT",
+    "latitude": 42.985415999197116,
+    "longitude": -87.86924199972218,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800022931",
+    "propertyName": "CIFALDI SQUARE",
+    "latitude": 42.943394999339965,
+    "longitude": -87.85768900041509,
+    "assistedUnits": 21,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800022999",
+    "propertyName": "EVERGREEN SQUARE OF CUDAHY",
+    "latitude": 42.937162999048915,
+    "longitude": -87.85524400001074,
+    "assistedUnits": 105,
+    "totalUnits": 105
+  },
+  {
+    "propertyId": "800023046",
+    "propertyName": "GRANT PARK SQUARE",
+    "latitude": 42.90390999894945,
+    "longitude": -87.8652799999245,
+    "assistedUnits": 153,
+    "totalUnits": 153
+  },
+  {
+    "propertyId": "800212992",
+    "propertyName": "NICHOLSON SQUARE APTS.",
+    "latitude": 42.95884599888772,
+    "longitude": -87.86976399995399,
+    "assistedUnits": 12,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800023474",
+    "propertyName": "WASHINGTON SQUARE APARTMENTS",
+    "latitude": 42.94471399929517,
+    "longitude": -87.87338099997017,
+    "assistedUnits": 88,
+    "totalUnits": 88
+  }
+]

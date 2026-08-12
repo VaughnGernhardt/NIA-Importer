@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4605-canal-ave-sw",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4605, Canal Ave. SW Grandville, MI 49418-8731",
+    "city": "Canal Ave. SW Grandville",
+    "zipCode": "49418",
+    "latitude": 42.880989958425,
+    "longitude": -85.772418557368
+  },
+  {
+    "storeId": "3603-byron-center-ave-sw",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3603, Byron Center Ave Sw Wyoming, MI 49519",
+    "city": "Byron Center Ave Sw Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.899238827843,
+    "longitude": -85.724598218615
+  }
+]

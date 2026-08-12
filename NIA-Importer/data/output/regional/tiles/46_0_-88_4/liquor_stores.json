@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0285754",
+    "businessName": "CRYSTAL FALLS MART",
+    "address": "3 N 5th St, Crystal Falls, MI 49920-1209",
+    "city": "Crystal Falls",
+    "zipCode": "49920",
+    "latitude": 46.096881032068,
+    "longitude": -88.333923630359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16166",
+    "businessName": "KRIST FOOD MART # 4",
+    "address": "1324 US Highway 2, Crystal Falls, MI 49920-1045",
+    "city": "Crystal Falls Twp",
+    "zipCode": "49920",
+    "latitude": 46.097761368115,
+    "longitude": -88.349781356595,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

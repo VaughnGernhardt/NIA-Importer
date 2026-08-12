@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "11445",
+    "businessName": "QUALITY DAIRY COMPANY FOOD STORES",
+    "address": "173 W Maple St, Mason, MI 48854-1656",
+    "city": "Mason",
+    "zipCode": "48854",
+    "latitude": 42.580140557293,
+    "longitude": -84.444169438468,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238516",
+    "businessName": "ROCK\u0027S PARTY STORE",
+    "address": "515 N Cedar St, Mason, MI 48854-2550",
+    "city": "Mason",
+    "zipCode": "48854",
+    "latitude": 42.585818651626,
+    "longitude": -84.452979459353,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261751",
+    "businessName": "FAIRVIEW CORNERS MARKET",
+    "address": "1885 W Dansville Rd, Mason, MI 48854-8602",
+    "city": "Vevay Twp",
+    "zipCode": "48854",
+    "latitude": 42.574447469286,
+    "longitude": -84.417920771948,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15012",
+    "businessName": "MERINDORF MEATS \u0026 MORE",
+    "address": "2289 W Barnes Rd, Mason, MI 48854-9232",
+    "city": "Vevay Twp",
+    "zipCode": "48854",
+    "latitude": 42.52399856655,
+    "longitude": -84.434633631906,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800010266",
+    "propertyName": "LAKESIDE TOWERS",
+    "latitude": 42.619651998840766,
+    "longitude": -82.97546899988271,
+    "assistedUnits": 114,
+    "totalUnits": 115
+  },
+  {
+    "propertyId": "800221227",
+    "propertyName": "LAKESIDE VILLA",
+    "latitude": 42.619651998840766,
+    "longitude": -82.97546899988271,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800225874",
+    "propertyName": "PARTRIDGE CREEK SR VILLAGE",
+    "latitude": 42.6220439993212,
+    "longitude": -82.95323700005622,
+    "assistedUnits": 65,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800010571",
+    "propertyName": "ST GEORGE TOWER",
+    "latitude": 42.606303998744316,
+    "longitude": -82.97216499986098,
+    "assistedUnits": 204,
+    "totalUnits": 205
+  }
+]

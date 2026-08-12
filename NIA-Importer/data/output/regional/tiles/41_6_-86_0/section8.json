@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800006576",
+    "propertyName": "BRIARWOOD VILLAGE",
+    "latitude": 41.649282999233805,
+    "longitude": -85.95388199959466,
+    "assistedUnits": 24,
+    "totalUnits": 190
+  },
+  {
+    "propertyId": "800006620",
+    "propertyName": "CARRIAGE HOUSE ELKHART",
+    "latitude": 41.65198299894283,
+    "longitude": -85.95238600011773,
+    "assistedUnits": 136,
+    "totalUnits": 230
+  },
+  {
+    "propertyId": "800215718",
+    "propertyName": "OAKLAND ESTATES APARTMENTS",
+    "latitude": 41.66329599924785,
+    "longitude": -85.9845659999944,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800006900",
+    "propertyName": "OAKLAWN APARTMENTS",
+    "latitude": 41.66329599924785,
+    "longitude": -85.9845659999944,
+    "assistedUnits": 21,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800209693",
+    "propertyName": "RIVER RUN APARTMENTS",
+    "latitude": 41.68186899919958,
+    "longitude": -85.96538200009661,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800007012",
+    "propertyName": "STRATFORD COMMONS",
+    "latitude": 41.66188099928573,
+    "longitude": -85.98499100014185,
+    "assistedUnits": 159,
+    "totalUnits": 159
+  }
+]

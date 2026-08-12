@@ -1,0 +1,142 @@
+[
+  {
+    "businessId": "0268691",
+    "businessName": "MIDLAND LIQUOR \u0026 C-STORE",
+    "address": "2502 N Eastman Rd, Midland, MI 48642-7849",
+    "city": "Larkin Twp",
+    "zipCode": "48642",
+    "latitude": 43.683823633902,
+    "longitude": -84.247119703933,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241938",
+    "businessName": "ANNA\u0027S MARKET",
+    "address": "1618 Jefferson Ave, Midland, MI 48640-5924",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.615031923066,
+    "longitude": -84.227117961673,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241072",
+    "businessName": "CORK \u0027N\u0027 ALE MIDLAND",
+    "address": "1607 E Patrick Rd, Midland, MI 48642-6414",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.612312843776,
+    "longitude": -84.209067852574,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10118",
+    "businessName": "EASTMAN PARTY STORE \u0026 THE MOUSE HOUSE",
+    "address": "5207 Eastman Ave, Midland, MI 48640-2545",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.644665846879,
+    "longitude": -84.246869268733,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14753",
+    "businessName": "JACK\u0027S FRUIT MARKET, INC.",
+    "address": "2000 S Saginaw Rd, Midland, MI 48640-6817",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.613446794452,
+    "longitude": -84.212923512044,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13881",
+    "businessName": "KROGER STORE #277",
+    "address": "2808 Ashman St, Midland, MI 48640-4409",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.624827362136,
+    "longitude": -84.229147047779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11535",
+    "businessName": "LA LONDE\u0027S FOODS",
+    "address": "4007 Jefferson Ave, Midland, MI 48640-3524",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.634048335783,
+    "longitude": -84.226972168728,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12389",
+    "businessName": "MEIJER #108",
+    "address": "7300 Eastman Ave, Midland, MI 48642-7808",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.66216245743,
+    "longitude": -84.247052209443,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224117",
+    "businessName": "MIDLAND WINE AND SPIRITS",
+    "address": "517 S Saginaw Rd, Midland, MI 48640-4516",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.623331639041,
+    "longitude": -84.223482567557,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280778",
+    "businessName": "REGAL PARTY STORE",
+    "address": "1601 E Wheeler St, Midland, MI 48642-3059",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.641156954413,
+    "longitude": -84.207845127947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237922",
+    "businessName": "ROYAL PARTY STORE",
+    "address": "1708 E Ashman St, Midland, MI 48642-4067",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.626569168796,
+    "longitude": -84.206915877615,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282012",
+    "businessName": "ROYAL PARTY STORE II",
+    "address": "810 Ashman St, Midland, MI 48640-4909",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.617328614636,
+    "longitude": -84.239611597816,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224844",
+    "businessName": "SAGINAW ROAD PARTY STORE",
+    "address": "4900 N Saginaw Rd, Midland, MI 48640-2324",
+    "city": "Midland",
+    "zipCode": "48640",
+    "latitude": 43.641314414469,
+    "longitude": -84.287659427214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160395",
+    "businessName": "WAL-MART SUPERCENTER #2619",
+    "address": "910 Joe Mann Blvd, Midland, MI 48642-8903",
+    "city": "Midland",
+    "zipCode": "48642",
+    "latitude": 43.659876757984,
+    "longitude": -84.23616064064,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

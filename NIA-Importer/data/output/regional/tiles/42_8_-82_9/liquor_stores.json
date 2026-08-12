@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "239545",
+    "businessName": "VINCKIER ARMADA FOODS",
+    "address": "22960 W Main St, Armada, MI 48005-3241",
+    "city": "Armada",
+    "zipCode": "48005",
+    "latitude": 42.843764058576,
+    "longitude": -82.886488391061,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259793",
+    "businessName": "SUNRISE STORE #34",
+    "address": "68970 North Ave, Ray, MI 48096-1515",
+    "city": "Ray Twp",
+    "zipCode": "48096",
+    "latitude": 42.806079082601,
+    "longitude": -82.88301172979,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

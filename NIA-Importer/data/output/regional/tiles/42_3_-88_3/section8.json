@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800231935",
+    "propertyName": "FOX HILL SENIOR HOUSING, INC.",
+    "latitude": 42.3311529990528,
+    "longitude": -88.27412800017738,
+    "assistedUnits": 60,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800005963",
+    "propertyName": "HILLCREST APARTMENTS",
+    "latitude": 42.35487299885013,
+    "longitude": -88.26993100020307,
+    "assistedUnits": 88,
+    "totalUnits": 88
+  },
+  {
+    "propertyId": "800501714",
+    "propertyName": "Johnsburg Workforce Housing dba Tuckaway Townhome",
+    "latitude": 42.37955199916406,
+    "longitude": -88.2706080002456,
+    "assistedUnits": 5,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800247925",
+    "propertyName": "Pearl Street Commons, LLC",
+    "latitude": 42.34746499896538,
+    "longitude": -88.26665599959534,
+    "assistedUnits": 6,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800501463",
+    "propertyName": "Taylor Place Apartments",
+    "latitude": 42.343219999382065,
+    "longitude": -88.27900999969182,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "3410-isabella-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3410, Isabella Street Midland, MI 48640",
+    "city": "Isabella Street Midland",
+    "zipCode": "48640",
+    "latitude": 43.612166570399,
+    "longitude": -84.288457184974
+  },
+  {
+    "storeId": "921-joe-mann-blvd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 921, Joe Mann Blvd. Midland, MI 48642-8903",
+    "city": "Joe Mann Blvd. Midland",
+    "zipCode": "48642",
+    "latitude": 43.660026968733,
+    "longitude": -84.237565942303
+  },
+  {
+    "storeId": "404-s-saginaw-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 404, S Saginaw Rd Midland, MI 48640-4521",
+    "city": "S Saginaw Rd Midland",
+    "zipCode": "48640",
+    "latitude": 43.62409660573,
+    "longitude": -84.224481261786
+  }
+]

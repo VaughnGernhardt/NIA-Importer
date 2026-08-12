@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0261445",
+    "businessName": "GRAB-N-GO",
+    "address": "11840 Toledo Beach Rd, La Salle, MI 48145",
+    "city": "La Salle Twp",
+    "zipCode": "48145",
+    "latitude": 41.830803967085,
+    "longitude": -83.414308743992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288947",
+    "businessName": "GAYAR HOLDINGS, LLC",
+    "address": "4180 Luna Pier Rd, Luna Pier, MI 48157-9797",
+    "city": "Luna Pier",
+    "zipCode": "48157",
+    "latitude": 41.809185350045,
+    "longitude": -83.446950193202,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132111",
+    "businessName": "LUNA PIER MARKET",
+    "address": "4348 Luna Pier Rd, Luna Pier, MI 48157-9522",
+    "city": "Luna Pier",
+    "zipCode": "48157",
+    "latitude": 41.809238645334,
+    "longitude": -83.443162174619,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282470",
+    "businessName": "ARZOYI LLC",
+    "address": "15252-54-15256 S Dixie Hwy, Monroe, MI 48161-3711",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.894404503445,
+    "longitude": -83.416289085144,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161585",
+    "businessName": "VILLA PARTY STORE",
+    "address": "14583 S Dixie Hwy, Monroe, MI 48161-9565",
+    "city": "Monroe Twp",
+    "zipCode": "48161",
+    "latitude": 41.882656017195,
+    "longitude": -83.426549900756,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

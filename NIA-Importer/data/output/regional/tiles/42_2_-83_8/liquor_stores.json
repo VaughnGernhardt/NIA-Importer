@@ -1,0 +1,392 @@
+[
+  {
+    "businessId": "225899",
+    "businessName": "7-ELEVEN #34931-A",
+    "address": "704 S Main St, Ann Arbor, MI 48104-2925",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.272421931573,
+    "longitude": -83.74959315359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228547",
+    "businessName": "7-ELEVEN #35775-A",
+    "address": "1300 S University Ave, Ann Arbor, MI 48104-2642",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.274977573926,
+    "longitude": -83.733006447304,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275127",
+    "businessName": "A \u0026 L WINE SHOPPE",
+    "address": "2424 W Stadium Blvd, Ann Arbor, MI 48103-3843",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.278368816081,
+    "longitude": -83.779458999718,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156813",
+    "businessName": "ANN ARBOR PARTY CENTER",
+    "address": "1500 Jackson Ave, Ann Arbor, MI 48103-4034",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.281887362469,
+    "longitude": -83.766741613582,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143414",
+    "businessName": "ARBOR PARTY STORE",
+    "address": "1135 Broadway St, Ann Arbor, MI 48105-1807",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.29001932265,
+    "longitude": -83.73774040471,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145567",
+    "businessName": "BEER DEPOT \u0026 LIQUOR",
+    "address": "114 E William St, Ann Arbor, MI 48104-2313",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.277885225913,
+    "longitude": -83.748419175279,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241743",
+    "businessName": "BIG HOUSE LIQUORS",
+    "address": "1940 W Stadium Blvd, Ann Arbor, MI 48103-4504",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.268901613462,
+    "longitude": -83.77221671452,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245536",
+    "businessName": "BUSCEMI\u0027S",
+    "address": "695 S Maple St, Ann Arbor, MI 48103-3838",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.273579097208,
+    "longitude": -83.779976936072,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15908",
+    "businessName": "BUSCH\u0027S",
+    "address": "2240 S Main St, Ann Arbor, MI 48103-5831",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.252919351207,
+    "longitude": -83.749862014293,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "127986",
+    "businessName": "CAMPUS CORNER",
+    "address": "818 S State St, Ann Arbor, MI 48104-3330",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.271689426648,
+    "longitude": -83.740714316891,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15125",
+    "businessName": "CHAMPIONS CONVENIENCE STORE",
+    "address": "1220 S UNIVERSITY AVE, ANN ARBOR, MI 48104",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.274963805421,
+    "longitude": -83.734229485675,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279607",
+    "businessName": "CHILLBOX 9033, LLC",
+    "address": "2689 ANN ARBOR SALINE RD,, ANN ARBOR, MI 48103-9776",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.247902746246,
+    "longitude": -83.760376410214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229827",
+    "businessName": "CLARK",
+    "address": "601 S Main St, Ann Arbor, MI 48104-2922",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.2740117299,
+    "longitude": -83.748916276108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214286",
+    "businessName": "CVS/PHARMACY #8088",
+    "address": "2100 W Stadium Blvd, Ann Arbor, MI 48103-4544",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.272046668492,
+    "longitude": -83.775236970804,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214311",
+    "businessName": "CVS/PHARMACY #8097",
+    "address": "2228 S Main St, Ann Arbor, MI 48103-6935",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.252990425458,
+    "longitude": -83.749871421171,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "261474",
+    "businessName": "DBA 7-ELEVEN #39914-A",
+    "address": "413 E HURON ST, ANN ARBOR, MI 48104",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.281324460774,
+    "longitude": -83.743711103621,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289090",
+    "businessName": "KEG N BOTTLE",
+    "address": "1227 S University Ave, Ann Arbor, MI 48104-2523",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.275079369874,
+    "longitude": -83.734149735152,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17672",
+    "businessName": "KROGER STORE #688",
+    "address": "400 S Maple Rd, Ann Arbor, MI 48103-3835",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.27733127487,
+    "longitude": -83.780273836905,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11988",
+    "businessName": "MAIN PARTY STORE",
+    "address": "201 N Main St, Ann Arbor, MI 48104-1412",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.282420446923,
+    "longitude": -83.748503107301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250335",
+    "businessName": "MAIN STREET CONVENIENCE, INC.",
+    "address": "402 S Main St, Ann Arbor, MI 48104-2304",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.277828255779,
+    "longitude": -83.748736105361,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217684",
+    "businessName": "MAPLE IN-N-OUT",
+    "address": "1502 N Maple Rd, Ann Arbor, MI 48103-2412",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.295468748649,
+    "longitude": -83.780844903656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290863",
+    "businessName": "NIEMANN HARVEST MARKET #576",
+    "address": "910 Briarwood Cir, Ann Arbor, MI 48108-1618",
+    "city": "Ann Arbor",
+    "zipCode": "48108",
+    "latitude": 42.241562297388,
+    "longitude": -83.742583859784,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142947",
+    "businessName": "NORTHSIDE LIQUOR",
+    "address": "1768 Plymouth Rd, Ann Arbor, MI 48105-1890",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.298462748603,
+    "longitude": -83.722741976401,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245032",
+    "businessName": "PLATT CONVENIENCE",
+    "address": "2995 Packard St, Ann Arbor, MI 48108-1879",
+    "city": "Ann Arbor",
+    "zipCode": "48108",
+    "latitude": 42.245132589469,
+    "longitude": -83.700346308371,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "195452",
+    "businessName": "PLUM MARKET",
+    "address": "375 N Maple Rd, Ann Arbor, MI 48103-2824",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.283905025447,
+    "longitude": -83.780520237619,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286687",
+    "businessName": "SGT. PEPPERS",
+    "address": "1028 E University Ave, Ann Arbor, MI 48104-3919",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.269422238204,
+    "longitude": -83.735744309399,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9468",
+    "businessName": "STADIUM DELI",
+    "address": "1956 S Industrial Hwy, Ann Arbor, MI 48104-4625",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.256103874767,
+    "longitude": -83.735899176873,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159669",
+    "businessName": "STADIUM MARKET",
+    "address": "1423 E Stadium Blvd, Ann Arbor, MI 48104-4399",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.260769743065,
+    "longitude": -83.732137923567,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13706",
+    "businessName": "STRICKLAND MARKET",
+    "address": "1352 Geddes Ave, Ann Arbor, MI 48104-1633",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.277422478774,
+    "longitude": -83.73177513461,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137580",
+    "businessName": "SUMMIT PARTY STORE",
+    "address": "730 N Main St, Ann Arbor, MI 48104-1031",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.287737355091,
+    "longitude": -83.7475847024,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150170",
+    "businessName": "TRADER JOE\u0027S #678",
+    "address": "2398 E Stadium Blvd, Ann Arbor, MI 48104-4811",
+    "city": "Ann Arbor",
+    "zipCode": "48104",
+    "latitude": 42.259574798147,
+    "longitude": -83.713539574114,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9719",
+    "businessName": "VILLAGE CORNER",
+    "address": "1747 Plymouth Rd, Ann Arbor, MI 48105-1827",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.298254878939,
+    "longitude": -83.727580382613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163912",
+    "businessName": "WOLVERINE PARTY SHOPPE",
+    "address": "2527 Dexter Rd, Ann Arbor, MI 48103-2701",
+    "city": "Ann Arbor",
+    "zipCode": "48103",
+    "latitude": 42.285813026902,
+    "longitude": -83.7817297694,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247169",
+    "businessName": "CITGO",
+    "address": "3650 S State St, Ann Arbor, MI 48108",
+    "city": "Pittsfield Twp",
+    "zipCode": "48108",
+    "latitude": 42.234431262167,
+    "longitude": -83.739141768633,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223618",
+    "businessName": "COSTCO WHOLESALE #1106",
+    "address": "771 Airport Blvd, Ann Arbor, MI 48108-1639",
+    "city": "Pittsfield Twp",
+    "zipCode": "48108",
+    "latitude": 42.230194251459,
+    "longitude": -83.74542226992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11789",
+    "businessName": "MEIJER #64",
+    "address": "3145 Ann Arbor Saline Rd, Ann Arbor, MI 48103-9711",
+    "city": "Pittsfield Twp",
+    "zipCode": "48103",
+    "latitude": 42.241864574521,
+    "longitude": -83.767827012608,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269233",
+    "businessName": "MICHIGAN FINE WINE AND SPIRITS, LLC",
+    "address": "3140 Lohr Rd, Ann Arbor, MI 48108-9514",
+    "city": "Pittsfield Twp",
+    "zipCode": "48108",
+    "latitude": 42.241843913826,
+    "longitude": -83.761390824643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286593",
+    "businessName": "SUPER LIQUOR IV",
+    "address": "3666 S State St, Ann Arbor, MI 48108-1656",
+    "city": "Pittsfield Twp",
+    "zipCode": "48108",
+    "latitude": 42.227872941035,
+    "longitude": -83.738376454756,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223558",
+    "businessName": "TARGET #634",
+    "address": "2000 Waters Rd, Ann Arbor, MI 48103-8999",
+    "city": "Pittsfield Twp",
+    "zipCode": "48103",
+    "latitude": 42.242952003648,
+    "longitude": -83.769111203478,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

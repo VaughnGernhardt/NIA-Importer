@@ -1,0 +1,512 @@
+[
+  {
+    "businessId": "0281894",
+    "businessName": "7-ELEVEN #24822-G",
+    "address": "7171 N Canton Center Rd, Canton, MI 48187-1646",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.336281631515,
+    "longitude": -83.488734421392,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288622",
+    "businessName": "7-ELEVEN STORE #32318B",
+    "address": "43340 Warren Rd, Canton, MI 48187-2352",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.336837787237,
+    "longitude": -83.468426520427,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275561",
+    "businessName": "BJ\u0027S WHOLESALE CLUB",
+    "address": "43690 Ford Rd, Canton, MI 48187-3101",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.322290771281,
+    "longitude": -83.473041670797,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268394",
+    "businessName": "BUSCH\u0027S FRESH FOOD",
+    "address": "225 S CANTON CENTER RD, CANTON, MI 48188-3002",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.306076594744,
+    "longitude": -83.48702992547,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271048",
+    "businessName": "CANTON 275 PETROLEUM, INC.",
+    "address": "41350 Ford Rd, Canton, MI 48187-3657",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.323019917316,
+    "longitude": -83.448448621657,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283287",
+    "businessName": "CLAIR LIQUOR INC",
+    "address": "8673 N Lilley Rd, Canton, MI 48187-2092",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.350759454744,
+    "longitude": -83.460187793472,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214338",
+    "businessName": "CVS/PHARMACY #8167",
+    "address": "7269 N Canton Center Rd, Canton, MI 48187-1530",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.337798630001,
+    "longitude": -83.488791363741,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214223",
+    "businessName": "CVS/PHARMACY #8190",
+    "address": "45300 Cherry Hill Rd, Canton, MI 48187-5073",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.307474181866,
+    "longitude": -83.486180000073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231863",
+    "businessName": "DEVZ PHARMACY II",
+    "address": "6624 N Canton Center Rd, Canton, MI 48187-1651",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.331217885039,
+    "longitude": -83.488336342029,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "211857",
+    "businessName": "HAGGERTY \u0026 JOY MOBIL",
+    "address": "8773 N Haggerty Rd, Canton, MI 48187-2052",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.351750315513,
+    "longitude": -83.445564911373,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9594",
+    "businessName": "KROGER STORE #671",
+    "address": "1905 N Canton Center Rd, Canton, MI 48187-2954",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.318644428414,
+    "longitude": -83.487818050552,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284623",
+    "businessName": "LIQUOR LUCK, LLC",
+    "address": "45156 Ford Rd, Canton, MI 48187-2910",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.322080232193,
+    "longitude": -83.484848143149,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283588",
+    "businessName": "MADHAVAM, LLC",
+    "address": "8177 N Sheldon Rd, Canton, MI 48187-1973",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.345196509928,
+    "longitude": -83.479234065898,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281002",
+    "businessName": "MARIA\u0027S MARKET PLACE",
+    "address": "115 N Haggerty Rd, Canton, MI 48187-3901",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.308631428433,
+    "longitude": -83.448378857279,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10205",
+    "businessName": "MEIJER #32",
+    "address": "45001 Ford Rd, Canton, MI 48187-2907",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.32196135376,
+    "longitude": -83.485094064282,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242442",
+    "businessName": "MOBIL",
+    "address": "7230 N Sheldon Rd, Canton, MI 48187-2196",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.337046662758,
+    "longitude": -83.478809435787,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143503",
+    "businessName": "SAM\u0027S CLUB #6666",
+    "address": "39800 Ford Rd, Canton, MI 48187-4312",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.323443243967,
+    "longitude": -83.43258219395,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264306",
+    "businessName": "SHELDON CONVENIENCE, INC.",
+    "address": "8787 N Sheldon Rd, Canton, MI 48187-1970",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.351071090999,
+    "longitude": -83.479073480123,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289717",
+    "businessName": "SHK 3 INC",
+    "address": "42495 Joy Rd, Canton, MI 48187-2060",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.351658569489,
+    "longitude": -83.460054260675,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "164952",
+    "businessName": "SUPER FINE WINE \u0026 LIQUOR",
+    "address": "1634 N Haggerty Rd, Canton, MI 48187-3711",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.318260949251,
+    "longitude": -83.448687140393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283145",
+    "businessName": "SWEET CHERRY 81 LLC",
+    "address": "520 S Lilley Rd, Canton, MI 48188-1104",
+    "city": "Canton Twp",
+    "zipCode": "48188",
+    "latitude": 42.305418434266,
+    "longitude": -83.45791069284,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223551",
+    "businessName": "TARGET #0354",
+    "address": "43670 Ford Rd, Canton, MI 48187-3101",
+    "city": "Canton Twp",
+    "zipCode": "48187",
+    "latitude": 42.322294866444,
+    "longitude": -83.472723782514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "129337",
+    "businessName": "ALOHA PARTY STORE",
+    "address": "36274 5 Mile Rd, Livonia, MI 48154-1922",
+    "city": "Livonia",
+    "zipCode": "48154",
+    "latitude": 42.396710329925,
+    "longitude": -83.401569450104,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227607",
+    "businessName": "BOTTLES N STUFF",
+    "address": "15365 Newburgh Rd, Livonia, MI 48154-1875",
+    "city": "Livonia",
+    "zipCode": "48154",
+    "latitude": 42.396853491949,
+    "longitude": -83.412844290411,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214234",
+    "businessName": "CVS/PHARMACY #8176",
+    "address": "8811 Newburgh Rd, Livonia, MI 48150-3424",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.353100133347,
+    "longitude": -83.410416685984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244952",
+    "businessName": "LIVONIA LIQUOR \u0026 FINE WINE",
+    "address": "38675 Ann Arbor Rd, Livonia, MI 48150-3303",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.359866623084,
+    "longitude": -83.423559423076,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286663",
+    "businessName": "5 BARRELS LIQUOR, INC.",
+    "address": "40644 Five Mile Rd, Plymouth, MI 48170-2711",
+    "city": "Northville Twp",
+    "zipCode": "48170",
+    "latitude": 42.395665297727,
+    "longitude": -83.444737409197,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206637",
+    "businessName": "CVS/PHARMACY #103",
+    "address": "44300 5 Mile Rd, Northville, MI 48168-9504",
+    "city": "Northville Twp",
+    "zipCode": "48168",
+    "latitude": 42.39580999158,
+    "longitude": -83.480586479395,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240184",
+    "businessName": "KROGER STORE #364",
+    "address": "15455 N Haggerty Rd, Plymouth, MI 48170-4887",
+    "city": "Northville Twp",
+    "zipCode": "48170",
+    "latitude": 42.397018515289,
+    "longitude": -83.438275284843,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286698",
+    "businessName": "BA \u0026 A PLYMOUTH INC",
+    "address": "129 W Ann Arbor Trl, Plymouth, MI 48170-1639",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.36804786016,
+    "longitude": -83.460483929219,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140657",
+    "businessName": "BELLYBUSTERS LIQUOR",
+    "address": "571 S Mill St, Plymouth, MI 48170-1826",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.368219647303,
+    "longitude": -83.460079757015,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9664",
+    "businessName": "MAIN STREET QUICK STOP",
+    "address": "480 N Main St, Plymouth, MI 48170-1347",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.376325762593,
+    "longitude": -83.461054422757,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264666",
+    "businessName": "MARATHON ON MILL",
+    "address": "402 N Mill St, Plymouth, MI 48170-1418",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.376689880547,
+    "longitude": -83.460501794368,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142078",
+    "businessName": "MAYFLOWER MARKET",
+    "address": "824 S Main St, Plymouth, MI 48170-2047",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.36495989558,
+    "longitude": -83.469929075838,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271492",
+    "businessName": "PLYMOUTH BUSINESS VENTURES, LLC",
+    "address": "400 Ann Arbor Rd W, Plymouth, MI 48170-2226",
+    "city": "Plymouth",
+    "zipCode": "48170",
+    "latitude": 42.359015317345,
+    "longitude": -83.459761881668,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214169",
+    "businessName": "CVS/PHARMACY #8077",
+    "address": "40900 E Ann Arbor Trl, Plymouth, MI 48170-6609",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.366655888647,
+    "longitude": -83.445380433711,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214277",
+    "businessName": "CVS/PHARMACY #8085",
+    "address": "1400 S Sheldon Rd, Plymouth, MI 48170-2140",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.359620640894,
+    "longitude": -83.479408323325,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10953",
+    "businessName": "KROGER STORE #670",
+    "address": "44525 Ann Arbor Rd, Plymouth, MI 48170",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.358386865676,
+    "longitude": -83.481577538491,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259660",
+    "businessName": "MOBIL",
+    "address": "14888 Northville Rd, Plymouth, MI 48170-2524",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.391447344329,
+    "longitude": -83.466002038715,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288843",
+    "businessName": "PILGRIM PARTY SHOPPE",
+    "address": "895 Ann Arbor Rd W, Plymouth, MI 48170-2126",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.358654336767,
+    "longitude": -83.470732538106,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246812",
+    "businessName": "PLYMOUTH DONUT INC",
+    "address": "39600 Ann Arbor Rd E, Plymouth, MI 48170-4580",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.359734385825,
+    "longitude": -83.432173554913,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144948",
+    "businessName": "QUICK PIC",
+    "address": "9456 N Lilley Rd, Plymouth, MI 48170-6704",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.358474309203,
+    "longitude": -83.459582927267,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204445",
+    "businessName": "SHELL",
+    "address": "39621 Ann Arbor, Plymouth, MI 48170",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.359617476919,
+    "longitude": -83.432236741194,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278894",
+    "businessName": "7-ELEVEN, INC  # 32215",
+    "address": "126 S John Hix St, Westland, MI 48186-3746",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.308842328669,
+    "longitude": -83.423059941925,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214142",
+    "businessName": "CVS/PHARMACY #0927",
+    "address": "37530 Cherry Hill Rd, Westland, MI 48185-3223",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.309612911829,
+    "longitude": -83.409199090381,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291064",
+    "businessName": "DEF GAS STATION, INC.",
+    "address": "110 S Newburgh, Westland, MI 48186",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.309415015396,
+    "longitude": -83.408156110416,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291482",
+    "businessName": "JOE\u0027S MARKETPLACE INC",
+    "address": "8631 N Newburgh Rd, Westland, MI 48185-1147",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.351930876947,
+    "longitude": -83.410315213059,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10344",
+    "businessName": "KROGER STORE #691",
+    "address": "36430 Ford Rd, Westland, MI 48185-2211",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.324283712667,
+    "longitude": -83.400250268803,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267385",
+    "businessName": "M J LIQUOR, INC.",
+    "address": "39023 Cherry Hill Rd, Westland, MI 48186-3250",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.30903862495,
+    "longitude": -83.424928638371,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11943",
+    "businessName": "MEIJER #68",
+    "address": "37201 Warren Rd, Westland, MI 48185-2025",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.334739937785,
+    "longitude": -83.406781801267,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "156383",
+    "businessName": "NEIL\u0027S PARTY STORE",
+    "address": "5782 N Newburgh Rd, Westland, MI 48185-1915",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.325663951663,
+    "longitude": -83.408634886788,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

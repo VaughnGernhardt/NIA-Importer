@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010551",
+    "propertyName": "SOUTH COLONY PLACE I",
+    "latitude": 43.41330199924526,
+    "longitude": -84.02019299988709,
+    "assistedUnits": 200,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800010552",
+    "propertyName": "SOUTH COLONY PLACE II",
+    "latitude": 43.4141509991078,
+    "longitude": -84.0197910002042,
+    "assistedUnits": 98,
+    "totalUnits": 98
+  },
+  {
+    "propertyId": "800212905",
+    "propertyName": "TOGETHER WITH FRIENDS",
+    "latitude": 43.43105999923909,
+    "longitude": -84.03563400027033,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  }
+]

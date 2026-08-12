@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "263970",
+    "businessName": "CVS PHARMACY #10547",
+    "address": "10 Columbia Ave E, Battle Creek, MI 49015-3704",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.298503646029,
+    "longitude": -85.199115881317,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193255",
+    "businessName": "FAMILY FARE #1904",
+    "address": "45 Columbia Ave E, Battle Creek, MI 49015-3703",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.298618237329,
+    "longitude": -85.197668354809,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212201",
+    "businessName": "MEGA-BEV",
+    "address": "5570 Beckley Rd, Battle Creek, MI 49015-4161",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.260991651917,
+    "longitude": -85.187174431773,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267814",
+    "businessName": "PAYLESS LIQUOR",
+    "address": "168 Columbia Ave E, Battle Creek, MI 49015-3735",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.298516846874,
+    "longitude": -85.192304222254,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138629",
+    "businessName": "SAM\u0027S CLUB #6429",
+    "address": "12737 6 Mile Rd, Battle Creek, MI 49014-8368",
+    "city": "Battle Creek",
+    "zipCode": "49014",
+    "latitude": 42.259667023023,
+    "longitude": -85.17911873648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291805",
+    "businessName": "STAR A1 LLC",
+    "address": "2497 Capital Ave SW, Battle Creek, MI 49015-4103",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.266884652967,
+    "longitude": -85.198635112783,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284532",
+    "businessName": "BEADLE LAKE GROCERY",
+    "address": "13506 BEADLE LAKE RD, BATTLE CREEK, MI 49014-8545",
+    "city": "Emmett Twp",
+    "zipCode": "49014",
+    "latitude": 42.268561478783,
+    "longitude": -85.149623031213,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235622",
+    "businessName": "SAM\u0027S DISCOUNT LIQUOR",
+    "address": "149 Beadle Lake Rd, Battle Creek, MI 49014-4504",
+    "city": "Emmett Twp",
+    "zipCode": "49014",
+    "latitude": 42.281496918306,
+    "longitude": -85.149341184917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266159",
+    "businessName": "RK PARTY STORE INC.",
+    "address": "4359 Capital Ave SW, Battle Creek, MI 49015-9358",
+    "city": "Le Roy Twp",
+    "zipCode": "49015",
+    "latitude": 42.236190729136,
+    "longitude": -85.198215050992,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

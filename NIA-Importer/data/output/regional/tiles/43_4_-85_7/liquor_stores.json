@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0265703",
+    "businessName": "HILLTOP EZ MART",
+    "address": "6398 E 36th St, White Cloud, MI 49349-9161",
+    "city": "Big Prairie Twp",
+    "zipCode": "49349",
+    "latitude": 43.489889799933,
+    "longitude": -85.642429744472,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276179",
+    "businessName": "CB TRADING POST",
+    "address": "8249 S CROTON HARDY DR, NEWAYGO, MI 49337",
+    "city": "Croton Twp",
+    "zipCode": "49337",
+    "latitude": 43.438104614064,
+    "longitude": -85.661487713455,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132253",
+    "businessName": "CROTON E-Z MART",
+    "address": "7333 S Croton Hardy Dr, Newaygo, MI 49337-7705",
+    "city": "Croton Twp",
+    "zipCode": "49337",
+    "latitude": 43.448745344879,
+    "longitude": -85.650296032515,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247981",
+    "businessName": "VANDERLAAN GROCERS, INC.",
+    "address": "7303 E Croton Hardy Dr, Newaygo, MI 49337-7705",
+    "city": "Croton Twp",
+    "zipCode": "49337",
+    "latitude": 43.449071377753,
+    "longitude": -85.649244869067,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

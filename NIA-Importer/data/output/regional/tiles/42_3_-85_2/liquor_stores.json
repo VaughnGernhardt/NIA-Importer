@@ -1,0 +1,162 @@
+[
+  {
+    "businessId": "216098",
+    "businessName": "CLIFF STREET GROCERY",
+    "address": "81 Cliff St, Battle Creek, MI 49014-4329",
+    "city": "Battle Creek",
+    "zipCode": "49014",
+    "latitude": 42.30956223396,
+    "longitude": -85.169988418893,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286487",
+    "businessName": "DIXIE MARKET",
+    "address": "318 Emmett St E, Battle Creek, MI 49017-4606",
+    "city": "Battle Creek",
+    "zipCode": "49017",
+    "latitude": 42.330011422116,
+    "longitude": -85.16662976173,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280728",
+    "businessName": "K2 QUICKSTOP",
+    "address": "572 Capital Ave NE, Battle Creek, MI 49017-4843",
+    "city": "Battle Creek",
+    "zipCode": "49017",
+    "latitude": 42.325569062264,
+    "longitude": -85.160482128739,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271879",
+    "businessName": "LIBERTY",
+    "address": "240 Cliff St, Battle Creek, MI 49014-5074",
+    "city": "Battle Creek",
+    "zipCode": "49014",
+    "latitude": 42.309482056878,
+    "longitude": -85.163060716278,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "139877",
+    "businessName": "LIBERTY CONVENIENCE STORE",
+    "address": "439 Capital Ave NE, Battle Creek, MI 49017-4833",
+    "city": "Battle Creek",
+    "zipCode": "49017",
+    "latitude": 42.323922451778,
+    "longitude": -85.165622603049,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234412",
+    "businessName": "LIBERTY FOOD CENTER",
+    "address": "65 Main St, Battle Creek, MI 49014-4152",
+    "city": "Battle Creek",
+    "zipCode": "49014",
+    "latitude": 42.31440713104,
+    "longitude": -85.17789076535,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272835",
+    "businessName": "PAUL 621 CAPITAL INC",
+    "address": "621 Capital Ave SW, Battle Creek, MI 49015-2676",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.305094281709,
+    "longitude": -85.19948097636,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216102",
+    "businessName": "PIPER PARK PARTY STORE",
+    "address": "375 Capital Ave NE, Battle Creek, MI 49017-4829",
+    "city": "Battle Creek",
+    "zipCode": "49017",
+    "latitude": 42.323459133301,
+    "longitude": -85.168295652816,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246724",
+    "businessName": "T.J. PARTY STORE",
+    "address": "175 Meachem Ave, Battle Creek, MI 49037-5126",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.311982855575,
+    "longitude": -85.199654442341,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276251",
+    "businessName": "WASHINGTON HEIGHTS FRESH MARKET, LLC",
+    "address": "468 Michigan Ave W, Battle Creek, MI 49037-2241",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.3266160807,
+    "longitude": -85.199029641142,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241606",
+    "businessName": "COLUMBIA AVENUE LLC",
+    "address": "1344 Columbia Ave E, Battle Creek, MI 49014-5134",
+    "city": "Emmett Twp",
+    "zipCode": "49014",
+    "latitude": 42.303180630481,
+    "longitude": -85.160560929616,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232660",
+    "businessName": "KOMARCK\u0027S SUPER MARKET",
+    "address": "957 Emmett St E, Battle Creek, MI 49014-5878",
+    "city": "Emmett Twp",
+    "zipCode": "49014",
+    "latitude": 42.332641191771,
+    "longitude": -85.138293116049,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154527",
+    "businessName": "STIMAC\u0027S",
+    "address": "883 Michigan Ave E, Battle Creek, MI 49014-6221",
+    "city": "Emmett Twp",
+    "zipCode": "49014",
+    "latitude": 42.311067183942,
+    "longitude": -85.147219471226,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260956",
+    "businessName": "LIQUOR NATION",
+    "address": "1321 Capital Ave NE, Battle Creek, MI 49017-5492",
+    "city": "Pennfield Twp",
+    "zipCode": "49017",
+    "latitude": 42.340486666367,
+    "longitude": -85.154604960976,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236533",
+    "businessName": "SAM\u0027S DISCOUNT LIQUOR",
+    "address": "1541 Capital Ave NE, Battle Creek, MI 49017-5381",
+    "city": "Pennfield Twp",
+    "zipCode": "49017",
+    "latitude": 42.34547231899,
+    "longitude": -85.154122078334,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140604",
+    "businessName": "SAM\u0027S N SUPERMARKET",
+    "address": "862 North Ave, Battle Creek, MI 49017-3124",
+    "city": "Pennfield Twp",
+    "zipCode": "49017",
+    "latitude": 42.348181347313,
+    "longitude": -85.180620072512,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

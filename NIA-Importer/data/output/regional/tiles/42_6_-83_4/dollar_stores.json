@@ -1,0 +1,82 @@
+[
+  {
+    "storeId": "3918-baldwin-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3918, Baldwin Road Auburn HIlls, MI 48326-1219",
+    "city": "Baldwin Road Auburn HIlls",
+    "zipCode": "48326",
+    "latitude": 42.698475254303,
+    "longitude": -83.306385137271
+  },
+  {
+    "storeId": "5032-dixie-highway",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5032, Dixie Highway Waterford, MI 48329-1711",
+    "city": "Dixie Highway Waterford",
+    "zipCode": "48329",
+    "latitude": 42.69252485539,
+    "longitude": -83.389141790318
+  },
+  {
+    "storeId": "3415-elizabeth-lake-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3415, Elizabeth Lake Rd Waterford, MI 48328",
+    "city": "Elizabeth Lake Rd Waterford",
+    "zipCode": "48328",
+    "latitude": 42.639295301891,
+    "longitude": -83.353010917602
+  },
+  {
+    "storeId": "4299-highland-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4299, Highland Road Waterford, MI 48328-2138",
+    "city": "Highland Road Waterford",
+    "zipCode": "48328",
+    "latitude": 42.653363077062,
+    "longitude": -83.372025914731
+  },
+  {
+    "storeId": "266-n-telegraph-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 266, N Telegraph Rd. Pontiac, MI 48341-1054",
+    "city": "N Telegraph Rd. Pontiac",
+    "zipCode": "48341",
+    "latitude": 42.642178588242,
+    "longitude": -83.325990359072
+  },
+  {
+    "storeId": "1220-baldwin-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1220, Baldwin Ave Pontiac, MI 48340-1906",
+    "city": "Baldwin Ave Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.670648031927,
+    "longitude": -83.300384120141
+  },
+  {
+    "storeId": "4398-w-walton-blvd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4398, W Walton Blvd Waterford, MI 48329",
+    "city": "W Walton Blvd Waterford",
+    "zipCode": "48329",
+    "latitude": 42.689921996565,
+    "longitude": -83.374898709487
+  },
+  {
+    "storeId": "1104-whuron-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1104, W.Huron St. Waterford, MI 48328",
+    "city": "W.Huron St. Waterford",
+    "zipCode": "48328",
+    "latitude": 42.635025456343,
+    "longitude": -83.333095095456
+  }
+]

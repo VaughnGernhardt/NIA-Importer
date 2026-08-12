@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "159766",
+    "businessName": "FORWARD COUNTRY CORNERS",
+    "address": "20 N Meridian Rd, Midland, MI 48640-8643",
+    "city": "Homer Twp",
+    "zipCode": "48640",
+    "latitude": 43.613133767867,
+    "longitude": -84.369159233663,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "268027",
+    "businessName": "M-20 PARTY STORE",
+    "address": "1013 E Isabella Rd, Midland, MI 48640-8325",
+    "city": "Homer Twp",
+    "zipCode": "48640",
+    "latitude": 43.612318759903,
+    "longitude": -84.329892797056,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157640",
+    "businessName": "FORWARD SHELL",
+    "address": "2738 N Meridian Rd, Sanford, MI 48657-9542",
+    "city": "Lincoln Twp",
+    "zipCode": "48657",
+    "latitude": 43.690382394022,
+    "longitude": -84.368242311239,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272662",
+    "businessName": "SANFORD EZ MART",
+    "address": "14 W SAGINAW RD, SANFORD, MI 48657",
+    "city": "Sanford",
+    "zipCode": "48657",
+    "latitude": 43.66773990725,
+    "longitude": -84.368958464997,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277186",
+    "businessName": "SUNRISE STORES, L.L.C.",
+    "address": "278 W Saginaw Rd, Sanford, MI 48657-8905",
+    "city": "Sanford",
+    "zipCode": "48657",
+    "latitude": 43.671107005274,
+    "longitude": -84.378568784789,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

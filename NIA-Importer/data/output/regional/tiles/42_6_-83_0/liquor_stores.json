@@ -1,0 +1,332 @@
+[
+  {
+    "businessId": "235603",
+    "businessName": "A \u0026 B LIQUOR \u0026 TOBACCO OUTLET",
+    "address": "41910 Hayes Rd, Clinton Township, MI 48038-5841",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.603470571301,
+    "longitude": -82.972218282579,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9191",
+    "businessName": "BUSCEMI\u0027S",
+    "address": "42990 Garfield Rd, Clinton Township, MI 48038-1658",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.612825294792,
+    "longitude": -82.952907952526,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10733",
+    "businessName": "BUSCEMI\u0027S INTERNATIONAL",
+    "address": "20750 Hall Rd, Clinton Township, MI 48038-1537",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.628425470266,
+    "longitude": -82.914421820292,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286853",
+    "businessName": "HARBORS MARKET OF CLINTON TOWNSHIP",
+    "address": "21300 Hall Rd, Clinton Township, MI 48038-1539",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.628344556933,
+    "longitude": -82.904595003172,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13119",
+    "businessName": "KROGER STORE #528",
+    "address": "41941 Garfield Rd, Clinton Township, MI 48038-4541",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.604669603875,
+    "longitude": -82.952715584141,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197434",
+    "businessName": "NICK\u0027S PARTY STORE",
+    "address": "19070 Cass Ave, Clinton Township, MI 48038-6413",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.61033355264,
+    "longitude": -82.929675684811,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144709",
+    "businessName": "NINO SALVAGGIO FRUIT \u0026 VEGETABLE MARKET OF CLINTON TWP",
+    "address": "17496 Hall Rd, Clinton Township, MI 48038-6922",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.627707343551,
+    "longitude": -82.944136771386,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13871",
+    "businessName": "VINCE \u0026 JOE\u0027S FRUIT MARKET",
+    "address": "41790 Garfield Rd, Clinton Township, MI 48038-1963",
+    "city": "Clinton Twp",
+    "zipCode": "48038",
+    "latitude": 42.604372497617,
+    "longitude": -82.952549949684,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286975",
+    "businessName": "7-ELEVEN",
+    "address": "16761 21 Mile Rd, Macomb, MI 48044-2604",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.642278349422,
+    "longitude": -82.954794484542,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216707",
+    "businessName": "B P STATION",
+    "address": "48990 Hayes Rd, Macomb, MI 48044-1955",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.656394326158,
+    "longitude": -82.974379673616,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223648",
+    "businessName": "BP PIT STOP",
+    "address": "18300 23 Mile Rd, Macomb, MI 48044-1122",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.671779790344,
+    "longitude": -82.943506639842,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "195119",
+    "businessName": "CVS PHARMACY #0445",
+    "address": "51000 Romeo Plank Rd, Macomb, MI 48042-4128",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.672001454388,
+    "longitude": -82.940567764297,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214325",
+    "businessName": "CVS/PHARMACY #8158",
+    "address": "46850 Romeo Plank Rd, Macomb, MI 48044-3545",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.641432560042,
+    "longitude": -82.936297445073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143290",
+    "businessName": "HALL \u0026 HAYES BP",
+    "address": "15255 Hall Rd, Macomb, MI 48044-3842",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.627878538565,
+    "longitude": -82.97268018901,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281452",
+    "businessName": "HAYES LIQUOR, INC.",
+    "address": "48806 Hayes Rd, Macomb, MI 48044-1954",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.654610484217,
+    "longitude": -82.974281049144,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138410",
+    "businessName": "KROGER STORE #684",
+    "address": "21555 21 Mile Rd, Macomb, MI 48044",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.643635210215,
+    "longitude": -82.901945085818,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275130",
+    "businessName": "MEIJER STORE #681",
+    "address": "15375 24 Mile Rd, Macomb, MI 48042-2980",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.686083258487,
+    "longitude": -82.973961731131,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "207533",
+    "businessName": "MOBIL",
+    "address": "20745 Hall Rd, Macomb, MI 48044-4231",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.629094095581,
+    "longitude": -82.91478280139,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142432",
+    "businessName": "ONE STEP PARTY STORE",
+    "address": "16530 21 Mile Rd, Macomb, MI 48044",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.642095203819,
+    "longitude": -82.957173711023,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274550",
+    "businessName": "PALACE LIQUOR",
+    "address": "15429 21 Mile Rd, Macomb, MI 48044-2401",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.641911268604,
+    "longitude": -82.971438736499,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14800",
+    "businessName": "RANDAZZO\u0027S FRUIT MARKET",
+    "address": "49800 Hayes Rd, Macomb, MI 48044-1511",
+    "city": "Macomb Twp",
+    "zipCode": "48044",
+    "latitude": 42.662915248845,
+    "longitude": -82.97467281438,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137157",
+    "businessName": "COSTCO #374",
+    "address": "45460 Market St, Shelby Township, MI 48315-6224",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.631970685461,
+    "longitude": -82.980805629563,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214322",
+    "businessName": "CVS/PHARMACY #8156",
+    "address": "15121 24 Mile Rd, Shelby Township, MI 48315-2109",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.686099763995,
+    "longitude": -82.976441582238,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278158",
+    "businessName": "FJM MARKETPLACE, LLC",
+    "address": "13595 21 Mile Rd, Shelby Township, MI 48315-5306",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.641272336885,
+    "longitude": -82.993648833646,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271393",
+    "businessName": "JULIAN INVESTMENTS, INC.",
+    "address": "13459 23 Mile Rd, Shelby Township, MI 48315-2717",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.670220130321,
+    "longitude": -82.997250270734,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232357",
+    "businessName": "KROGER #737",
+    "address": "14945 23 Mile Rd, Shelby Township, MI 48315",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.671312893622,
+    "longitude": -82.978853473787,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11960",
+    "businessName": "MEIJER #65",
+    "address": "15055 Hall Rd, Utica, MI 48315-6206",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.627799567901,
+    "longitude": -82.976560771997,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11050",
+    "businessName": "PARTY PALACE LIQUOR",
+    "address": "49133 Schoenherr Rd, Shelby Township, MI 48315-3858",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.656785279401,
+    "longitude": -82.994261981462,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223553",
+    "businessName": "TARGET #0278",
+    "address": "13221 Hall Rd, Utica, MI 48315-5834",
+    "city": "Shelby Twp",
+    "zipCode": "48315",
+    "latitude": 42.627339176157,
+    "longitude": -82.998422147446,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214168",
+    "businessName": "CVS/PHARMACY #8078",
+    "address": "15142 Hall Rd, Sterling Heights, MI 48313-1236",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.627104809583,
+    "longitude": -82.974151135087,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197464",
+    "businessName": "KROGER STORE #449",
+    "address": "43893 Schoenherr Rd, Sterling Heights, MI 48313-1119",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.617554839996,
+    "longitude": -82.992830936611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160917",
+    "businessName": "MARATHON GAS",
+    "address": "13630 Hall Rd, Sterling Heights, MI 48313-1220",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.626723524304,
+    "longitude": -82.992574158867,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "267555",
+    "businessName": "THE WINE GARDEN - STERLING HEIGHTS",
+    "address": "13927 19 Mile Rd, Sterling Heights, MI 48313-2707",
+    "city": "Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.610616488759,
+    "longitude": -82.988314830613,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

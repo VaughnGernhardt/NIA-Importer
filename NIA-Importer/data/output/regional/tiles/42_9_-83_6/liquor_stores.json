@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0287326",
+    "businessName": "GEB GOODRICH INC.",
+    "address": "5545 S State Rd, Goodrich, MI 48438-9648",
+    "city": "Atlas Twp",
+    "zipCode": "48438",
+    "latitude": 42.948563052248,
+    "longitude": -83.50471130009,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9357",
+    "businessName": "NEHRING\u0027S MARKET, INC.",
+    "address": "3517 S Belsay Rd, Burton, MI 48519-1626",
+    "city": "Burton",
+    "zipCode": "48519",
+    "latitude": 42.977403151228,
+    "longitude": -83.593739977419,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229050",
+    "businessName": "SHELL GAS STATION",
+    "address": "2514 S Belsay Rd, Burton, MI 48519-1220",
+    "city": "Burton",
+    "zipCode": "48519",
+    "latitude": 42.994178415227,
+    "longitude": -83.594696686816,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224152",
+    "businessName": "ZIP\u0027S MARKET",
+    "address": "3355 S State Rd, Davison, MI 48423-8751",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 42.981192829729,
+    "longitude": -83.506577046269,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11986",
+    "businessName": "BEACON \u0026 BRIDGE MARKET",
+    "address": "10318 Hegel Rd, Goodrich, MI 48438-7703",
+    "city": "Goodrich",
+    "zipCode": "48438",
+    "latitude": 42.916990300529,
+    "longitude": -83.502366827978,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

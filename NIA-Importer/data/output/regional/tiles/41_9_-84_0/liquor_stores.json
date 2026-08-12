@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0271035",
+    "businessName": "JJSINGH LLC",
+    "address": "3441 W Russell Rd, Tecumseh, MI 49286-1752",
+    "city": "Raisin Twp",
+    "zipCode": "49286",
+    "latitude": 41.992002150965,
+    "longitude": -83.957481138758,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268939",
+    "businessName": "MIDWAY MARKET",
+    "address": "2401 Occidental Hwy, Adrian, MI 49221-9504",
+    "city": "Raisin Twp",
+    "zipCode": "49221",
+    "latitude": 41.946706519903,
+    "longitude": -83.979121451408,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

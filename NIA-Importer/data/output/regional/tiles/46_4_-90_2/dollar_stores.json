@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1462-e-cloverland-drive",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1462, E. Cloverland Drive Ironwood, MI 49938-1720",
+    "city": "E. Cloverland Drive Ironwood",
+    "zipCode": "49938",
+    "latitude": 46.463286871679,
+    "longitude": -90.144885041296
+  },
+  {
+    "storeId": "130-e-cloverland-dr",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 130, E Cloverland Dr Ironwood, MI 49938-1228",
+    "city": "E Cloverland Dr Ironwood",
+    "zipCode": "49938",
+    "latitude": 46.463333918243,
+    "longitude": -90.171663713315
+  }
+]

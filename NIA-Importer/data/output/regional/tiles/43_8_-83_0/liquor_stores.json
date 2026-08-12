@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0292200",
+    "businessName": "DADS JUNCTION, LLC",
+    "address": "706 E Huron Ave, Bad Axe, MI 48413-1422",
+    "city": "Bad Axe",
+    "zipCode": "48413",
+    "latitude": 43.802230603623,
+    "longitude": -82.990642470514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266533",
+    "businessName": "STOLI II LLC, CORNER TRUCK STOP",
+    "address": "1998 Sand Beach Rd, Bad Axe, MI 48413-8902",
+    "city": "Verona Twp",
+    "zipCode": "48413",
+    "latitude": 43.803813823058,
+    "longitude": -82.941132828773,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

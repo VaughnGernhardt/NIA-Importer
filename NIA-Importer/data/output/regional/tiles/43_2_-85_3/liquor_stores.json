@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0289501",
+    "businessName": "JORGI\u0027S MARKETPLACE",
+    "address": "6403 S Greenville Rd, Greenville, MI 48838-1057",
+    "city": "Eureka Twp",
+    "zipCode": "48838",
+    "latitude": 43.201548389823,
+    "longitude": -85.252836982745,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290199",
+    "businessName": "GOWEN GAS, LLC",
+    "address": "11340 W Sidney Rd, Gowen, MI 49326-9600",
+    "city": "Montcalm Twp",
+    "zipCode": "49326",
+    "latitude": 43.250102041601,
+    "longitude": -85.298337384301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265425",
+    "businessName": "TURK LAKE MARKET, LLC",
+    "address": "2023 S Greenville Rd, Greenville, MI 48838-9261",
+    "city": "Montcalm Twp",
+    "zipCode": "48838",
+    "latitude": 43.264369743164,
+    "longitude": -85.256765406978,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

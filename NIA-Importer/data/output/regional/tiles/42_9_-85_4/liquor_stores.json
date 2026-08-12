@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "132605",
+    "businessName": "MEIJER #205",
+    "address": "11901 Fulton St E, Lowell, MI 49331-8613",
+    "city": "Lowell Twp",
+    "zipCode": "49331",
+    "latitude": 42.930660913786,
+    "longitude": -85.375857478073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235241",
+    "businessName": "J \u0026 H FAMILY STORES-FALLASBURG MOBIL",
+    "address": "432 Lincoln Lake Ave SE, Lowell, MI 49331-9415",
+    "city": "Vergennes Twp",
+    "zipCode": "49331",
+    "latitude": 42.956648803663,
+    "longitude": -85.354370323962,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

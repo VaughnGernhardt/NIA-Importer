@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "16587",
+    "businessName": "WESCO #11",
+    "address": "10409 Brooklyn Rd, Brooklyn, MI 49230-9600",
+    "city": "Brooklyn",
+    "zipCode": "49230",
+    "latitude": 42.113992399675,
+    "longitude": -84.248341571889,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11788",
+    "businessName": "VIC\u0027S FOOD STORE",
+    "address": "101 Austin Rd, Napoleon, MI 49261-9029",
+    "city": "Napoleon Twp",
+    "zipCode": "49261",
+    "latitude": 42.161835543623,
+    "longitude": -84.248400479099,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"precinct":"08","incidentCount":103391},
+  {"precinct":"09","incidentCount":99050},
+  {"precinct":"03","incidentCount":86753},
+  {"precinct":"12","incidentCount":85743},
+  {"precinct":"06","incidentCount":81279},
+  {"precinct":"02","incidentCount":73233},
+  {"precinct":"10","incidentCount":64734},
+  {"precinct":"11","incidentCount":63349},
+  {"precinct":"05","incidentCount":56463},
+  {"precinct":"07","incidentCount":53097},
+  {"precinct":"04","incidentCount":45793},
+  {"precinct":"0","incidentCount":692},
+  {"precinct":"HP","incidentCount":114},
+  {"precinct":"00","incidentCount":18},
+  {"precinct":"0W","incidentCount":8}
+]

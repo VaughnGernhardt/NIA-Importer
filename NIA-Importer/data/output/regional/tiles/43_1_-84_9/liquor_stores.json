@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "12325",
+    "businessName": "CARSON VILLAGE MARKET, INC.",
+    "address": "10715 E Carson City Rd, Carson City, MI 48811-8605",
+    "city": "Bloomer Twp",
+    "zipCode": "48811",
+    "latitude": 43.177285425135,
+    "longitude": -84.863354930609,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237611",
+    "businessName": "CARSON CITY EZ MART",
+    "address": "105 E Main St, Carson City, MI 48811-9778",
+    "city": "Carson",
+    "zipCode": "48811",
+    "latitude": 43.177051336182,
+    "longitude": -84.846349348396,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

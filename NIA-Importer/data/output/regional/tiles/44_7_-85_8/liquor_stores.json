@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0286285",
+    "businessName": "FRESH COAST MARKET",
+    "address": "7270 N Long Lake Rd, Traverse City, MI 49685-7461",
+    "city": "Long Lake Twp",
+    "zipCode": "49685",
+    "latitude": 44.74543686174,
+    "longitude": -85.721791625886,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220900",
+    "businessName": "LONG LAKE GROCERY IND.",
+    "address": "9352 N Long Lake Rd, Traverse City, MI 49685-8251",
+    "city": "Long Lake Twp",
+    "zipCode": "49685",
+    "latitude": 44.747799059553,
+    "longitude": -85.762908138935,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272082",
+    "businessName": "GUMPY\u0027S EZ MART",
+    "address": "5101 E Traverse Hwy, Traverse City, MI 49684-8468",
+    "city": "Solon Twp",
+    "zipCode": "49684",
+    "latitude": 44.774691357746,
+    "longitude": -85.753120669858,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

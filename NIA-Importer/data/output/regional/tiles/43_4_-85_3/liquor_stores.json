@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0277550",
+    "businessName": "ALL AMERICAN NORTH COUNTRY STORE",
+    "address": "8700 W. Howard City Edmore Rd, Lakeview, MI 48850-9115",
+    "city": "Lakeview",
+    "zipCode": "48850",
+    "latitude": 43.431487573708,
+    "longitude": -85.257738009632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11108",
+    "businessName": "LAKEVIEW WESCO #47",
+    "address": "9045 Howard City Edmore Rd, Lakeview, MI 48850-9468",
+    "city": "Lakeview",
+    "zipCode": "48850",
+    "latitude": 43.431499780193,
+    "longitude": -85.264437926111,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17363",
+    "businessName": "LEPPINK\u0027S",
+    "address": "9700 N Greenville Rd, Lakeview, MI 48850-9191",
+    "city": "Lakeview",
+    "zipCode": "48850",
+    "latitude": 43.429327432264,
+    "longitude": -85.263202811506,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

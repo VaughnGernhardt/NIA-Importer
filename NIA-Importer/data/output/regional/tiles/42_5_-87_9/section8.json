@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800022847",
+    "propertyName": "ARBOR GREEN",
+    "latitude": 42.58619099926112,
+    "longitude": -87.88068500032273,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800023018",
+    "propertyName": "FOREST COURT",
+    "latitude": 42.58851799911578,
+    "longitude": -87.87557500030434,
+    "assistedUnits": 68,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800023102",
+    "propertyName": "JOANNE APTS",
+    "latitude": 42.54457399885194,
+    "longitude": -87.85686099986152,
+    "assistedUnits": 68,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800023111",
+    "propertyName": "KENOSHA GARDENS",
+    "latitude": 42.58620999911772,
+    "longitude": -87.88547899997361,
+    "assistedUnits": 89,
+    "totalUnits": 89
+  },
+  {
+    "propertyId": "800023124",
+    "propertyName": "LAKESIDE TOWER",
+    "latitude": 42.58370899887982,
+    "longitude": -87.81480999992753,
+    "assistedUnits": 182,
+    "totalUnits": 182
+  },
+  {
+    "propertyId": "800023349",
+    "propertyName": "SHERIDAN MEADOWS/LINCOLN PARK",
+    "latitude": 42.55580799911168,
+    "longitude": -87.82252199981076,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800023408",
+    "propertyName": "TANGLEWOOD APTS",
+    "latitude": 42.54708899923218,
+    "longitude": -87.84628199979956,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800023436",
+    "propertyName": "TUSCAN VILLAS",
+    "latitude": 42.55760299918111,
+    "longitude": -87.83787600015536,
+    "assistedUnits": 122,
+    "totalUnits": 122
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "234897",
+    "businessName": "NORTHSIDE PARTY STORE",
+    "address": "2260 N State Rd, Ionia, MI 48846-8533",
+    "city": "Ionia Twp",
+    "zipCode": "48846",
+    "latitude": 43.020262914239,
+    "longitude": -85.075053534317,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234986",
+    "businessName": "MARATHON 66",
+    "address": "6006 N State Rd, Orleans, MI 48865-9620",
+    "city": "Ronald Twp",
+    "zipCode": "48865",
+    "latitude": 43.076101089892,
+    "longitude": -85.075053122812,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

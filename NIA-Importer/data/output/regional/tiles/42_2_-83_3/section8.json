@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800235797",
+    "propertyName": "HERITAGE PARK SENIOR VILLAGE",
+    "latitude": 42.20547899893346,
+    "longitude": -83.2530729996835,
+    "assistedUnits": 152,
+    "totalUnits": 77
+  },
+  {
+    "propertyId": "800010373",
+    "propertyName": "NORMANDY APARTMENTS",
+    "latitude": 42.29934199899111,
+    "longitude": -83.27499800026163,
+    "assistedUnits": 78,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800010558",
+    "propertyName": "SOUTHGATE COOPERATIVE APARTMENTS",
+    "latitude": 42.225218999204436,
+    "longitude": -83.22950699986346,
+    "assistedUnits": 225,
+    "totalUnits": 227
+  }
+]

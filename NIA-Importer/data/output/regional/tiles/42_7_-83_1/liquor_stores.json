@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "242350",
+    "businessName": "KROGER STORE #754",
+    "address": "7644 26 Mile Rd, Shelby Township, MI 48316",
+    "city": "Shelby Twp",
+    "zipCode": "48316",
+    "latitude": 42.713529461578,
+    "longitude": -83.038239054465,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193533",
+    "businessName": "7-ELEVEN #33703-A",
+    "address": "5979 Twenty Six Mile, Washington, MI 48094",
+    "city": "Washington Twp",
+    "zipCode": "48094",
+    "latitude": 42.713206244464,
+    "longitude": -83.054233022433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240299",
+    "businessName": "JAWAD VAN DYKE INC.",
+    "address": "64111 Van Dyke Rd, Washington, MI 48095-2580",
+    "city": "Washington Twp",
+    "zipCode": "48095",
+    "latitude": 42.765624236293,
+    "longitude": -83.018340038381,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "263943",
+    "businessName": "Jewell Liquor",
+    "address": "11531 26 Mile Rd, Washington, MI 48094-3032",
+    "city": "Washington Twp",
+    "zipCode": "48094",
+    "latitude": 42.714156459567,
+    "longitude": -83.016833359101,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197496",
+    "businessName": "KROGER STORE #461",
+    "address": "64660 Van Dyke Rd, Washington, MI 48095-2853",
+    "city": "Washington Twp",
+    "zipCode": "48095",
+    "latitude": 42.770850294092,
+    "longitude": -83.018364197458,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131956",
+    "businessName": "MEIJER #177",
+    "address": "8401 26 Mile Rd, Washington, MI 48094-2999",
+    "city": "Washington Twp",
+    "zipCode": "48094",
+    "latitude": 42.713923052596,
+    "longitude": -83.032108576501,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206973",
+    "businessName": "THE ORIGINAL BUSCEMI\u0027S PARTY SHOPPE",
+    "address": "58880 Van Dyke Rd, Washington, MI 48094-2772",
+    "city": "Washington Twp",
+    "zipCode": "48094",
+    "latitude": 42.72656580246,
+    "longitude": -83.03593863626,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242011",
+    "businessName": "WASHINGTON BEER, WINE AND TOBACCO",
+    "address": "59380 Van Dyke Rd, Washington, MI 48094-2206",
+    "city": "Washington Twp",
+    "zipCode": "48094",
+    "latitude": 42.730954316495,
+    "longitude": -83.036131665507,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234464",
+    "businessName": "WHISTLE STOP LIQUOR",
+    "address": "63160 Van Dyke Rd, Washington, MI 48095-2568",
+    "city": "Washington Twp",
+    "zipCode": "48095",
+    "latitude": 42.758182410106,
+    "longitude": -83.017953428338,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

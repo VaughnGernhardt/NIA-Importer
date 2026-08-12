@@ -1,0 +1,622 @@
+[
+  {
+    "businessId": "234989",
+    "businessName": "ALLEN PARK MARKET",
+    "address": "8254 Allen Rd, Allen Park, MI 48101-1402",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.249050803225,
+    "longitude": -83.218336448252,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269501",
+    "businessName": "ALLEN PARK ONE STOP, INC.",
+    "address": "16650 Southfield Rd, Allen Park, MI 48101-2555",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.262615250577,
+    "longitude": -83.217151274189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267147",
+    "businessName": "ALLEN PARK PARTY SHOPPE",
+    "address": "5228 Allen Rd, Allen Park, MI 48101-2994",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.264592088301,
+    "longitude": -83.201570378946,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214217",
+    "businessName": "CVS/PHARMACY #8181",
+    "address": "15240 Southfield Rd, Allen Park, MI 48101-2645",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.258320538286,
+    "longitude": -83.203017656606,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "158048",
+    "businessName": "DAILY MART",
+    "address": "16825 Ecorse Rd, Allen Park, MI 48101-2449",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.256621973257,
+    "longitude": -83.219370782667,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282310",
+    "businessName": "DELUXE LIQUOR, LLC",
+    "address": "18641 Ecorse Rd, Allen Park, MI 48101-2253",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.256457730929,
+    "longitude": -83.225947335666,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11837",
+    "businessName": "EMPIRE FOOD STORE",
+    "address": "10270 Allen Rd, Allen Park, MI 48101-1294",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.232127172886,
+    "longitude": -83.228337513041,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "181853",
+    "businessName": "MEIJER #233",
+    "address": "3565 Fairlane Dr, Allen Park, MI 48101-2876",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.2811332136,
+    "longitude": -83.206156279463,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144828",
+    "businessName": "PARTY STOP MARKET",
+    "address": "7235 Allen Rd, Allen Park, MI 48101-2059",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.256076716377,
+    "longitude": -83.214240199437,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262779",
+    "businessName": "TOP SHELF LIQUOR",
+    "address": "6660 Allen Rd, Allen Park, MI 48101-2004",
+    "city": "Allen Park",
+    "zipCode": "48101",
+    "latitude": 42.257991643969,
+    "longitude": -83.209607190089,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10091",
+    "businessName": "7-ELEVEN #27467-D",
+    "address": "2600 S Telegraph Rd, Dearborn, MI 48124-2591",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.293386515421,
+    "longitude": -83.271625017973,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214312",
+    "businessName": "CVS/PHARMACY #8128",
+    "address": "2701 S Telegraph Rd, Dearborn, MI 48124-3276",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.29268175124,
+    "longitude": -83.270977708854,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214318",
+    "businessName": "CVS/PHARMACY #8152",
+    "address": "22060 Outer Dr, Dearborn, MI 48124-3932",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.284964923039,
+    "longitude": -83.233362028357,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281707",
+    "businessName": "FAST STOP PARTY SHOPPE",
+    "address": "3810 Monroe St, Dearborn, MI 48124-3620",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.282966529264,
+    "longitude": -83.251239192951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11926",
+    "businessName": "JAY\u0027S FOOD SHOPPE",
+    "address": "24940 Carlysle St, Dearborn, MI 48124-4435",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.283401281314,
+    "longitude": -83.279839048961,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10164",
+    "businessName": "MIKE\u0027S PARTY STORE",
+    "address": "24623 Michigan Ave, Dearborn, MI 48124-1741",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.298393832336,
+    "longitude": -83.277559377019,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9522",
+    "businessName": "WESTBORN PARTY STORE",
+    "address": "1840 Grindley Park St, Dearborn, MI 48124-2504",
+    "city": "Dearborn",
+    "zipCode": "48124",
+    "latitude": 42.297557632411,
+    "longitude": -83.263531230422,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249156",
+    "businessName": "LANDMARK SHOPPE",
+    "address": "4665 S Beech Daly St, Dearborn Heights, MI 48125-1592",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.275583324498,
+    "longitude": -83.289687230176,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224358",
+    "businessName": "PARTY PALACE",
+    "address": "20442 Van Born Rd, Dearborn Heights, MI 48125-3054",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.269807847385,
+    "longitude": -83.237240671924,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278588",
+    "businessName": "PLAZA E. SERVICE COMPANY",
+    "address": "26320 Van Born Rd, Dearborn Heights, MI 48125-1338",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.268603939918,
+    "longitude": -83.295440043023,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280142",
+    "businessName": "RO TELEGRAPH, LLC",
+    "address": "4503-4507 S TELEGRAPH RD, DEARBORN HEIGHTS, MI 48125",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.277181241814,
+    "longitude": -83.270362864393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221804",
+    "businessName": "SUNNYSIDE MARKET",
+    "address": "21540 Van Born Rd, Dearborn Heights, MI 48125-2651",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.269605057938,
+    "longitude": -83.247322794151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236459",
+    "businessName": "THE VINERY",
+    "address": "3976 Pelham St, Dearborn Heights, MI 48125-3119",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.281849278599,
+    "longitude": -83.231694749453,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10891",
+    "businessName": "TRIANGLE PARTY STORE",
+    "address": "4648 Southfield St, Dearborn Heights, MI 48125-3337",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.276951287645,
+    "longitude": -83.218390641322,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272944",
+    "businessName": "VAN BORN GAS \u0026 LIQUOR, LLC",
+    "address": "25412 Van Born Rd, Dearborn Heights, MI 48125-1702",
+    "city": "Dearborn Heights",
+    "zipCode": "48125",
+    "latitude": 42.268841556629,
+    "longitude": -83.284927443963,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134107",
+    "businessName": "C \u0026 K VENTURES, INC.",
+    "address": "26017 Michigan Ave, Inkster, MI 48141-2497",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.296362826235,
+    "longitude": -83.293304454513,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232215",
+    "businessName": "DALY STOP",
+    "address": "2956 Beech Daly Rd, Inkster, MI 48141-2473",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.289842029765,
+    "longitude": -83.290333340348,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235204",
+    "businessName": "E K LIQUOR",
+    "address": "26000 Michigan Ave, Inkster, MI 48141-2461",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.296830045899,
+    "longitude": -83.292852529969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16751",
+    "businessName": "7-ELEVEN #19696-F",
+    "address": "14515 Northline Rd, Southgate, MI 48195-2446",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213526551586,
+    "longitude": -83.200681708295,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222599",
+    "businessName": "BP GAS STATION - STOP \u0026 GO",
+    "address": "13785 Allen Rd, Southgate, MI 48195-3001",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.206499749689,
+    "longitude": -83.228857822455,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214199",
+    "businessName": "CVS/PHARMACY #8028",
+    "address": "11125 Allen Rd, Southgate, MI 48195-3331",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.22643953375,
+    "longitude": -83.229714024751,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290144",
+    "businessName": "S AND G STORES LLC (AN OHIO LIMITED LIABILITY COMPANY)",
+    "address": "18854 Northline Rd, Southgate, MI 48195-2221",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213209993864,
+    "longitude": -83.225576182425,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138644",
+    "businessName": "SAM\u0027S CLUB #6412",
+    "address": "15700 Northline Rd, Southgate, MI 48195-2378",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213604574934,
+    "longitude": -83.214423407875,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276295",
+    "businessName": "SHELL",
+    "address": "16100 Northline Rd, Southgate, MI 48195-2593",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213559750373,
+    "longitude": -83.217873081246,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289786",
+    "businessName": "SOUTHGATE SPIRITS, LLC",
+    "address": "14645-14655 Northline Rd, Southgate, MI 48195-2483",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213500889482,
+    "longitude": -83.20242438092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291277",
+    "businessName": "SPRINKLE ROAD PROPERTIES LLC",
+    "address": "13551 Allen Rd, Southgate, MI 48195-2225",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.209910257115,
+    "longitude": -83.229006414915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225805",
+    "businessName": "WAL-MART STORE #5842",
+    "address": "14900 Dix Toledo Rd, Southgate, MI 48195-2580",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.200187888101,
+    "longitude": -83.210007166139,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287310",
+    "businessName": "7-ELEVEN STORE #13482G",
+    "address": "20945 Ecorse Rd, Taylor, MI 48180-1840",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.256159361258,
+    "longitude": -83.241237102318,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12700",
+    "businessName": "A \u0026 M PARTY STORE",
+    "address": "21470 Goddard Rd, Taylor, MI 48180-4246",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.227309526797,
+    "longitude": -83.244049930027,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270929",
+    "businessName": "AASHIRWAD INC.",
+    "address": "20212 ECORSE RD, TAYLOR, MI 48180-1916",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.256405068523,
+    "longitude": -83.233802893841,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289949",
+    "businessName": "ABC TAYLOR, INC.",
+    "address": "10924 Telegraph Rd, Taylor, MI 48180-3323",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.226951662159,
+    "longitude": -83.269484880216,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291422",
+    "businessName": "ASAP LIQUOR, LLC",
+    "address": "11063 Telegraph Rd, Taylor, MI 48180-4030",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.226017148332,
+    "longitude": -83.268842689031,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196315",
+    "businessName": "CORNER STOP MARKET",
+    "address": "7110 Pardee Rd, Taylor, MI 48180-2328",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.255608288542,
+    "longitude": -83.260280986917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10865",
+    "businessName": "DOMINICK\u0027S PIZZA \u0026 DELI",
+    "address": "12970 Beech Daly Rd, Taylor, MI 48180-6212",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.211692258834,
+    "longitude": -83.287884381748,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160851",
+    "businessName": "GET \u0026 GO MARKET",
+    "address": "10950 Beech Daly Rd, Taylor, MI 48180-3189",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.226332542304,
+    "longitude": -83.28839654089,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287586",
+    "businessName": "H\u0026R MARKET, INC.",
+    "address": "25543-25551-25557 VAN BORN RD, TAYLOR, MI 48180",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.268694462072,
+    "longitude": -83.286583174544,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264216",
+    "businessName": "HAZEL\u0027S PARTY STORE",
+    "address": "26025 Van Born Rd, Taylor, MI 48180-1152",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.26856209495,
+    "longitude": -83.292357951279,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "130579",
+    "businessName": "KROGER STORE #686",
+    "address": "7000 Monroe Blvd, Taylor, MI 48180-1883",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.257089874196,
+    "longitude": -83.250226769826,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285780",
+    "businessName": "LAA GODDARD INC.",
+    "address": "22339 Goddard Rd, Taylor, MI 48180-4235",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.226890164757,
+    "longitude": -83.253295816158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155085",
+    "businessName": "MAC\u0027S II, INC.",
+    "address": "22399 Northline Rd, Taylor, MI 48180-4629",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.212386770697,
+    "longitude": -83.252104447971,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9959",
+    "businessName": "MEIJER #35",
+    "address": "14640 Pardee Rd, Taylor, MI 48180-4739",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.200477393981,
+    "longitude": -83.258303861947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14990",
+    "businessName": "MIKE\u0027S BEVERAGE WAREHOUSE",
+    "address": "20055 Van Born Rd, Taylor, MI 48180-1347",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.269810760195,
+    "longitude": -83.23256759091,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13420",
+    "businessName": "NORM\u0027S FOOD MARKET",
+    "address": "25770 Ecorse Rd, Taylor, MI 48180-1550",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.254927418416,
+    "longitude": -83.288915653092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10083",
+    "businessName": "SAVELAND SUPERMARKET",
+    "address": "8370 Pelham Rd, Taylor, MI 48180-3834",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.24815967012,
+    "longitude": -83.230889662513,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11517",
+    "businessName": "TAYLOR PARTY STORE",
+    "address": "9018 Telegraph Rd, Taylor, MI 48180-2364",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.242478774165,
+    "longitude": -83.270025481679,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276524",
+    "businessName": "TAYLOR SHELL, LLC",
+    "address": "5811 Telegraph Rd, Taylor, MI 48180-1214",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.268896923249,
+    "longitude": -83.270081817964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246786",
+    "businessName": "TIGER MART INC",
+    "address": "11796 Allen Rd, Taylor, MI 48180-4342",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.221522776821,
+    "longitude": -83.229659364811,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287371",
+    "businessName": "VANBORN EXPRESS INC",
+    "address": "24305 Van Born Rd, Taylor, MI 48180-1225",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.269004487422,
+    "longitude": -83.272922822399,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271950",
+    "businessName": "WELCOME GAS",
+    "address": "14055 Telegraph Rd, Taylor, MI 48180-8211",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.204279249035,
+    "longitude": -83.268174253319,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222873",
+    "businessName": "WEST LAKE LIQUOR",
+    "address": "25016 Wick Rd, Taylor, MI 48180-3118",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.240645148011,
+    "longitude": -83.279562142814,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239523",
+    "businessName": "WICK VIEW LIQUOR",
+    "address": "9182 Mortenview Dr, Taylor, MI 48180-2808",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.241983589545,
+    "longitude": -83.24375184227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "186232",
+    "businessName": "WOW",
+    "address": "24344 Ecorse Rd, Taylor, MI 48180-1643",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.255482427791,
+    "longitude": -83.273209481228,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

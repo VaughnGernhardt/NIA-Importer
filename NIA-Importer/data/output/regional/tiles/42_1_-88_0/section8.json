@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005734",
+    "propertyName": "BLARE TERRACE",
+    "latitude": 42.13558699894989,
+    "longitude": -87.90515400014108,
+    "assistedUnits": 4,
+    "totalUnits": 4
+  },
+  {
+    "propertyId": "800255073",
+    "propertyName": "Crescent Place",
+    "latitude": 42.11678899877931,
+    "longitude": -87.98620100040768,
+    "assistedUnits": 16,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800245184",
+    "propertyName": "Phil Haven Apartments",
+    "latitude": 42.124591998914326,
+    "longitude": -87.95249300036869,
+    "assistedUnits": 12,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800256671",
+    "propertyName": "Union Apartments",
+    "latitude": 42.133888998826485,
+    "longitude": -87.92709600043764,
+    "assistedUnits": 8,
+    "totalUnits": 59
+  }
+]

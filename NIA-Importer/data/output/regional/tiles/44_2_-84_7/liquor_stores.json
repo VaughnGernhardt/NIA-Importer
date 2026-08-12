@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0287668",
+    "businessName": "HARRY\u0027S TOBACCO \u0026 VAPE OUTLET",
+    "address": "1311 W Houghton Lake Dr, Prudenville, MI 48651-9796",
+    "city": "Denton Twp",
+    "zipCode": "48651",
+    "latitude": 44.298488656079,
+    "longitude": -84.663725844092,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10035",
+    "businessName": "KRONNER PHARMACY",
+    "address": "778 W Houghton Lake Dr, Prudenville, MI 48651-8425",
+    "city": "Denton Twp",
+    "zipCode": "48651",
+    "latitude": 44.298471868987,
+    "longitude": -84.652644254571,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

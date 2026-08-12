@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800258123",
+    "propertyName": "FAIRVIEW APARTMENTS",
+    "latitude": 41.916805998863616,
+    "longitude": -86.00565299997322,
+    "assistedUnits": 45,
+    "totalUnits": 45
+  },
+  {
+    "propertyId": "800010576",
+    "propertyName": "STONE LAKE WOODS",
+    "latitude": 41.91143799911827,
+    "longitude": -86.0174449996549,
+    "assistedUnits": 43,
+    "totalUnits": 43
+  },
+  {
+    "propertyId": "800010666",
+    "propertyName": "VINEYARD PLACE",
+    "latitude": 41.9721929987859,
+    "longitude": -86.09676999959044,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0261692",
+    "businessName": "DAVE\u0027S PARTY STORE",
+    "address": "408 Wood St, Hart, MI 49420-1350",
+    "city": "Hart",
+    "zipCode": "49420",
+    "latitude": 43.696502129825,
+    "longitude": -86.361165547417,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17292",
+    "businessName": "HART EXPRESS E-Z MART",
+    "address": "4279 W Polk Rd, Hart, MI 49420-8380",
+    "city": "Hart",
+    "zipCode": "49420",
+    "latitude": 43.688967475752,
+    "longitude": -86.384845669869,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236590",
+    "businessName": "J\u0026H FAMILY STORES-HART",
+    "address": "4220 W Polk Rd, Hart, MI 49420-8380",
+    "city": "Hart Twp",
+    "zipCode": "49420",
+    "latitude": 43.689052425671,
+    "longitude": -86.382533711195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14627",
+    "businessName": "CHERRY HILL SUPER MARKET",
+    "address": "424 N State St, Shelby, MI 49455-1198",
+    "city": "Shelby",
+    "zipCode": "49455",
+    "latitude": 43.616334135122,
+    "longitude": -86.358006724994,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229228",
+    "businessName": "SHELBY CORNER MARKET",
+    "address": "4252 W Shelby Rd, Shelby, MI 49455-8683",
+    "city": "Shelby Twp",
+    "zipCode": "49455",
+    "latitude": 43.609315780643,
+    "longitude": -86.382883345508,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "232396",
+    "businessName": "S \u0026 J",
+    "address": "32086 E Red Arrow Hwy, Paw Paw, MI 49079-8610",
+    "city": "Antwerp Twp",
+    "zipCode": "49079",
+    "latitude": 42.221917838521,
+    "longitude": -85.86305868047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247702",
+    "businessName": "JOT PETROLEUM LLC",
+    "address": "186 W Michigan Ave, Paw Paw, MI 49079-1014",
+    "city": "Paw Paw",
+    "zipCode": "49079",
+    "latitude": 42.217680590238,
+    "longitude": -85.89744258403,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "180618",
+    "businessName": "PAW PAW AGO",
+    "address": "109 Ampey Rd, Paw Paw, MI 49079-1816",
+    "city": "Paw Paw",
+    "zipCode": "49079",
+    "latitude": 42.207856666186,
+    "longitude": -85.891672424166,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274885",
+    "businessName": "PIT STOP",
+    "address": "279 COUNTY ROAD 665, PAW PAW, MI 49079",
+    "city": "Paw Paw",
+    "zipCode": "49079",
+    "latitude": 42.20405363517,
+    "longitude": -85.889809045404,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10711",
+    "businessName": "THE OASIS",
+    "address": "410 S Kalamazoo St, Paw Paw, MI 49079-1530",
+    "city": "Paw Paw",
+    "zipCode": "49079",
+    "latitude": 42.21466973845,
+    "longitude": -85.891363456257,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223755",
+    "businessName": "PAW PAW LIQUOR",
+    "address": "900 N Kalamazoo St, Paw Paw, MI 49079-1400",
+    "city": "Paw Paw Twp",
+    "zipCode": "49079",
+    "latitude": 42.229558178648,
+    "longitude": -85.885425596472,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

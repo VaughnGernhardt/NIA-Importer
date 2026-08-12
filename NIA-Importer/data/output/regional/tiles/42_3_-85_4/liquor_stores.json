@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "9333",
+    "businessName": "AUGUSTA SHELL #1030",
+    "address": "101 E Michigan Ave, Augusta, MI 49012-9334",
+    "city": "Augusta",
+    "zipCode": "49012",
+    "latitude": 42.335435652506,
+    "longitude": -85.35172128726,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268807",
+    "businessName": "CAPTAIN MO\u0027S MARKET",
+    "address": "12448 E D Ave, Richland, MI 49083-9427",
+    "city": "Ross Twp",
+    "zipCode": "49083",
+    "latitude": 42.370344677394,
+    "longitude": -85.388538520445,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

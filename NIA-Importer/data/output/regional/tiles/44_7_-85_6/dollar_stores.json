@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1104-e-front-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1104, E Front Street Traverse City, MI 49686",
+    "city": "E Front Street Traverse City",
+    "zipCode": "49686",
+    "latitude": 44.764116750732,
+    "longitude": -85.594995422917
+  },
+  {
+    "storeId": "734-munson-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 734, Munson Ave. Traverse City, MI 49686-3525",
+    "city": "Munson Ave. Traverse City",
+    "zipCode": "49686",
+    "latitude": 44.754825998708,
+    "longitude": -85.57247679712
+  }
+]

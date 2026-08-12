@@ -1,0 +1,257 @@
+[
+  {
+    "latitude": 42.36,
+    "longitude": -83.23,
+    "intensity": 4184
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.24,
+    "intensity": 3917
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.22,
+    "intensity": 3864
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.23,
+    "intensity": 3405
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.22,
+    "intensity": 3391
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.22,
+    "intensity": 3245
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.24,
+    "intensity": 2906
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.23,
+    "intensity": 2809
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.24,
+    "intensity": 2765
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.22,
+    "intensity": 2706
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.21,
+    "intensity": 2696
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.21,
+    "intensity": 2530
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.21,
+    "intensity": 2471
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.24,
+    "intensity": 2450
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.22,
+    "intensity": 2297
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.23,
+    "intensity": 2290
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.24,
+    "intensity": 2270
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.21,
+    "intensity": 2265
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.21,
+    "intensity": 2128
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.22,
+    "intensity": 1933
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.23,
+    "intensity": 1849
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.23,
+    "intensity": 1817
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.21,
+    "intensity": 1748
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.27,
+    "intensity": 1715
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.21,
+    "intensity": 1698
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.24,
+    "intensity": 1611
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.26,
+    "intensity": 1525
+  },
+  {
+    "latitude": 42.33,
+    "longitude": -83.22,
+    "intensity": 1509
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.27,
+    "intensity": 1491
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.26,
+    "intensity": 1439
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.26,
+    "intensity": 1326
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.26,
+    "intensity": 1272
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.25,
+    "intensity": 1124
+  },
+  {
+    "latitude": 42.39,
+    "longitude": -83.25,
+    "intensity": 1072
+  },
+  {
+    "latitude": 42.33,
+    "longitude": -83.23,
+    "intensity": 1024
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.22,
+    "intensity": 1020
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.25,
+    "intensity": 940
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.26,
+    "intensity": 913
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.27,
+    "intensity": 898
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.24,
+    "intensity": 884
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.26,
+    "intensity": 839
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.25,
+    "intensity": 681
+  },
+  {
+    "latitude": 42.38,
+    "longitude": -83.23,
+    "intensity": 434
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.25,
+    "intensity": 433
+  },
+  {
+    "latitude": 42.35,
+    "longitude": -83.25,
+    "intensity": 419
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.26,
+    "intensity": 309
+  },
+  {
+    "latitude": 42.37,
+    "longitude": -83.27,
+    "intensity": 147
+  },
+  {
+    "latitude": 42.34,
+    "longitude": -83.25,
+    "intensity": 124
+  },
+  {
+    "latitude": 42.4,
+    "longitude": -83.28,
+    "intensity": 99
+  },
+  {
+    "latitude": 42.36,
+    "longitude": -83.27,
+    "intensity": 84
+  },
+  {
+    "latitude": 42.33,
+    "longitude": -83.24,
+    "intensity": 38
+  }
+]

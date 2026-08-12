@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "193252",
+    "businessName": "FAMILY FARE #1992",
+    "address": "1406 N Eaton St, Albion, MI 49224-9470",
+    "city": "Albion",
+    "zipCode": "49224",
+    "latitude": 42.258908652347,
+    "longitude": -84.756227669675,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "178932",
+    "businessName": "R K SNACK SHOP OF ALBION",
+    "address": "201 Perry St, Albion, MI 49224-1716",
+    "city": "Albion",
+    "zipCode": "49224",
+    "latitude": 42.246094222972,
+    "longitude": -84.751399661983,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286655",
+    "businessName": "S7G #105",
+    "address": "1512 N Eaton St, Albion, MI 49224-8415",
+    "city": "Albion",
+    "zipCode": "49224",
+    "latitude": 42.261673579912,
+    "longitude": -84.756261500452,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215820",
+    "businessName": "SINGH, GURCHARAN",
+    "address": "217 Austin Ave, Albion, MI 49224-1224",
+    "city": "Albion",
+    "zipCode": "49224",
+    "latitude": 42.251164023721,
+    "longitude": -84.754859017281,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264724",
+    "businessName": "SUPERIOR STREET MERCANTILE",
+    "address": "217 S Superior St, Albion, MI 49224-1750",
+    "city": "Albion",
+    "zipCode": "49224",
+    "latitude": 42.243963986443,
+    "longitude": -84.752969289776,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12774",
+    "businessName": "ALBION BEER WELL",
+    "address": "27815 C Dr N, Albion, MI 49224-8402",
+    "city": "Sheridan Twp",
+    "zipCode": "49224",
+    "latitude": 42.265809210499,
+    "longitude": -84.758980610148,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

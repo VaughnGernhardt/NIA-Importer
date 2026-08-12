@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0270243",
+    "businessName": "GARY\u0027S PLACE",
+    "address": "12245 Albee Rd, Burt, MI 48417-9665",
+    "city": "Albee Twp",
+    "zipCode": "48417",
+    "latitude": 43.245411668408,
+    "longitude": -83.932525177703,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223745",
+    "businessName": "GOOD TIMES MARKET",
+    "address": "9538 East Rd, Burt, MI 48417-2069",
+    "city": "Albee Twp",
+    "zipCode": "48417",
+    "latitude": 43.284699588306,
+    "longitude": -83.952968696348,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

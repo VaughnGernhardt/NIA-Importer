@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010445",
+    "propertyName": "PINE VILLA",
+    "latitude": 43.391556999229635,
+    "longitude": -84.65840600008788,
+    "assistedUnits": 111,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800010447",
+    "propertyName": "PINE WINDS II",
+    "latitude": 43.38812699903356,
+    "longitude": -84.6466210000789,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010598",
+    "propertyName": "TARTAN TERRACE",
+    "latitude": 43.37976699916693,
+    "longitude": -84.6588220000145,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  }
+]

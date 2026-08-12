@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "9268",
+    "businessName": "PUTVIN HEALTH MART DRUG STORE",
+    "address": "211 S Cedar St, Manistique, MI 49854-1425",
+    "city": "Manistique",
+    "zipCode": "49854",
+    "latitude": 45.956415146198,
+    "longitude": -86.24647912634,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154043",
+    "businessName": "ZEPHYR",
+    "address": "100 Chippewa Ave, Manistique, MI 49854-1312",
+    "city": "Manistique",
+    "zipCode": "49854",
+    "latitude": 45.963231302642,
+    "longitude": -86.257759913759,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

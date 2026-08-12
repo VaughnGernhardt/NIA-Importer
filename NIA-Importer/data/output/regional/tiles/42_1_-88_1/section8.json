@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800005684",
+    "propertyName": "ARROWHEAD APARTMENTS",
+    "latitude": 42.14650599898085,
+    "longitude": -88.01357199966654,
+    "assistedUnits": 40,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800499902",
+    "propertyName": "Greenhaven Apartments",
+    "latitude": 42.10942399884679,
+    "longitude": -88.05110699978398,
+    "assistedUnits": 9,
+    "totalUnits": 58
+  },
+  {
+    "propertyId": "800006037",
+    "propertyName": "LIBERTY LAKE APARTMENTS",
+    "latitude": 42.19454699921106,
+    "longitude": -88.08250199966312,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800006083",
+    "propertyName": "Little City for Community Development",
+    "latitude": 42.109536999142705,
+    "longitude": -88.0536840004328,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006209",
+    "propertyName": "PALATINE SENIOR RESIDENCES",
+    "latitude": 42.11859099881789,
+    "longitude": -88.0323029998278,
+    "assistedUnits": 75,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800006270",
+    "propertyName": "RAND GROVE VILLAGE",
+    "latitude": 42.1458819991174,
+    "longitude": -88.02609900001538,
+    "assistedUnits": 212,
+    "totalUnits": 212
+  },
+  {
+    "propertyId": "800252405",
+    "propertyName": "Spruce Village",
+    "latitude": 42.144230999384476,
+    "longitude": -88.02946900015934,
+    "assistedUnits": 7,
+    "totalUnits": 44
+  }
+]

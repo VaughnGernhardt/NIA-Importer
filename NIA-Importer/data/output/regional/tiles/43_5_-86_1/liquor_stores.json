@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "250101",
+    "businessName": "HESPERIA BRIDGE LIQUORS, LLC",
+    "address": "4832 S 194th Ave, Hesperia, MI 49421-8591",
+    "city": "Greenwood Twp",
+    "zipCode": "49421",
+    "latitude": 43.553821608623,
+    "longitude": -86.074399731521,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279281",
+    "businessName": "HESPERIA SUNOCO",
+    "address": "309 S Division St, Hesperia, MI 49421-5103",
+    "city": "Hesperia",
+    "zipCode": "49421",
+    "latitude": 43.563132987968,
+    "longitude": -86.039765126405,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14964",
+    "businessName": "WESCO #46",
+    "address": "196 S Division St, Hesperia, MI 49421-9005",
+    "city": "Hesperia",
+    "zipCode": "49421",
+    "latitude": 43.565126453218,
+    "longitude": -86.039621715839,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "businessId": "9199",
+    "businessName": "CHERRY BEND GROCERY",
+    "address": "10200 E Cherry Bend Rd, Traverse City, MI 49684-5294",
+    "city": "Elmwood Twp",
+    "zipCode": "49684",
+    "latitude": 44.79348908919,
+    "longitude": -85.649483014625,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285757",
+    "businessName": "7-ELEVEN STORE #36909",
+    "address": "1795 Barlow St, Traverse City, MI 49686-4722",
+    "city": "Garfield Twp",
+    "zipCode": "49686",
+    "latitude": 44.733567648011,
+    "longitude": -85.605509410915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242179",
+    "businessName": "FRANCISCO\u0027S MARKET \u0026 DELI",
+    "address": "2770 Silver Lake Rd Unit 1, Traverse City, MI 49684-7467",
+    "city": "Garfield Twp",
+    "zipCode": "49684",
+    "latitude": 44.726094528529,
+    "longitude": -85.672638101192,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9324",
+    "businessName": "MEIJER #33",
+    "address": "3955 N US Highway 31 S, Traverse City, MI 49684-4495",
+    "city": "Garfield Twp",
+    "zipCode": "49684",
+    "latitude": 44.741467298238,
+    "longitude": -85.643107325566,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138633",
+    "businessName": "SAM\u0027S CLUB #6419",
+    "address": "2401 N US Highway 31 S, Traverse City, MI 49684-4520",
+    "city": "Garfield Twp",
+    "zipCode": "49684",
+    "latitude": 44.718179471723,
+    "longitude": -85.646405749216,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201933",
+    "businessName": "WAL-MART STORE 2338",
+    "address": "2640 Crossing Cir, Traverse City, MI 49684-7930",
+    "city": "Garfield Twp",
+    "zipCode": "49684",
+    "latitude": 44.728140066041,
+    "longitude": -85.635111615215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219582",
+    "businessName": "14TH STREET MOBIL",
+    "address": "429 W Fourteenth St, Traverse City, MI 49684-4040",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.75159978027,
+    "longitude": -85.628662154978,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247978",
+    "businessName": "BLUE GOAT WINE AND PROVISIONS",
+    "address": "875 E Front St, Traverse City, MI 49686-2769",
+    "city": "Traverse",
+    "zipCode": "49686",
+    "latitude": 44.764212514038,
+    "longitude": -85.601105216127,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229303",
+    "businessName": "CVS/PHARMACY #6843",
+    "address": "626 W Front St, Traverse City, MI 49684-2210",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.764084144332,
+    "longitude": -85.633414333393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264743",
+    "businessName": "DEERING\u0027S MARKET",
+    "address": "1142 Barlow St, Traverse City, MI 49686-4255",
+    "city": "Traverse",
+    "zipCode": "49686",
+    "latitude": 44.746965524166,
+    "longitude": -85.60557622578,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159384",
+    "businessName": "DEERING\u0027S MARKET",
+    "address": "827 S Union St, Traverse City, MI 49684-3252",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.755474426176,
+    "longitude": -85.623659928585,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133849",
+    "businessName": "KAP \u0026 KEG",
+    "address": "539 W Fourteenth St, Traverse City, MI 49684-4042",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.751616951207,
+    "longitude": -85.631468919952,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "263887",
+    "businessName": "TILLEY\u0027S PARTY STORE",
+    "address": "617 Randolph St, Traverse City, MI 49684-2246",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.767342371887,
+    "longitude": -85.633270757064,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15392",
+    "businessName": "TOM\u0027S FOOD MARKETS, INC.",
+    "address": "1201 S Division St, Traverse City, MI 49684-4426",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.751559217702,
+    "longitude": -85.634952847244,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229503",
+    "businessName": "WESTSIDE BEVERAGE",
+    "address": "912 W Front St, Traverse City, MI 49684-2328",
+    "city": "Traverse",
+    "zipCode": "49684",
+    "latitude": 44.764077848896,
+    "longitude": -85.638259476196,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

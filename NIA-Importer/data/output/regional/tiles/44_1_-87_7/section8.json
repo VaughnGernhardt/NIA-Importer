@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023246",
+    "propertyName": "PARKVIEW HAVEN",
+    "latitude": 44.11231499886095,
+    "longitude": -87.65764399983783,
+    "assistedUnits": 90,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800023449",
+    "propertyName": "VALLEY VIEW APARTMENTS",
+    "latitude": 44.115744999049,
+    "longitude": -87.65627499968419,
+    "assistedUnits": 29,
+    "totalUnits": 29
+  }
+]

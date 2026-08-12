@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "6185",
+    "storeName": "Dollar General",
+    "chain": "Dollar General",
+    "address": "Find a Store near you wallet 1105, N State St Gladwin, MI 48624-0040",
+    "city": "N State St Gladwin",
+    "zipCode": "48624",
+    "latitude": 43.98940890499,
+    "longitude": -84.485909175733
+  },
+  {
+    "storeId": "526-e-cedar-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 526, E Cedar Ave Gladwin, MI 48624-2214",
+    "city": "E Cedar Ave Gladwin",
+    "zipCode": "48624",
+    "latitude": 43.980548510856,
+    "longitude": -84.481509168091
+  }
+]

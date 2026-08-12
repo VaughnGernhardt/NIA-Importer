@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4081-n-euclid-avenue",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4081, N Euclid Avenue Bay City, MI 48706",
+    "city": "N Euclid Avenue Bay City",
+    "zipCode": "48706",
+    "latitude": 43.620984852421,
+    "longitude": -83.914280401703
+  },
+  {
+    "storeId": "950-n-euclid-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 950, N Euclid Ave Bay City, MI 48706-2467",
+    "city": "N Euclid Ave Bay City",
+    "zipCode": "48706",
+    "latitude": 43.613035164328,
+    "longitude": -83.91460766732
+  }
+]

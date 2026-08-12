@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "5823-w-saginaw-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5823, W Saginaw Hwy Lansing, MI 48917-2460",
+    "city": "W Saginaw Hwy Lansing",
+    "zipCode": "48917",
+    "latitude": 42.740988539431,
+    "longitude": -84.63355961852
+  },
+  {
+    "storeId": "3800-w-saginaw-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3800, W Saginaw Street Lansing, MI 48917",
+    "city": "W Saginaw Street Lansing",
+    "zipCode": "48917",
+    "latitude": 42.741148575673,
+    "longitude": -84.60107597397
+  }
+]

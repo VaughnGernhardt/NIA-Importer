@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "250221",
+    "businessName": "BRIDGEPORT LIQUOR \u0026 WINE SHOPPE",
+    "address": "5974 Dixie Hwy, Saginaw, MI 48601-5921",
+    "city": "Bridgeport Twp",
+    "zipCode": "48601",
+    "latitude": 43.365140623234,
+    "longitude": -83.885642011922,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229435",
+    "businessName": "LIQUOR 4 KING",
+    "address": "5493 Dixie Hwy, Saginaw, MI 48601-5573",
+    "city": "Bridgeport Twp",
+    "zipCode": "48601",
+    "latitude": 43.379651924869,
+    "longitude": -83.896718185132,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

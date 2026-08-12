@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010160",
+    "propertyName": "GREBE VILLAGE",
+    "latitude": 45.64303099899181,
+    "longitude": -84.48859999967145,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010305",
+    "propertyName": "MACKINAW APARTMENTS II",
+    "latitude": 45.656322999060485,
+    "longitude": -84.48913299977393,
+    "assistedUnits": 40,
+    "totalUnits": 48
+  }
+]

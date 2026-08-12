@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0279303",
+    "businessName": "A \u0026 L TRADING POST",
+    "address": "130 N Morey Rd, Lake City, MI 49651-9417",
+    "city": "Forest Twp",
+    "zipCode": "49651",
+    "latitude": 44.344546043208,
+    "longitude": -85.215824081268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "183213",
+    "businessName": "WILDERNESS CONVENIENCE STORE",
+    "address": "2555 S Lachance Rd, Lake City, MI 49651-8025",
+    "city": "Lake Twp",
+    "zipCode": "49651",
+    "latitude": 44.304417510463,
+    "longitude": -85.295886321119,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10746",
+    "businessName": "INDIANWOOD JUNCTION PARTY STORE",
+    "address": "20 N Baldwin Rd, Lake Orion, MI 48362-1064",
+    "city": "Orion Twp",
+    "zipCode": "48362",
+    "latitude": 44.338362453306,
+    "longitude": -85.299697189735,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0283246",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "10945 W Grand River Hwy, Grand Ledge, MI 48837-9204",
+    "city": "Eagle Twp",
+    "zipCode": "48837",
+    "latitude": 42.797701675529,
+    "longitude": -84.738315889187,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231595",
+    "businessName": "FORTINO PARTY STORE",
+    "address": "314 S Bridge St, Grand Ledge, MI 48837-1529",
+    "city": "Grand Ledge",
+    "zipCode": "48837",
+    "latitude": 42.753181321957,
+    "longitude": -84.746581700171,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153166",
+    "businessName": "LYLE\u0027S PARTY STORE",
+    "address": "603 N Clinton St, Grand Ledge, MI 48837-1116",
+    "city": "Grand Ledge",
+    "zipCode": "48837",
+    "latitude": 42.757933342844,
+    "longitude": -84.739784020348,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10611",
+    "businessName": "QUALITY DAIRY",
+    "address": "804 Willow Hwy, Grand Ledge, MI 48837-2010",
+    "city": "Grand Ledge",
+    "zipCode": "48837",
+    "latitude": 42.747972630892,
+    "longitude": -84.739640351389,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

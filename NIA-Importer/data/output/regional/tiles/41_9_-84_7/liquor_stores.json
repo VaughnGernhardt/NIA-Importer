@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0285931",
+    "businessName": "DANTE\u0027S PURGATORIO, LLC",
+    "address": "55 N Broad St, Hillsdale, MI 49242-1602",
+    "city": "Hillsdale",
+    "zipCode": "49242",
+    "latitude": 41.921556500624,
+    "longitude": -84.631331222322,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15607",
+    "businessName": "KROGER STORE #681",
+    "address": "290 W Carleton Rd, Hillsdale, MI 49242-5034",
+    "city": "Hillsdale",
+    "zipCode": "49242",
+    "latitude": 41.931629180512,
+    "longitude": -84.641476134495,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232473",
+    "businessName": "SAND LAKE PARTY STORE",
+    "address": "1020 S Bunn Rd, Hillsdale, MI 49242-8330",
+    "city": "Hillsdale Twp",
+    "zipCode": "49242",
+    "latitude": 41.912073446798,
+    "longitude": -84.687579088829,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222966",
+    "businessName": "JONESVILLE MARKET",
+    "address": "319 Reading Ave, Jonesville, MI 49250-9427",
+    "city": "Jonesville",
+    "zipCode": "49250",
+    "latitude": 41.976558277247,
+    "longitude": -84.670299420605,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268045",
+    "businessName": "PS FOOD MART",
+    "address": "475 E Chicago St, Jonesville, MI 49250-1005",
+    "city": "Jonesville",
+    "zipCode": "49250",
+    "latitude": 41.97911503744,
+    "longitude": -84.672703200699,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145448",
+    "businessName": "WAL-MART SUPER CENTER #1809",
+    "address": "701 Olds St, Jonesville, MI 49250-9477",
+    "city": "Jonesville",
+    "zipCode": "49250",
+    "latitude": 41.965730555218,
+    "longitude": -84.670209303403,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0284786",
+    "businessName": "TAILGATERS DELTA LLC",
+    "address": "4930 CREYTS RD, LANSING, MI 48917",
+    "city": "Delta Twp",
+    "zipCode": "48917",
+    "latitude": 42.684181422395,
+    "longitude": -84.642406948633,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260870",
+    "businessName": "WAVERLY LIQUOR STORE",
+    "address": "3302 S Waverly Rd, Lansing, MI 48911-1466",
+    "city": "Delta Twp",
+    "zipCode": "48911",
+    "latitude": 42.698671257149,
+    "longitude": -84.603156494004,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269750",
+    "businessName": "QUICKIE CONVENIENCE STORE",
+    "address": "4820 S Waverly Rd, Lansing, MI 48911-2702",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.685230901169,
+    "longitude": -84.603159268358,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240234",
+    "businessName": "SAVE MORE",
+    "address": "5030 S Waverly Rd, Lansing, MI 48911-2768",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.683326460329,
+    "longitude": -84.603200520271,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10166",
+    "businessName": "QUALITY DAIRY",
+    "address": "7120 Lansing Rd, Dimondale, MI 48821-9510",
+    "city": "Windsor Twp",
+    "zipCode": "48821",
+    "latitude": 42.670985554836,
+    "longitude": -84.660279029955,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248159",
+    "businessName": "WINDMILL TRAVEL CENTER",
+    "address": "7262 Lansing Rd, Dimondale, MI 48821-9510",
+    "city": "Windsor Twp",
+    "zipCode": "48821",
+    "latitude": 42.672494585337,
+    "longitude": -84.658253788762,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800007121",
+    "propertyName": "100 CENTER HI-RISE",
+    "latitude": 41.66111099883937,
+    "longitude": -86.18908399983218,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800232478",
+    "propertyName": "AHEPA PENELOPE 60 APARTMENTS",
+    "latitude": 41.65396099895111,
+    "longitude": -86.16704799982428,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800006629",
+    "propertyName": "CARRIAGE HOUSE MISHAWAKA I",
+    "latitude": 41.69215399933798,
+    "longitude": -86.17869599956592,
+    "assistedUnits": 48,
+    "totalUnits": 240
+  },
+  {
+    "propertyId": "800006630",
+    "propertyName": "CARRIAGE HOUSE MISHAWAKA II",
+    "latitude": 41.68859099900578,
+    "longitude": -86.1794339997078,
+    "assistedUnits": 48,
+    "totalUnits": 240
+  },
+  {
+    "propertyId": "800000031",
+    "propertyName": "EASTGATE APARTMENTS",
+    "latitude": 41.65238899874345,
+    "longitude": -86.14307000027559,
+    "assistedUnits": 38,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800006807",
+    "propertyName": "LAKESIDE APARTMENTS",
+    "latitude": 41.652402998899234,
+    "longitude": -86.14253200015025,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800068940",
+    "propertyName": "LINDEN HOUSE MISHAWAKA",
+    "latitude": 41.62926299927165,
+    "longitude": -86.17041100029556,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800000058",
+    "propertyName": "PARKVIEW TERRACE",
+    "latitude": 41.651208999127796,
+    "longitude": -86.1736960000507,
+    "assistedUnits": 107,
+    "totalUnits": 108
+  }
+]

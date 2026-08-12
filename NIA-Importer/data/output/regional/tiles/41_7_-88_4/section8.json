@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800068342",
+    "propertyName": "Association Homes",
+    "latitude": 41.77823499886196,
+    "longitude": -88.33913900003401,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800005763",
+    "propertyName": "CONSTITUTION HOUSE",
+    "latitude": 41.7671979993302,
+    "longitude": -88.37013600042819,
+    "assistedUnits": 0,
+    "totalUnits": 231
+  },
+  {
+    "propertyId": "800067382",
+    "propertyName": "FOX SHORE APARTMENTS",
+    "latitude": 41.76565699887652,
+    "longitude": -88.31159999964733,
+    "assistedUnits": 94,
+    "totalUnits": 94
+  },
+  {
+    "propertyId": "800067947",
+    "propertyName": "FRANCISCAN MINISTRIES",
+    "latitude": 41.760794998850535,
+    "longitude": -88.36657200011547,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800067905",
+    "propertyName": "FRANCISCAN MINISTRIES, INC.",
+    "latitude": 41.761227999037075,
+    "longitude": -88.36629400028112,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800005967",
+    "propertyName": "HARBOR VILLAGE APARTMENTS",
+    "latitude": 41.729679999254145,
+    "longitude": -88.31613300008063,
+    "assistedUnits": 108,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800006306",
+    "propertyName": "SAGE CREST APARTMENTS",
+    "latitude": 41.77344199892442,
+    "longitude": -88.31395800001303,
+    "assistedUnits": 102,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800214896",
+    "propertyName": "SHERMAN APARTMENTS ASSOCIATION",
+    "latitude": 41.73174999921206,
+    "longitude": -88.31459999989546,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  }
+]

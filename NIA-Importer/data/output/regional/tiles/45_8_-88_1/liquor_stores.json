@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "239121",
+    "businessName": "CRISPIGNA\u0027S ITALIAN MARKET",
+    "address": "710 Norway St, Iron Mountain, MI 49801-1812",
+    "city": "Iron Mountain",
+    "zipCode": "49801",
+    "latitude": 45.830122096466,
+    "longitude": -88.058872789009,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142787",
+    "businessName": "KRIST FOOD MART # 21",
+    "address": "616 N Stephenson Ave, Iron Mountain, MI 49801-2243",
+    "city": "Iron Mountain",
+    "zipCode": "49801",
+    "latitude": 45.828939718409,
+    "longitude": -88.060663015556,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277117",
+    "businessName": "KWIK TRIP #1256",
+    "address": "1010 N Stephenson Ave, Iron Mountain, MI 49801-1600",
+    "city": "Iron Mountain",
+    "zipCode": "49801",
+    "latitude": 45.832650334835,
+    "longitude": -88.058877720106,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11815",
+    "businessName": "SUPER ONE FOODS",
+    "address": "1130 S Stephenson Ave, Iron Mountain, MI 49801-4038",
+    "city": "Iron Mountain",
+    "zipCode": "49801",
+    "latitude": 45.812382408243,
+    "longitude": -88.060726247377,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277118",
+    "businessName": "KWIK TRIP #1214",
+    "address": "450 S Carpenter Ave, Kingsford, MI 49802-4527",
+    "city": "Kingsford",
+    "zipCode": "49802",
+    "latitude": 45.804024531752,
+    "longitude": -88.069928892483,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

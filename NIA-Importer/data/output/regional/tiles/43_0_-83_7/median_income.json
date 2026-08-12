@@ -1,0 +1,26 @@
+[
+  {
+    "zipCode": "48502",
+    "medianHouseholdIncome": 50000,
+    "latitude": 43.014645,
+    "longitude": -83.689159
+  },
+  {
+    "zipCode": "48505",
+    "medianHouseholdIncome": 33283,
+    "latitude": 43.06916,
+    "longitude": -83.692301
+  },
+  {
+    "zipCode": "48506",
+    "medianHouseholdIncome": 47929,
+    "latitude": 43.067472,
+    "longitude": -83.624392
+  },
+  {
+    "zipCode": "48509",
+    "medianHouseholdIncome": 64160,
+    "latitude": 43.029903,
+    "longitude": -83.60068
+  }
+]

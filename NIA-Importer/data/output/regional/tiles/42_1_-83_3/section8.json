@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800009868",
+    "propertyName": "CONCORD TOWNHOUSE COOPERATIVE 1-8",
+    "latitude": 42.14482399925794,
+    "longitude": -83.25902299995101,
+    "assistedUnits": 224,
+    "totalUnits": 391
+  },
+  {
+    "propertyId": "800010053",
+    "propertyName": "DEACONESS TOWER",
+    "latitude": 42.188434998934326,
+    "longitude": -83.22368700019061,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010504",
+    "propertyName": "RIVERGREEN APTS",
+    "latitude": 42.182533999350454,
+    "longitude": -83.20734100015923,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800010553",
+    "propertyName": "SOUTH GLEN APARTMENTS",
+    "latitude": 42.106549999218316,
+    "longitude": -83.22271200022226,
+    "assistedUnits": 18,
+    "totalUnits": 159
+  },
+  {
+    "propertyId": "800010725",
+    "propertyName": "THE COURTYARDS AT THE VILLAGES OF TAYLOR",
+    "latitude": 42.192871998863595,
+    "longitude": -83.28989399994852,
+    "assistedUnits": 249,
+    "totalUnits": 437
+  },
+  {
+    "propertyId": "800010509",
+    "propertyName": "WATERS EDGE OF FLAT ROCK",
+    "latitude": 42.10804199894811,
+    "longitude": -83.28326699963847,
+    "assistedUnits": 88,
+    "totalUnits": 88
+  }
+]

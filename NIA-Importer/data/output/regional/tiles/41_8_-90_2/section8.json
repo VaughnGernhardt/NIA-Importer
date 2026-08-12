@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800005363",
+    "propertyName": "LYONS MANOR",
+    "latitude": 41.87371899891565,
+    "longitude": -90.18421199970686,
+    "assistedUnits": 50,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800005406",
+    "propertyName": "PARK TOWER",
+    "latitude": 41.83984799900851,
+    "longitude": -90.19145499996004,
+    "assistedUnits": 71,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800005461",
+    "propertyName": "SKYLINE GROUP HOMES",
+    "latitude": 41.886790998811385,
+    "longitude": -90.17955699997314,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  }
+]

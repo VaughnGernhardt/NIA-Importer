@@ -1,0 +1,146 @@
+[
+  {
+    "propertyId": "800079170",
+    "propertyName": "APPLE LANE",
+    "latitude": 43.13988399934396,
+    "longitude": -88.04060200024017,
+    "assistedUnits": 43,
+    "totalUnits": 43
+  },
+  {
+    "propertyId": "800023021",
+    "propertyName": "FOREST TOWERS-METRO",
+    "latitude": 43.18363799911746,
+    "longitude": -88.03136700021751,
+    "assistedUnits": 54,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800211450",
+    "propertyName": "GARDEN GROVE APARTMENTS",
+    "latitude": 43.15368999889699,
+    "longitude": -88.02808300028727,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800069929",
+    "propertyName": "GRANVILLE APARTMENTS",
+    "latitude": 43.15434299894177,
+    "longitude": -88.02845599965784,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023063",
+    "propertyName": "HAMPTON HOUSE",
+    "latitude": 43.105096999284775,
+    "longitude": -88.0436590003897,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023064",
+    "propertyName": "HAMPTON REGENCY",
+    "latitude": 43.104490998782794,
+    "longitude": -88.07487199979565,
+    "assistedUnits": 119,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800023096",
+    "propertyName": "JAMES AND JOHN APARTMENTS",
+    "latitude": 43.12257599890178,
+    "longitude": -88.01756199995162,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023171",
+    "propertyName": "MEADOWS",
+    "latitude": 43.13286299908128,
+    "longitude": -88.03768499983273,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023185",
+    "propertyName": "MILL ROAD APARTMENTS",
+    "latitude": 43.13351399928688,
+    "longitude": -88.03645100029662,
+    "assistedUnits": 7,
+    "totalUnits": 7
+  },
+  {
+    "propertyId": "800023216",
+    "propertyName": "NORTH WILLOW APARTMENTS",
+    "latitude": 43.18416299936732,
+    "longitude": -88.03311100028989,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800023240",
+    "propertyName": "PARK CLUB APTS",
+    "latitude": 43.167791999095755,
+    "longitude": -88.04468399968846,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800023300",
+    "propertyName": "REFRESHING SPRINGS APARTMENTS",
+    "latitude": 43.12401699936779,
+    "longitude": -88.01939600043568,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800022964",
+    "propertyName": "SILVER TRAIL  APARTMENTS",
+    "latitude": 43.11483599932,
+    "longitude": -88.05538400012425,
+    "assistedUnits": 25,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800023373",
+    "propertyName": "ST PETER APTS I, II, \u0026 III",
+    "latitude": 43.13725299934275,
+    "longitude": -88.01039200039169,
+    "assistedUnits": 210,
+    "totalUnits": 213
+  },
+  {
+    "propertyId": "800217803",
+    "propertyName": "WALTER RILEY DAVIS MANOR",
+    "latitude": 43.15400699937067,
+    "longitude": -88.02826700041028,
+    "assistedUnits": 7,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023491",
+    "propertyName": "WESTRIDGE APARTMENTS",
+    "latitude": 43.18846499877295,
+    "longitude": -88.00842800021128,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800245270",
+    "propertyName": "WHITE BIRCH APARTMENTS PHASE 1 \u0026 2",
+    "latitude": 43.18702999931346,
+    "longitude": -88.00255499993665,
+    "assistedUnits": 339,
+    "totalUnits": 356
+  },
+  {
+    "propertyId": "800023522",
+    "propertyName": "WOODVIEW APARTMENTS",
+    "latitude": 43.177582999036275,
+    "longitude": -88.00013499964669,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  }
+]

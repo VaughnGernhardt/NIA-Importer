@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0270018",
+    "businessName": "LITCHFIELD FASTLANE",
+    "address": "159 Marshall St, Litchfield, MI 49252-9355",
+    "city": "Litchfield",
+    "zipCode": "49252",
+    "latitude": 42.045020793904,
+    "longitude": -84.759572786055,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13465",
+    "businessName": "LITCHFIELD SHELL #1550",
+    "address": "128 Jonesville St, Litchfield, MI 49252-9361",
+    "city": "Litchfield",
+    "zipCode": "49252",
+    "latitude": 42.044324437301,
+    "longitude": -84.758078025303,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279789",
+    "businessName": "LIGHTNING QUICK GAS-N-GO #29",
+    "address": "7505 HERRING RD, LITCHFIELD, MI 49252",
+    "city": "Scipio Twp",
+    "zipCode": "49252",
+    "latitude": 42.02918701171,
+    "longitude": -84.758188355038,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1191-washington-ave-ste-130150",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "1191 Washington Ave Ste. 130-150, Holland, MI 49423-5295",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.756005025048,
+    "longitude": -86.116274231651
+  },
+  {
+    "storeId": "36-w-16th-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "36 W. 16th, Street Holland, MI 49423-3357",
+    "city": "Street Holland",
+    "zipCode": "49423",
+    "latitude": 42.78295640188,
+    "longitude": -86.108886983541
+  }
+]

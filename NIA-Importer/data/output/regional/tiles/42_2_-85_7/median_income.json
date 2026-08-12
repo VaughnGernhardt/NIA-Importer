@@ -1,0 +1,20 @@
+[
+  {
+    "zipCode": "49006",
+    "medianHouseholdIncome": 43639,
+    "latitude": 42.295379,
+    "longitude": -85.629064
+  },
+  {
+    "zipCode": "49008",
+    "medianHouseholdIncome": 74943,
+    "latitude": 42.263643,
+    "longitude": -85.613247
+  },
+  {
+    "zipCode": "49024",
+    "medianHouseholdIncome": 91105,
+    "latitude": 42.206513,
+    "longitude": -85.617997
+  }
+]

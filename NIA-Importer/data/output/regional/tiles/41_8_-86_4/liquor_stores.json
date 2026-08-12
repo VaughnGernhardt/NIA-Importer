@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0261776",
+    "businessName": "JD TRUCK STOP",
+    "address": "1655 Mayflower Rd, Niles, MI 49120-8729",
+    "city": "Bertrand Twp",
+    "zipCode": "49120",
+    "latitude": 41.806388246751,
+    "longitude": -86.322335906009,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236426",
+    "businessName": "STORE 12",
+    "address": "4650 W US Highway 12, Buchanan, MI 49107-8404",
+    "city": "Bertrand Twp",
+    "zipCode": "49107",
+    "latitude": 41.805187444993,
+    "longitude": -86.390552398613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196792",
+    "businessName": "THE PIT STOP",
+    "address": "207 S Oak St, Buchanan, MI 49107-1552",
+    "city": "Buchanan",
+    "zipCode": "49107",
+    "latitude": 41.825671332089,
+    "longitude": -86.361029288829,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225530",
+    "businessName": "RED BUD LIQUOR AND GROCERY",
+    "address": "3213 W Front St, Buchanan, MI 49107-9235",
+    "city": "Buchanan Twp",
+    "zipCode": "49107",
+    "latitude": 41.827357402068,
+    "longitude": -86.37901364657,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

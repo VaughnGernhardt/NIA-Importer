@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800252946",
+    "propertyName": "1212 Larkin",
+    "latitude": 42.0358929989365,
+    "longitude": -88.30889300020048,
+    "assistedUnits": 12,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800006376",
+    "propertyName": "Buena Vista Apartments",
+    "latitude": 42.02078999908113,
+    "longitude": -88.30833199961062,
+    "assistedUnits": 231,
+    "totalUnits": 231
+  },
+  {
+    "propertyId": "800005719",
+    "propertyName": "ELGIN  MANOR",
+    "latitude": 42.02144399937388,
+    "longitude": -88.31038200000474,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

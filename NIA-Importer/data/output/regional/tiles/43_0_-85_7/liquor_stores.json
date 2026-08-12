@@ -1,0 +1,192 @@
+[
+  {
+    "businessId": "171314",
+    "businessName": "ALPINE LIQUOR",
+    "address": "4070 Alpine Ave NW, Comstock Park, MI 49321-8909",
+    "city": "Alpine Twp",
+    "zipCode": "49321",
+    "latitude": 43.037711970166,
+    "longitude": -85.68956866899,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206194",
+    "businessName": "PARTY WORLD",
+    "address": "5568 Alpine Ave NW, Comstock Park, MI 49321-8310",
+    "city": "Alpine Twp",
+    "zipCode": "49321",
+    "latitude": 43.064726057503,
+    "longitude": -85.689770134762,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138640",
+    "businessName": "SAM\u0027S CLUB #6359",
+    "address": "3901 Alpine Ave NW, Comstock Park, MI 49321-8350",
+    "city": "Alpine Twp",
+    "zipCode": "49321",
+    "latitude": 43.035018932276,
+    "longitude": -85.689718425472,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221430",
+    "businessName": "BOTTLENECKS",
+    "address": "2355 Fuller Ave NE, Grand Rapids, MI 49505-4367",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 43.005352955441,
+    "longitude": -85.6399229483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290778",
+    "businessName": "OGIE\u0027S PARTY STORE",
+    "address": "435 N Park St NE, Grand Rapids, MI 49525-2541",
+    "city": "Grand Rapids",
+    "zipCode": "49525",
+    "latitude": 43.022171123976,
+    "longitude": -85.658398483613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10740",
+    "businessName": "QUICK \u0027N\u0027 E-Z PARTY STORE",
+    "address": "2480 Plainfield Ave NE, Grand Rapids, MI 49505-3875",
+    "city": "Grand Rapids",
+    "zipCode": "49505",
+    "latitude": 43.008289456712,
+    "longitude": -85.649501078825,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229574",
+    "businessName": "PLAINFIELD VINEYARD",
+    "address": "3422 Plainfield Ave NE, Grand Rapids, MI 49525-2717",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49525",
+    "latitude": 43.025076307382,
+    "longitude": -85.632578367929,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286180",
+    "businessName": "UNITED SPIRITS OF AMERICA",
+    "address": "3514 PLAINFIELD AVE NE, GRAND RAPIDS, MI 49525",
+    "city": "Grand Rapids Twp",
+    "zipCode": "49525",
+    "latitude": 43.027386873402,
+    "longitude": -85.631922853871,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267838",
+    "businessName": "BELLAVINO\u0027S FINE WINE \u0026 SPIRITS",
+    "address": "3920 Plainfield Ave NE, Grand Rapids, MI 49525-1602",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.034258952896,
+    "longitude": -85.621016061639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264785",
+    "businessName": "CAP N\u0027 CORK",
+    "address": "3924 West River Dr NE, Comstock Park, MI 49321-8997",
+    "city": "Plainfield Twp",
+    "zipCode": "49321",
+    "latitude": 43.033292432447,
+    "longitude": -85.666343111068,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261910",
+    "businessName": "COIT LIBATION STATION",
+    "address": "3700 Coit Ave NE, Grand Rapids, MI 49525-2122",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.030720458528,
+    "longitude": -85.651590014547,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233895",
+    "businessName": "HOME RUN LIQUOR \u0026 DELI",
+    "address": "1259 Post Dr NE, Belmont, MI 49306-8716",
+    "city": "Plainfield Twp",
+    "zipCode": "49306",
+    "latitude": 43.093949256309,
+    "longitude": -85.637493800701,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10089",
+    "businessName": "MEIJER #312",
+    "address": "3757 Plainfield Ave NE, Grand Rapids, MI 49525-2403",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.031541223801,
+    "longitude": -85.627520867059,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288255",
+    "businessName": "PLAINFIELD PARTY STORE",
+    "address": "4280 PLAINFIELD AVE NE, GRAND RAPIDS, MI 49525",
+    "city": "Plainfield Twp",
+    "zipCode": "49525",
+    "latitude": 43.040326904002,
+    "longitude": -85.608542781169,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223506",
+    "businessName": "TOP SHELF SPIRITS",
+    "address": "6245 West River Dr NE, Belmont, MI 49306-9603",
+    "city": "Plainfield Twp",
+    "zipCode": "49306",
+    "latitude": 43.064424812905,
+    "longitude": -85.602621597414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229171",
+    "businessName": "4 MILE LIQUOR",
+    "address": "3587 Alpine Ave NW, Walker, MI 49544-1635",
+    "city": "Walker",
+    "zipCode": "49544",
+    "latitude": 43.028732019418,
+    "longitude": -85.689445184573,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270757",
+    "businessName": "BOURBON STREET",
+    "address": "2234 Alpine Ave NW, Walker, MI 49544-1953",
+    "city": "Walker",
+    "zipCode": "49544",
+    "latitude": 43.003971111221,
+    "longitude": -85.688456419534,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9628",
+    "businessName": "MEIJER #20",
+    "address": "2425 Alpine Ave NW, Walker, MI 49544-1956",
+    "city": "Walker",
+    "zipCode": "49544",
+    "latitude": 43.007431088456,
+    "longitude": -85.688716049,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224061",
+    "businessName": "TARGET #0397",
+    "address": "3248 Alpine Ave NW, Walker, MI 49544-1655",
+    "city": "Walker",
+    "zipCode": "49544",
+    "latitude": 43.022725282196,
+    "longitude": -85.688982854312,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

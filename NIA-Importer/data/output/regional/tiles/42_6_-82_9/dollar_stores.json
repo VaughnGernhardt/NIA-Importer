@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "51361-gratiot-avenue",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 51361, Gratiot Avenue Chesterfield, MI 48051-2041",
+    "city": "Gratiot Avenue Chesterfield",
+    "zipCode": "48051",
+    "latitude": 42.677311033179,
+    "longitude": -82.83123433871
+  },
+  {
+    "storeId": "45409-marketplace-blvd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 45409, Marketplace Blvd Chesterfield, MI 48051-3285",
+    "city": "Marketplace Blvd Chesterfield",
+    "zipCode": "48051",
+    "latitude": 42.631225168027,
+    "longitude": -82.854432659531
+  },
+  {
+    "storeId": "21828-23-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "21828 23, Mile Rd Macomb, MI 48042",
+    "city": "Mile Rd Macomb",
+    "zipCode": "48042",
+    "latitude": 42.673086094039,
+    "longitude": -82.897406197605
+  },
+  {
+    "storeId": "80-n-groesbeck-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 80, N Groesbeck Hwy Mount Clemens, MI 48043",
+    "city": "N Groesbeck Hwy Mount Clemens",
+    "zipCode": "48043",
+    "latitude": 42.601332771702,
+    "longitude": -82.899440805469
+  }
+]

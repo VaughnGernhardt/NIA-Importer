@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "214235",
+    "businessName": "CVS/PHARMACY #8234",
+    "address": "4816 N Adams Rd, Rochester, MI 48306-1415",
+    "city": "Oakland Twp",
+    "zipCode": "48306",
+    "latitude": 42.726960121055,
+    "longitude": -83.196488175262,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161171",
+    "businessName": "FMA PETROLEUM, INC.",
+    "address": "10 S Rochester Rd, Oakland, MI 48363-1545",
+    "city": "Oakland Twp",
+    "zipCode": "48363",
+    "latitude": 42.79925523667,
+    "longitude": -83.134126100055,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "128413",
+    "businessName": "KROGER STORE #650",
+    "address": "4888 N Adams Rd, Oakland, MI 48306-1415",
+    "city": "Oakland Twp",
+    "zipCode": "48306",
+    "latitude": 42.725903681432,
+    "longitude": -83.196447280929,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264867",
+    "businessName": "PAINT CREEK MARKET, INC.",
+    "address": "4335 Territorial Rd, Rochester, MI 48306-1627",
+    "city": "Oakland Twp",
+    "zipCode": "48306",
+    "latitude": 42.735151298869,
+    "longitude": -83.164570293168,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273788",
+    "businessName": "THE SILVER SHAMROCKS",
+    "address": "4505 Collins Rd, Rochester, MI 48306-1623",
+    "city": "Oakland Twp",
+    "zipCode": "48306",
+    "latitude": 42.73324732893,
+    "longitude": -83.161412684758,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

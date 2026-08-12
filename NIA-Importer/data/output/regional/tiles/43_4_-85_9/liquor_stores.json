@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "141946",
+    "businessName": "SPEEDWAY #3569",
+    "address": "8500 S Mason Dr, Newaygo, MI 49337-9149",
+    "city": "Brooks Twp",
+    "zipCode": "49337",
+    "latitude": 43.400679049578,
+    "longitude": -85.800727895519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "171332",
+    "businessName": "B \u0026 F PARTY STORE",
+    "address": "8000 S Mason Dr, Newaygo, MI 49337-8896",
+    "city": "Newaygo",
+    "zipCode": "49337",
+    "latitude": 43.409139024761,
+    "longitude": -85.804784699754,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12198",
+    "businessName": "NEWAYGO E-Z MART",
+    "address": "68 State Rd, Newaygo, MI 49337",
+    "city": "Newaygo",
+    "zipCode": "49337",
+    "latitude": 43.419463053757,
+    "longitude": -85.800235284197,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "97840",
+    "businessName": "WESCO #40",
+    "address": "335 Adams St, Newaygo, MI 49337-8857",
+    "city": "Newaygo",
+    "zipCode": "49337",
+    "latitude": 43.410673540751,
+    "longitude": -85.806166905871,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

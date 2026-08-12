@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0261471",
+    "businessName": "I2A LLC",
+    "address": "100 E Main St, Manchester, MI 48158-8748",
+    "city": "Manchester",
+    "zipCode": "48158",
+    "latitude": 42.149711373513,
+    "longitude": -84.039398983577,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272163",
+    "businessName": "EXPRESS STOP #4659",
+    "address": "9050 MI STATE ROAD 52, MANCHESTER, MI 48158-9751",
+    "city": "Sharon Twp",
+    "zipCode": "48158",
+    "latitude": 42.183945701638,
+    "longitude": -84.032229445995,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

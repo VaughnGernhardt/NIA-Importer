@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0272895",
+    "businessName": "TEN 31 STOP, LLC",
+    "address": "460 W US Highway 10, Scottville, MI 49454-9274",
+    "city": "Amber Twp",
+    "zipCode": "49454",
+    "latitude": 43.954879016719,
+    "longitude": -86.268157989905,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273316",
+    "businessName": "SANDERS MEATS",
+    "address": "237 S Main St, Custer, MI 49405-9704",
+    "city": "Custer",
+    "zipCode": "49405",
+    "latitude": 43.949956014692,
+    "longitude": -86.218733038722,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17635",
+    "businessName": "SCOTTVILLE E-Z MART",
+    "address": "423 E US Highway 10, Scottville, MI 49454-9402",
+    "city": "Custer Twp",
+    "zipCode": "49454",
+    "latitude": 43.954764425395,
+    "longitude": -86.269102201093,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230784",
+    "businessName": "THE BOTTLE AND CAN",
+    "address": "108 S Main St, Scottville, MI 49454-1221",
+    "city": "Scottville",
+    "zipCode": "49454",
+    "latitude": 43.954654392235,
+    "longitude": -86.27952802591,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16490",
+    "businessName": "WESCO #28",
+    "address": "117 N Main St, Scottville, MI 49454-1042",
+    "city": "Scottville",
+    "zipCode": "49454",
+    "latitude": 43.955066070258,
+    "longitude": -86.279546026594,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

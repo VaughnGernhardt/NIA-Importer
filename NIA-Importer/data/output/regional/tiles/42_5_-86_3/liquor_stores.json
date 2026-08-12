@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0282997",
+    "businessName": "NEW GLENN STORE",
+    "address": "1402 ADAMS RD, GLENN, MI 49416",
+    "city": "Ganges Twp",
+    "zipCode": "49416",
+    "latitude": 42.521623329469,
+    "longitude": -86.227637396594,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235707",
+    "businessName": "LYONS FRUIT MARKET",
+    "address": "6829 124th Ave, Fennville, MI 49408-8701",
+    "city": "Saugatuck Twp",
+    "zipCode": "49408",
+    "latitude": 42.593342226436,
+    "longitude": -86.212022749761,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

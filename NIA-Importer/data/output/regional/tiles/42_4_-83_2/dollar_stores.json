@@ -1,0 +1,152 @@
+[
+  {
+    "storeId": "9565",
+    "storeName": "Dollar General",
+    "chain": "Dollar General",
+    "address": "12720 W 9, Mile Rd Oak Park, MI 48237-2959",
+    "city": "Mile Rd Oak Park",
+    "zipCode": "48237",
+    "latitude": 42.459965993705,
+    "longitude": -83.172351724053
+  },
+  {
+    "storeId": "23090-coolidge-highway",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 23090, Coolidge Highway Oak Park, MI 48237-2070",
+    "city": "Coolidge Highway Oak Park",
+    "zipCode": "48237",
+    "latitude": 42.460411628213,
+    "longitude": -83.181930550956
+  },
+  {
+    "storeId": "23201-john-r-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 23201, John R Road Hazel Park, MI 48030-1475",
+    "city": "John R Road Hazel Park",
+    "zipCode": "48030",
+    "latitude": 42.463013507382,
+    "longitude": -83.10414268991
+  },
+  {
+    "storeId": "8918-w-8-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "8918 W 8, Mile Rd. Ferndale, MI 48220-2263",
+    "city": "Mile Rd. Ferndale",
+    "zipCode": "48220",
+    "latitude": 42.446057056536,
+    "longitude": -83.159217206146
+  },
+  {
+    "storeId": "22346-woodward-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 22346, Woodward Ave Ferndale, MI 48220",
+    "city": "Woodward Ave Ferndale",
+    "zipCode": "48220",
+    "latitude": 42.45748763166,
+    "longitude": -83.13214163346
+  },
+  {
+    "storeId": "15151-woodward-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 15151, Woodward Ave. Highland Park, MI 48203-2907",
+    "city": "Woodward Ave. Highland Park",
+    "zipCode": "48203",
+    "latitude": 42.410950609238,
+    "longitude": -83.100814607047
+  },
+  {
+    "storeId": "23105-coolidge-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 23105, Coolidge Hwy Oak Park, MI 48237",
+    "city": "Coolidge Hwy Oak Park",
+    "zipCode": "48237",
+    "latitude": 42.460492460131,
+    "longitude": -83.182088667996
+  },
+  {
+    "storeId": "24148-john-r-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 24148, John R Road Hazel Park, MI 48030-1108",
+    "city": "John R Road Hazel Park",
+    "zipCode": "48030",
+    "latitude": 42.469836017949,
+    "longitude": -83.104266015147
+  },
+  {
+    "storeId": "10130-west-7-mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "10130 West 7, Mile Rd Detroit, MI 48221-1974",
+    "city": "Mile Rd Detroit",
+    "zipCode": "48221",
+    "latitude": 42.431392101397,
+    "longitude": -83.162402877334
+  },
+  {
+    "storeId": "401-e-7-mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "401 E 7, Mile Rd Detroit, MI 48203-2199",
+    "city": "Mile Rd Detroit",
+    "zipCode": "48203",
+    "latitude": 42.432385746098,
+    "longitude": -83.100154310453
+  },
+  {
+    "storeId": "13433-w-8-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "13433 W 8, Mile Road Detroit, MI 48235-1043",
+    "city": "Mile Road Detroit",
+    "zipCode": "48235",
+    "latitude": 42.44516819303,
+    "longitude": -83.179203280234
+  },
+  {
+    "storeId": "13471-10mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "13471 10mile, Rd Oak Park, MI 48237",
+    "city": "Rd Oak Park",
+    "zipCode": "48237",
+    "latitude": 42.474156510898,
+    "longitude": -83.182053835712
+  },
+  {
+    "storeId": "8031-w-mcnichols-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 8031, W Mcnichols Rd Detroit, MI 48221-2564",
+    "city": "W Mcnichols Rd Detroit",
+    "zipCode": "48221",
+    "latitude": 42.417048509853,
+    "longitude": -83.150468205921
+  },
+  {
+    "storeId": "15025-w-mcnichols-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 15025, W Mcnichols Road Detroit, MI 48235",
+    "city": "W Mcnichols Road Detroit",
+    "zipCode": "48235",
+    "latitude": 42.416199591021,
+    "longitude": -83.193595362576
+  },
+  {
+    "storeId": "15100-wyoming-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 15100, Wyoming Street Detroit, MI 48238",
+    "city": "Wyoming Street Detroit",
+    "zipCode": "48238",
+    "latitude": 42.401111678089,
+    "longitude": -83.159537633583
+  }
+]

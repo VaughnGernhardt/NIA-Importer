@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "246995",
+    "businessName": "CONVENIENCE KING GROUP, INC.",
+    "address": "601 E Chicago St, Coldwater, MI 49036-8130",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.934427959091,
+    "longitude": -84.960253888724,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246948",
+    "businessName": "FOLK OIL COMPANY, INC.",
+    "address": "75 E Chicago St, Coldwater, MI 49036-1638",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.940167610555,
+    "longitude": -84.997490554571,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "130500",
+    "businessName": "MEIJER #179",
+    "address": "620 E Chicago Rd, Coldwater, MI 49036-9497",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.935189999508,
+    "longitude": -84.95799128318,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141659",
+    "businessName": "WAL-MART SUPERCENTER #1593",
+    "address": "800 E Chicago St, Coldwater, MI 49036-2055",
+    "city": "Coldwater",
+    "zipCode": "49036",
+    "latitude": 41.935549771309,
+    "longitude": -84.969971266814,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278911",
+    "businessName": "THE CRIMSON GREENHOUSES LLC",
+    "address": "464 N Willowbrook Rd, Coldwater, MI 49036-9462",
+    "city": "Coldwater Twp",
+    "zipCode": "49036",
+    "latitude": 41.95252624218,
+    "longitude": -84.971367459279,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

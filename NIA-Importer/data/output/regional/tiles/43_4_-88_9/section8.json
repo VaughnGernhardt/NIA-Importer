@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800022867",
+    "propertyName": "BAY SHORE APARTMENTS",
+    "latitude": 43.44379299900196,
+    "longitude": -88.85765299959219,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800022908",
+    "propertyName": "CAMPBELL COURT APARTMENTS",
+    "latitude": 43.44400899926991,
+    "longitude": -88.83554299996445,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  }
+]

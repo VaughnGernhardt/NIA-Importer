@@ -1,0 +1,578 @@
+[
+  {
+    "propertyId": "800040597",
+    "propertyName": "712 W DIVERSEY APTS",
+    "latitude": 41.93295599890856,
+    "longitude": -87.64696699986658,
+    "assistedUnits": 45,
+    "totalUnits": 91
+  },
+  {
+    "propertyId": "800005723",
+    "propertyName": "820 BELLE PLAINE COOPERATIVE",
+    "latitude": 41.95750899881347,
+    "longitude": -87.65000599957445,
+    "assistedUnits": 54,
+    "totalUnits": 271
+  },
+  {
+    "propertyId": "800005692",
+    "propertyName": "AINSLIE MANOR APARTMENTS",
+    "latitude": 41.971203999194266,
+    "longitude": -87.6613169999305,
+    "assistedUnits": 50,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005725",
+    "propertyName": "BELMONT HARBOR TOWERS",
+    "latitude": 41.94025799910775,
+    "longitude": -87.64278599978579,
+    "assistedUnits": 152,
+    "totalUnits": 277
+  },
+  {
+    "propertyId": "800245523",
+    "propertyName": "Bryn Mawr Belle Shore",
+    "latitude": 41.983823999355295,
+    "longitude": -87.65748999985206,
+    "assistedUnits": 40,
+    "totalUnits": 371
+  },
+  {
+    "propertyId": "800005771",
+    "propertyName": "CAMPBELL TERRACE",
+    "latitude": 41.9197829991272,
+    "longitude": -87.68898699983842,
+    "assistedUnits": 249,
+    "totalUnits": 249
+  },
+  {
+    "propertyId": "800252648",
+    "propertyName": "CARLTON APARTMENTS (MOD REHAB SRO to RAD PBRA)",
+    "latitude": 41.96584699937429,
+    "longitude": -87.6612740002728,
+    "assistedUnits": 68,
+    "totalUnits": 68
+  },
+  {
+    "propertyId": "800006110",
+    "propertyName": "CLIFTON MAGNOLIA APARTMENTS",
+    "latitude": 41.9622079992492,
+    "longitude": -87.65838199997972,
+    "assistedUnits": 59,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800005810",
+    "propertyName": "COMMONWEALTH APTS",
+    "latitude": 41.93262999911765,
+    "longitude": -87.64102800036802,
+    "assistedUnits": 143,
+    "totalUnits": 145
+  },
+  {
+    "propertyId": "800005827",
+    "propertyName": "CRYSTAL COURTS",
+    "latitude": 41.90174699881198,
+    "longitude": -87.69706500031788,
+    "assistedUnits": 17,
+    "totalUnits": 17
+  },
+  {
+    "propertyId": "800005797",
+    "propertyName": "Clarendon Court Apts.",
+    "latitude": 41.96301399912626,
+    "longitude": -87.65014299984179,
+    "assistedUnits": 152,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800005849",
+    "propertyName": "DIVISION STREET REHAB.",
+    "latitude": 41.90277699873665,
+    "longitude": -87.69738699963484,
+    "assistedUnits": 26,
+    "totalUnits": 28
+  },
+  {
+    "propertyId": "800006522",
+    "propertyName": "EASTWOOD TOWERS",
+    "latitude": 41.96657599917278,
+    "longitude": -87.65504799982077,
+    "assistedUnits": 226,
+    "totalUnits": 230
+  },
+  {
+    "propertyId": "800005885",
+    "propertyName": "ELM STREET PLAZA",
+    "latitude": 41.90262199895964,
+    "longitude": -87.63015999970274,
+    "assistedUnits": 79,
+    "totalUnits": 394
+  },
+  {
+    "propertyId": "800005895",
+    "propertyName": "EVERGREEN SEDGWICK APTS",
+    "latitude": 41.906339999070035,
+    "longitude": -87.63956200013001,
+    "assistedUnits": 17,
+    "totalUnits": 84
+  },
+  {
+    "propertyId": "800005893",
+    "propertyName": "EVERGREEN TERRACE",
+    "latitude": 41.90577099911556,
+    "longitude": -87.64062900015985,
+    "assistedUnits": 84,
+    "totalUnits": 84
+  },
+  {
+    "propertyId": "800005894",
+    "propertyName": "EVERGREEN TOWER APTS",
+    "latitude": 41.90683099904828,
+    "longitude": -87.64109000029231,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800222609",
+    "propertyName": "FRED WOODS HOME II INC.",
+    "latitude": 41.965874999267726,
+    "longitude": -87.66369299983955,
+    "assistedUnits": 5,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800005898",
+    "propertyName": "FRED WOODS HOMES I",
+    "latitude": 41.965874999267726,
+    "longitude": -87.66369299983955,
+    "assistedUnits": 9,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800005918",
+    "propertyName": "FULLERTON COURT APARTMENTS",
+    "latitude": 41.923846999160695,
+    "longitude": -87.66717199976347,
+    "assistedUnits": 195,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800005933",
+    "propertyName": "GILL PARK COOPERATIVE",
+    "latitude": 41.95136799906881,
+    "longitude": -87.65032399959176,
+    "assistedUnits": 259,
+    "totalUnits": 260
+  },
+  {
+    "propertyId": "800040043",
+    "propertyName": "HAZEL WINTHROP APTS",
+    "latitude": 41.9638319993555,
+    "longitude": -87.65109500024391,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800005982",
+    "propertyName": "HEIWA TERRACE",
+    "latitude": 41.96924799935143,
+    "longitude": -87.65318400009778,
+    "assistedUnits": 200,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800254066",
+    "propertyName": "Howard Apartments",
+    "latitude": 41.91011499936032,
+    "longitude": -87.6796780001959,
+    "assistedUnits": 12,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800006085",
+    "propertyName": "Humboldt Park Elderly/Plaza Taino",
+    "latitude": 41.90153899915941,
+    "longitude": -87.69907700017885,
+    "assistedUnits": 59,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800006397",
+    "propertyName": "JACQUELINE TERRACE",
+    "latitude": 41.941688998974506,
+    "longitude": -87.6477700003058,
+    "assistedUnits": 11,
+    "totalUnits": 11
+  },
+  {
+    "propertyId": "800067762",
+    "propertyName": "KENMORE PLAZA",
+    "latitude": 41.97727999882253,
+    "longitude": -87.65622199998074,
+    "assistedUnits": 129,
+    "totalUnits": 324
+  },
+  {
+    "propertyId": "800006063",
+    "propertyName": "LAKEVIEW TOWERS",
+    "latitude": 41.96316699928083,
+    "longitude": -87.65014600021483,
+    "assistedUnits": 395,
+    "totalUnits": 500
+  },
+  {
+    "propertyId": "800006067",
+    "propertyName": "LAS MORADAS APARTMENTS",
+    "latitude": 41.904932998940886,
+    "longitude": -87.69668399965306,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800006280",
+    "propertyName": "LINCOLN PARK PLAZA",
+    "latitude": 41.9330159991764,
+    "longitude": -87.64393300018158,
+    "assistedUnits": 147,
+    "totalUnits": 256
+  },
+  {
+    "propertyId": "800221027",
+    "propertyName": "Lakeside Square Apartments",
+    "latitude": 41.96834999895546,
+    "longitude": -87.65327799980912,
+    "assistedUnits": 308,
+    "totalUnits": 310
+  },
+  {
+    "propertyId": "800256668",
+    "propertyName": "Lathrop Homes IB",
+    "latitude": 41.93394399898305,
+    "longitude": -87.6806909997991,
+    "assistedUnits": 7,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800250846",
+    "propertyName": "MAJOR JENKINS APARTMENTS",
+    "latitude": 41.97352199880169,
+    "longitude": -87.65796299968007,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800224701",
+    "propertyName": "MAPLE POINTE APARTMENTS",
+    "latitude": 41.90199799916541,
+    "longitude": -87.63307899976002,
+    "assistedUnits": 196,
+    "totalUnits": 342
+  },
+  {
+    "propertyId": "800006407",
+    "propertyName": "MARSHALL FIELD GARDEN APT.",
+    "latitude": 41.90861699911507,
+    "longitude": -87.63853600010803,
+    "assistedUnits": 628,
+    "totalUnits": 628
+  },
+  {
+    "propertyId": "800248077",
+    "propertyName": "MIRIAM APARTMENTS",
+    "latitude": 41.967308998824834,
+    "longitude": -87.66245400028056,
+    "assistedUnits": 66,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800006109",
+    "propertyName": "MORNINGSIDE NORTH",
+    "latitude": 41.90072199892008,
+    "longitude": -87.63377699971893,
+    "assistedUnits": 256,
+    "totalUnits": 256
+  },
+  {
+    "propertyId": "800006154",
+    "propertyName": "MORNINGSIDE SOUTH/JENKINS HALL",
+    "latitude": 41.9003949993225,
+    "longitude": -87.63380299965819,
+    "assistedUnits": 90,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800005826",
+    "propertyName": "NORTH ASHLAND REHAB",
+    "latitude": 41.9654189988992,
+    "longitude": -87.66972000009997,
+    "assistedUnits": 124,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800006171",
+    "propertyName": "NORTH PARK TOWER COOPERATIVE",
+    "latitude": 41.911363998730494,
+    "longitude": -87.63672199971545,
+    "assistedUnits": 25,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800006172",
+    "propertyName": "NORTHEASTWOOD SHORES",
+    "latitude": 41.966588999071504,
+    "longitude": -87.6514609999418,
+    "assistedUnits": 153,
+    "totalUnits": 231
+  },
+  {
+    "propertyId": "800006193",
+    "propertyName": "OVER THE RAINBOW UNIT I",
+    "latitude": 41.923811998937545,
+    "longitude": -87.64816899961563,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800006234",
+    "propertyName": "PETERSON PLAZA",
+    "latitude": 41.98972399898122,
+    "longitude": -87.67489500041567,
+    "assistedUnits": 189,
+    "totalUnits": 189
+  },
+  {
+    "propertyId": "800006241",
+    "propertyName": "PINE GROVE APARTMENTS",
+    "latitude": 41.94899499874395,
+    "longitude": -87.64592999997396,
+    "assistedUnits": 97,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800006243",
+    "propertyName": "PINES OF EDGEWATER",
+    "latitude": 41.980735999161105,
+    "longitude": -87.65674300038765,
+    "assistedUnits": 279,
+    "totalUnits": 279
+  },
+  {
+    "propertyId": "800245076",
+    "propertyName": "Parkway Apartments",
+    "latitude": 41.93295599890856,
+    "longitude": -87.64696699986658,
+    "assistedUnits": 9,
+    "totalUnits": 90
+  },
+  {
+    "propertyId": "800006267",
+    "propertyName": "Racine Terrace",
+    "latitude": 41.96213499892588,
+    "longitude": -87.65935100010029,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800006312",
+    "propertyName": "SCOTLAND YARD II",
+    "latitude": 41.959297999276,
+    "longitude": -87.65329500042587,
+    "assistedUnits": 156,
+    "totalUnits": 156
+  },
+  {
+    "propertyId": "800006320",
+    "propertyName": "SHERIDAN \u0026 AINSLIE APARTMENTS",
+    "latitude": 41.971696999192204,
+    "longitude": -87.6551220003389,
+    "assistedUnits": 119,
+    "totalUnits": 119
+  },
+  {
+    "propertyId": "800006322",
+    "propertyName": "SHERIDAN GUNNISON APARTMENTS",
+    "latitude": 41.96974899918067,
+    "longitude": -87.65463299971906,
+    "assistedUnits": 124,
+    "totalUnits": 187
+  },
+  {
+    "propertyId": "800006324",
+    "propertyName": "SHERWAY TOWER APARTMENTS",
+    "latitude": 41.95893499887708,
+    "longitude": -87.65442299965677,
+    "assistedUnits": 179,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800006331",
+    "propertyName": "SILENT COOPERATIVE APARTMENTS",
+    "latitude": 41.93961099923029,
+    "longitude": -87.69059399964345,
+    "assistedUnits": 98,
+    "totalUnits": 99
+  },
+  {
+    "propertyId": "800219632",
+    "propertyName": "ST. VINCENT DEPAUL RESIDENCE",
+    "latitude": 41.95526299927245,
+    "longitude": -87.68629299991208,
+    "assistedUnits": 86,
+    "totalUnits": 87
+  },
+  {
+    "propertyId": "800006367",
+    "propertyName": "SUNNYSIDE APTS",
+    "latitude": 41.963829998822305,
+    "longitude": -87.65124199965871,
+    "assistedUnits": 124,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800254323",
+    "propertyName": "Schiller Place",
+    "latitude": 41.90732099911111,
+    "longitude": -87.64802300002579,
+    "assistedUnits": 5,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800247858",
+    "propertyName": "Sheridan Park Preservation",
+    "latitude": 41.96500799876745,
+    "longitude": -87.66123499991475,
+    "assistedUnits": 10,
+    "totalUnits": 92
+  },
+  {
+    "propertyId": "800005716",
+    "propertyName": "Shoreham Bristol Apartments",
+    "latitude": 41.94260099929677,
+    "longitude": -87.64031199996745,
+    "assistedUnits": 107,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800214897",
+    "propertyName": "THE CENTER ON HALSTED",
+    "latitude": 41.92835899915743,
+    "longitude": -87.64861300002966,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800006205",
+    "propertyName": "THE PINES OF EDGEWATER II",
+    "latitude": 41.98055399935531,
+    "longitude": -87.65673599981663,
+    "assistedUnits": 217,
+    "totalUnits": 217
+  },
+  {
+    "propertyId": "800006401",
+    "propertyName": "THORNDALE MANOR",
+    "latitude": 41.99028099902576,
+    "longitude": -87.65502100005659,
+    "assistedUnits": 71,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800006230",
+    "propertyName": "THRESHOLDS II",
+    "latitude": 41.90371699892153,
+    "longitude": -87.63385399971182,
+    "assistedUnits": 18,
+    "totalUnits": 19
+  },
+  {
+    "propertyId": "800246612",
+    "propertyName": "The Carling",
+    "latitude": 41.909422999326026,
+    "longitude": -87.63338300043195,
+    "assistedUnits": 7,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800040078",
+    "propertyName": "VICTORY APARTMENTS",
+    "latitude": 41.90386599882458,
+    "longitude": -87.67466500026191,
+    "assistedUnits": 107,
+    "totalUnits": 107
+  },
+  {
+    "propertyId": "800006445",
+    "propertyName": "WALSH PARK",
+    "latitude": 41.91342099906702,
+    "longitude": -87.67043099957937,
+    "assistedUnits": 134,
+    "totalUnits": 134
+  },
+  {
+    "propertyId": "800006446",
+    "propertyName": "WEBSTER HOUSE",
+    "latitude": 41.92107599896502,
+    "longitude": -87.63663800004987,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800006353",
+    "propertyName": "WEST BYRON PLACE",
+    "latitude": 41.951995998989425,
+    "longitude": -87.69878299955266,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800005732",
+    "propertyName": "WEST TOWN HOUSING PRESERVATION",
+    "latitude": 41.904369998993126,
+    "longitude": -87.6942369995989,
+    "assistedUnits": 318,
+    "totalUnits": 318
+  },
+  {
+    "propertyId": "800006449",
+    "propertyName": "WEST TOWN SENIOR  HOUSING",
+    "latitude": 41.90834199882899,
+    "longitude": -87.6856200000675,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800006454",
+    "propertyName": "WINTHROP TOWERS COOPERATIVE",
+    "latitude": 41.97027199938207,
+    "longitude": -87.65784899987726,
+    "assistedUnits": 279,
+    "totalUnits": 279
+  },
+  {
+    "propertyId": "800006495",
+    "propertyName": "WINWOOD APTS",
+    "latitude": 41.975525998959824,
+    "longitude": -87.66502000016041,
+    "assistedUnits": 31,
+    "totalUnits": 31
+  },
+  {
+    "propertyId": "800040446",
+    "propertyName": "WOOLMAN WASHINGTON COOPERATIVE APARTMENTS",
+    "latitude": 41.90919399874085,
+    "longitude": -87.67889999987105,
+    "assistedUnits": 51,
+    "totalUnits": 51
+  },
+  {
+    "propertyId": "800212450",
+    "propertyName": "Water s Edge Apartments",
+    "latitude": 41.93123299886721,
+    "longitude": -87.6801989997045,
+    "assistedUnits": 91,
+    "totalUnits": 92
+  }
+]

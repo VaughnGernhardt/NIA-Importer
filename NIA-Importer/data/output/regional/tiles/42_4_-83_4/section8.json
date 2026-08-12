@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800010338",
+    "propertyName": "DETROIT BAPTIST MANOR - DRAKE",
+    "latitude": 42.460696999086466,
+    "longitude": -83.39556499984417,
+    "assistedUnits": 101,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800010105",
+    "propertyName": "FARMINGTON PLACE",
+    "latitude": 42.463091998785856,
+    "longitude": -83.37177499971816,
+    "assistedUnits": 153,
+    "totalUnits": 153
+  },
+  {
+    "propertyId": "800256413",
+    "propertyName": "JOHN GRACE ARMS",
+    "latitude": 42.44510899911683,
+    "longitude": -83.31173900016071,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800010738",
+    "propertyName": "ZIEGLER PLACE",
+    "latitude": 42.43124399893188,
+    "longitude": -83.34334099972907,
+    "assistedUnits": 140,
+    "totalUnits": 141
+  }
+]

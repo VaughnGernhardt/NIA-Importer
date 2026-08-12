@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800005787",
+    "propertyName": "Autumn Ridge Apartments",
+    "latitude": 41.89547199897157,
+    "longitude": -88.0922790000091,
+    "assistedUnits": 132,
+    "totalUnits": 210
+  },
+  {
+    "propertyId": "800005760",
+    "propertyName": "COLONY PARK APARTMENTS",
+    "latitude": 41.8914179990091,
+    "longitude": -88.09976499993654,
+    "assistedUnits": 0,
+    "totalUnits": 284
+  },
+  {
+    "propertyId": "800005906",
+    "propertyName": "FINLEY APARTMENTS",
+    "latitude": 41.86161599883897,
+    "longitude": -88.02683999963199,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800005910",
+    "propertyName": "FOREST APARTMENTS",
+    "latitude": 41.87852299904176,
+    "longitude": -88.06535599956558,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800006330",
+    "propertyName": "SHOREWOOD TOWERS",
+    "latitude": 41.8981489993418,
+    "longitude": -88.08112400018695,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  }
+]

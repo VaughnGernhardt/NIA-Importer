@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "234218",
+    "businessName": "SUNOCO",
+    "address": "135 S Washington St, Oxford, MI 48371-4982",
+    "city": "Oxford",
+    "zipCode": "48371",
+    "latitude": 42.819221119961,
+    "longitude": -83.260050910701,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133739",
+    "businessName": "MEIJER #197",
+    "address": "900 N Lapeer Rd, Oxford, MI 48371-3619",
+    "city": "Oxford Twp",
+    "zipCode": "48371",
+    "latitude": 42.83750837529,
+    "longitude": -83.272391244611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12662",
+    "businessName": "OAKWOOD MARKET",
+    "address": "2487 E Oakwood Rd, Oxford, MI 48370-1209",
+    "city": "Oxford Twp",
+    "zipCode": "48370",
+    "latitude": 42.870161948419,
+    "longitude": -83.232088373932,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239802",
+    "businessName": "SHELL OF OXFORD",
+    "address": "1010 S Lapeer Rd, Oxford, MI 48371-6100",
+    "city": "Oxford Twp",
+    "zipCode": "48371",
+    "latitude": 42.810898952766,
+    "longitude": -83.252438625391,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

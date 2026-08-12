@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800010145",
+    "propertyName": "GLENVIEW APARTMENTS",
+    "latitude": 43.967085999193266,
+    "longitude": -86.44076599999538,
+    "assistedUnits": 16,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800010272",
+    "propertyName": "LAWNDALE APARTMENTS",
+    "latitude": 43.959548999014764,
+    "longitude": -86.43235299978016,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010298",
+    "propertyName": "LONGFELLOW TOWERS",
+    "latitude": 43.95689499916802,
+    "longitude": -86.44502300024415,
+    "assistedUnits": 149,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800010446",
+    "propertyName": "PINE WAY",
+    "latitude": 43.96053199923007,
+    "longitude": -86.4265540000237,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  }
+]

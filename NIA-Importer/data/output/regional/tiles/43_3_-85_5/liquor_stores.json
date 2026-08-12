@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "12472",
+    "businessName": "HOWARD CITY PLAZA",
+    "address": "730 W Shaw St, Howard City, MI 49329-8400",
+    "city": "Howard City",
+    "zipCode": "49329",
+    "latitude": 43.395753303357,
+    "longitude": -85.480178982864,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289551",
+    "businessName": "CORAL MART LLC",
+    "address": "4668 N Bailey Rd, Coral, MI 49322-5102",
+    "city": "Maple Valley Twp",
+    "zipCode": "49322",
+    "latitude": 43.355030922265,
+    "longitude": -85.402844736679,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "214316",
+    "businessName": "CVS/PHARMACY #8149",
+    "address": "1229 S Parker St, Marine City, MI 48039-2331",
+    "city": "Marine",
+    "zipCode": "48039",
+    "latitude": 42.70862789182,
+    "longitude": -82.500128123916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269571",
+    "businessName": "MARINE CITY GAS AND CONVENIENCE STATION, INC.",
+    "address": "325 S Parker St, Marine City, MI 48039-3578",
+    "city": "Marine",
+    "zipCode": "48039",
+    "latitude": 42.71681307847,
+    "longitude": -82.500388732753,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247717",
+    "businessName": "SUNRISE STORE #18",
+    "address": "536 S Parker St, Marine City, MI 48039-3508",
+    "city": "Marine",
+    "zipCode": "48039",
+    "latitude": 42.713876402606,
+    "longitude": -82.500488348781,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14446",
+    "businessName": "TIM\u0027S PARTY STORE",
+    "address": "1038 S Parker St, Marine City, MI 48039-3590",
+    "city": "Marine",
+    "zipCode": "48039",
+    "latitude": 42.710765155495,
+    "longitude": -82.500383450127,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

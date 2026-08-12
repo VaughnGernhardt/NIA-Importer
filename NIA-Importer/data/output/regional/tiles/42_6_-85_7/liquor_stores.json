@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0288066",
+    "businessName": "ROCK \u0027N\u0027 BOWL WAYLAND",
+    "address": "1095 137TH AVE, WAYLAND, MI 49348-9767",
+    "city": "Leighton Twp",
+    "zipCode": "49348",
+    "latitude": 42.688522265688,
+    "longitude": -85.646331949857,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270914",
+    "businessName": "BENTLEY\u0027S PARTY STORE",
+    "address": "145 W Superior St, Wayland, MI 49348-1216",
+    "city": "Wayland",
+    "zipCode": "49348",
+    "latitude": 42.673766773223,
+    "longitude": -85.643992313485,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132393",
+    "businessName": "HARDING\u0027S",
+    "address": "300 Reno Dr, Wayland, MI 49348-1277",
+    "city": "Wayland",
+    "zipCode": "49348",
+    "latitude": 42.673974786933,
+    "longitude": -85.657064434489,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289664",
+    "businessName": "ACE FUELLING INC. (AN OHIO CORPORATION)",
+    "address": "2897 10th St, Shelbyville, MI 49344-9555",
+    "city": "Wayland Twp",
+    "zipCode": "49344",
+    "latitude": 42.630253261697,
+    "longitude": -85.642389138387,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246763",
+    "businessName": "NOONDAY MARKET",
+    "address": "1150 129th Ave, Shelbyville, MI 49344-9577",
+    "city": "Wayland Twp",
+    "zipCode": "49344",
+    "latitude": 42.630333075121,
+    "longitude": -85.657265900112,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

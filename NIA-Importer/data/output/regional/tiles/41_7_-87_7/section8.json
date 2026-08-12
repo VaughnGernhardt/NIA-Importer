@@ -1,0 +1,474 @@
+[
+  {
+    "propertyId": "800006525",
+    "propertyName": "6000 SOUTH INDIANA APARTMENTS",
+    "latitude": 41.785581999052305,
+    "longitude": -87.62082500012096,
+    "assistedUnits": 67,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800006526",
+    "propertyName": "65TH STREET APARTMENTS",
+    "latitude": 41.776419999349436,
+    "longitude": -87.60243299989341,
+    "assistedUnits": 63,
+    "totalUnits": 63
+  },
+  {
+    "propertyId": "800112360",
+    "propertyName": "ADA S. MCKINLEY IV",
+    "latitude": 41.759041998770236,
+    "longitude": -87.63596699985513,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800068333",
+    "propertyName": "ADA S.MCKINLEY II, INC.",
+    "latitude": 41.76424599937741,
+    "longitude": -87.67573899996447,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800005704",
+    "propertyName": "ANTIOCH HAVEN HOMES",
+    "latitude": 41.780070999353185,
+    "longitude": -87.63596500020532,
+    "assistedUnits": 195,
+    "totalUnits": 195
+  },
+  {
+    "propertyId": "800006469",
+    "propertyName": "ANTIOCH SENIOR HOUSING",
+    "latitude": 41.76460899911747,
+    "longitude": -87.62953200006403,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005888",
+    "propertyName": "BETHEL TERRACE",
+    "latitude": 41.78169799904234,
+    "longitude": -87.64739399966385,
+    "assistedUnits": 122,
+    "totalUnits": 123
+  },
+  {
+    "propertyId": "800256672",
+    "propertyName": "Brainerd Senior Center",
+    "latitude": 41.73167299938763,
+    "longitude": -87.65784200020455,
+    "assistedUnits": 12,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005788",
+    "propertyName": "CHATHAM PARK SOUTH COOPERATIVE",
+    "latitude": 41.740067998846826,
+    "longitude": -87.60758700029274,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800005815",
+    "propertyName": "CONTINENTAL PLAZA APARTMENTS",
+    "latitude": 41.75605699890196,
+    "longitude": -87.6585490003843,
+    "assistedUnits": 292,
+    "totalUnits": 292
+  },
+  {
+    "propertyId": "800040490",
+    "propertyName": "DAUPHIN AVE APTS",
+    "latitude": 41.727519999247136,
+    "longitude": -87.60318299973088,
+    "assistedUnits": 49,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800005876",
+    "propertyName": "EDWIN BERRY MANOR",
+    "latitude": 41.7690139988095,
+    "longitude": -87.62352499989511,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800502315",
+    "propertyName": "Earle School Family",
+    "latitude": 41.78291199897026,
+    "longitude": -87.66742600020669,
+    "assistedUnits": 12,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800005887",
+    "propertyName": "Englewood Gardens Apts.",
+    "latitude": 41.76711299914007,
+    "longitude": -87.6362199995751,
+    "assistedUnits": 167,
+    "totalUnits": 167
+  },
+  {
+    "propertyId": "800005938",
+    "propertyName": "GOOD SHEPHERD TOWER",
+    "latitude": 41.794211998825624,
+    "longitude": -87.6236999997973,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006506",
+    "propertyName": "GREENWOOD SENIOR LIVING, LP",
+    "latitude": 41.78420899897396,
+    "longitude": -87.60570299957996,
+    "assistedUnits": 218,
+    "totalUnits": 218
+  },
+  {
+    "propertyId": "800006107",
+    "propertyName": "Genesis Group 5800 Inc",
+    "latitude": 41.78925999888665,
+    "longitude": -87.62252700036055,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800005690",
+    "propertyName": "Genesis Group ADA-Throop Inc",
+    "latitude": 41.76967799912565,
+    "longitude": -87.65809199955149,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005970",
+    "propertyName": "HAYES MANOR APARTMENTS",
+    "latitude": 41.77217999910756,
+    "longitude": -87.65466500040444,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800219426",
+    "propertyName": "HOLINESS HOMES OF VISION",
+    "latitude": 41.744710998889424,
+    "longitude": -87.65338099974129,
+    "assistedUnits": 53,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800005994",
+    "propertyName": "HYDE PARK WEST APARTMENTS",
+    "latitude": 41.79785699922697,
+    "longitude": -87.60608199969666,
+    "assistedUnits": 64,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800254453",
+    "propertyName": "Jarrell Washington Park",
+    "latitude": 41.79108499893339,
+    "longitude": -87.62258400026195,
+    "assistedUnits": 5,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800006026",
+    "propertyName": "LAFAYETTE PLAZA HOUSING COOPERATIVE",
+    "latitude": 41.76567199886455,
+    "longitude": -87.62754600014233,
+    "assistedUnits": 196,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800006027",
+    "propertyName": "LAFAYETTE TERRACE APARTMENTS",
+    "latitude": 41.76790899873246,
+    "longitude": -87.62702999975829,
+    "assistedUnits": 93,
+    "totalUnits": 93
+  },
+  {
+    "propertyId": "800006145",
+    "propertyName": "MIDWAY PLAISANCE SENIOR APARTMENTS",
+    "latitude": 41.785661999328525,
+    "longitude": -87.60779800017993,
+    "assistedUnits": 52,
+    "totalUnits": 52
+  },
+  {
+    "propertyId": "800225843",
+    "propertyName": "NAOMI AND SYLVESTER SMITH SENIOR LIVING CENTER",
+    "latitude": 41.74783899934984,
+    "longitude": -87.64375499990636,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006164",
+    "propertyName": "NEW PISGAH HAVEN HOMES",
+    "latitude": 41.74860199901321,
+    "longitude": -87.65348200002362,
+    "assistedUnits": 60,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800006210",
+    "propertyName": "PARADISE HAVEN HOMES",
+    "latitude": 41.765262999186305,
+    "longitude": -87.62954899978247,
+    "assistedUnits": 39,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800039732",
+    "propertyName": "PARKWAY GARDENS",
+    "latitude": 41.77657299925226,
+    "longitude": -87.61695899968444,
+    "assistedUnits": 694,
+    "totalUnits": 694
+  },
+  {
+    "propertyId": "800068323",
+    "propertyName": "PRAIRIE HAVEN HOMES",
+    "latitude": 41.77261699916083,
+    "longitude": -87.63437199974567,
+    "assistedUnits": 23,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800006260",
+    "propertyName": "PULLMAN WHEELWORKS",
+    "latitude": 41.70549999912461,
+    "longitude": -87.60142100011515,
+    "assistedUnits": 210,
+    "totalUnits": 210
+  },
+  {
+    "propertyId": "800006290",
+    "propertyName": "ROSE HAVEN MANOR",
+    "latitude": 41.708492999305484,
+    "longitude": -87.62024699981265,
+    "assistedUnits": 59,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800224782",
+    "propertyName": "ROSELAND PLACE",
+    "latitude": 41.70454899879557,
+    "longitude": -87.62037599968407,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800236721",
+    "propertyName": "ROSELAND VILLAGE",
+    "latitude": 41.70521799908723,
+    "longitude": -87.62108399968875,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800235405",
+    "propertyName": "SANGAMON TERRACE APARTMENTS",
+    "latitude": 41.78222199912905,
+    "longitude": -87.6482840001417,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006456",
+    "propertyName": "SOUTH WABASH APARTMENTS",
+    "latitude": 41.787057998964336,
+    "longitude": -87.6236789998809,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800006443",
+    "propertyName": "SOUTHLAND VILLAGE",
+    "latitude": 41.780864999350825,
+    "longitude": -87.62189799999861,
+    "assistedUnits": 186,
+    "totalUnits": 230
+  },
+  {
+    "propertyId": "800212943",
+    "propertyName": "ST BRENDAN SENIOR HOUSING",
+    "latitude": 41.77200299929363,
+    "longitude": -87.65453399998486,
+    "assistedUnits": 65,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800067912",
+    "propertyName": "ST EDMUNDS TOWER",
+    "latitude": 41.782943999085674,
+    "longitude": -87.62195999992288,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800235388",
+    "propertyName": "ST EDMUNDS TOWER ANNEX",
+    "latitude": 41.78272499906528,
+    "longitude": -87.62195499990001,
+    "assistedUnits": 34,
+    "totalUnits": 34
+  },
+  {
+    "propertyId": "800221418",
+    "propertyName": "ST LEO SECTION 811",
+    "latitude": 41.753459999148596,
+    "longitude": -87.64267799983075,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800006352",
+    "propertyName": "ST MARK ELDERLY HSG.",
+    "latitude": 41.75693099923199,
+    "longitude": -87.6038609995983,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006363",
+    "propertyName": "STONE TERRACE APARTMENTS",
+    "latitude": 41.740619999291496,
+    "longitude": -87.6378799999819,
+    "assistedUnits": 154,
+    "totalUnits": 156
+  },
+  {
+    "propertyId": "800006343",
+    "propertyName": "Southeast Englewood",
+    "latitude": 41.759824998864254,
+    "longitude": -87.63035499969642,
+    "assistedUnits": 47,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800067949",
+    "propertyName": "St. Sabina Sr. Suites",
+    "latitude": 41.75031399913023,
+    "longitude": -87.6547480002451,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800232790",
+    "propertyName": "THE BURNHAM OF WOODLAWN PARK",
+    "latitude": 41.78338199889198,
+    "longitude": -87.60622300016196,
+    "assistedUnits": 65,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800236775",
+    "propertyName": "THE GRANT AT WOODLAWN PARK",
+    "latitude": 41.7835019990325,
+    "longitude": -87.60578799996877,
+    "assistedUnits": 29,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800232769",
+    "propertyName": "THE JACKSON AT WOODLAWN PARK",
+    "latitude": 41.78174299913093,
+    "longitude": -87.60574299976294,
+    "assistedUnits": 60,
+    "totalUnits": 67
+  },
+  {
+    "propertyId": "800249525",
+    "propertyName": "THE WASHINGTON AT WOODLAWN PARK",
+    "latitude": 41.79207899912056,
+    "longitude": -87.61935899988293,
+    "assistedUnits": 121,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800005776",
+    "propertyName": "TOLTON MANOR",
+    "latitude": 41.778842999126255,
+    "longitude": -87.63480600011394,
+    "assistedUnits": 80,
+    "totalUnits": 81
+  },
+  {
+    "propertyId": "800222721",
+    "propertyName": "TRC SENIOR VILLAGE 1",
+    "latitude": 41.798610998898006,
+    "longitude": -87.61745699962681,
+    "assistedUnits": 71,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800006415",
+    "propertyName": "TRINITY OAKS",
+    "latitude": 41.781844999125504,
+    "longitude": -87.60413099993504,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800024128",
+    "propertyName": "Transformation Housing III",
+    "latitude": 41.767086999161926,
+    "longitude": -87.63863099964426,
+    "assistedUnits": 55,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800006233",
+    "propertyName": "Transforming Housing IV",
+    "latitude": 41.77038199921131,
+    "longitude": -87.62849699982122,
+    "assistedUnits": 27,
+    "totalUnits": 27
+  },
+  {
+    "propertyId": "800006422",
+    "propertyName": "URBANITE APARTMENTS",
+    "latitude": 41.795756999241334,
+    "longitude": -87.62226500041973,
+    "assistedUnits": 24,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800068341",
+    "propertyName": "VICTORIA JENNINGS RESIDENCES",
+    "latitude": 41.78363799883093,
+    "longitude": -87.64062900015985,
+    "assistedUnits": 23,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006464",
+    "propertyName": "WASHINGTON SCENE",
+    "latitude": 41.7856919993227,
+    "longitude": -87.61423299997102,
+    "assistedUnits": 92,
+    "totalUnits": 92
+  },
+  {
+    "propertyId": "800006470",
+    "propertyName": "WESTHAVEN HOMES",
+    "latitude": 41.7944859993915,
+    "longitude": -87.64691699963787,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800247989",
+    "propertyName": "WOODLAWN STATION",
+    "latitude": 41.781277999148756,
+    "longitude": -87.60573299971718,
+    "assistedUnits": 35,
+    "totalUnits": 70
+  }
+]

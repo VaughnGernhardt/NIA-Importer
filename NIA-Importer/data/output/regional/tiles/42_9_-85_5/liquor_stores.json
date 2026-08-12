@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0264129",
+    "businessName": "ADA MARKET BY FOREST HILLS FOODS",
+    "address": "444 ADA Dr SE, ADA, MI 49301-9105",
+    "city": "Ada Twp",
+    "zipCode": "49301",
+    "latitude": 42.954734216532,
+    "longitude": -85.487578026707,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247753",
+    "businessName": "SUNRISE CITGO AGO",
+    "address": "7100 Fulton St E, ADA, MI 49301-8436",
+    "city": "Ada Twp",
+    "zipCode": "49301",
+    "latitude": 42.95835941555,
+    "longitude": -85.492487063408,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "221910",
+    "businessName": "SINGH COLLECTIONS: FINE WINE MERCHANTS",
+    "address": "6859 Cascade Rd SE, Grand Rapids, MI 49546-6819",
+    "city": "Cascade Twp",
+    "zipCode": "49546",
+    "latitude": 42.913111474791,
+    "longitude": -85.498852136049,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

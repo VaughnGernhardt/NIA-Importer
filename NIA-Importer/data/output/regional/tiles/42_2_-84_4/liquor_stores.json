@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "0285364",
+    "businessName": "MULTANI #1 LLC",
+    "address": "2900 E MICHIGAN AVE, JACKSON, MI 49202",
+    "city": "Blackman Twp",
+    "zipCode": "49202",
+    "latitude": 42.254894527981,
+    "longitude": -84.368203965648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163774",
+    "businessName": "B \u0026 S CORNER CONVENIENCE STORE",
+    "address": "1000 E Ganson St, Jackson, MI 49201-1736",
+    "city": "Jackson",
+    "zipCode": "49201",
+    "latitude": 42.254797617581,
+    "longitude": -84.39560033649,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12844",
+    "businessName": "BOB\u0027S TAKE OUT",
+    "address": "737 Page Ave, Jackson, MI 49203-1944",
+    "city": "Jackson",
+    "zipCode": "49203",
+    "latitude": 42.24385318741,
+    "longitude": -84.385674717349,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206253",
+    "businessName": "POWERS PARTY STORE",
+    "address": "1630 E Michigan Ave, Jackson, MI 49202-3790",
+    "city": "Jackson",
+    "zipCode": "49202",
+    "latitude": 42.251521157426,
+    "longitude": -84.384014686684,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291143",
+    "businessName": "ROYAL LIQUOR 3",
+    "address": "606 Seymour Ave, Jackson, MI 49202-3567",
+    "city": "Jackson",
+    "zipCode": "49202",
+    "latitude": 42.259111342486,
+    "longitude": -84.385677196259,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9511",
+    "businessName": "MEIJER #56",
+    "address": "3333 E Michigan Ave, Jackson, MI 49202-3853",
+    "city": "Leoni Twp",
+    "zipCode": "49202",
+    "latitude": 42.256991268102,
+    "longitude": -84.359374237298,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12734",
+    "businessName": "N \u0026 B PARK CORPORATION",
+    "address": "5509 Ann Arbor Rd, Jackson, MI 49201-8860",
+    "city": "Leoni Twp",
+    "zipCode": "49201",
+    "latitude": 42.27653451971,
+    "longitude": -84.320384629236,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263364",
+    "businessName": "RAM\u0027S TAKEOUT",
+    "address": "506 5th St, Michigan Center, MI 49254-1202",
+    "city": "Leoni Twp",
+    "zipCode": "49254",
+    "latitude": 42.228796968723,
+    "longitude": -84.327026608255,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259154",
+    "businessName": "STARK\u0027S PARTY STORE",
+    "address": "3651 Page Ave, Jackson, MI 49203-2321",
+    "city": "Leoni Twp",
+    "zipCode": "49203",
+    "latitude": 42.23884754245,
+    "longitude": -84.346914177175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290876",
+    "businessName": "SOUTHSIDE SUPER DELI",
+    "address": "2000 Brooklyn Rd, Jackson, MI 49203-4744",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.225704286972,
+    "longitude": -84.389161881251,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

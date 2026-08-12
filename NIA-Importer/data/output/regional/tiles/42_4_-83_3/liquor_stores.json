@@ -1,0 +1,672 @@
+[
+  {
+    "businessId": "0283769",
+    "businessName": "16402 W. SEVEN MILE MARKET, LLC",
+    "address": "16402 W 7 Mile Rd, Detroit, MI 48235-3003",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.430331684413,
+    "longitude": -83.209677494229,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286667",
+    "businessName": "7 MILE CROWN 7, INC.",
+    "address": "18910 W 7 Mile Rd, Detroit, MI 48219-2759",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.42991756143,
+    "longitude": -83.227927826853,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11018",
+    "businessName": "7-TEL PARTY STORE",
+    "address": "23740 W 7 Mile Rd, Detroit, MI 48219-1627",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429066967547,
+    "longitude": -83.274643391095,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228595",
+    "businessName": "8 MILE LIQUOR SHOP",
+    "address": "17321 W 8 Mile Rd, Detroit, MI 48235-2141",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.444227394709,
+    "longitude": -83.215123171507,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291268",
+    "businessName": "AFD, INC.",
+    "address": "19024-19028 GRAND RIVER AVE, DETROIT, MI 48223",
+    "city": "Detroit",
+    "zipCode": "48223",
+    "latitude": 42.404766706139,
+    "longitude": -83.228232113547,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275273",
+    "businessName": "BELLAGIO LIQUOR SHOPPE",
+    "address": "24341 W 7 Mile Rd, Detroit, MI 48219-1610",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.428738898674,
+    "longitude": -83.281275386253,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134262",
+    "businessName": "BEVERAGE 1",
+    "address": "19322 Grand River Ave, Detroit, MI 48223-1202",
+    "city": "Detroit",
+    "zipCode": "48223",
+    "latitude": 42.406169071984,
+    "longitude": -83.231733129184,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279788",
+    "businessName": "CONSUMER\u0027S BEVERAGE",
+    "address": "20040 W McNichols Rd, Detroit, MI 48219-3373",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.41522866329,
+    "longitude": -83.238623064258,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286477",
+    "businessName": "DONNIE BOY FOODS LLC",
+    "address": "18151 W McNichols Rd, Detroit, MI 48219-4110",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.415485269225,
+    "longitude": -83.219662345025,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280921",
+    "businessName": "F \u0026 H LIQUOR, INC",
+    "address": "19137 W 7 MILE RD, DETROIT, MI 48219",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429754721355,
+    "longitude": -83.230239822719,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290163",
+    "businessName": "F \u0026 R LIQUOR, LLC",
+    "address": "19445 W 7 Mile Rd, Detroit, MI 48219-2719",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429648245169,
+    "longitude": -83.233893877318,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243244",
+    "businessName": "FESTIVAL PARTY STORE",
+    "address": "15660 Fenkell St, Detroit, MI 48227-2308",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.401521375278,
+    "longitude": -83.200623452949,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142946",
+    "businessName": "FIELDING PARTY STORE",
+    "address": "20501 Grand River Ave, Detroit, MI 48219-3334",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.410659349462,
+    "longitude": -83.243224560094,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242104",
+    "businessName": "FIFTH AVENUE LIQUOR SPOT",
+    "address": "17734 Fenkell St, Detroit, MI 48227-1514",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.401205781691,
+    "longitude": -83.216399086274,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10591",
+    "businessName": "GRAND HOUSE OF LIQUOR",
+    "address": "17461 Telegraph Rd, Detroit, MI 48219-3165",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.418221552982,
+    "longitude": -83.277610192645,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277907",
+    "businessName": "JUDE LIQUOR, INC.",
+    "address": "20451 W 8 Mile Rd, Detroit, MI 48219-1435",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.443557873619,
+    "longitude": -83.244596408815,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145642",
+    "businessName": "LAHSER LIQUOR SHOPPE",
+    "address": "21559 W 8 Mile Rd, Detroit, MI 48219-4417",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.443250378772,
+    "longitude": -83.255973421334,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "187032",
+    "businessName": "LINDSAY LIQUOR",
+    "address": "17256 W 7 Mile Rd, Detroit, MI 48235-3025",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.430236918774,
+    "longitude": -83.21340582308,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279910",
+    "businessName": "LJ HEYDEN, INC.",
+    "address": "20201-20219 W 7 Mile Rd, Detroit, MI 48219-3406",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.4294653827,
+    "longitude": -83.241017852307,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212001",
+    "businessName": "MEGA LIQUOR",
+    "address": "17200 W McNichols Rd, Detroit, MI 48235-3321",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.415751370864,
+    "longitude": -83.212176427936,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231764",
+    "businessName": "MEIJER REDFORD #286",
+    "address": "21431 Grand River Ave, Detroit, MI 48219-3801",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.414315848354,
+    "longitude": -83.252353925237,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265050",
+    "businessName": "MINI MART SUPERMARKET LLC",
+    "address": "20520 Lahser Rd, Detroit, MI 48219-1238",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.441911134124,
+    "longitude": -83.258711792125,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216402",
+    "businessName": "NORTHLAND PARTY STORE",
+    "address": "18245 W 8 Mile Rd, Detroit, MI 48219-1510",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.444075243867,
+    "longitude": -83.221846498335,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227987",
+    "businessName": "NORTHWEST PARTY STORE",
+    "address": "20447 W 7 Mile Rd, Detroit, MI 48219-3408",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429400527563,
+    "longitude": -83.243638716529,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267742",
+    "businessName": "PRINCESS SUPERETTE",
+    "address": "16342 W McNichols Rd, Detroit, MI 48235-3514",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.415831229752,
+    "longitude": -83.208433758598,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223423",
+    "businessName": "PURITAN LIQUOR",
+    "address": "16046 Puritan St, Detroit, MI 48227-1914",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.408702289985,
+    "longitude": -83.204938344301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224766",
+    "businessName": "REDFORD MINI MART",
+    "address": "17442-17444 Lahser Rd, Detroit, MI 48219-2347",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.418424168334,
+    "longitude": -83.257754839561,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238741",
+    "businessName": "REGAL SPIRITS",
+    "address": "21737-21741 Fenkell St, Detroit, MI 48223-1516",
+    "city": "Detroit",
+    "zipCode": "48223",
+    "latitude": 42.400252641995,
+    "longitude": -83.255817931883,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277154",
+    "businessName": "RKARANA, INC.",
+    "address": "19144-19150 W Mc Nichols Rd, Detroit, MI 48219",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.415392943297,
+    "longitude": -83.229804626372,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283147",
+    "businessName": "SAM\u0027S FENKELL MARKET, INC.",
+    "address": "16157-16159 Fenkell St, Detroit, MI 48227",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.401333507508,
+    "longitude": -83.203877207907,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217999",
+    "businessName": "SAVAYA LIQUOR",
+    "address": "20441 James Couzens Fwy, Detroit, MI 48235-1847",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.442419055936,
+    "longitude": -83.200870279457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145668",
+    "businessName": "SPOTLIGHT LIQUOR",
+    "address": "24300 W McNichols Rd, Detroit, MI 48219-3672",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.414526438721,
+    "longitude": -83.27972708071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11674",
+    "businessName": "TELKAIF MARKET",
+    "address": "15935 W 7 Mile Rd, Detroit, MI 48235-2955",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.430287209112,
+    "longitude": -83.204546126729,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289922",
+    "businessName": "THE JANY GROUP LLC",
+    "address": "19410 W McNichols Rd, Detroit, MI 48219-4057",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.415326661112,
+    "longitude": -83.233337580401,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287038",
+    "businessName": "THE TWIN\u0027S MARKET",
+    "address": "18850 W McNichols Rd, Detroit, MI 48219-4159",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.415454534974,
+    "longitude": -83.226398251286,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141296",
+    "businessName": "TRINITY LIQUOR",
+    "address": "21100 W McNichols Rd, Detroit, MI 48219-3929",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.414942306325,
+    "longitude": -83.249030205773,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265042",
+    "businessName": "UNITED LIQUOR SHOPPE",
+    "address": "22040 W 7 Mile Rd, Detroit, MI 48219-1811",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429172114116,
+    "longitude": -83.259203150938,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264524",
+    "businessName": "UNIVERSAL LIQUOR SHOPPE",
+    "address": "19526-19528 GRAND RIVER AVE, DETROIT, MI 48223",
+    "city": "Detroit",
+    "zipCode": "48223",
+    "latitude": 42.407229770287,
+    "longitude": -83.234358275251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237706",
+    "businessName": "UPTOWN FOOD AND LIQUOR",
+    "address": "18205 W 7 Mile Rd, Detroit, MI 48219-2903",
+    "city": "Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429922896203,
+    "longitude": -83.220612817271,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265565",
+    "businessName": "WINTHROP \u0026 SIX LIQUOR",
+    "address": "15619 W McNichols Rd, Detroit, MI 48235-3541",
+    "city": "Detroit",
+    "zipCode": "48235",
+    "latitude": 42.415884420602,
+    "longitude": -83.200937637937,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216557",
+    "businessName": "VILLAGE SQUARE MARKET, INC.",
+    "address": "26727 Southfield Rd, Lathrup Village, MI 48076-4532",
+    "city": "Lathrup Village",
+    "zipCode": "48076",
+    "latitude": 42.486245500737,
+    "longitude": -83.221867651852,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268447",
+    "businessName": "KROGER STORE #751",
+    "address": "26200 Greenfield Rd, Oak Park, MI 48237-1051",
+    "city": "Oak Park",
+    "zipCode": "48237",
+    "latitude": 42.482894500969,
+    "longitude": -83.201968225486,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262585",
+    "businessName": "A-1 LIQUOR",
+    "address": "25825 W 6 Mile Rd, Redford, MI 48240-2212",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.413925109348,
+    "longitude": -83.296803593656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286496",
+    "businessName": "BEECH DALY PARTY STORE",
+    "address": "19125 BEECH DALY RD, REDFORD, MI 48240",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.428594373175,
+    "longitude": -83.297121514966,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288407",
+    "businessName": "FAMILY FOODS SUPERMARKET",
+    "address": "25850 Grand River Ave, Redford, MI 48240-1433",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.43294272619,
+    "longitude": -83.297997899555,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132383",
+    "businessName": "KEG \u0026 WINE PARTY STORE",
+    "address": "15590 Beech Daly Rd, Redford, MI 48239-3804",
+    "city": "Redford Twp",
+    "zipCode": "48239",
+    "latitude": 42.402852644529,
+    "longitude": -83.29594524253,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13765",
+    "businessName": "MINUTE STOP FOOD STORE",
+    "address": "25301 W 7 Mile Rd, Redford, MI 48240-1764",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.428434768648,
+    "longitude": -83.291074672877,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223707",
+    "businessName": "RIVERFRONT LIQUOR SHOPPE",
+    "address": "25110 Grand River Ave, Redford, MI 48240-1455",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.429368946034,
+    "longitude": -83.288634374079,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288912",
+    "businessName": "S \u0026 K LIQUOR 2, LLC",
+    "address": "25151 W 6 Mile Rd, Redford, MI 48240-2103",
+    "city": "Redford Twp",
+    "zipCode": "48240",
+    "latitude": 42.414153262028,
+    "longitude": -83.288501969374,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267627",
+    "businessName": "TELEGRAPH LIQUOR",
+    "address": "15300 Telegraph Rd, Redford, MI 48239-3557",
+    "city": "Redford Twp",
+    "zipCode": "48239",
+    "latitude": 42.40013076521,
+    "longitude": -83.276389215156,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11564",
+    "businessName": "ART PARTY STORE",
+    "address": "20320 W 8 Mile Rd, Southfield, MI 48075-5626",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.444029809812,
+    "longitude": -83.243592875398,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214207",
+    "businessName": "CVS/PHARMACY #8034",
+    "address": "21911 W 11 Mile Rd, Southfield, MI 48076-3742",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.48698011709,
+    "longitude": -83.259882473125,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214198",
+    "businessName": "CVS/PHARMACY #8058",
+    "address": "18130 W 10 Mile Rd, Southfield, MI 48075-2630",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.473429012994,
+    "longitude": -83.221621602929,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "139055",
+    "businessName": "GREENFIELD PARTY SHOPPE",
+    "address": "22883 Greenfield Rd, Southfield, MI 48075-3711",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.459182563953,
+    "longitude": -83.201316390915,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11660",
+    "businessName": "HAYES MARKET",
+    "address": "22580 Telegraph Rd, Southfield, MI 48033-4107",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.456180634356,
+    "longitude": -83.278172414753,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278353",
+    "businessName": "MAJESTIC MARKET",
+    "address": "25877 Lahser Rd, Southfield, MI 48033-5880",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.477966774062,
+    "longitude": -83.261046958638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287772",
+    "businessName": "MOBIL",
+    "address": "26355 Telegraph Rd, Southfield, MI 48033-5317",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.482276005652,
+    "longitude": -83.285789452433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286042",
+    "businessName": "MOBIL SOUTHFIELD, LLC",
+    "address": "25826 Southfield Rd, Southfield, MI 48075-1820",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.4800149658,
+    "longitude": -83.221403665258,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250052",
+    "businessName": "New Abbey Wine \u0026 Liquor Shop",
+    "address": "25030 Southfield Rd, Southfield, MI 48075-1902",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.473693174393,
+    "longitude": -83.221088147705,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269231",
+    "businessName": "OAKLAND LIQUOR",
+    "address": "19606 W 10 Mile Rd, Southfield, MI 48075-2313",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.473043814966,
+    "longitude": -83.237373221332,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224838",
+    "businessName": "PALACE PARTY STORE",
+    "address": "15660 W 11 Mile Rd, Southfield, MI 48076-5120",
+    "city": "Southfield",
+    "zipCode": "48076",
+    "latitude": 42.488415370286,
+    "longitude": -83.203567277549,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235678",
+    "businessName": "SAM\u0027S CLUB #6454",
+    "address": "22500 W 8 Mile Rd, Southfield, MI 48033-4365",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.443483430488,
+    "longitude": -83.264321264432,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147697",
+    "businessName": "SOUTHFIELD PALACE WINE SHOP",
+    "address": "25257 Evergreen Rd, Southfield, MI 48075-1735",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.475020938804,
+    "longitude": -83.240699703081,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246935",
+    "businessName": "SUNOCO",
+    "address": "24848 Southfield Rd, Southfield, MI 48075-2743",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.472920886814,
+    "longitude": -83.221056711376,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282627",
+    "businessName": "TEN \u0026 GREENFIELD GAS STATION, INC.",
+    "address": "24839 Greenfield Rd, Southfield, MI 48075-3060",
+    "city": "Southfield",
+    "zipCode": "48075",
+    "latitude": 42.473136410856,
+    "longitude": -83.201909993581,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276000",
+    "businessName": "TREASURE ISLAND WINE SHOPPE",
+    "address": "24123 W 10 Mile Rd, Southfield, MI 48033-3040",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.471899453282,
+    "longitude": -83.280252971799,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247551",
+    "businessName": "USA SPEEDSTOP",
+    "address": "24960 Telegraph Rd, Southfield, MI 48033-3091",
+    "city": "Southfield",
+    "zipCode": "48033",
+    "latitude": 42.471591396241,
+    "longitude": -83.281214661745,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1600-memorial-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1600, MEMORIAL ROAD Houghton, MI 49931-2488",
+    "city": "MEMORIAL ROAD Houghton",
+    "zipCode": "49931",
+    "latitude": 47.105353006544,
+    "longitude": -88.592729720475
+  },
+  {
+    "storeId": "795-market-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 795, Market St Hancock, MI 49930",
+    "city": "Market St Hancock",
+    "zipCode": "49930",
+    "latitude": 47.13131921738,
+    "longitude": -88.592034167976
+  }
+]

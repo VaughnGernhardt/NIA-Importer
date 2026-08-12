@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "4366-west-pierson-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4366, West Pierson Road Flint, MI 48504-1332",
+    "city": "West Pierson Road Flint",
+    "zipCode": "48504",
+    "latitude": 43.060652188669,
+    "longitude": -83.766958147978
+  },
+  {
+    "storeId": "4305-clio-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4305, Clio Road Hallwood Plaza Flint, MI 48504",
+    "city": "Clio Road Hallwood Plaza Flint",
+    "zipCode": "48504",
+    "latitude": 43.053909784108,
+    "longitude": -83.732781041393
+  },
+  {
+    "storeId": "3300-corunna-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3300, Corunna Road Carman Plaza Flint, MI 48532",
+    "city": "Corunna Road Carman Plaza Flint",
+    "zipCode": "48532",
+    "latitude": 43.002498340766,
+    "longitude": -83.730319101265
+  }
+]

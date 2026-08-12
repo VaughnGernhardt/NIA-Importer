@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800246842",
+    "propertyName": "Grandview Marquette",
+    "latitude": 46.54030699930545,
+    "longitude": -87.40361699972773,
+    "assistedUnits": 6,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800061563",
+    "propertyName": "OAKWOOD VILLAGE",
+    "latitude": 46.553016999094254,
+    "longitude": -87.44235699996729,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010472",
+    "propertyName": "PROPYLON NON-PROFIT",
+    "latitude": 46.55818799929398,
+    "longitude": -87.41084099971435,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010548",
+    "propertyName": "SNOWBERRY HEIGHTS",
+    "latitude": 46.54347999875664,
+    "longitude": -87.4003410001934,
+    "assistedUnits": 191,
+    "totalUnits": 191
+  },
+  {
+    "propertyId": "800010586",
+    "propertyName": "SUNDARA NPHC",
+    "latitude": 46.548821999203184,
+    "longitude": -87.41248000020472,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800010708",
+    "propertyName": "WHETSTONE VILLAGE",
+    "latitude": 46.54478799900551,
+    "longitude": -87.43752999980612,
+    "assistedUnits": 134,
+    "totalUnits": 134
+  }
+]

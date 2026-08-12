@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0289471",
+    "businessName": "DJ\u0027S COUNTRY STORE",
+    "address": "1276 M 61, Sterling, MI 48659-9606",
+    "city": "Gibson Twp",
+    "zipCode": "48659",
+    "latitude": 43.984120306842,
+    "longitude": -84.094566649599,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278617",
+    "businessName": "NEXT DOOR STORE # 5073",
+    "address": "5354 M 61, Standish, MI 48658-9424",
+    "city": "Lincoln Twp",
+    "zipCode": "48658",
+    "latitude": 43.983178937197,
+    "longitude": -84.023565231481,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

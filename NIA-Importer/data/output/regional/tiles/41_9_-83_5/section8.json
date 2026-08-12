@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010082",
+    "propertyName": "ELM HOUSE",
+    "latitude": 41.9218119989772,
+    "longitude": -83.40631299996052,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800009842",
+    "propertyName": "VILLAGE PINES OF MONROE",
+    "latitude": 41.9288849989748,
+    "longitude": -83.41437700019627,
+    "assistedUnits": 57,
+    "totalUnits": 190
+  },
+  {
+    "propertyId": "800010728",
+    "propertyName": "WOODCRAFT SQUARE",
+    "latitude": 41.91484799928236,
+    "longitude": -83.4110349996414,
+    "assistedUnits": 208,
+    "totalUnits": 208
+  }
+]

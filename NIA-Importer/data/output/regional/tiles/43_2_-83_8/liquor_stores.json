@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "17270",
+    "businessName": "CONLEE TRAVEL CENTER",
+    "address": "9180 Birch Run Rd, Birch Run, MI 48415-9747",
+    "city": "Birch Run",
+    "zipCode": "48415",
+    "latitude": 43.250136406372,
+    "longitude": -83.771552805769,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202417",
+    "businessName": "DON\u0027S FOODLAND",
+    "address": "7935 Main St, Birch Run, MI 48415-7718",
+    "city": "Birch Run",
+    "zipCode": "48415",
+    "latitude": 43.250192065397,
+    "longitude": -83.795505066595,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150232",
+    "businessName": "DIXIE RUN LIQUOR",
+    "address": "11865 Dixie Hwy, Birch Run, MI 48415-9795",
+    "city": "Birch Run Twp",
+    "zipCode": "48415",
+    "latitude": 43.252408438392,
+    "longitude": -83.770944833227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "200234",
+    "businessName": "MEIJER #213",
+    "address": "9515 Birch Run Rd, Birch Run, MI 48415-9613",
+    "city": "Birch Run Twp",
+    "zipCode": "48415",
+    "latitude": 43.250295997394,
+    "longitude": -83.764932269198,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

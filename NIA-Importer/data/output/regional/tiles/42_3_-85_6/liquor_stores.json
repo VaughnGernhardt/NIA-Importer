@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "0262043",
+    "businessName": "J\u0026B DISCOUNT LIQUOR",
+    "address": "5061 Gull Rd, Kalamazoo, MI 49048-1008",
+    "city": "Comstock Twp",
+    "zipCode": "49048",
+    "latitude": 42.319565238721,
+    "longitude": -85.530198708822,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9322",
+    "businessName": "MEIJER #21",
+    "address": "5800 Gull Rd, Kalamazoo, MI 49048-1021",
+    "city": "Comstock Twp",
+    "zipCode": "49048",
+    "latitude": 42.3249688536,
+    "longitude": -85.518491099619,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202214",
+    "businessName": "WAL-MART STORE #5064",
+    "address": "6065 Gull Rd, Kalamazoo, MI 49048-9433",
+    "city": "Comstock Twp",
+    "zipCode": "49048",
+    "latitude": 42.328881159988,
+    "longitude": -85.510717254528,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275538",
+    "businessName": "ZIGGY\u0027S",
+    "address": "5384 N Riverview Dr, Kalamazoo, MI 49004-1543",
+    "city": "Cooper Twp",
+    "zipCode": "49004",
+    "latitude": 42.33791810253,
+    "longitude": -85.560054714716,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273903",
+    "businessName": "7-ELEVEN #15986",
+    "address": "3726 Mount Olivet Rd, Kalamazoo, MI 49004-2046",
+    "city": "Kalamazoo",
+    "zipCode": "49004",
+    "latitude": 42.327176889605,
+    "longitude": -85.545752654277,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "196372",
+    "businessName": "LESMAN\u0027S MARKET",
+    "address": "119 E Paterson St, Kalamazoo, MI 49007-2530",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.303381317969,
+    "longitude": -85.582356396844,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287152",
+    "businessName": "DYLAN LIQUORS, LLC",
+    "address": "4103 Douglas Ave, Kalamazoo, MI 49004-3012",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49004",
+    "latitude": 42.331444389412,
+    "longitude": -85.598547883617,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238548",
+    "businessName": "G \u0026 M PARTY PANTRY",
+    "address": "2302 E Main St, Kalamazoo, MI 49048-2051",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49048",
+    "latitude": 42.302629478321,
+    "longitude": -85.551625473179,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283164",
+    "businessName": "GULL ROAD PARTY STORE",
+    "address": "1930 Gull Rd, Kalamazoo, MI 49048-1516",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49048",
+    "latitude": 42.307220886227,
+    "longitude": -85.556094430007,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241885",
+    "businessName": "SAM\u0027S DISCOUNT LIQUOR",
+    "address": "3021 Riverview Dr, Parchment, MI 49004-1129",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49004",
+    "latitude": 42.318830734709,
+    "longitude": -85.570547491407,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11577",
+    "businessName": "HARDING AND HILL, INC.",
+    "address": "618 N Riverview Dr, Parchment, MI 49004-1441",
+    "city": "Parchment",
+    "zipCode": "49004",
+    "latitude": 42.33155692663,
+    "longitude": -85.566296116612,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

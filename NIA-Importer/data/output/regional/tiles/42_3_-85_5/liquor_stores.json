@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "13580",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "8900 Gull Rd, Richland, MI 49083-9310",
+    "city": "Richland",
+    "zipCode": "49083",
+    "latitude": 42.374933858191,
+    "longitude": -85.457813055526,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286818",
+    "businessName": "SERAFINOS",
+    "address": "8004 N 32nd St, Richland, MI 49083-8419",
+    "city": "Richland",
+    "zipCode": "49083",
+    "latitude": 42.376431378222,
+    "longitude": -85.45518496531,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265224",
+    "businessName": "THE BOTTLE",
+    "address": "8818 N 32nd St, Richland, MI 49083-8555",
+    "city": "Richland Twp",
+    "zipCode": "49083",
+    "latitude": 42.387830192423,
+    "longitude": -85.455190844508,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

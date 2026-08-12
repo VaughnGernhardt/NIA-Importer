@@ -1,0 +1,252 @@
+[
+  {
+    "businessId": "233849",
+    "businessName": "LIQUOR PALACE OF BURTON",
+    "address": "4012 Davison Rd, Burton, MI 48509-1457",
+    "city": "Burton",
+    "zipCode": "48509",
+    "latitude": 43.033166162097,
+    "longitude": -83.63488836531,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261392",
+    "businessName": "MIDWAY MARKET AND DELI",
+    "address": "5006 Lapeer Rd, Burton, MI 48509-2018",
+    "city": "Burton",
+    "zipCode": "48509",
+    "latitude": 43.010483421777,
+    "longitude": -83.614694041978,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201595",
+    "businessName": "TARIK\u0027S MARKET",
+    "address": "3386 Lippincott Blvd, Burton, MI 48519-1073",
+    "city": "Burton",
+    "zipCode": "48519",
+    "latitude": 43.003971592068,
+    "longitude": -83.639257411796,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11779",
+    "businessName": "CARPENTER ROAD SUPERETTE",
+    "address": "1066 E Carpenter Rd, Flint, MI 48505-2200",
+    "city": "Flint",
+    "zipCode": "48505",
+    "latitude": 43.075719055574,
+    "longitude": -83.685029051706,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246323",
+    "businessName": "DADO MARKET",
+    "address": "1817 N Saginaw St, Flint, MI 48505-4765",
+    "city": "Flint",
+    "zipCode": "48505",
+    "latitude": 43.032923506604,
+    "longitude": -83.69371893952,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241589",
+    "businessName": "DAVISON ROAD MARKET",
+    "address": "2319 Davison Rd, Flint, MI 48506-3645",
+    "city": "Flint",
+    "zipCode": "48506",
+    "latitude": 43.033099633159,
+    "longitude": -83.660633965441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224584",
+    "businessName": "EZ STOP FOOD MART NO. 2",
+    "address": "5106 N Saginaw St, Flint, MI 48505-3501",
+    "city": "Flint",
+    "zipCode": "48505",
+    "latitude": 43.060535022599,
+    "longitude": -83.693782332458,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14870",
+    "businessName": "EZ STOP MARKET",
+    "address": "2102 S Dort Hwy, Flint, MI 48507-5202",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 43.003665105201,
+    "longitude": -83.654093533974,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285811",
+    "businessName": "G.P.A. FOOD STORE, INC.",
+    "address": "1141-1143 M L King Ave, Flint, MI 48503-1443",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 43.026623475905,
+    "longitude": -83.699857290166,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155453",
+    "businessName": "GOLDEN SPOT LIQUOR",
+    "address": "1909 E Court St, Flint, MI 48503-2868",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 43.018399436678,
+    "longitude": -83.664023093977,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11523",
+    "businessName": "HAZIM MARKET",
+    "address": "2310 S Saginaw St, Flint, MI 48503-3964",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 43.000769742668,
+    "longitude": -83.677740326544,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9460",
+    "businessName": "KHOURI\u0027S MARKET",
+    "address": "3239 Davison Rd, Flint, MI 48506-3931",
+    "city": "Flint",
+    "zipCode": "48506",
+    "latitude": 43.033075369732,
+    "longitude": -83.646691126536,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "152198",
+    "businessName": "LAPEER LIQUOR SHOPPE",
+    "address": "3401 Lapeer Rd, Flint, MI 48503-4427",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 43.009845299119,
+    "longitude": -83.647568965182,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260728",
+    "businessName": "LIQUOR CORNER",
+    "address": "3009 N Saginaw St, Flint, MI 48505-4453",
+    "city": "Flint",
+    "zipCode": "48505",
+    "latitude": 43.043236434309,
+    "longitude": -83.693893907589,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227364",
+    "businessName": "LIQUOR CORNER TWO",
+    "address": "1945 Fenton Rd, Flint, MI 48507-1622",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 43.001124779169,
+    "longitude": -83.693226171186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155721",
+    "businessName": "MAC\u0027S FOOD FAIR",
+    "address": "1235 N Dort Hwy, Flint, MI 48506-3911",
+    "city": "Flint",
+    "zipCode": "48506",
+    "latitude": 43.028383664122,
+    "longitude": -83.655256308214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223727",
+    "businessName": "ROYAL LIQUOR",
+    "address": "808 S Center Rd, Flint, MI 48506-4147",
+    "city": "Flint",
+    "zipCode": "48506",
+    "latitude": 43.019393164441,
+    "longitude": -83.634941306151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283583",
+    "businessName": "SOUTH END MARKET",
+    "address": "1701 S Saginaw St, Flint, MI 48503-3837",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 43.005620719543,
+    "longitude": -83.68026494342,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272444",
+    "businessName": "TJ LIQUOR",
+    "address": "5217 N Saginaw St, Flint, MI 48505-2965",
+    "city": "Flint",
+    "zipCode": "48505",
+    "latitude": 43.061124950719,
+    "longitude": -83.693908739327,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290445",
+    "businessName": "ATTIQ GAS GROUP, LLC",
+    "address": "5272 N Genesee Rd, Flint, MI 48506-1551",
+    "city": "Genesee Twp",
+    "zipCode": "48506",
+    "latitude": 43.084265118523,
+    "longitude": -83.616857427404,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132349",
+    "businessName": "HANIBAL\u0027S LIQUOR STORE",
+    "address": "G5010 N Dort Hwy, Flint, MI 48505-1827",
+    "city": "Genesee Twp",
+    "zipCode": "48505",
+    "latitude": 43.059328582369,
+    "longitude": -83.673775114718,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286383",
+    "businessName": "HR LIQUOR STORE INC",
+    "address": "3433 N Genesee Rd, Flint, MI 48506-2163",
+    "city": "Genesee Twp",
+    "zipCode": "48506",
+    "latitude": 43.059348805491,
+    "longitude": -83.616359056087,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279833",
+    "businessName": "NORTHEND MARKET",
+    "address": "G-5272 N Saginaw, Flint, MI 48505",
+    "city": "Genesee Twp",
+    "zipCode": "48505",
+    "latitude": 43.061552550822,
+    "longitude": -83.693751899605,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227141",
+    "businessName": "PINEVIEW SHELL",
+    "address": "5520 N Genesee Rd, Flint, MI 48506-4527",
+    "city": "Genesee Twp",
+    "zipCode": "48506",
+    "latitude": 43.090478124512,
+    "longitude": -83.617019357772,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259552",
+    "businessName": "BEECHER BEER \u0026 WINE",
+    "address": "G5375 N Saginaw St, Flint, MI 48505-1536",
+    "city": "Mt Morris Twp",
+    "zipCode": "48505",
+    "latitude": 43.062412014036,
+    "longitude": -83.693924946416,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

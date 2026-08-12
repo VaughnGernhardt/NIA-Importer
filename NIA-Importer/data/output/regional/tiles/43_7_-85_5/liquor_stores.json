@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0276055",
+    "businessName": "BULLDOG PARTY STORE",
+    "address": "1709 S State St, Big Rapids, MI 49307",
+    "city": "Big Rapids",
+    "zipCode": "49307",
+    "latitude": 43.720451761793,
+    "longitude": -85.494160061782,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11129",
+    "businessName": "GRUNST BROTHERS",
+    "address": "624 N State St, Big Rapids, MI 49307-1453",
+    "city": "Big Rapids",
+    "zipCode": "49307",
+    "latitude": 43.705220722817,
+    "longitude": -85.483993190723,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

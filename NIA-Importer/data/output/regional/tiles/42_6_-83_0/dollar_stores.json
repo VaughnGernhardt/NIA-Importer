@@ -1,0 +1,42 @@
+[
+  {
+    "storeId": "13477-hall-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 13477, Hall Rd Utica, MI 48315-5836",
+    "city": "Hall Rd Utica",
+    "zipCode": "48315",
+    "latitude": 42.627450177988,
+    "longitude": -82.994133187146
+  },
+  {
+    "storeId": "18477-hall-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 18477, Hall Road Macomb, MI 48044-4227",
+    "city": "Hall Road Macomb",
+    "zipCode": "48044",
+    "latitude": 42.628619752822,
+    "longitude": -82.937731269318
+  },
+  {
+    "storeId": "52925-hayes-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 52925, Hayes Rd Shelby Township, MI 48315",
+    "city": "Hayes Rd Shelby Township",
+    "zipCode": "48315",
+    "latitude": 42.685616834288,
+    "longitude": -82.975693418646
+  },
+  {
+    "storeId": "13685-23-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "13685 23, Mile Rd Shelby Township, MI 48315-2906",
+    "city": "Mile Rd Shelby Township",
+    "zipCode": "48315",
+    "latitude": 42.670871153121,
+    "longitude": -82.98566617085
+  }
+]

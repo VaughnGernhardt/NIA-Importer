@@ -1,0 +1,20 @@
+[
+  {
+    "zipCode": "49116",
+    "medianHouseholdIncome": 127857,
+    "latitude": 41.848108,
+    "longitude": -86.672121
+  },
+  {
+    "zipCode": "49128",
+    "medianHouseholdIncome": 67398,
+    "latitude": 41.820406,
+    "longitude": -86.600497
+  },
+  {
+    "zipCode": "49129",
+    "medianHouseholdIncome": 106181,
+    "latitude": 41.816107,
+    "longitude": -86.686432
+  }
+]

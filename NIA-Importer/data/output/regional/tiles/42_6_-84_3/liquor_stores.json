@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0275562",
+    "businessName": "Diederich Produce",
+    "address": "3537 E Grand River Rd, Williamston, MI 48895-8712",
+    "city": "Leroy Twp",
+    "zipCode": "48895",
+    "latitude": 42.677847844046,
+    "longitude": -84.226972759926,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228816",
+    "businessName": "SUNOCO",
+    "address": "2635 N Williamston Rd, Williamston, MI 48895-9166",
+    "city": "Wheatfield Twp",
+    "zipCode": "48895",
+    "latitude": 42.662118426824,
+    "longitude": -84.282045821646,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193261",
+    "businessName": "D \u0026 W FRESH MARKET #1903",
+    "address": "159 W Grand River Ave, Williamston, MI 48895",
+    "city": "Williamston",
+    "zipCode": "48895",
+    "latitude": 42.68887197741,
+    "longitude": -84.284561738315,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

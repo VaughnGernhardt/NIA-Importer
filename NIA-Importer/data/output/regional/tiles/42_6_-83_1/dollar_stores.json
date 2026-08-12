@@ -1,0 +1,52 @@
+[
+  {
+    "storeId": "2100-auburn-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2100, Auburn Rd Shelby Township, MI 48317",
+    "city": "Auburn Rd Shelby Township",
+    "zipCode": "48317",
+    "latitude": 42.638779579233,
+    "longitude": -83.090011303681
+  },
+  {
+    "storeId": "12220-hall-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 12220, Hall Road Sterling Heights, MI 48313-1043",
+    "city": "Hall Road Sterling Heights",
+    "zipCode": "48313",
+    "latitude": 42.62630827963,
+    "longitude": -83.007037883707
+  },
+  {
+    "storeId": "44645-mound-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 44645, Mound Rd Sterling Heights, MI 48314",
+    "city": "Mound Rd Sterling Heights",
+    "zipCode": "48314",
+    "latitude": 42.62194574611,
+    "longitude": -83.052236172527
+  },
+  {
+    "storeId": "50840-shelby-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 50840, Shelby Road Shelby Township, MI 48316",
+    "city": "Shelby Road Shelby Township",
+    "zipCode": "48316",
+    "latitude": 42.667140601017,
+    "longitude": -83.062782667066
+  },
+  {
+    "storeId": "46320-van-dyke-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 46320, Van Dyke Ave. Shelby Township, MI 48317-4473",
+    "city": "Van Dyke Ave. Shelby Township",
+    "zipCode": "48317",
+    "latitude": 42.635906277118,
+    "longitude": -83.032713162319
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "12586",
+    "businessName": "JIM\u0027S JUBILEE FOODS",
+    "address": "900 US Highway 41 W, Ishpeming, MI 49849-1347",
+    "city": "Ishpeming",
+    "zipCode": "49849",
+    "latitude": 46.50622495936,
+    "longitude": -87.655899475688,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10275",
+    "businessName": "BUCK\u0027S PARTY STORE",
+    "address": "100 W Main St, Negaunee, MI 49866-1608",
+    "city": "Negaunee",
+    "zipCode": "49866",
+    "latitude": 46.500039712647,
+    "longitude": -87.607855046541,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16089",
+    "businessName": "KRIST FOOD MART # 12",
+    "address": "341 US Highway 41, Negaunee, MI 49866-1325",
+    "city": "Negaunee",
+    "zipCode": "49866",
+    "latitude": 46.50905021645,
+    "longitude": -87.607016767729,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "224411",
+    "businessName": "KASSEL\u0027S MIDWAY",
+    "address": "235 US Highway 41 E, Negaunee, MI 49866-9617",
+    "city": "Negaunee Twp",
+    "zipCode": "49866",
+    "latitude": 46.507151855646,
+    "longitude": -87.611214328386,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

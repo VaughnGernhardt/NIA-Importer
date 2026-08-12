@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "225180",
+    "businessName": "ATHENS SHELL",
+    "address": "126 N Capital Ave, Athens, MI 49011-5101",
+    "city": "Athens",
+    "zipCode": "49011",
+    "latitude": 42.08885140677,
+    "longitude": -85.235498936311,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248529",
+    "businessName": "FRANK\u0027S LIQUOR",
+    "address": "107 N Capital Ave, Athens, MI 49011-9375",
+    "city": "Athens",
+    "zipCode": "49011",
+    "latitude": 42.088562368598,
+    "longitude": -85.235646531668,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

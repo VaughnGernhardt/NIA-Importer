@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "155754",
+    "businessName": "STAPLETON\u0027S CORNER MARKET, LLC",
+    "address": "790 Michigan Ave, Benzonia, MI 49616",
+    "city": "Benzonia",
+    "zipCode": "49616",
+    "latitude": 44.620531133757,
+    "longitude": -86.099322264495,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284887",
+    "businessName": "EAST SHORE MARKET",
+    "address": "276 S Benzie Blvd, Beulah, MI 49617-5119",
+    "city": "Beulah",
+    "zipCode": "49617",
+    "latitude": 44.628191902936,
+    "longitude": -86.096100511265,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266100",
+    "businessName": "TRUE NORTH ENERGY, LLC (A DELAWARE LIMITED LIABILITY COMPANY)",
+    "address": "10791 Main St, Honor, MI 49640-9800",
+    "city": "Honor",
+    "zipCode": "49640",
+    "latitude": 44.664301798601,
+    "longitude": -86.021614208668,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "2414-n-telegraph-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2414, N Telegraph Rd Monroe, MI 48162-8920",
+    "city": "N Telegraph Rd Monroe",
+    "zipCode": "48162",
+    "latitude": 41.956223330418,
+    "longitude": -83.395986080313
+  },
+  {
+    "storeId": "3707-n-dixie-highway",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3707, N Dixie Highway Monroe, MI 48162",
+    "city": "N Dixie Highway Monroe",
+    "zipCode": "48162",
+    "latitude": 41.945722516683,
+    "longitude": -83.314516956853
+  }
+]

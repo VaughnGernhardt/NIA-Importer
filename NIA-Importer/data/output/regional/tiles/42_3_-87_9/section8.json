@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800005707",
+    "propertyName": "ASSISI HOMES OF GURNEE",
+    "latitude": 42.370430998791775,
+    "longitude": -87.88969299966635,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800253631",
+    "propertyName": "Armory Terrace RAD",
+    "latitude": 42.382394998835004,
+    "longitude": -87.86500399973997,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800249728",
+    "propertyName": "BARWELL MANOR",
+    "latitude": 42.34877699909073,
+    "longitude": -87.83134400027988,
+    "assistedUnits": 90,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800005793",
+    "propertyName": "CINNAMON LAKE TOWERS",
+    "latitude": 42.37779399890617,
+    "longitude": -87.86683999987385,
+    "assistedUnits": 115,
+    "totalUnits": 274
+  },
+  {
+    "propertyId": "800254435",
+    "propertyName": "Kirwan Apartments",
+    "latitude": 42.3918809987331,
+    "longitude": -87.87114900000118,
+    "assistedUnits": 12,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006032",
+    "propertyName": "LAKESIDE TOWER APARTMENTS",
+    "latitude": 42.36536599917034,
+    "longitude": -87.8317950003666,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800006038",
+    "propertyName": "Lilac Ledge Apartments",
+    "latitude": 42.35976799880316,
+    "longitude": -87.83690100018701,
+    "assistedUnits": 203,
+    "totalUnits": 203
+  },
+  {
+    "propertyId": "800006112",
+    "propertyName": "MANCHESTER KNOLLS COOP",
+    "latitude": 42.329972998814114,
+    "longitude": -87.86029899977756,
+    "assistedUnits": 36,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800210349",
+    "propertyName": "PRAIRIE VIEW APARTMENTS",
+    "latitude": 42.32938999909677,
+    "longitude": -87.85712199997742,
+    "assistedUnits": 219,
+    "totalUnits": 224
+  },
+  {
+    "propertyId": "800219522",
+    "propertyName": "WAUKEGAN SUPPORTIVE HOUSING",
+    "latitude": 42.39188199921801,
+    "longitude": -87.87131600040574,
+    "assistedUnits": 23,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800006466",
+    "propertyName": "WAUKEGAN TERRACE APTS",
+    "latitude": 42.38289799895157,
+    "longitude": -87.85954100044249,
+    "assistedUnits": 0,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800006481",
+    "propertyName": "WHISPERING OAKS APARTMENTS",
+    "latitude": 42.337273999229666,
+    "longitude": -87.86254499999026,
+    "assistedUnits": 404,
+    "totalUnits": 404
+  }
+]

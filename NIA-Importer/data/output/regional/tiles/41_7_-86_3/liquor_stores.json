@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "226788",
+    "businessName": "BELLE PLAZA PARTY STORE",
+    "address": "1911 S 11th St, Niles, MI 49120-4059",
+    "city": "Niles Twp",
+    "zipCode": "49120",
+    "latitude": 41.797500619515,
+    "longitude": -86.248270180537,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249165",
+    "businessName": "MEGA LIQUOR \u0026 SMOKE #103",
+    "address": "1129 Stateline Rd, Niles, MI 49120-4728",
+    "city": "Niles Twp",
+    "zipCode": "49120",
+    "latitude": 41.760589387115,
+    "longitude": -86.250209842025,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154200",
+    "businessName": "WAL-MART SUPERCENTER #2010",
+    "address": "2107 S 11th St, Niles, MI 49120-4060",
+    "city": "Niles Twp",
+    "zipCode": "49120",
+    "latitude": 41.790598809262,
+    "longitude": -86.250306877688,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

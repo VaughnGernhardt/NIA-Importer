@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "1028-jackson-crossing",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1028, Jackson Crossing Jackson, MI 49202-2039",
+    "city": "Jackson Crossing Jackson",
+    "zipCode": "49202",
+    "latitude": 42.269451074173,
+    "longitude": -84.434153400977
+  },
+  {
+    "storeId": "1733-spring-arbor-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1733, Spring Arbor Road Jackson, MI 49203",
+    "city": "Spring Arbor Road Jackson",
+    "zipCode": "49203",
+    "latitude": 42.239389959712,
+    "longitude": -84.435435734127
+  },
+  {
+    "storeId": "805-n-francis-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 805, N Francis St Jackson, MI 49202-3371",
+    "city": "N Francis St Jackson",
+    "zipCode": "49202",
+    "latitude": 42.255708611787,
+    "longitude": -84.403807769649
+  }
+]

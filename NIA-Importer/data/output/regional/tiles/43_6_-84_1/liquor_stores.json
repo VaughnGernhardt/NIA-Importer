@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0289961",
+    "businessName": "SUNRISE STORES, L.L.C.",
+    "address": "991 W Midland Rd, Auburn, MI 48611-9406",
+    "city": "Auburn",
+    "zipCode": "48611",
+    "latitude": 43.60356526422,
+    "longitude": -84.089262564368,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13361",
+    "businessName": "PARK VIEW COUNTRY STORE",
+    "address": "3 W Beaver Rd, Auburn, MI 48611-9775",
+    "city": "Beaver Twp",
+    "zipCode": "48611",
+    "latitude": 43.66771158563,
+    "longitude": -84.048579495638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232736",
+    "businessName": "J\u0027S KORNER STORE",
+    "address": "4745 Fraser Rd, Bay City, MI 48706-9423",
+    "city": "Monitor Twp",
+    "zipCode": "48706",
+    "latitude": 43.603743063689,
+    "longitude": -84.011882463506,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

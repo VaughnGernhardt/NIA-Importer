@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "223656",
+    "businessName": "FERMI III",
+    "address": "8194 N Dixie Hwy, Newport, MI 48166-8600",
+    "city": "Berlin Twp",
+    "zipCode": "48166",
+    "latitude": 41.996051277694,
+    "longitude": -83.282139594252,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289877",
+    "businessName": "THE PORT HOPE STORE, LLC",
+    "address": "4280 N Lakeshore Rd, Port Hope, MI 48468-9396",
+    "city": "Port Hope",
+    "zipCode": "48468",
+    "latitude": 41.941323453977,
+    "longitude": -83.261401887832,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

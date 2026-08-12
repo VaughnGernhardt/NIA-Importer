@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800060752",
+    "propertyName": "BISHOP GD MOORE APARTMENTS",
+    "latitude": 42.405968999125854,
+    "longitude": -83.0998850001833,
+    "assistedUnits": 102,
+    "totalUnits": 103
+  },
+  {
+    "propertyId": "800009992",
+    "propertyName": "CENTERLINE PARK TOWERS",
+    "latitude": 42.47765499915006,
+    "longitude": -83.02576200032767,
+    "assistedUnits": 270,
+    "totalUnits": 300
+  },
+  {
+    "propertyId": "800253901",
+    "propertyName": "CONNER CREEK",
+    "latitude": 42.441543999374225,
+    "longitude": -83.02229400027441,
+    "assistedUnits": 96,
+    "totalUnits": 96
+  },
+  {
+    "propertyId": "800010067",
+    "propertyName": "DUNN FAMILY SENIOR CITIZENS HOME",
+    "latitude": 42.48100299884733,
+    "longitude": -83.02179899980678,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010189",
+    "propertyName": "HAZEL PARK MANOR",
+    "latitude": 42.47011299895241,
+    "longitude": -83.0982499998909,
+    "assistedUnits": 70,
+    "totalUnits": 71
+  },
+  {
+    "propertyId": "800010273",
+    "propertyName": "LAWRENCE PARK",
+    "latitude": 42.47531099932388,
+    "longitude": -83.03333000027087,
+    "assistedUnits": 250,
+    "totalUnits": 250
+  },
+  {
+    "propertyId": "800010356",
+    "propertyName": "MORTON MANOR",
+    "latitude": 42.441357999203795,
+    "longitude": -83.08293499990435,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010549",
+    "propertyName": "SOLBERG TOWER",
+    "latitude": 42.49793799928578,
+    "longitude": -83.08615400043558,
+    "assistedUnits": 170,
+    "totalUnits": 170
+  },
+  {
+    "propertyId": "800010630",
+    "propertyName": "UKRAINIAN VILLAGE",
+    "latitude": 42.48638799875886,
+    "longitude": -83.06698100040845,
+    "assistedUnits": 145,
+    "totalUnits": 146
+  }
+]

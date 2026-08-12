@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800009928",
+    "propertyName": "BIRCH PARK",
+    "latitude": 43.401369999251045,
+    "longitude": -83.92425400013158,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800221232",
+    "propertyName": "BUENA VISTA SENIOR COMMUNITY",
+    "latitude": 43.40015299901701,
+    "longitude": -83.9020220003051,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800010246",
+    "propertyName": "JOAN MANLEY WOLFE APARTMENTS",
+    "latitude": 43.46532999910897,
+    "longitude": -83.99978499960062,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010267",
+    "propertyName": "LAKESIDE VILLAGE",
+    "latitude": 43.47033499882863,
+    "longitude": -83.96349200031351,
+    "assistedUnits": 199,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010091",
+    "propertyName": "WESTCHESTER VILLAGE APARTMENTS EAST",
+    "latitude": 43.40894499904557,
+    "longitude": -83.90993699967962,
+    "assistedUnits": 74,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800010534",
+    "propertyName": "WESTCHESTER VILLAGE APARTMENTS NORTH",
+    "latitude": 43.44757699879797,
+    "longitude": -83.97927599993011,
+    "assistedUnits": 100,
+    "totalUnits": 101
+  },
+  {
+    "propertyId": "800010533",
+    "propertyName": "WESTCHESTER VILLAGE APARTMENTS SOUTH",
+    "latitude": 43.40062799925664,
+    "longitude": -83.99613300032266,
+    "assistedUnits": 70,
+    "totalUnits": 150
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "businessId": "193694",
+    "businessName": "BERNIES MARKET BURTON",
+    "address": "2185 E Bristol Rd, Burton, MI 48529-1322",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.974582409678,
+    "longitude": -83.665785320542,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282390",
+    "businessName": "EKNOOR PARTY STORE",
+    "address": "4507 S CENTER RD, BURTON, MI 48519",
+    "city": "Burton",
+    "zipCode": "48519",
+    "latitude": 42.961046700762,
+    "longitude": -83.63273307159,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274134",
+    "businessName": "FAIRLAND FOOD",
+    "address": "G4330 S Saginaw St, Burton, MI 48529-2069",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.965443752017,
+    "longitude": -83.671645885976,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287307",
+    "businessName": "HOLLYWOOD LIQUOR STORE",
+    "address": "3174 E Atherton Rd, Burton, MI 48529-1035",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.98921623424,
+    "longitude": -83.646670478623,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286479",
+    "businessName": "KING C-STORE",
+    "address": "2096 E Judd Rd, Burton, MI 48529-2405",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.967186104999,
+    "longitude": -83.668983150576,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247925",
+    "businessName": "LIQUOR CORNER STOP",
+    "address": "G3271 S Dort Hwy, Burton, MI 48529-1446",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.981706478306,
+    "longitude": -83.653077902984,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9408",
+    "businessName": "MEIJER #29",
+    "address": "2333 S Center Rd, Burton, MI 48519-1147",
+    "city": "Burton",
+    "zipCode": "48519",
+    "latitude": 42.994150127334,
+    "longitude": -83.633845658038,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290880",
+    "businessName": "TED\u0027S PARTY STORE LIQUOR",
+    "address": "G1160 E Hemphill Rd, Burton, MI 48529-1165",
+    "city": "Burton",
+    "zipCode": "48529",
+    "latitude": 42.981582545164,
+    "longitude": -83.683400243033,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284125",
+    "businessName": "DORT BEER RUN",
+    "address": "2817 S Dort Hwy, Flint, MI 48507-5213",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 42.99702679492,
+    "longitude": -83.653607721607,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243354",
+    "businessName": "LIQUOR PALACE OF FLINT",
+    "address": "3302 S Dort Hwy, Flint, MI 48507-5224",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 42.99293456094,
+    "longitude": -83.653615352441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283737",
+    "businessName": "SAL\u0027S PARTY STORE",
+    "address": "3026 Fenton Rd, Flint, MI 48507-1562",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 42.993444950547,
+    "longitude": -83.693144591993,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249896",
+    "businessName": "FRANK\u0027S BEER, WINE \u0026 SPIRITS",
+    "address": "11236 S Saginaw St, Grand Blanc, MI 48439-1202",
+    "city": "Grand Blanc",
+    "zipCode": "48439",
+    "latitude": 42.930709255063,
+    "longitude": -83.633945881545,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132485",
+    "businessName": "KROGER STORE #409",
+    "address": "12731 S Saginaw St, Grand Blanc, MI 48439-1830",
+    "city": "Grand Blanc",
+    "zipCode": "48439",
+    "latitude": 42.919301615788,
+    "longitude": -83.61928039969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283837",
+    "businessName": "6039 OP CO LLC",
+    "address": "6039 Dort Hwy, Grand Blanc, MI 48439-8101",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.943270915165,
+    "longitude": -83.652337777859,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289113",
+    "businessName": "ASMARO BROTHERS INC",
+    "address": "2506 E Hill Rd, Grand Blanc, MI 48439-5066",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.944496875887,
+    "longitude": -83.654499305374,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280944",
+    "businessName": "FOOD PLUS PARTY STORE",
+    "address": "1052 E Maple Ave, Flint, MI 48507-4107",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48507",
+    "latitude": 42.959562452188,
+    "longitude": -83.690496752961,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289856",
+    "businessName": "KOZY GRAND BLANC, LLC",
+    "address": "6010 S Saginaw Rd, Grand Blanc, MI 48439-8103",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.944340351243,
+    "longitude": -83.650364570426,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163192",
+    "businessName": "SAM\u0027S CLUB #4944",
+    "address": "6160 S Saginaw Rd, Grand Blanc, MI 48439-7026",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.941491574014,
+    "longitude": -83.646918416779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245533",
+    "businessName": "THE LIQUOR CAROUSEL",
+    "address": "2372 E Hill Rd, Grand Blanc, MI 48439-5062",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.944416787141,
+    "longitude": -83.658180908877,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282268",
+    "businessName": "TONY\u0027S KWIK MART",
+    "address": "5124 E Hill Rd, Grand Blanc, MI 48439-7637",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.945137268252,
+    "longitude": -83.607671108363,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137688",
+    "businessName": "GEORGIE\u0027S MARKET",
+    "address": "8020 Fenton Rd, Grand Blanc, MI 48439-8934",
+    "city": "Mundy Twp",
+    "zipCode": "48439",
+    "latitude": 42.91444997626,
+    "longitude": -83.691041957622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291893",
+    "businessName": "MUNDY LIQUOR, INC.",
+    "address": "6010 Fenton Rd, Flint, MI 48507-4761",
+    "city": "Mundy Twp",
+    "zipCode": "48507",
+    "latitude": 42.943901854937,
+    "longitude": -83.692171584467,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

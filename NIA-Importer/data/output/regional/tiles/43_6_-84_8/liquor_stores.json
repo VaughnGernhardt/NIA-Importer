@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "185373",
+    "businessName": "BORDER\u0027S CORNER STORE",
+    "address": "7024 E Pickard Rd, Mount Pleasant, MI 48858-8909",
+    "city": "Chippewa Twp",
+    "zipCode": "48858",
+    "latitude": 43.611587824754,
+    "longitude": -84.707323917169,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239583",
+    "businessName": "EMPTY KEG",
+    "address": "122 E Pickard St, Mount Pleasant, MI 48858-1550",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.611720398787,
+    "longitude": -84.776418643434,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12028",
+    "businessName": "MEIJER #69",
+    "address": "1015 E Pickard St, Mount Pleasant, MI 48858-1062",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.611872424353,
+    "longitude": -84.765928252352,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232193",
+    "businessName": "TRIPLE DEUCE PARTY STORE",
+    "address": "222 S Washington St, Mount Pleasant, MI 48858-2514",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.603303830378,
+    "longitude": -84.777736047131,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272661",
+    "businessName": "ROSEBUSH EXPRESSWAY EZ MART",
+    "address": "4130 E Rosebush Rd, Rosebush, MI 48878-9772",
+    "city": "Rosebush",
+    "zipCode": "48878",
+    "latitude": 43.698413324512,
+    "longitude": -84.765570033254,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10969",
+    "businessName": "PICKARD PARTY STORE",
+    "address": "5114 E Pickard St, Mount Pleasant, MI 48858-1147",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.611649429389,
+    "longitude": -84.746014975953,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

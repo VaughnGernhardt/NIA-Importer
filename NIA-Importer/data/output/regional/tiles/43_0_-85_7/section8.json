@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010085",
+    "propertyName": "ELMDALE APARTMENTS",
+    "latitude": 43.02456199884633,
+    "longitude": -85.6356999997706,
+    "assistedUnits": 18,
+    "totalUnits": 19
+  },
+  {
+    "propertyId": "800211628",
+    "propertyName": "RIVER GROVE RETIREMENT COMMUNITY",
+    "latitude": 43.06660199906163,
+    "longitude": -85.61050200003119,
+    "assistedUnits": 46,
+    "totalUnits": 46
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "14192",
+    "businessName": "MARCELLUS SHELL #1600",
+    "address": "198 E Main St, Marcellus, MI 49067-5102",
+    "city": "Marcellus",
+    "zipCode": "49067",
+    "latitude": 42.02689312386,
+    "longitude": -85.813087939241,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286911",
+    "businessName": "TERRILLS MARKET, INC.",
+    "address": "119 E Main St, Marcellus, MI 49067",
+    "city": "Marcellus",
+    "zipCode": "49067",
+    "latitude": 42.027014551646,
+    "longitude": -85.814417071462,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259787",
+    "businessName": "MEGA LIQUOR \u0026 SMOKE # 104",
+    "address": "52990 M 40, Marcellus, MI 49067-9702",
+    "city": "Marcellus Twp",
+    "zipCode": "49067",
+    "latitude": 42.027323788629,
+    "longitude": -85.824916620115,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

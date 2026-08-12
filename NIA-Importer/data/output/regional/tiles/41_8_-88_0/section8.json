@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800005877",
+    "propertyName": "Arboretum West",
+    "latitude": 41.88106199898384,
+    "longitude": -87.99351499990765,
+    "assistedUnits": 11,
+    "totalUnits": 11
+  },
+  {
+    "propertyId": "800005998",
+    "propertyName": "I.C.A.R.E.",
+    "latitude": 41.80762399909177,
+    "longitude": -87.97556999956886,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800221545",
+    "propertyName": "MAYSLAKE ANNEX II",
+    "latitude": 41.824695998808714,
+    "longitude": -87.95988200021172,
+    "assistedUnits": 65,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800006132",
+    "propertyName": "MAYSLAKE CENTER II",
+    "latitude": 41.82462899910038,
+    "longitude": -87.9610200003867,
+    "assistedUnits": 149,
+    "totalUnits": 249
+  },
+  {
+    "propertyId": "800212973",
+    "propertyName": "MAYSLAKE EAST WING",
+    "latitude": 41.82462899910038,
+    "longitude": -87.9610200003867,
+    "assistedUnits": 149,
+    "totalUnits": 149
+  },
+  {
+    "propertyId": "800006136",
+    "propertyName": "MAYSLAKE VILLAS",
+    "latitude": 41.82462899910038,
+    "longitude": -87.9610200003867,
+    "assistedUnits": 16,
+    "totalUnits": 108
+  }
+]

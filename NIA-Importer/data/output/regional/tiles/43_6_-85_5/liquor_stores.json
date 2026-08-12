@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "12006",
+    "businessName": "MIKE\u0027S GROCERY",
+    "address": "307 S 3rd Ave, Big Rapids, MI 49307-1570",
+    "city": "Big Rapids",
+    "zipCode": "49307",
+    "latitude": 43.698380354951,
+    "longitude": -85.471230351141,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225471",
+    "businessName": "NORTHERN HEIGHTS CITGO",
+    "address": "11031 Northland Dr, Big Rapids, MI 49307-9086",
+    "city": "Mecosta Twp",
+    "zipCode": "49307",
+    "latitude": 43.627961894166,
+    "longitude": -85.483545402213,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800040619",
+    "propertyName": "FAUST LANDMARK APARTMENTS",
+    "latitude": 42.26688799895715,
+    "longitude": -89.08627400044873,
+    "assistedUnits": 200,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800006018",
+    "propertyName": "KEN ROCK ELDERLY APARTMENTS",
+    "latitude": 42.22647499912774,
+    "longitude": -89.0703319997501,
+    "assistedUnits": 31,
+    "totalUnits": 31
+  },
+  {
+    "propertyId": "800006098",
+    "propertyName": "LUTHER CENTER",
+    "latitude": 42.27086299932226,
+    "longitude": -89.09309599985413,
+    "assistedUnits": 200,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800222645",
+    "propertyName": "MOSAIC HOUSING CORPORATION XIV",
+    "latitude": 42.210750999271156,
+    "longitude": -89.02614699975636,
+    "assistedUnits": 9,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800246296",
+    "propertyName": "ORTON KEYES",
+    "latitude": 42.2320679987761,
+    "longitude": -89.08852200031126,
+    "assistedUnits": 175,
+    "totalUnits": 175
+  },
+  {
+    "propertyId": "800222608",
+    "propertyName": "Rockford Supportive Housing",
+    "latitude": 42.23759599877687,
+    "longitude": -89.00972499955701,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800006333",
+    "propertyName": "SKYRISE APTS",
+    "latitude": 42.278148998873625,
+    "longitude": -89.08818800040042,
+    "assistedUnits": 34,
+    "totalUnits": 170
+  },
+  {
+    "propertyId": "800245251",
+    "propertyName": "THE GROVE AT KEITH CREEK",
+    "latitude": 42.261747999218564,
+    "longitude": -89.01302799975383,
+    "assistedUnits": 43,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800006423",
+    "propertyName": "VALKOMMEN PLAZA",
+    "latitude": 42.26469499895596,
+    "longitude": -89.08065200024429,
+    "assistedUnits": 171,
+    "totalUnits": 171
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "192893",
+    "businessName": "A \u0026 A MINI MART",
+    "address": "3720 W Giles Rd, Muskegon, MI 49445-9627",
+    "city": "Laketon Twp",
+    "zipCode": "49445",
+    "latitude": 43.278829852817,
+    "longitude": -86.33548173504,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153676",
+    "businessName": "SUPERSTOP FOOD STORE",
+    "address": "2390 W Sherman Blvd, Muskegon, MI 49441-1359",
+    "city": "Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.20591520262,
+    "longitude": -86.302904024276,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

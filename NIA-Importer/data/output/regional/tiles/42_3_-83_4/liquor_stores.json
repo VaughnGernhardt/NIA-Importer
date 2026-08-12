@@ -1,0 +1,562 @@
+[
+  {
+    "businessId": "0284180",
+    "businessName": "DIMITRI\u0027S PARTY SHOPPE",
+    "address": "27338 W Warren St, Dearborn Heights, MI 48127-1842",
+    "city": "Dearborn Heights",
+    "zipCode": "48127",
+    "latitude": 42.340722769042,
+    "longitude": -83.311270098147,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248046",
+    "businessName": "VIPERCAM.NET",
+    "address": "27349 W Warren St, Dearborn Heights, MI 48127-1803",
+    "city": "Dearborn Heights",
+    "zipCode": "48127",
+    "latitude": 42.340604724743,
+    "longitude": -83.311404275948,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14576",
+    "businessName": "7-ELEVEN #26508-D",
+    "address": "29331 Warren Rd, Garden City, MI 48135-2144",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.339941896177,
+    "longitude": -83.33112052576,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284989",
+    "businessName": "7-ELEVEN STORE #16017A",
+    "address": "28205 Ford Rd, Garden City, MI 48135-2932",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.325891438018,
+    "longitude": -83.319321948466,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278423",
+    "businessName": "ANDREW\u0027S LIQUOR",
+    "address": "29444 Cherry Hill Rd, Garden City, MI 48135-2613",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.31127996673,
+    "longitude": -83.331264281502,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214171",
+    "businessName": "CVS/PHARMACY #8075",
+    "address": "27435 Ford Rd, Garden City, MI 48135-2920",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.326120401864,
+    "longitude": -83.311942283515,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266706",
+    "businessName": "GARDEN CITY FUEL STOP COMPANY",
+    "address": "32889 Warren Rd, Garden City, MI 48135-1639",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.339285985092,
+    "longitude": -83.365292220349,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100156",
+    "businessName": "HANDY MART",
+    "address": "7121 Merriman Rd, Garden City, MI 48135-1952",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.339006928179,
+    "longitude": -83.350956470271,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266244",
+    "businessName": "KETUPRIYA INC",
+    "address": "28856 Ford Rd, Garden City, MI 48135-2844",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.325809905394,
+    "longitude": -83.325740495855,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12275",
+    "businessName": "LIQUOR GARDEN",
+    "address": "31226 Ford Rd, Garden City, MI 48135-1872",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.325215353604,
+    "longitude": -83.349009427805,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262335",
+    "businessName": "MOBIL",
+    "address": "32271 Ford Rd, Garden City, MI 48135-1508",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.324953397214,
+    "longitude": -83.358852012678,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279009",
+    "businessName": "ONE STOP LIQUOR",
+    "address": "33439 Ford Rd, Garden City, MI 48135-1154",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.324779289455,
+    "longitude": -83.370194623107,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10495",
+    "businessName": "PARADISE PIZZA \u0026 LIQUOR",
+    "address": "32669 Warren Rd, Garden City, MI 48135-1677",
+    "city": "Garden",
+    "zipCode": "48135",
+    "latitude": 42.339309910088,
+    "longitude": -83.363811856793,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267950",
+    "businessName": "CHERRY BELT PARTY STORE",
+    "address": "29395 Cherry Hill Rd, Inkster, MI 48141-1199",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.311186320647,
+    "longitude": -83.330427108146,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215539",
+    "businessName": "HOUSE OF LIQUOR",
+    "address": "1143 Middlebelt Rd, Inkster, MI 48141-1634",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.302714705599,
+    "longitude": -83.329974520119,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "194634",
+    "businessName": "LEON\u0027S PARTY STORE",
+    "address": "1311-1313 Inkster Rd, Inkster, MI 48141-1882",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.302530969423,
+    "longitude": -83.310370149537,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227904",
+    "businessName": "METRO LIQUOR PLAZA",
+    "address": "27455 Cherry Hill Rd, Inkster, MI 48141-1205",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.311632516741,
+    "longitude": -83.311530539382,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271521",
+    "businessName": "ABC TOBACCO LIQUOR",
+    "address": "34746 Plymouth Rd, Livonia, MI 48150-1440",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.368124142895,
+    "longitude": -83.385017861894,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "159448",
+    "businessName": "BONANZA WINE SHOP",
+    "address": "33614 Plymouth Rd, Livonia, MI 48150-1561",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.368280582097,
+    "longitude": -83.374337430771,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "185644",
+    "businessName": "LEVAN WINE AND DELI SHOPPE",
+    "address": "36217 Plymouth Rd, Livonia, MI 48150-1431",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.367665041363,
+    "longitude": -83.399733080944,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243600",
+    "businessName": "LIVONIA LIQUOR CASTLE",
+    "address": "28287 Plymouth Rd, Livonia, MI 48150-5300",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.369399005995,
+    "longitude": -83.322140548114,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286001",
+    "businessName": "MID 5 LIQUOR STORE",
+    "address": "15254 Middlebelt Rd, Livonia, MI 48154-4035",
+    "city": "Livonia",
+    "zipCode": "48154",
+    "latitude": 42.397714443915,
+    "longitude": -83.334403158148,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "185872",
+    "businessName": "MID-JOY MARKET",
+    "address": "29150 Joy Rd, Livonia, MI 48150-4032",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.354827364171,
+    "longitude": -83.330472922002,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245797",
+    "businessName": "MIRAGE MARKET",
+    "address": "28292 Joy Rd, Livonia, MI 48150-4134",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.355060675846,
+    "longitude": -83.320822700756,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10302",
+    "businessName": "NICHOLAS PARTY STORE",
+    "address": "13820 Merriman Rd, Livonia, MI 48150-1831",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.382112373032,
+    "longitude": -83.35319986505,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15771",
+    "businessName": "PLYMOUTH FOOD STORE",
+    "address": "27600 Plymouth Rd, Livonia, MI 48150-2321",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.369755510292,
+    "longitude": -83.315317035973,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10420",
+    "businessName": "SHOWERMAN\u0027S FINE WINE AND LIQUOR",
+    "address": "15333 Merriman Rd, Livonia, MI 48154-3103",
+    "city": "Livonia",
+    "zipCode": "48154",
+    "latitude": 42.398018026227,
+    "longitude": -83.354143638381,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10876",
+    "businessName": "SUMMIT PARTY SHOPPE",
+    "address": "32139 Plymouth Rd, Livonia, MI 48150-1910",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.368449712048,
+    "longitude": -83.360417439994,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11863",
+    "businessName": "THE WINE PALACE",
+    "address": "13973 Middlebelt Rd, Livonia, MI 48154-4537",
+    "city": "Livonia",
+    "zipCode": "48154",
+    "latitude": 42.384491469936,
+    "longitude": -83.333840704081,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279240",
+    "businessName": "WINE BARREL PLUS",
+    "address": "30303 Plymouth Rd, Livonia, MI 48150-2128",
+    "city": "Livonia",
+    "zipCode": "48150",
+    "latitude": 42.36882254787,
+    "longitude": -83.345598813203,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267774",
+    "businessName": "BLISS PARTY HUT, LLC",
+    "address": "26968 Plymouth Rd, Redford, MI 48239-2363",
+    "city": "Redford Twp",
+    "zipCode": "48239",
+    "latitude": 42.370294109117,
+    "longitude": -83.308622891812,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12728",
+    "businessName": "REDFORD LIQUOR STORE",
+    "address": "27316 Schoolcraft, Redford, MI 48239-3065",
+    "city": "Redford Twp",
+    "zipCode": "48239",
+    "latitude": 42.384566151293,
+    "longitude": -83.313101520891,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0262409",
+    "businessName": "SUNSHINE LIQUOR SHOP",
+    "address": "27342 Joy Rd, Redford, MI 48239-2370",
+    "city": "Redford Twp",
+    "zipCode": "48239",
+    "latitude": 42.355279281788,
+    "longitude": -83.312253791744,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16474",
+    "businessName": "7-ELEVEN #19266-C",
+    "address": "970 S Wayne Rd, WESTLAND, MI 48186",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.302910132986,
+    "longitude": -83.388502096841,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14717",
+    "businessName": "7-ELEVEN #27966-D",
+    "address": "31385 Joy Rd, Westland, MI 48185-7075",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.354209644342,
+    "longitude": -83.35153946548,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214151",
+    "businessName": "CVS/PHARMACY #8008",
+    "address": "7291 N Middlebelt Rd, Westland, MI 48185-2501",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.341098089721,
+    "longitude": -83.331704688047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214174",
+    "businessName": "CVS/PHARMACY #8010",
+    "address": "31411 Cherry Hill Rd, Westland, MI 48186-5264",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.310756518465,
+    "longitude": -83.349702055688,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214212",
+    "businessName": "CVS/PHARMACY #8212",
+    "address": "31501 Joy Rd, Westland, MI 48185-1641",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.354176024283,
+    "longitude": -83.353225300161,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291216",
+    "businessName": "FORD WEST PARTY STORE",
+    "address": "35071 Ford Rd, Westland, MI 48185-7124",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.324454326163,
+    "longitude": -83.38528170865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266168",
+    "businessName": "HARI OM SAI LLC",
+    "address": "35035 Cherry Hill Rd, Westland, MI 48186-4308",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.309939326883,
+    "longitude": -83.384817919024,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276281",
+    "businessName": "HORSESHOE LIQUOR",
+    "address": "33610 Ford Rd, Westland, MI 48185-3005",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.324840678963,
+    "longitude": -83.37233038764,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217240",
+    "businessName": "HUNTER-WAYNE LIQUOR",
+    "address": "35201 Hunter Ave, Westland, MI 48185-2103",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.331621934412,
+    "longitude": -83.386614243225,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215840",
+    "businessName": "JERRY\u0027S PARTY STORE",
+    "address": "28940 Warren Rd, Westland, MI 48185-2663",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.340159736252,
+    "longitude": -83.327154949315,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197458",
+    "businessName": "KROGER STORE #456",
+    "address": "200 S Merriman Rd, Westland, MI 48186-5009",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.309153665677,
+    "longitude": -83.349591942408,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197463",
+    "businessName": "KROGER STORE #459",
+    "address": "7350 N Middlebelt Rd, Westland, MI 48185-2502",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.342551196797,
+    "longitude": -83.331616488574,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266088",
+    "businessName": "MARCO\u0027S FINE WINE \u0026 DELI",
+    "address": "7977 N Wayne Rd, Westland, MI 48185-1109",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.346223347047,
+    "longitude": -83.385456845894,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288295",
+    "businessName": "ML PETROLEUM, INC.",
+    "address": "8405 N Inkster Rd, Westland, MI 48185-5502",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.351095575973,
+    "longitude": -83.312711720266,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "209578",
+    "businessName": "PREEYA CORPORATION",
+    "address": "129 S Venoy Rd, Westland, MI 48186-4899",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.310069185707,
+    "longitude": -83.364257012769,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238324",
+    "businessName": "REGAL LIQUOR TWO",
+    "address": "8240 N Merriman Rd, Westland, MI 48185-1693",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.348454473394,
+    "longitude": -83.351272666146,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154354",
+    "businessName": "SCOTTY\u0027S LIQUOR",
+    "address": "35812 Ford Rd, Westland, MI 48185-2203",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.324408954042,
+    "longitude": -83.394360062127,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283156",
+    "businessName": "SHELL",
+    "address": "8008 N Middlebelt Rd, Westland, MI 48185-1808",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.347380366355,
+    "longitude": -83.331861903656,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228737",
+    "businessName": "VINTAGE WINE \u0026 DELI",
+    "address": "29501 Ann Arbor Trl, Westland, MI 48185-2500",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.347121472971,
+    "longitude": -83.332522576088,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236204",
+    "businessName": "WAYNE MED MARKET",
+    "address": "417 S Wayne Rd, Westland, MI 48185",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.307180293489,
+    "longitude": -83.388499138424,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246787",
+    "businessName": "WESTLAND FOOD \u0026 FUEL INC",
+    "address": "35336 Ford Rd, Westland, MI 48185",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.324527265215,
+    "longitude": -83.388013932425,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "203658",
+    "businessName": "WESTLAND PARTY STORE",
+    "address": "34745 Warren Rd, Westland, MI 48185-2790",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.338904640492,
+    "longitude": -83.383866201071,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233743",
+    "businessName": "WESTLAND PARTY STORES",
+    "address": "27830 Warren Rd, Westland, MI 48185-2651",
+    "city": "Westland",
+    "zipCode": "48185",
+    "latitude": 42.340493421583,
+    "longitude": -83.317268179146,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "11676",
+    "businessName": "BEACON \u0026 BRIDGE MARKET",
+    "address": "21060 19 Mile Rd, Big Rapids, MI 49307-9267",
+    "city": "Green Twp",
+    "zipCode": "49307",
+    "latitude": 43.742759116093,
+    "longitude": -85.50474605222,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284462",
+    "businessName": "PARIS LIQUOR LLC",
+    "address": "21240 Northland Dr, Paris, MI 49338-9476",
+    "city": "Green Twp",
+    "zipCode": "49338",
+    "latitude": 43.774989043459,
+    "longitude": -85.502908356785,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

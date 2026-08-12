@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "141908",
+    "businessName": "GLEN\u0027S MARKET #1502",
+    "address": "100 S Bradley Hwy, Rogers City, MI 49779-2123",
+    "city": "Rogers",
+    "zipCode": "49779",
+    "latitude": 45.41306386167,
+    "longitude": -83.826777452835,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149614",
+    "businessName": "PORT O\u0027CALL",
+    "address": "239 E Michigan Ave, Rogers City, MI 49779-1616",
+    "city": "Rogers",
+    "zipCode": "49779",
+    "latitude": 45.421330423288,
+    "longitude": -83.815077098304,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

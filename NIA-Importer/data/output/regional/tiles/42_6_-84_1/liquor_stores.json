@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0260344",
+    "businessName": "KREEGERS",
+    "address": "6995 Fowlerville Rd, Fowlerville, MI 48836-9345",
+    "city": "Conway Twp",
+    "zipCode": "48836",
+    "latitude": 42.699684693498,
+    "longitude": -84.07545075346,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283014",
+    "businessName": "FOWLERVILLE CONVENIENCE #2, LLC",
+    "address": "203 W GRAND RIVER AVE, FOWLERVILLE, MI 48836",
+    "city": "Fowlerville",
+    "zipCode": "48836",
+    "latitude": 42.660601255972,
+    "longitude": -84.074509407086,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283598",
+    "businessName": "SAVE-ON FAMILY FOODS",
+    "address": "131 E Grand River Ave, Fowlerville, MI 48836-5137",
+    "city": "Fowlerville",
+    "zipCode": "48836",
+    "latitude": 42.660727087293,
+    "longitude": -84.072794476027,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216359",
+    "businessName": "FOWLERVILLE MOBIL",
+    "address": "3135 Fowlerville Rd, Fowlerville, MI 48836-8905",
+    "city": "Handy Twp",
+    "zipCode": "48836",
+    "latitude": 42.644143137058,
+    "longitude": -84.072528183378,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

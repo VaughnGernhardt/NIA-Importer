@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "150422",
+    "businessName": "COTTAGE MARKET",
+    "address": "12795 Old 14 Mile Rd NE, Greenville, MI 48838-9153",
+    "city": "Oakfield Twp",
+    "zipCode": "48838",
+    "latitude": 43.176486469718,
+    "longitude": -85.352908152855,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238964",
+    "businessName": "LOG CABIN CONVENIENCE STORE",
+    "address": "12798 Old 14 Mile Rd NE, Greenville, MI 48838-9007",
+    "city": "Oakfield Twp",
+    "zipCode": "48838",
+    "latitude": 43.176372050749,
+    "longitude": -85.352877742405,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

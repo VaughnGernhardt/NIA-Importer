@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "134442",
+    "businessName": "COSTCO #376",
+    "address": "400 Brown Rd, Auburn Hills, MI 48326-1305",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.707393437492,
+    "longitude": -83.29317948215,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "143504",
+    "businessName": "SAM\u0027S CLUB #4778",
+    "address": "4350 Joslyn Rd, Auburn Hills, MI 48326-1329",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.704603527392,
+    "longitude": -83.28488346617,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223545",
+    "businessName": "TARGET #1251",
+    "address": "650 Brown Rd, Auburn Hills, MI 48326-1307",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.707240697427,
+    "longitude": -83.298918006261,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "151558",
+    "businessName": "SUNOCO",
+    "address": "378 S Broadway St, Lake Orion, MI 48362-2741",
+    "city": "Lake Orion",
+    "zipCode": "48362",
+    "latitude": 42.782781393772,
+    "longitude": -83.239772493804,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242864",
+    "businessName": "ANTHONY ELIAS LEANDRA, INC.",
+    "address": "3890 Joslyn Rd, Lake Orion, MI 48359-1628",
+    "city": "Orion Twp",
+    "zipCode": "48359",
+    "latitude": 42.723634105037,
+    "longitude": -83.286184540944,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241326",
+    "businessName": "EXPRESS PARTY STORE",
+    "address": "704 S Lapeer Rd, Lake Orion, MI 48362-2920",
+    "city": "Orion Twp",
+    "zipCode": "48362",
+    "latitude": 42.771436887167,
+    "longitude": -83.238821951685,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13449",
+    "businessName": "KROGER STORE #637",
+    "address": "460 N Lapeer Rd, Lake Orion, MI 48362-1581",
+    "city": "Orion Twp",
+    "zipCode": "48362",
+    "latitude": 42.777669515184,
+    "longitude": -83.23941084907,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216673",
+    "businessName": "M-24 \u0026 SILVERBELL MOBIL",
+    "address": "3901 S Lapeer Rd, Lake Orion, MI 48360-2465",
+    "city": "Orion Twp",
+    "zipCode": "48360",
+    "latitude": 42.72471412178,
+    "longitude": -83.242862389182,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274626",
+    "businessName": "MEIJER STORE #680",
+    "address": "1107 S Lapeer Rd, Lake Orion, MI 48360-1431",
+    "city": "Orion Twp",
+    "zipCode": "48360",
+    "latitude": 42.765814278184,
+    "longitude": -83.240434408789,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237485",
+    "businessName": "OAK BARREL PARTY SHOPPE",
+    "address": "2515 S Lapeer Rd, Lake Orion, MI 48360-2235",
+    "city": "Orion Twp",
+    "zipCode": "48360",
+    "latitude": 42.74506331894,
+    "longitude": -83.245818272735,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800009884",
+    "propertyName": "ARBOR MANOR APARTMENTS",
+    "latitude": 42.22692399898629,
+    "longitude": -83.6279380004361,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800009983",
+    "propertyName": "CARPENTER PLACE APTS",
+    "latitude": 42.23969299908871,
+    "longitude": -83.68053800029483,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010005",
+    "propertyName": "CHIDESTER PLACE",
+    "latitude": 42.236300998907154,
+    "longitude": -83.610913999639,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010120",
+    "propertyName": "FORREST KNOLL APARTMENTS",
+    "latitude": 42.22692399898629,
+    "longitude": -83.6279380004361,
+    "assistedUnits": 231,
+    "totalUnits": 231
+  },
+  {
+    "propertyId": "800212868",
+    "propertyName": "MELVIN T. WALLS MANOR",
+    "latitude": 42.233045999188334,
+    "longitude": -83.64482300041774,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800241917",
+    "propertyName": "STRONG HOUSING",
+    "latitude": 42.23745399938119,
+    "longitude": -83.62608700023361,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800010612",
+    "propertyName": "TOWNE CENTRE PLACE",
+    "latitude": 42.2407829989563,
+    "longitude": -83.61821299996868,
+    "assistedUnits": 159,
+    "totalUnits": 170
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0286473",
+    "businessName": "BLUE STAR STATION",
+    "address": "3479 Blue Star Hwy, Saugatuck, MI 49453-9400",
+    "city": "Saugatuck",
+    "zipCode": "49453",
+    "latitude": 42.670670006717,
+    "longitude": -86.189895081648,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10519",
+    "businessName": "DUNES VIEW KWIK SHOP",
+    "address": "6397 Blue Star Hwy, Saugatuck, MI 49453-9425",
+    "city": "Saugatuck Twp",
+    "zipCode": "49453",
+    "latitude": 42.680330589511,
+    "longitude": -86.174260222598,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

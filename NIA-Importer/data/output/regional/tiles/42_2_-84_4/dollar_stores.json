@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "3140-east-michigan-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3140, East Michigan Ave Jackson, MI 49202-3850",
+    "city": "East Michigan Ave Jackson",
+    "zipCode": "49202",
+    "latitude": 42.256009014649,
+    "longitude": -84.363948367844
+  },
+  {
+    "storeId": "1521-e-michigan-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1521, E Michigan Ave Jackson, MI 49202-3519",
+    "city": "E Michigan Ave Jackson",
+    "zipCode": "49202",
+    "latitude": 42.251071302742,
+    "longitude": -84.385680845609
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0284877",
+    "businessName": "STONELAKE ENTERPRISE INC",
+    "address": "221 S Broadway St, Cassopolis, MI 49031-1244",
+    "city": "Cassopolis",
+    "zipCode": "49031",
+    "latitude": 41.909398414275,
+    "longitude": -86.012410548901,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268686",
+    "businessName": "VISHAL, INC.",
+    "address": "305 E State St, Cassopolis, MI 49031-1328",
+    "city": "Cassopolis",
+    "zipCode": "49031",
+    "latitude": 41.911643570175,
+    "longitude": -86.009897697715,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

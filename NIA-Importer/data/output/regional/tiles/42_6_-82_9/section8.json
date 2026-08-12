@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800010436",
+    "propertyName": "BARWIN PLACE APARTMENTS",
+    "latitude": 42.603475999380905,
+    "longitude": -82.89157999955175,
+    "assistedUnits": 20,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800010371",
+    "propertyName": "CLEMENS COURT APARTMENTS",
+    "latitude": 42.60983899906778,
+    "longitude": -82.86314999976062,
+    "assistedUnits": 160,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800010080",
+    "propertyName": "ELIZABETH LEE DOLES MANOR",
+    "latitude": 42.60611699880624,
+    "longitude": -82.86565100024146,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010372",
+    "propertyName": "NEWPORT APARTMENTS II",
+    "latitude": 42.60733499916081,
+    "longitude": -82.86360699969511,
+    "assistedUnits": 168,
+    "totalUnits": 168
+  }
+]

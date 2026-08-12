@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800022855",
+    "propertyName": "ASSISI HOMES OF NEENAH",
+    "latitude": 44.16362899922511,
+    "longitude": -88.46822900033492,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800023008",
+    "propertyName": "FIRESIDE COMMONS APARTMENTS",
+    "latitude": 44.167608998982644,
+    "longitude": -88.4662579995835,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800023203",
+    "propertyName": "HEARTHSIDE APARTMENTS aka HEARTHSIDE COMMONS",
+    "latitude": 44.169735998934975,
+    "longitude": -88.46353500024314,
+    "assistedUnits": 60,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800235973",
+    "propertyName": "NEENAH COURT/JANESVILLE COMMONS",
+    "latitude": 44.16223199895219,
+    "longitude": -88.4696939998497,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800023292",
+    "propertyName": "PRIMROSE APTS",
+    "latitude": 44.15929099933903,
+    "longitude": -88.48907299974117,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800010537",
+    "propertyName": "ARBORVIEW VILLAGE",
+    "latitude": 42.64161799883146,
+    "longitude": -83.27511999956205,
+    "assistedUnits": 161,
+    "totalUnits": 161
+  },
+  {
+    "propertyId": "800010268",
+    "propertyName": "LANCASTER VILLAGE COOP 1",
+    "latitude": 42.65587899926624,
+    "longitude": -83.25737599996302,
+    "assistedUnits": 237,
+    "totalUnits": 287
+  },
+  {
+    "propertyId": "800211870",
+    "propertyName": "MCDONALD SENIOR APARTMENTS",
+    "latitude": 42.65470899920638,
+    "longitude": -83.29932599961468,
+    "assistedUnits": 49,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800010360",
+    "propertyName": "MEADOW CREEK VILLAGE",
+    "latitude": 42.62024499926443,
+    "longitude": -83.24338099972634,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800010370",
+    "propertyName": "NEWMAN COURT APARTMENTS",
+    "latitude": 42.657120999087965,
+    "longitude": -83.26033400037835,
+    "assistedUnits": 172,
+    "totalUnits": 172
+  },
+  {
+    "propertyId": "800010434",
+    "propertyName": "PHOENIX PLACE",
+    "latitude": 42.63579999921505,
+    "longitude": -83.2886059999857,
+    "assistedUnits": 200,
+    "totalUnits": 280
+  },
+  {
+    "propertyId": "800010462",
+    "propertyName": "PONTIAC TOWNHOUSES COOPERATIVE",
+    "latitude": 42.63791299900907,
+    "longitude": -83.28525000008544,
+    "assistedUnits": 40,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800235795",
+    "propertyName": "PONTIAC VILLAGE ESTATES CO-OP SENIOR APTS(Colony)",
+    "latitude": 42.67597499890998,
+    "longitude": -83.25466299977009,
+    "assistedUnits": 76,
+    "totalUnits": 77
+  },
+  {
+    "propertyId": "800010565",
+    "propertyName": "SPRING LAKE VILLAGE",
+    "latitude": 42.633321999200206,
+    "longitude": -83.2640829997407,
+    "assistedUnits": 213,
+    "totalUnits": 250
+  },
+  {
+    "propertyId": "800252420",
+    "propertyName": "The Hamilton",
+    "latitude": 42.63972599890093,
+    "longitude": -83.29580099966,
+    "assistedUnits": 7,
+    "totalUnits": 35
+  },
+  {
+    "propertyId": "800010470",
+    "propertyName": "VILLAGE OF OAKLAND WOODS",
+    "latitude": 42.62865999932037,
+    "longitude": -83.24901600034958,
+    "assistedUnits": 149,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800254393",
+    "propertyName": "Winston Commons",
+    "latitude": 42.64117799932523,
+    "longitude": -83.28542199961458,
+    "assistedUnits": 9,
+    "totalUnits": 63
+  }
+]

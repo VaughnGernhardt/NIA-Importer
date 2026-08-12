@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800258393",
+    "propertyName": "18th Avenue Group Home",
+    "latitude": 43.002217998977976,
+    "longitude": -82.44571400028866,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800010036",
+    "propertyName": "CONTINENTAL COURT",
+    "latitude": 43.01562699900528,
+    "longitude": -82.44299000022508,
+    "assistedUnits": 11,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800235819",
+    "propertyName": "HOMEFRONT GROUP HOMES",
+    "latitude": 43.001089999135694,
+    "longitude": -82.445519000295,
+    "assistedUnits": 12,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800010232",
+    "propertyName": "INDEPENDENCE SQUARE APARTMENTS",
+    "latitude": 43.00364499888183,
+    "longitude": -82.43580700024634,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800010233",
+    "propertyName": "INDEPENDENCE SQUARE APT II",
+    "latitude": 43.00364499888183,
+    "longitude": -82.43580700024634,
+    "assistedUnits": 5,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800010379",
+    "propertyName": "NORTH PORT",
+    "latitude": 43.0251549989258,
+    "longitude": -82.45031499959569,
+    "assistedUnits": 250,
+    "totalUnits": 250
+  }
+]

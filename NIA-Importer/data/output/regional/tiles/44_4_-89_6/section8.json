@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023007",
+    "propertyName": "FIRESIDE APARTMENTS",
+    "latitude": 44.49393599874005,
+    "longitude": -89.58080799991009,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023401",
+    "propertyName": "SUNSET TERRACE",
+    "latitude": 44.451873998804466,
+    "longitude": -89.54855100004053,
+    "assistedUnits": 22,
+    "totalUnits": 22
+  }
+]

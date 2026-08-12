@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "163415",
+    "businessName": "WAL-MART SUPER CENTER #1423",
+    "address": "1165 Superior Dr, Saint Johns, MI 48879-8234",
+    "city": "Bingham Twp",
+    "zipCode": "48879",
+    "latitude": 42.976489085404,
+    "longitude": -84.541238349978,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283349",
+    "businessName": "RED PINE EQUITY, LLC",
+    "address": "5006 N US Highway 27, Saint Johns, MI 48879-8407",
+    "city": "Greenbush Twp",
+    "zipCode": "48879",
+    "latitude": 42.942860206491,
+    "longitude": -84.543009169019,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

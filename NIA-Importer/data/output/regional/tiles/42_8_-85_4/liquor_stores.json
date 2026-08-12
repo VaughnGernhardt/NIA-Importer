@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "213462",
+    "businessName": "ALTO MARATHON",
+    "address": "11990 64th St SE, Alto, MI 49302-8948",
+    "city": "Bowne Twp",
+    "zipCode": "49302",
+    "latitude": 42.848726593296,
+    "longitude": -85.37058941993,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246287",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "4475 Alden Nash Ave SE, Lowell, MI 49331-8988",
+    "city": "Lowell Twp",
+    "zipCode": "49331",
+    "latitude": 42.88400992798,
+    "longitude": -85.371082014049,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

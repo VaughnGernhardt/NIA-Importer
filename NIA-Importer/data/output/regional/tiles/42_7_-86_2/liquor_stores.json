@@ -1,0 +1,122 @@
+[
+  {
+    "businessId": "225842",
+    "businessName": "CENTRAL PARK GROCERY",
+    "address": "1158 S Shore Dr, Holland, MI 49423-4464",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.775462353961,
+    "longitude": -86.157699260664,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273565",
+    "businessName": "COLUMBIA AVE ONE STOP",
+    "address": "405 Columbia Ave, Holland, MI 49423-4291",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.78223341291,
+    "longitude": -86.100194335907,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141960",
+    "businessName": "FAMILY FARE #123",
+    "address": "1185 Washington Ave, Holland, MI 49423-7729",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.75610805733,
+    "longitude": -86.116278102795,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12398",
+    "businessName": "KING\u0027S COVE PARTY STORE",
+    "address": "430 W 17th St, Holland, MI 49423-3403",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.781965319059,
+    "longitude": -86.127198972169,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289581",
+    "businessName": "MEGA-BEV",
+    "address": "973 Washington Ave, Holland, MI 49423-5228",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.762000618549,
+    "longitude": -86.116547801483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273989",
+    "businessName": "SUPERMERCADO LA REINA, LLC",
+    "address": "676 MICHIGAN AVE, HOLLAND, MI 49423",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.771649156765,
+    "longitude": -86.11487183192,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285678",
+    "businessName": "VVS, LLC",
+    "address": "434 Washington Ave, Holland, MI 49423-4103",
+    "city": "Holland",
+    "zipCode": "49423",
+    "latitude": 42.781118412815,
+    "longitude": -86.1170975038,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240302",
+    "businessName": "SIDE DOOR PARTY STORE",
+    "address": "673 Douglas Ave, Holland, MI 49424-2783",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.797598406544,
+    "longitude": -86.13661562585,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290252",
+    "businessName": "ANCHOR PARTY STORE",
+    "address": "1798 OTTAWA BEACH RD, HOLLAND, MI 49424",
+    "city": "Park Twp",
+    "zipCode": "49424",
+    "latitude": 42.792415815364,
+    "longitude": -86.185439725852,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235359",
+    "businessName": "DOWN THE HATCH PARTY STORE",
+    "address": "1866 Ottawa Beach Rd, Holland, MI 49424-5000",
+    "city": "Park Twp",
+    "zipCode": "49424",
+    "latitude": 42.788252200361,
+    "longitude": -86.188576034714,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246313",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "1140 Ottawa Beach Rd, Holland, MI 49424-2541",
+    "city": "Park Twp",
+    "zipCode": "49424",
+    "latitude": 42.793632431584,
+    "longitude": -86.157047855133,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267698",
+    "businessName": "SAM\u0027S LIQUOR CENTER, LLC",
+    "address": "611 S 160th Ave, Holland, MI 49423-6705",
+    "city": "Park Twp",
+    "zipCode": "49423",
+    "latitude": 42.772414769398,
+    "longitude": -86.176420310436,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

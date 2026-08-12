@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0283655",
+    "businessName": "FARHAN FUEL, LLC",
+    "address": "6009 Van Dyke Rd, Brown City, MI 48416-9674",
+    "city": "Burnside Twp",
+    "zipCode": "48416",
+    "latitude": 43.210963213878,
+    "longitude": -83.077429235997,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271412",
+    "businessName": "SUNOCO",
+    "address": "5989 Van Dyke Rd, Brown City, MI 48416-9613",
+    "city": "Burnside Twp",
+    "zipCode": "48416",
+    "latitude": 43.210326740075,
+    "longitude": -83.077406034412,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

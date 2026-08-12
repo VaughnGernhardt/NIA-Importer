@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800225845",
+    "propertyName": "CHRISTIAN LIFE RETIREMENT ALLERTON",
+    "latitude": 42.302450998819126,
+    "longitude": -89.00030100028677,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800006149",
+    "propertyName": "MILESTONE,INC. ELMWOOD EAST \u0026 STRAT",
+    "latitude": 42.33215099887411,
+    "longitude": -89.08978299961156,
+    "assistedUnits": 12,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800006147",
+    "propertyName": "Milestone Developments for the Disabled",
+    "latitude": 42.31992099936023,
+    "longitude": -89.00838600043892,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800006214",
+    "propertyName": "PARK TOWER APTS",
+    "latitude": 42.31799099912851,
+    "longitude": -89.0550209999615,
+    "assistedUnits": 151,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800006359",
+    "propertyName": "STEPPING STONES",
+    "latitude": 42.31685099922537,
+    "longitude": -89.09508199977583,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800006380",
+    "propertyName": "Terrace Senior",
+    "latitude": 42.31040599914178,
+    "longitude": -89.09445699961185,
+    "assistedUnits": 128,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800006486",
+    "propertyName": "WILDBERRY VILLAGE",
+    "latitude": 42.30817599876456,
+    "longitude": -89.04372200019932,
+    "assistedUnits": 72,
+    "totalUnits": 74
+  }
+]

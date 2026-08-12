@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800009946",
+    "propertyName": "BRENTWOOD APTS",
+    "latitude": 43.1019249992378,
+    "longitude": -85.24322799968631,
+    "assistedUnits": 45,
+    "totalUnits": 50
+  },
+  {
+    "propertyId": "800009947",
+    "propertyName": "BRENTWOOD II",
+    "latitude": 43.10223599908013,
+    "longitude": -85.24392200034558,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800252156",
+    "propertyName": "FRIENDSHIP HOUSE",
+    "latitude": 43.17537599880961,
+    "longitude": -85.24915700003743,
+    "assistedUnits": 53,
+    "totalUnits": 106
+  },
+  {
+    "propertyId": "800010130",
+    "propertyName": "FRIENDSHIP HSE E/CHASE RIDGE",
+    "latitude": 43.18730299882817,
+    "longitude": -85.27106400017391,
+    "assistedUnits": 61,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800010161",
+    "propertyName": "GREENBRIAR APARTMENTS",
+    "latitude": 43.16456399889697,
+    "longitude": -85.23721899986757,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010201",
+    "propertyName": "HIDDEN PINES",
+    "latitude": 43.167978998989945,
+    "longitude": -85.24472900008442,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800010505",
+    "propertyName": "RIVERS EDGE",
+    "latitude": 43.18790999910299,
+    "longitude": -85.26982600043983,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800252227",
+    "propertyName": "SCATTERED SITES",
+    "latitude": 43.17537599880961,
+    "longitude": -85.24915700003743,
+    "assistedUnits": 35,
+    "totalUnits": 35
+  }
+]

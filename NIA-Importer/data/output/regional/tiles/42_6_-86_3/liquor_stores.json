@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0290682",
+    "businessName": "MARKET GROCERY DOUGLAS, LLC",
+    "address": "237 W Center St, Douglas, MI 49406-5112",
+    "city": "Douglas",
+    "zipCode": "49406",
+    "latitude": 42.643560576816,
+    "longitude": -86.206413865662,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232581",
+    "businessName": "WINE SELLERS OF SAUGATUCK",
+    "address": "247 Butler St, Saugatuck, MI 49453-9493",
+    "city": "Saugatuck",
+    "zipCode": "49453",
+    "latitude": 42.656116312663,
+    "longitude": -86.204022451115,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0287675",
+    "businessName": "AUNT TIFFY\u0027S MARKET",
+    "address": "5815 Saint Clair Hwy, China, MI 48054-1311",
+    "city": "China Twp",
+    "zipCode": "48054",
+    "latitude": 42.801167340944,
+    "longitude": -82.546400189649,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283546",
+    "businessName": "SPEEDYQ MARKETS #8237",
+    "address": "2293 Fred W Moore Hwy, East China, MI 48054-1400",
+    "city": "China Twp",
+    "zipCode": "48054",
+    "latitude": 42.817131496616,
+    "longitude": -82.513059460322,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214273",
+    "businessName": "CVS/PHARMACY #8246",
+    "address": "1545 Fred W Moore Hwy, Saint Clair, MI 48079-5295",
+    "city": "St Clair",
+    "zipCode": "48079",
+    "latitude": 42.817048407351,
+    "longitude": -82.503961647682,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

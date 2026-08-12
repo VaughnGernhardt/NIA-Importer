@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0275758",
+    "businessName": "CARL SMITH CO.",
+    "address": "11080 Gun Lake Rd, Middleville, MI 49333-8789",
+    "city": "Yankee Springs Twp",
+    "zipCode": "49333",
+    "latitude": 42.615540607352,
+    "longitude": -85.506173496501,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238512",
+    "businessName": "GUN LAKE BP",
+    "address": "1515 S Patterson Rd, Wayland, MI 49348-8812",
+    "city": "Yankee Springs Twp",
+    "zipCode": "49348",
+    "latitude": 42.630633964163,
+    "longitude": -85.544077483223,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

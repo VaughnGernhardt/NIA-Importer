@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "12098",
+    "businessName": "WESCO #7",
+    "address": "14750 Mercury Dr, Grand Haven, MI 49417-9703",
+    "city": "Grand Haven Twp",
+    "zipCode": "49417",
+    "latitude": 43.023043180601,
+    "longitude": -86.152687259088,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160881",
+    "businessName": "SPINNER\u0027S GROCERY",
+    "address": "12837 Lincoln St, Grand Haven, MI 49417-8619",
+    "city": "Robinson Twp",
+    "zipCode": "49417",
+    "latitude": 43.001495405989,
+    "longitude": -86.105229492051,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269156",
+    "businessName": "EAST SAVIDGE LIQUOR",
+    "address": "606 E Savidge St, Spring Lake, MI 49456-2910",
+    "city": "Spring Lake",
+    "zipCode": "49456",
+    "latitude": 43.076623121339,
+    "longitude": -86.185293503057,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244941",
+    "businessName": "ORCHARD MARKET",
+    "address": "17026 Lloyds Bayou Dr, Spring Lake, MI 49456-9265",
+    "city": "Spring Lake Twp",
+    "zipCode": "49456",
+    "latitude": 43.077325596716,
+    "longitude": -86.173389379022,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287582",
+    "businessName": "THE CORNER MARKET",
+    "address": "14785 Cleveland St, Spring Lake, MI 49456-9011",
+    "city": "Spring Lake Twp",
+    "zipCode": "49456",
+    "latitude": 43.074030084829,
+    "longitude": -86.153606938037,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

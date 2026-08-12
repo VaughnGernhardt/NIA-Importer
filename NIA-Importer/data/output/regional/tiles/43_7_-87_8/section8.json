@@ -1,0 +1,58 @@
+[
+  {
+    "propertyId": "800022905",
+    "propertyName": "CAMELOT MANOR",
+    "latitude": 43.714874999171414,
+    "longitude": -87.73780700037268,
+    "assistedUnits": 68,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800022954",
+    "propertyName": "COVENANT HOUSE",
+    "latitude": 43.76485899874874,
+    "longitude": -87.75023099989104,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023208",
+    "propertyName": "NIAGARA HEIGHTS",
+    "latitude": 43.75328299930282,
+    "longitude": -87.71483900005414,
+    "assistedUnits": 28,
+    "totalUnits": 28
+  },
+  {
+    "propertyId": "800023257",
+    "propertyName": "PARKWOOD VILLAGE",
+    "latitude": 43.71765099925349,
+    "longitude": -87.72008600033988,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800022985",
+    "propertyName": "RIDGE COURT APARTMENTS",
+    "latitude": 43.781972998885635,
+    "longitude": -87.72360600027167,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800023321",
+    "propertyName": "RIVERVIEW APTS",
+    "latitude": 43.755165999066946,
+    "longitude": -87.7346690000323,
+    "assistedUnits": 47,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800023377",
+    "propertyName": "ST. NICHOLAS",
+    "latitude": 43.759786999257976,
+    "longitude": -87.71515200004859,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "216331",
+    "businessName": "HOMER SHELL",
+    "address": "221 W Leigh St, Homer, MI 49245-1052",
+    "city": "Homer",
+    "zipCode": "49245",
+    "latitude": 42.146937526318,
+    "longitude": -84.810374046689,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11742",
+    "businessName": "THE POP SHOP",
+    "address": "120 E Leigh St, Homer, MI 49245-1114",
+    "city": "Homer",
+    "zipCode": "49245",
+    "latitude": 42.146707479143,
+    "longitude": -84.806577902184,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

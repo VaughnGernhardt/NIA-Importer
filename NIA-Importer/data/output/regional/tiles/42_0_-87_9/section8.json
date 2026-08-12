@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800006259",
+    "propertyName": "FRANCES MANOR",
+    "latitude": 42.05448199881923,
+    "longitude": -87.8927780003033,
+    "assistedUnits": 75,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800245910",
+    "propertyName": "HUNTINGTON AND WHEELING TOWER APARTMENTS",
+    "latitude": 42.04800699884949,
+    "longitude": -87.83258200001397,
+    "assistedUnits": 224,
+    "totalUnits": 224
+  },
+  {
+    "propertyId": "800005934",
+    "propertyName": "PATTEN HOUSE OF GLENVIEW",
+    "latitude": 42.07202299889709,
+    "longitude": -87.80531200013911,
+    "assistedUnits": 80,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800006258",
+    "propertyName": "PROSPECT HOMES",
+    "latitude": 42.04100799877199,
+    "longitude": -87.83098400042977,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  }
+]

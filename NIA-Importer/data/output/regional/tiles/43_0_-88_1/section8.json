@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800069933",
+    "propertyName": "CENTER STREET APARTMENTS",
+    "latitude": 43.0682009993471,
+    "longitude": -88.00506100044036,
+    "assistedUnits": 5,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800219745",
+    "propertyName": "GONZAGA VILLAGE APARTMENTS",
+    "latitude": 43.01567099930024,
+    "longitude": -88.0273269997037,
+    "assistedUnits": 35,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023047",
+    "propertyName": "GREEK ORTHODOX MANOR",
+    "latitude": 43.0972269990103,
+    "longitude": -88.03010299964585,
+    "assistedUnits": 34,
+    "totalUnits": 34
+  },
+  {
+    "propertyId": "800023117",
+    "propertyName": "LA FOLLETTE  PARK APARTMENTS",
+    "latitude": 43.02367199937736,
+    "longitude": -88.0270020000137,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800023231",
+    "propertyName": "ORCHARD COURT APARTMENTS",
+    "latitude": 43.01443699877643,
+    "longitude": -88.05582699981504,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800023484",
+    "propertyName": "PARKVIEW APARTMENTS",
+    "latitude": 43.0148699991744,
+    "longitude": -88.05664699997268,
+    "assistedUnits": 41,
+    "totalUnits": 41
+  },
+  {
+    "propertyId": "800023415",
+    "propertyName": "THE COURTYARD",
+    "latitude": 43.06019899900949,
+    "longitude": -88.06517700036375,
+    "assistedUnits": 162,
+    "totalUnits": 162
+  },
+  {
+    "propertyId": "800112187",
+    "propertyName": "VALENTINO SQUARE APARTMENTS",
+    "latitude": 43.01664099910768,
+    "longitude": -88.06243599968342,
+    "assistedUnits": 44,
+    "totalUnits": 45
+  }
+]

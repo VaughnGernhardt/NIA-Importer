@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "245053",
+    "businessName": "COPPER CREEK VINEYARD",
+    "address": "58805 Grand River Ave, New Hudson, MI 48165-8510",
+    "city": "Lyon Twp",
+    "zipCode": "48165",
+    "latitude": 42.515489154259,
+    "longitude": -83.634270127051,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214254",
+    "businessName": "CVS/PHARMACY #8304",
+    "address": "61019 Silver Lake Rd, South Lyon, MI 48178-9209",
+    "city": "Lyon Twp",
+    "zipCode": "48178",
+    "latitude": 42.503941659489,
+    "longitude": -83.655386027774,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289521",
+    "businessName": "S\u0026G #116",
+    "address": "60999 Grand River Ave, New Hudson, MI 48165-9580",
+    "city": "Lyon Twp",
+    "zipCode": "48165",
+    "latitude": 42.515142527759,
+    "longitude": -83.655430651816,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155433",
+    "businessName": "USA 2 GO",
+    "address": "30560 Milford Rd, New Hudson, MI 48165-8583",
+    "city": "Lyon Twp",
+    "zipCode": "48165",
+    "latitude": 42.514705702385,
+    "longitude": -83.615889937037,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "193493",
+    "businessName": "WAL-MART #5048",
+    "address": "30729 Lyon Center Dr E, New Hudson, MI 48165-8903",
+    "city": "Lyon Twp",
+    "zipCode": "48165",
+    "latitude": 42.515116932734,
+    "longitude": -83.609809610031,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15245",
+    "businessName": "KROGER STORE #526",
+    "address": "670 Highland Ave, Milford, MI 48381-1518",
+    "city": "Milford",
+    "zipCode": "48381",
+    "latitude": 42.594268410076,
+    "longitude": -83.605700913047,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281151",
+    "businessName": "PICNIC BASKET GOURMET",
+    "address": "303 S Main St, Milford, MI 48381-2356",
+    "city": "Milford",
+    "zipCode": "48381",
+    "latitude": 42.585329947955,
+    "longitude": -83.600326850954,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10469",
+    "businessName": "HOLDEN\u0027S PARTY STORE",
+    "address": "2055 S Milford Rd, Milford, MI 48381-3155",
+    "city": "Milford Twp",
+    "zipCode": "48381",
+    "latitude": 42.558885284268,
+    "longitude": -83.618306522486,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "232713",
+    "businessName": "7-ELEVEN #36918-A",
+    "address": "134 N Center Ave, Gaylord, MI 49735-1465",
+    "city": "Gaylord",
+    "zipCode": "49735",
+    "latitude": 45.028521341878,
+    "longitude": -84.673821741974,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141949",
+    "businessName": "FAMILY FARE #1510",
+    "address": "829 W Main St, Gaylord, MI 49735-1998",
+    "city": "Gaylord",
+    "zipCode": "49735",
+    "latitude": 45.027335598035,
+    "longitude": -84.684664579039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157636",
+    "businessName": "FORWARD",
+    "address": "1025 W Main St, Gaylord, MI 49735-7421",
+    "city": "Gaylord",
+    "zipCode": "49735",
+    "latitude": 45.027354827541,
+    "longitude": -84.691643945053,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

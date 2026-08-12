@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "214102",
+    "businessName": "PORT AUSTIN FOODLINER",
+    "address": "8677 Lake St, Port Austin, MI 48467-6711",
+    "city": "Port Austin",
+    "zipCode": "48467",
+    "latitude": 44.045287174295,
+    "longitude": -82.993842526993,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163274",
+    "businessName": "THE CORNER BEVERAGE",
+    "address": "8641 Lake St, Port Austin, MI 48467-6732",
+    "city": "Port Austin",
+    "zipCode": "48467",
+    "latitude": 44.044780325975,
+    "longitude": -82.993925926837,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

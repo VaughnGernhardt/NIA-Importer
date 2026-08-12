@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "231940",
+    "businessName": "ST. LOUIS LIQUOR",
+    "address": "625 E Washington St, Saint Louis, MI 48880-1984",
+    "city": "St Louis",
+    "zipCode": "48880",
+    "latitude": 43.407938572151,
+    "longitude": -84.598572747059,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228171",
+    "businessName": "ST. LOUIS MARATHON",
+    "address": "705 E Washington St, Saint Louis, MI 48880-1986",
+    "city": "St Louis",
+    "zipCode": "48880",
+    "latitude": 43.407926097912,
+    "longitude": -84.597397186218,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

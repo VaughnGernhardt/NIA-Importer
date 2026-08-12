@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0266118",
+    "businessName": "CROSSROADS OF ELM GROVE",
+    "address": "10015 E Beaverton Rd, Clare, MI 48617-9630",
+    "city": "Sheridan Twp",
+    "zipCode": "48617",
+    "latitude": 43.873114616233,
+    "longitude": -84.646048564916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226888",
+    "businessName": "Z\u0027S GAS \u0026 GO",
+    "address": "11021 N Loomis Rd, Clare, MI 48617-9507",
+    "city": "Wise Twp",
+    "zipCode": "48617",
+    "latitude": 43.801150248615,
+    "longitude": -84.666880917976,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

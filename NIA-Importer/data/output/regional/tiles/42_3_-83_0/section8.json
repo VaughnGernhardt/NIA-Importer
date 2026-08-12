@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800009915",
+    "propertyName": "8330 ON THE RIVER",
+    "latitude": 42.352809999097325,
+    "longitude": -82.9923220000773,
+    "assistedUnits": 112,
+    "totalUnits": 130
+  },
+  {
+    "propertyId": "800213296",
+    "propertyName": "COLONY AND FISHER ARMS APARTMENTS",
+    "latitude": 42.35894999931621,
+    "longitude": -82.98469200020982,
+    "assistedUnits": 161,
+    "totalUnits": 161
+  },
+  {
+    "propertyId": "800010101",
+    "propertyName": "FAIRVIEW MANOR",
+    "latitude": 42.37664199922284,
+    "longitude": -82.98076100037429,
+    "assistedUnits": 99,
+    "totalUnits": 99
+  },
+  {
+    "propertyId": "800010242",
+    "propertyName": "JEFFERSON SQUARE",
+    "latitude": 42.36580199906269,
+    "longitude": -82.9497430000637,
+    "assistedUnits": 180,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800010072",
+    "propertyName": "LANIER COURT",
+    "latitude": 42.372328998948404,
+    "longitude": -82.99709399998687,
+    "assistedUnits": 26,
+    "totalUnits": 26
+  },
+  {
+    "propertyId": "800010302",
+    "propertyName": "MCAULEY COMMONS",
+    "latitude": 42.39113499876481,
+    "longitude": -82.9845929995773,
+    "assistedUnits": 58,
+    "totalUnits": 59
+  },
+  {
+    "propertyId": "800010499",
+    "propertyName": "RIVER TOWERS",
+    "latitude": 42.350059998865845,
+    "longitude": -82.99658400034893,
+    "assistedUnits": 288,
+    "totalUnits": 472
+  },
+  {
+    "propertyId": "800010244",
+    "propertyName": "River Pointe Tower",
+    "latitude": 42.367540999185394,
+    "longitude": -82.95089600030728,
+    "assistedUnits": 242,
+    "totalUnits": 122
+  }
+]

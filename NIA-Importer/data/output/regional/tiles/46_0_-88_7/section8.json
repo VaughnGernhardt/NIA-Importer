@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800252506",
+    "propertyName": "CITY VIEW APARTMENTS",
+    "latitude": 46.08983999898482,
+    "longitude": -88.64113499966025,
+    "assistedUnits": 31,
+    "totalUnits": 31
+  },
+  {
+    "propertyId": "800010566",
+    "propertyName": "SPRING VALLEY APARTMENTS",
+    "latitude": 46.06568799904689,
+    "longitude": -88.63216699960128,
+    "assistedUnits": 31,
+    "totalUnits": 31
+  },
+  {
+    "propertyId": "800252507",
+    "propertyName": "SUNSET MANOR APARTMENTS",
+    "latitude": 46.08652899900308,
+    "longitude": -88.62951600023092,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  }
+]

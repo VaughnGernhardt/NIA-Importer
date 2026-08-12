@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "0284824",
+    "businessName": "J \u0026 K BAY CITY, INC.",
+    "address": "362 State Park Dr, Bay City, MI 48706-1340",
+    "city": "Bangor Twp",
+    "zipCode": "48706",
+    "latitude": 43.654985980611,
+    "longitude": -83.897448008861,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230542",
+    "businessName": "THE PARTY DOCK",
+    "address": "3031 Patterson Rd, Bay City, MI 48706-1808",
+    "city": "Bangor Twp",
+    "zipCode": "48706",
+    "latitude": 43.651234476101,
+    "longitude": -83.872431167284,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160397",
+    "businessName": "WAL-MART SUPERCENTER #1752",
+    "address": "3921 Wilder Rd, Bay City, MI 48706-2127",
+    "city": "Bangor Twp",
+    "zipCode": "48706",
+    "latitude": 43.623826641981,
+    "longitude": -83.898575950843,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232724",
+    "businessName": "7-ELEVEN #36915-A",
+    "address": "4300 Wilder Rd, Bay City, MI 48706-2208",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.62345388645,
+    "longitude": -83.882525110109,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9210",
+    "businessName": "ANDERSON PHARMACY",
+    "address": "1108 Marquette St, Bay City, MI 48706-4025",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.614596728592,
+    "longitude": -83.880187095904,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289804",
+    "businessName": "KADER\u0027S PARTY STORE",
+    "address": "319 Marquette Ave, Bay City, MI 48706-4876",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.606300679802,
+    "longitude": -83.895212406622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227842",
+    "businessName": "LIBERTY FOOD \u0026 LIQUOR",
+    "address": "1020 N Madison Ave, Bay City, MI 48708-5926",
+    "city": "Bay",
+    "zipCode": "48708",
+    "latitude": 43.600059412511,
+    "longitude": -83.884132907476,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273688",
+    "businessName": "7-ELEVEN #36910",
+    "address": "101 Woodside Ave, Essexville, MI 48732-1109",
+    "city": "Essexville",
+    "zipCode": "48732",
+    "latitude": 43.609211838078,
+    "longitude": -83.856824210731,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

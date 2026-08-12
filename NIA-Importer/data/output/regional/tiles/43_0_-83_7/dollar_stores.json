@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": "2815-davison-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2815, Davison Rd Flint, MI 48506",
+    "city": "Davison Rd Flint",
+    "zipCode": "48506",
+    "latitude": 43.032967209056,
+    "longitude": -83.654906224427
+  },
+  {
+    "storeId": "3821-lapeer-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3821, Lapeer Road Flint, MI 48503-4599",
+    "city": "Lapeer Road Flint",
+    "zipCode": "48503",
+    "latitude": 43.010111078107,
+    "longitude": -83.636455280817
+  },
+  {
+    "storeId": "877-e-5th-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "877 E 5th, Ave Wind Mill Place Flint, MI 48503-1741",
+    "city": "Ave Wind Mill Place Flint",
+    "zipCode": "48503",
+    "latitude": 43.023539582354,
+    "longitude": -83.691358551351
+  },
+  {
+    "storeId": "709-east-pierson-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 709, East Pierson Rd. Flint, MI 48505-3556",
+    "city": "East Pierson Rd. Flint",
+    "zipCode": "48505",
+    "latitude": 43.061045068999,
+    "longitude": -83.693504663373
+  },
+  {
+    "storeId": "1810-maplewood-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1810, Maplewood Avenue Flint, MI 48506",
+    "city": "Maplewood Avenue Flint",
+    "zipCode": "48506",
+    "latitude": 43.03249541835,
+    "longitude": -83.664107097176
+  },
+  {
+    "storeId": "3513-richfield-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3513, Richfield Road Flint, MI 48506-2609",
+    "city": "Richfield Road Flint",
+    "zipCode": "48506",
+    "latitude": 43.051090998445,
+    "longitude": -83.637898999803
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "236847",
+    "businessName": "MIKADO MARKET",
+    "address": "2276 S F 41, Mikado, MI 48745-9634",
+    "city": "Mikado Twp",
+    "zipCode": "48745",
+    "latitude": 44.586454591848,
+    "longitude": -83.422592885171,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17787",
+    "businessName": "NEDO\u0027S FARM MARKET",
+    "address": "4660 S F 41, Mikado, MI 48745-9754",
+    "city": "Mikado Twp",
+    "zipCode": "48745",
+    "latitude": 44.520170835979,
+    "longitude": -83.421978042299,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

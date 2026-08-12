@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009891",
+    "propertyName": "ASPEN HILLS",
+    "latitude": 44.7300749987383,
+    "longitude": -85.60069000042341,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800010153",
+    "propertyName": "GRAND TRAVERSE AREA CLC",
+    "latitude": 44.7505969993188,
+    "longitude": -85.60529599975332,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800010152",
+    "propertyName": "GRAND TRAVERSE COMMUNITY LIVING APARTMENTS",
+    "latitude": 44.75013099934324,
+    "longitude": -85.60422600024873,
+    "assistedUnits": 9,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800010622",
+    "propertyName": "TRADEWINDS TERRACE",
+    "latitude": 44.745507999087536,
+    "longitude": -85.63850699967486,
+    "assistedUnits": 52,
+    "totalUnits": 122
+  }
+]

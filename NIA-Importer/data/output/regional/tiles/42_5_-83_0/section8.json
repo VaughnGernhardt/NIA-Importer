@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800010071",
+    "propertyName": "EASTLAND SENIOR APARTMENTS",
+    "latitude": 42.51322099881016,
+    "longitude": -82.93190900005298,
+    "assistedUnits": 134,
+    "totalUnits": 134
+  },
+  {
+    "propertyId": "800010126",
+    "propertyName": "FRASER WOODS",
+    "latitude": 42.524445999303076,
+    "longitude": -82.94207600038631,
+    "assistedUnits": 240,
+    "totalUnits": 240
+  },
+  {
+    "propertyId": "800010179",
+    "propertyName": "HANOVER GROVE CONSUMER HOUSING COOP II",
+    "latitude": 42.526145998878974,
+    "longitude": -82.96236099975083,
+    "assistedUnits": 171,
+    "totalUnits": 520
+  },
+  {
+    "propertyId": "800010604",
+    "propertyName": "THE MEADOWS OF ROSEVILLE",
+    "latitude": 42.53119699921777,
+    "longitude": -82.90538900001559,
+    "assistedUnits": 124,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800010429",
+    "propertyName": "VILLAGE OF PEACE MANOR",
+    "latitude": 42.553835999197275,
+    "longitude": -82.94329599967872,
+    "assistedUnits": 55,
+    "totalUnits": 56
+  }
+]

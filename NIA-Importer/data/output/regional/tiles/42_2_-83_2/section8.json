@@ -1,0 +1,82 @@
+[
+  {
+    "propertyId": "800009870",
+    "propertyName": "ACROSS THE PARK",
+    "latitude": 42.267207999057376,
+    "longitude": -83.15729499958645,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800009932",
+    "propertyName": "BISHOP COOPERATIVE APARTMENTS",
+    "latitude": 42.20710099930631,
+    "longitude": -83.14826200012847,
+    "assistedUnits": 40,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800248785",
+    "propertyName": "COOGAN TERRACE",
+    "latitude": 42.28050499883895,
+    "longitude": -83.18284800005142,
+    "assistedUnits": 199,
+    "totalUnits": 199
+  },
+  {
+    "propertyId": "800010074",
+    "propertyName": "ECORSE COOPERATIVE APARTMENTS",
+    "latitude": 42.242286998788416,
+    "longitude": -83.15855300031035,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800211501",
+    "propertyName": "MILES MANOR",
+    "latitude": 42.25358099915012,
+    "longitude": -83.1492630000361,
+    "assistedUnits": 36,
+    "totalUnits": 37
+  },
+  {
+    "propertyId": "800010416",
+    "propertyName": "PARK PLAZA",
+    "latitude": 42.25854999892011,
+    "longitude": -83.17208499986644,
+    "assistedUnits": 50,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800245295",
+    "propertyName": "RENAISSANCE ESTATES OF ECORSE PHASE I",
+    "latitude": 42.255405999240324,
+    "longitude": -83.14605500027382,
+    "assistedUnits": 74,
+    "totalUnits": 74
+  },
+  {
+    "propertyId": "800245296",
+    "propertyName": "RENAISSANCE ESTATES OF ECORSE PHASE II",
+    "latitude": 42.255405999240324,
+    "longitude": -83.14605500027382,
+    "assistedUnits": 126,
+    "totalUnits": 126
+  },
+  {
+    "propertyId": "800219378",
+    "propertyName": "SUMBY SENIOR HOUSING",
+    "latitude": 42.26253199900381,
+    "longitude": -83.14864700009294,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  },
+  {
+    "propertyId": "800010734",
+    "propertyName": "WYANDOTTE COOPERATIVE APARTMENTS",
+    "latitude": 42.20866299890329,
+    "longitude": -83.14830999980906,
+    "assistedUnits": 59,
+    "totalUnits": 132
+  }
+]

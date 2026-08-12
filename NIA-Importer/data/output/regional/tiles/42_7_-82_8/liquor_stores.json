@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "0270615",
+    "businessName": "MATTI RETAIL LLC",
+    "address": "37887 26 Mile Rd, Lenox Township, MI 48048-3105",
+    "city": "Lenox Twp",
+    "zipCode": "48048",
+    "latitude": 42.720865664722,
+    "longitude": -82.731309548195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "178073",
+    "businessName": "MEIJER #242",
+    "address": "36865 26 Mile, Lenox, MI 48048-3163",
+    "city": "Lenox Twp",
+    "zipCode": "48048",
+    "latitude": 42.720616576366,
+    "longitude": -82.742441450594,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219197",
+    "businessName": "BP",
+    "address": "58955 Gratiot Ave, New Haven, MI 48048-2789",
+    "city": "New Haven",
+    "zipCode": "48048",
+    "latitude": 42.734134150959,
+    "longitude": -82.785045892398,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140975",
+    "businessName": "GRATIOT LIQUOR SHOP",
+    "address": "57070 Gratiot Ave, New Haven, MI 48048-2615",
+    "city": "New Haven",
+    "zipCode": "48048",
+    "latitude": 42.719815916559,
+    "longitude": -82.796857058513,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238588",
+    "businessName": "NEW HAVEN PITSTOP, INC",
+    "address": "57777 Gratiot Ave, New Haven, MI 48048-2722",
+    "city": "New Haven",
+    "zipCode": "48048",
+    "latitude": 42.725700704542,
+    "longitude": -82.792281052975,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214137",
+    "businessName": "CVS/PHARMACY #8024",
+    "address": "67181 S Main St, Richmond, MI 48062-1939",
+    "city": "Richmond",
+    "zipCode": "48062",
+    "latitude": 42.797077356756,
+    "longitude": -82.736734846935,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138164",
+    "businessName": "KROGER STORE #706",
+    "address": "66900 Gratiot Ave, Richmond, MI 48062-1913",
+    "city": "Richmond",
+    "zipCode": "48062",
+    "latitude": 42.792752416936,
+    "longitude": -82.737838025533,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "212601",
+    "businessName": "RICHMOND VENTURES, INC.",
+    "address": "67070 Gratiot Ave, Richmond, MI 48062-1912",
+    "city": "Richmond",
+    "zipCode": "48062",
+    "latitude": 42.79527559138,
+    "longitude": -82.73578935293,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

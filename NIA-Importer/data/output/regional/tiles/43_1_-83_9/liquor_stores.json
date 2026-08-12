@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "204674",
+    "businessName": "M \u0026 S PARTY STORE INC.",
+    "address": "7302 W Mount Morris Rd, Flushing, MI 48433-8832",
+    "city": "Flushing Twp",
+    "zipCode": "48433",
+    "latitude": 43.118050797013,
+    "longitude": -83.817959685874,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282402",
+    "businessName": "MARTHA\u0027S QUICK STOP #24",
+    "address": "8464 W Mount Morris Rd, Flushing, MI 48433-8854",
+    "city": "Flushing Twp",
+    "zipCode": "48433",
+    "latitude": 43.117783610889,
+    "longitude": -83.849244788317,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9548",
+    "businessName": "VIC\u0027S MARKET",
+    "address": "8592 N Seymour Rd, Flushing, MI 48433-9267",
+    "city": "Flushing Twp",
+    "zipCode": "48433",
+    "latitude": 43.132913876388,
+    "longitude": -83.878004285999,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153447",
+    "businessName": "CONLEE OIL #7",
+    "address": "112 E State St, Montrose, MI 48457-9144",
+    "city": "Montrose",
+    "zipCode": "48457",
+    "latitude": 43.176175596551,
+    "longitude": -83.891727605844,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286503",
+    "businessName": "JIMMY\u0027S SHORT STOP #4, INC.",
+    "address": "7010 W Frances Rd, Flushing, MI 48433-8809",
+    "city": "Montrose Twp",
+    "zipCode": "48433",
+    "latitude": 43.133554911398,
+    "longitude": -83.814296479637,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10095",
+    "businessName": "RIVERSIDE MARKET",
+    "address": "10236 Vienna Rd, Montrose, MI 48457-9143",
+    "city": "Montrose Twp",
+    "zipCode": "48457",
+    "latitude": 43.176283379504,
+    "longitude": -83.88130261363,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

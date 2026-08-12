@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4173-24th-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "4173 24th, Ave Fort Gratiot, MI 48059-3855",
+    "city": "Ave Fort Gratiot",
+    "zipCode": "48059",
+    "latitude": 43.029401737316,
+    "longitude": -82.456233626544
+  },
+  {
+    "storeId": "3534-pinegrove-avenue",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3534, Pinegrove Avenue. Port Huron, MI 48060-1944",
+    "city": "Pinegrove Avenue. Port Huron",
+    "zipCode": "48060",
+    "latitude": 43.015488074041,
+    "longitude": -82.44984740121
+  }
+]

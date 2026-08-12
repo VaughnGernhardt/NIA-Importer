@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010184",
+    "propertyName": "HARBOR VILLAGE APARTMENTS",
+    "latitude": 42.76168599902897,
+    "longitude": -86.1205780001581,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800010713",
+    "propertyName": "WILDWOOD CREEK MANOR",
+    "latitude": 42.78084699899417,
+    "longitude": -86.13159700043614,
+    "assistedUnits": 75,
+    "totalUnits": 76
+  }
+]

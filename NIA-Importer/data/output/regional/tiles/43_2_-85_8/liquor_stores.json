@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0275193",
+    "businessName": "KENT MINI MART LLC",
+    "address": "345 S MAIN ST, KENT CITY, MI 49330",
+    "city": "Kent City",
+    "zipCode": "49330",
+    "latitude": 43.213211279022,
+    "longitude": -85.751158437389,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142130",
+    "businessName": "ALL AMERICAN NORTH COUNTRY STORE",
+    "address": "17645 Tyrone Ave, Kent City, MI 49330-9192",
+    "city": "Tyrone Twp",
+    "zipCode": "49330",
+    "latitude": 43.286330944604,
+    "longitude": -85.732345755706,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

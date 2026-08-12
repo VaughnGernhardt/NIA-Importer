@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "11430",
+    "businessName": "7-ELEVEN #20862-E",
+    "address": "304 E Beecher St, Adrian, MI 49221-3928",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.889502608261,
+    "longitude": -84.033577697724,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235298",
+    "businessName": "LOWRY GROCERY",
+    "address": "932 E Beecher St, Adrian, MI 49221-4016",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.889663145188,
+    "longitude": -84.023615159441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12129",
+    "businessName": "SUPER LIQUOR III",
+    "address": "800 S Main St, Adrian, MI 49221-3723",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.887742596116,
+    "longitude": -84.043560330574,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248918",
+    "businessName": "ADRIAN FUEL LLC",
+    "address": "2982 W Beecher Rd, Adrian, MI 49221-9843",
+    "city": "Madison Twp",
+    "zipCode": "49221",
+    "latitude": 41.88871587928,
+    "longitude": -84.082104811749,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144873",
+    "businessName": "JERRY\u0027S",
+    "address": "1113 W Beecher St, Adrian, MI 49221-3699",
+    "city": "Madison Twp",
+    "zipCode": "49221",
+    "latitude": 41.889165495615,
+    "longitude": -84.056026754348,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "151678",
+    "businessName": "WAL-MART SUPERCENTER #1836",
+    "address": "1601 E US Highway 223, Adrian, MI 49221-4454",
+    "city": "Madison Twp",
+    "zipCode": "49221",
+    "latitude": 41.87499529517,
+    "longitude": -84.032314078035,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

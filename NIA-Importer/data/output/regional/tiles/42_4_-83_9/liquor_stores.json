@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "150065",
+    "businessName": "BOOMER\u0027S MARKET",
+    "address": "8999 Hamburg Rd, Brighton, MI 48116-8831",
+    "city": "Hamburg Twp",
+    "zipCode": "48116",
+    "latitude": 42.471781262228,
+    "longitude": -83.804686649947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268835",
+    "businessName": "RED BARN MARKET #11, INC.",
+    "address": "9191 Pettysville Rd, Pinckney, MI 48169-8528",
+    "city": "Hamburg Twp",
+    "zipCode": "48169",
+    "latitude": 42.467497162334,
+    "longitude": -83.875590346447,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

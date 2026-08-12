@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0275324",
+    "businessName": "COOPER MARKET",
+    "address": "8005 Douglas Ave, Kalamazoo, MI 49009-6326",
+    "city": "Cooper Twp",
+    "zipCode": "49009",
+    "latitude": 42.376614474578,
+    "longitude": -85.610346133675,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230693",
+    "businessName": "DOUGLAS GROCERY STORE",
+    "address": "1103 Douglas Ave, Kalamazoo, MI 49007-2224",
+    "city": "Kalamazoo",
+    "zipCode": "49007",
+    "latitude": 42.301116826456,
+    "longitude": -85.601634180514,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267062",
+    "businessName": "TALI\u0027S",
+    "address": "3315 Ravine Rd, Kalamazoo, MI 49006-1439",
+    "city": "Kalamazoo Twp",
+    "zipCode": "49006",
+    "latitude": 42.314521434769,
+    "longitude": -85.630768893174,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

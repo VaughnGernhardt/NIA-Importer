@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0280876",
+    "businessName": "ANDY\u0027S QUALITY MARKET",
+    "address": "3889 S Lapeer Rd, Metamora, MI 48455-8751",
+    "city": "Metamora Twp",
+    "zipCode": "48455",
+    "latitude": 42.944220976938,
+    "longitude": -83.31342140069,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "99995",
+    "businessName": "BAHRI\u0027S, INC.",
+    "address": "3492 S Lapeer Rd, Metamora, MI 48455-8985",
+    "city": "Metamora Twp",
+    "zipCode": "48455",
+    "latitude": 42.956030209679,
+    "longitude": -83.314091257575,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

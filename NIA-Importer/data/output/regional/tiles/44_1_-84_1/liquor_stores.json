@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "244174",
+    "businessName": "MARY\u0027S KOUNTRY KORNER, LLC",
+    "address": "2005 N Melita Rd, Sterling, MI 48659-9771",
+    "city": "Clayton Twp",
+    "zipCode": "48659",
+    "latitude": 44.141749636999,
+    "longitude": -84.00756996596,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "171273",
+    "businessName": "KEN\u0027S CAR WASH \u0026 CONVENIENCE STORE",
+    "address": "1943 Greenwood Rd, Prescott, MI 48756-9517",
+    "city": "Mills Twp",
+    "zipCode": "48756",
+    "latitude": 44.183534934788,
+    "longitude": -84.04643881553,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

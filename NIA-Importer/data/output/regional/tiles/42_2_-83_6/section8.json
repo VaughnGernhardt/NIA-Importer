@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800010010",
+    "propertyName": "CLARK EAST TOWER",
+    "latitude": 42.2582329992795,
+    "longitude": -83.58073999977549,
+    "assistedUnits": 199,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800010048",
+    "propertyName": "DANBURY PARK MANOR",
+    "latitude": 42.26966799884824,
+    "longitude": -83.58061599992693,
+    "assistedUnits": 146,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800010594",
+    "propertyName": "SYCAMORE MEADOWS APARTMENTS",
+    "latitude": 42.269073999321094,
+    "longitude": -83.5853090001938,
+    "assistedUnits": 262,
+    "totalUnits": 262
+  }
+]

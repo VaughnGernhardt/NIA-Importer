@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "160728",
+    "businessName": "BP KUMAR PETROLEUM",
+    "address": "109 E Michigan Ave, Clinton, MI 49236-9474",
+    "city": "Clinton",
+    "zipCode": "49236",
+    "latitude": 42.072204476326,
+    "longitude": -83.971519514973,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15527",
+    "businessName": "CLINTON JOHNNY\u0027S #1100",
+    "address": "705 Tecumseh Rd, Clinton, MI 49236-9589",
+    "city": "Clinton",
+    "zipCode": "49236",
+    "latitude": 42.068143918194,
+    "longitude": -83.969013255858,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283029",
+    "businessName": "CLINTON MARKET EAST #2, LLC",
+    "address": "1724 W Michigan Ave, Clinton, MI 49236-9688",
+    "city": "Clinton Twp",
+    "zipCode": "49236",
+    "latitude": 42.071477484776,
+    "longitude": -83.987203370488,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214139",
+    "businessName": "CVS/PHARMACY #8025",
+    "address": "807 W Chicago Blvd, Tecumseh, MI 49286-1211",
+    "city": "Tecumseh",
+    "zipCode": "49286",
+    "latitude": 42.004608733177,
+    "longitude": -83.95742995175,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

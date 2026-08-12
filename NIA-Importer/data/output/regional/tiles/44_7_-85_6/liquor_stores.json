@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0283757",
+    "businessName": "HOLIDAY TC MARKET, LLC",
+    "address": "5356 US 31 AT BUNKER HILL, WILLIAMSBURG, MI 49690",
+    "city": "Acme Twp",
+    "zipCode": "49690",
+    "latitude": 44.764911545482,
+    "longitude": -85.506848082334,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291238",
+    "businessName": "FRANCISCOS BAYSIDE LLC",
+    "address": "1532 N US Highway 31 N, Traverse City, MI 49686-3740",
+    "city": "East Bay Twp",
+    "zipCode": "49686",
+    "latitude": 44.746340465189,
+    "longitude": -85.545769678572,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "164454",
+    "businessName": "OLESON\u0027S FOOD STORE #608",
+    "address": "1100 Hammond Rd E, Traverse City, MI 49686-9369",
+    "city": "East Bay Twp",
+    "zipCode": "49686",
+    "latitude": 44.715444044149,
+    "longitude": -85.556663749401,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11387",
+    "businessName": "ROY\u0027S GENERAL STORE",
+    "address": "963 Hammond Rd E, Traverse City, MI 49686-9240",
+    "city": "East Bay Twp",
+    "zipCode": "49686",
+    "latitude": 44.715536325313,
+    "longitude": -85.55778153771,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232360",
+    "businessName": "GEYER\u0027S",
+    "address": "2960 Garfield Rd N, Traverse City, MI 49686-5008",
+    "city": "Garfield Twp",
+    "zipCode": "49686",
+    "latitude": 44.729747214629,
+    "longitude": -85.595313551158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286858",
+    "businessName": "TERRACE SHOPPER",
+    "address": "504 Munson Ave, Traverse City, MI 49686-3522",
+    "city": "Traverse",
+    "zipCode": "49686",
+    "latitude": 44.758460698818,
+    "longitude": -85.578833297108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16630",
+    "businessName": "TOM\u0027S FOOD MARKET",
+    "address": "738 Munson Ave, Traverse City, MI 49686-3525",
+    "city": "Traverse",
+    "zipCode": "49686",
+    "latitude": 44.754744367226,
+    "longitude": -85.572317667444,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

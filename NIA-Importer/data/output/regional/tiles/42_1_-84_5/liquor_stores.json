@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "12166",
+    "businessName": "POLLY\u0027S",
+    "address": "2119 Ferguson Rd, Jackson, MI 49203-5505",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.199033491552,
+    "longitude": -84.439609440263,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9340",
+    "businessName": "POLLY\u0027S FOOD SERVICE, INC.",
+    "address": "201 Park Ave, Jackson, MI 49203-5861",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.196523589979,
+    "longitude": -84.400339766063,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

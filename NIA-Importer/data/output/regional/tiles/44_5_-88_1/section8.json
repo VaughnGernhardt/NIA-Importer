@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800023048",
+    "propertyName": "BADGER TERRACE",
+    "latitude": 44.53055599931491,
+    "longitude": -88.0650540003401,
+    "assistedUnits": 120,
+    "totalUnits": 121
+  },
+  {
+    "propertyId": "800022865",
+    "propertyName": "BAY OAKS APARTMENTS",
+    "latitude": 44.510424999098554,
+    "longitude": -88.0103029998049,
+    "assistedUnits": 4,
+    "totalUnits": 4
+  },
+  {
+    "propertyId": "800023001",
+    "propertyName": "FORT HOWARD APARTMENTS",
+    "latitude": 44.51790299886978,
+    "longitude": -88.02244400036437,
+    "assistedUnits": 96,
+    "totalUnits": 97
+  },
+  {
+    "propertyId": "800023526",
+    "propertyName": "MONROE PLAZA APARTMENTS",
+    "latitude": 44.51515599881712,
+    "longitude": -88.00825300030911,
+    "assistedUnits": 196,
+    "totalUnits": 197
+  },
+  {
+    "propertyId": "800022967",
+    "propertyName": "TAYLOR CROSSING",
+    "latitude": 44.53036699876536,
+    "longitude": -88.07357899980998,
+    "assistedUnits": 36,
+    "totalUnits": 36
+  },
+  {
+    "propertyId": "800023452",
+    "propertyName": "VILLA WEST APARTMENTS",
+    "latitude": 44.517319999159355,
+    "longitude": -88.07269199970517,
+    "assistedUnits": 169,
+    "totalUnits": 170
+  }
+]

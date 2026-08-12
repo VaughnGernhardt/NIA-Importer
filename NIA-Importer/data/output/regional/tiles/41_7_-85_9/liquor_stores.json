@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "247572",
+    "businessName": "AMI MARATHON",
+    "address": "15588 US Highway 12, Union, MI 49130-9622",
+    "city": "Porter Twp",
+    "zipCode": "49130",
+    "latitude": 41.785786985769,
+    "longitude": -85.868825203155,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269770",
+    "businessName": "MILL\u0027S MEAT \u0026 GROCERY, LLC",
+    "address": "69564 Sunset Blvd, Union, MI 49130-8724",
+    "city": "Porter Twp",
+    "zipCode": "49130",
+    "latitude": 41.786543107991,
+    "longitude": -85.822819578137,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

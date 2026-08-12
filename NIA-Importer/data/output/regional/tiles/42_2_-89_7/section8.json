@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800223776",
+    "propertyName": "ASI Freeport Senior Housing",
+    "latitude": 42.278087999037325,
+    "longitude": -89.63396799963549,
+    "assistedUnits": 22,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800211321",
+    "propertyName": "FREEPORT SENIOR HOUSING II",
+    "latitude": 42.278409999369615,
+    "longitude": -89.63586200039398,
+    "assistedUnits": 33,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800005915",
+    "propertyName": "MEADOW RIDGE APARTMENTS",
+    "latitude": 42.278039999102845,
+    "longitude": -89.63540799993424,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800235490",
+    "propertyName": "ROLLING PRAIRIE",
+    "latitude": 42.27817699934532,
+    "longitude": -89.63397400038157,
+    "assistedUnits": 24,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800006491",
+    "propertyName": "WILLOW PARK APTS",
+    "latitude": 42.29956599882325,
+    "longitude": -89.65172700020145,
+    "assistedUnits": 74,
+    "totalUnits": 74
+  }
+]

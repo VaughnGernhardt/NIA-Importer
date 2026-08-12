@@ -1,0 +1,832 @@
+[
+  {
+    "businessId": "214197",
+    "businessName": "CVS/PHARMACY #8027",
+    "address": "10335 W Warren Ave, Dearborn, MI 48126-1658",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.344333966749,
+    "longitude": -83.161656968062,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263663",
+    "businessName": "FIVE STAR LIQUOR",
+    "address": "7951 Chase Rd, Dearborn, MI 48126-1082",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.350599268475,
+    "longitude": -83.186965421222,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291147",
+    "businessName": "HOUSE OF COGNAC, LLC",
+    "address": "7911 Schaefer Rd, Dearborn, MI 48126-1173",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.350462589075,
+    "longitude": -83.177226747667,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236144",
+    "businessName": "MOBIL/SAMWICH FACTORY",
+    "address": "12841 Michigan Ave, Dearborn, MI 48126-3734",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.324456198339,
+    "longitude": -83.167902786527,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226843",
+    "businessName": "PALACE LIQUOR",
+    "address": "4200 Schaefer Rd, Dearborn, MI 48126-3645",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.318707932286,
+    "longitude": -83.175738077828,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282504",
+    "businessName": "UNITED LIQUOR, INC.",
+    "address": "7551 Wyoming St, Dearborn, MI 48126-1681",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.347658849678,
+    "longitude": -83.157432091186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153301",
+    "businessName": "VARIETY FOODS MINIMART",
+    "address": "7345 Schaefer Rd, Dearborn, MI 48126-1446",
+    "city": "Dearborn",
+    "zipCode": "48126",
+    "latitude": 42.3452911028,
+    "longitude": -83.17701348898,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292012",
+    "businessName": "A \u0026 A MURAD LLC.",
+    "address": "11320-11322-11324-11326 DEXTER AVE, DETROIT, MI 48206",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.377390134545,
+    "longitude": -83.122458979509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10789",
+    "businessName": "A \u0026 L MARKET",
+    "address": "10826 Joy Rd, Detroit, MI 48204-3022",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.358807246227,
+    "longitude": -83.166739786916,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247494",
+    "businessName": "ACTION MARKET",
+    "address": "13555 Schoolcraft St, Detroit, MI 48227-3544",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.387965992715,
+    "longitude": -83.17779890598,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277737",
+    "businessName": "AL COPONE MARKET",
+    "address": "3401 Livernois Ave, Detroit, MI 48210-2944",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.326195969378,
+    "longitude": -83.116851100011,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "17310",
+    "businessName": "AMERICANNA WEST SUPERMARKET",
+    "address": "15041 Plymouth Rd, Detroit, MI 48227-2433",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.372643189384,
+    "longitude": -83.1925520112,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282617",
+    "businessName": "BAILEY\u0027S LIQUOR \u0026 FOOD MARKET",
+    "address": "13940 Dexter Ave, Detroit, MI 48238-2637",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.393371676637,
+    "longitude": -83.133220848474,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "188275",
+    "businessName": "BEBEE\u0027S MARKET",
+    "address": "7250 Lafayette Blvd, Detroit, MI 48209-1912",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.305020248524,
+    "longitude": -83.11567028451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223114",
+    "businessName": "BEEBE\u0027S #2 FOOD CENTER",
+    "address": "1421 Springwells St, Detroit, MI 48209-1947",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.305578228292,
+    "longitude": -83.12307633001,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266220",
+    "businessName": "BENCHMARK PARTY SHOPPE",
+    "address": "15401 Joy Rd, Detroit, MI 48228-2240",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.358091259937,
+    "longitude": -83.195990314927,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202514",
+    "businessName": "BIG DADDY LIQUOR",
+    "address": "9191 Livernois Ave, Detroit, MI 48204-2118",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.363131944528,
+    "longitude": -83.138636911251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228366",
+    "businessName": "BIG TOP",
+    "address": "3888 W Warren Ave, Detroit, MI 48208-1822",
+    "city": "Detroit",
+    "zipCode": "48208",
+    "latitude": 42.344882956002,
+    "longitude": -83.105905956205,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137562",
+    "businessName": "BIG V PARTY STORE",
+    "address": "14111 Greenfield Rd, Detroit, MI 48227-2191",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.389523681638,
+    "longitude": -83.198333867908,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241686",
+    "businessName": "CAPITAL LIQUOR",
+    "address": "12220 Schaefer Hwy, Detroit, MI 48227-3457",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.377474279886,
+    "longitude": -83.178080415935,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238287",
+    "businessName": "D \u0026 L LIQUOR",
+    "address": "13325 Livernois Ave, Detroit, MI 48238-3876",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.385828634914,
+    "longitude": -83.13959011613,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12454",
+    "businessName": "DEXTER WAVERLY MARKET",
+    "address": "13301 Dexter Ave, Detroit, MI 48238-3330",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.389144738819,
+    "longitude": -83.130552499381,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287376",
+    "businessName": "DIANE\u0027S PARTY STORE",
+    "address": "8700 Schaefer Hwy, Detroit, MI 48228-2594",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.357642643536,
+    "longitude": -83.177382883037,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269054",
+    "businessName": "DIFABIO INVEST AB, LLC",
+    "address": "7106 W Warren Ave, Detroit, MI 48210-1055",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.344920420641,
+    "longitude": -83.140676682935,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233622",
+    "businessName": "DINO\u0027S LIQUOR",
+    "address": "7104 Waldo St, Detroit, MI 48210-2718",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.327478775585,
+    "longitude": -83.129191813647,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11754",
+    "businessName": "DOBRY MARKET",
+    "address": "2351 Junction St, Detroit, MI 48209-1342",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.321324578744,
+    "longitude": -83.10444917546,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227844",
+    "businessName": "E \u0026 N MARKET",
+    "address": "11847 Livernois Ave, Detroit, MI 48204-1327",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.37548555515,
+    "longitude": -83.139158871446,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0280831",
+    "businessName": "EWALD LIQUOR",
+    "address": "3636 Ewald Cir, Detroit, MI 48204-1183",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.378796083189,
+    "longitude": -83.145163125064,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284882",
+    "businessName": "FOOD GIANT GROCER, INC.",
+    "address": "14040 Greenfield Rd, Detroit, MI 48227-2104",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.389872145975,
+    "longitude": -83.198191365262,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "180619",
+    "businessName": "FOSTER\u0027S MARKET",
+    "address": "14804 Wyoming St, Detroit, MI 48238-1733",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.398068516701,
+    "longitude": -83.159400149337,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246854",
+    "businessName": "GARDEN FRESH MARKETPLACE",
+    "address": "6680 Michigan Ave, Detroit, MI 48210-2826",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331196998676,
+    "longitude": -83.125855788971,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249785",
+    "businessName": "GLASS BOTTLE LIQUOR SHOPPE INC.",
+    "address": "9540 Greenfield Rd, Detroit, MI 48227-2000",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.365804550736,
+    "longitude": -83.197215974296,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213495",
+    "businessName": "GRAND CRU LIQUOR",
+    "address": "5412 W Warren Ave, Detroit, MI 48210-1217",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.344640923805,
+    "longitude": -83.11939953289,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233713",
+    "businessName": "GRAND PRICE SUPERMARKET",
+    "address": "12955 Grand River Ave, Detroit, MI 48227-3821",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.381776022716,
+    "longitude": -83.171501437767,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238074",
+    "businessName": "HOMETOWN MARKET",
+    "address": "8656 Wyoming St, Detroit, MI 48204-5216",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.35777733139,
+    "longitude": -83.157806736131,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132551",
+    "businessName": "HOUSE OF LIQUOR \u0026 WINE SHOP",
+    "address": "6290 Tireman St, Detroit, MI 48204-3558",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.352128324649,
+    "longitude": -83.135545724797,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160619",
+    "businessName": "IMPERIAL PARTY SHOP",
+    "address": "9743 Linwood St, Detroit, MI 48206-1701",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.377002901703,
+    "longitude": -83.111208665616,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "266488",
+    "businessName": "JUNCTION PARTY STORE",
+    "address": "3260 Junction St, Detroit, MI 48210-3204",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.327906531419,
+    "longitude": -83.109030224266,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138097",
+    "businessName": "LA CARRETA",
+    "address": "7400 Dix St, Detroit, MI 48209-1206",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.316996672125,
+    "longitude": -83.124639306396,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225949",
+    "businessName": "LA CARRETA MARKET",
+    "address": "6905 Michigan Ave, Detroit, MI 48210-2869",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331064445408,
+    "longitude": -83.129551161866,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "146457",
+    "businessName": "LA FIESTA SUPERMARKET CARNECERIA",
+    "address": "7403 W Vernor Hwy, Detroit, MI 48209-1511",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.313523432827,
+    "longitude": -83.122004759108,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244830",
+    "businessName": "LA TROPICANA MARKET",
+    "address": "8710 W Vernor Hwy, Detroit, MI 48209-1435",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.309151257187,
+    "longitude": -83.132991074235,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "128434",
+    "businessName": "LAVERN\u0027S MARKET",
+    "address": "12507 Livernois Ave, Detroit, MI 48204-1334",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.379898609032,
+    "longitude": -83.13934253189,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10525",
+    "businessName": "LAWNDALE MARKET",
+    "address": "1136 Lawndale St, Detroit, MI 48209-1726",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.301026793422,
+    "longitude": -83.12681468008,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276545",
+    "businessName": "LINWOOD EXPRESS",
+    "address": "8929 Linwood St, Detroit, MI 48206-1954",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.371673533628,
+    "longitude": -83.107686322792,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11433",
+    "businessName": "LIQUOR EXPRESS PARTY STORE",
+    "address": "5347 Livernois Ave, Detroit, MI 48210-1701",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.338873981529,
+    "longitude": -83.126067457661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284175",
+    "businessName": "LIQUOR LEGEND",
+    "address": "11414 Livernois Ave, Detroit, MI 48204-1378",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.372422022638,
+    "longitude": -83.138876779052,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279058",
+    "businessName": "LIQUOR TOWN",
+    "address": "2360 W Davison, Detroit, MI 48238-3544",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.394227228579,
+    "longitude": -83.118948165826,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283365",
+    "businessName": "MANIANI FAMILY, LLC",
+    "address": "3701 JOY \u0026 9141 DEXTER AVE, DETROIT, MI 48206",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.369736260567,
+    "longitude": -83.117439231942,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144156",
+    "businessName": "MARK\u0027S MARKET",
+    "address": "1941 Springwells St, Detroit, MI 48209-1860",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.308998970695,
+    "longitude": -83.12555113087,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283422",
+    "businessName": "MG LIQUOR, LLC",
+    "address": "13040 W Chicago St, Detroit, MI 48228-2653",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.365966549706,
+    "longitude": -83.172118096716,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10199",
+    "businessName": "MICHIGAN PARTY STORE",
+    "address": "5422 Michigan Ave, Detroit, MI 48210-3034",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331240758498,
+    "longitude": -83.109810660901,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "190394",
+    "businessName": "MODERN CONVENIENCE LIVERNOIS",
+    "address": "13800 Livernois Ave, Detroit, MI 48238-4510",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.389402899124,
+    "longitude": -83.139593970895,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265875",
+    "businessName": "NEW FLAMINGO LIQUOR",
+    "address": "4058 Joy Rd, Detroit, MI 48204-2413",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.369015549048,
+    "longitude": -83.120800666081,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273036",
+    "businessName": "NEW LAND PARTY STORE",
+    "address": "14601 Plymouth Rd, Detroit, MI 48227-2746",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.372769647189,
+    "longitude": -83.187826460996,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155020",
+    "businessName": "NEW QUICK STOP MARKET",
+    "address": "8059 Grand River Ave, Detroit, MI 48204-2219",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.359846827011,
+    "longitude": -83.11712610177,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268077",
+    "businessName": "ONE STOP PARTY STORE",
+    "address": "8540 Linwood St, Detroit, MI 48206-2387",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.368382625778,
+    "longitude": -83.105305546437,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289744",
+    "businessName": "PANCHOS FOOD MART",
+    "address": "6421 Regular St, Detroit, MI 48209-2381",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.311525403009,
+    "longitude": -83.108748767892,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237444",
+    "businessName": "PLAYERS LIQUOR",
+    "address": "13555 W Chicago St, Detroit, MI 48228-2520",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.365745852227,
+    "longitude": -83.177165769268,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15462",
+    "businessName": "PREMIER EXPRESS MARKET",
+    "address": "8930 McGraw St, Detroit, MI 48210-2025",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331041860456,
+    "longitude": -83.152002807638,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231781",
+    "businessName": "PRINCE VALLEY",
+    "address": "5931 Michigan Ave, Detroit, MI 48210-3044",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.331089508877,
+    "longitude": -83.115863224147,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279703",
+    "businessName": "RAJPUT BROTHERS, LLC",
+    "address": "9121-9125 Greenfield Rd, Detroit, MI 48228-2201",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.360934355478,
+    "longitude": -83.197204946122,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249700",
+    "businessName": "RITEWAY MARKET",
+    "address": "7350 Grand River Ave, Detroit, MI 48204-2210",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.357403010272,
+    "longitude": -83.110748182738,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11989",
+    "businessName": "RIVIERA DISCOUNT HOUSE",
+    "address": "9317 Grand River Ave, Detroit, MI 48204-2163",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.365880655598,
+    "longitude": -83.132056393506,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281363",
+    "businessName": "RO WYOMING, INC.",
+    "address": "13970 Wyoming St, Detroit, MI 48238-2334",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.389152861653,
+    "longitude": -83.159024906878,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157594",
+    "businessName": "S \u0026 D HISPANIC LIQUOR MARKET",
+    "address": "7335 McGraw St, Detroit, MI 48210-1967",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.336627242924,
+    "longitude": -83.137765825793,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270229",
+    "businessName": "SAFEWAY MARKET, INC.",
+    "address": "8031 Dix St, Detroit, MI 48209-1006",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.316923707561,
+    "longitude": -83.131869902714,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287758",
+    "businessName": "SALMO, LLC",
+    "address": "5835 Joy Rd, Detroit, MI 48204-2992",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.360822764978,
+    "longitude": -83.135329793224,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239528",
+    "businessName": "SELENA LIQUOR",
+    "address": "12345 Rosa Parks Blvd, Detroit, MI 48206-1279",
+    "city": "Detroit",
+    "zipCode": "48206",
+    "latitude": 42.390356616946,
+    "longitude": -83.109178828462,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291323",
+    "businessName": "SM LIQUORS, LLC",
+    "address": "10647-10649 W Chicago St, Detroit, MI 48204",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.365976700934,
+    "longitude": -83.166118967035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "129950",
+    "businessName": "SPRINGWELLS LIQUOR",
+    "address": "1848 Springwells St, Detroit, MI 48209-1859",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.308455276888,
+    "longitude": -83.124980676175,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286393",
+    "businessName": "STERN GERMANY, INC.",
+    "address": "5545 Livernois Ave, Detroit, MI 48210-1703",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.340386491932,
+    "longitude": -83.127169670451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244243",
+    "businessName": "STOP \u0026 GO DELI NO. 7",
+    "address": "14445 Schaefer Hwy, Detroit, MI 48227-5603",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.394281424308,
+    "longitude": -83.178856780505,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236863",
+    "businessName": "SUNSHINE MARKET",
+    "address": "14812 Livernois Ave, Detroit, MI 48238-2060",
+    "city": "Detroit",
+    "zipCode": "48238",
+    "latitude": 42.398320908353,
+    "longitude": -83.13998696725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10907",
+    "businessName": "THE LIQUOR BOTTLE",
+    "address": "5603 Elmer St, Detroit, MI 48210-1852",
+    "city": "Detroit",
+    "zipCode": "48210",
+    "latitude": 42.334094803542,
+    "longitude": -83.14444663851,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155073",
+    "businessName": "TOWER LIQUOR SHOPPE",
+    "address": "12710 Grand River Ave, Detroit, MI 48227-3818",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.38072780921,
+    "longitude": -83.168615066994,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "163172",
+    "businessName": "U.S. QUALITY FOODS",
+    "address": "15690 Joy Rd, Detroit, MI 48228-2287",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.358197596747,
+    "longitude": -83.199398233555,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154760",
+    "businessName": "UNIQUE FOOD MARKET",
+    "address": "1681 Lawndale St, Detroit, MI 48209-1733",
+    "city": "Detroit",
+    "zipCode": "48209",
+    "latitude": 42.305334536521,
+    "longitude": -83.12995298865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241028",
+    "businessName": "VEGAS LIQUOR \u0026 WINE SHOPPE",
+    "address": "8024 Greenfield Rd, Detroit, MI 48228-2221",
+    "city": "Detroit",
+    "zipCode": "48228",
+    "latitude": 42.351236985672,
+    "longitude": -83.196550022306,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275390",
+    "businessName": "VON\u0027S #3",
+    "address": "14916-14918 Greenfield Rd, Detroit, MI 48227",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.398239465013,
+    "longitude": -83.198518062126,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12415",
+    "businessName": "WAYNE FOOD",
+    "address": "14411-15-14419 Schoolcraft St, Detroit, MI 48227",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.387359675005,
+    "longitude": -83.186396350586,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13032",
+    "businessName": "WESTERN LIQUOR STORE",
+    "address": "12820 Plymouth Rd, Detroit, MI 48227-3725",
+    "city": "Detroit",
+    "zipCode": "48227",
+    "latitude": 42.373256210843,
+    "longitude": -83.169653812745,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287958",
+    "businessName": "WYOMING PARTY PLUS, LLC",
+    "address": "9924 Wyoming St, Detroit, MI 48204-2519",
+    "city": "Detroit",
+    "zipCode": "48204",
+    "latitude": 42.369462227487,
+    "longitude": -83.158292650857,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

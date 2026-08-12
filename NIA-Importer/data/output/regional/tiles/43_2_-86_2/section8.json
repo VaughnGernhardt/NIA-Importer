@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009984",
+    "propertyName": "CARRIAGE HOUSE",
+    "latitude": 43.239430999132516,
+    "longitude": -86.19675899990548,
+    "assistedUnits": 59,
+    "totalUnits": 124
+  },
+  {
+    "propertyId": "800010199",
+    "propertyName": "HICKORY VILLAGE APARTMENTS",
+    "latitude": 43.23971599916235,
+    "longitude": -86.19599200034959,
+    "assistedUnits": 180,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800231737",
+    "propertyName": "QUAIL MEADOWS APARTMENTS",
+    "latitude": 43.239707998911015,
+    "longitude": -86.18384199956931,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  }
+]

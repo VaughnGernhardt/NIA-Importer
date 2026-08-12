@@ -1,0 +1,114 @@
+[
+  {
+    "propertyId": "800231942",
+    "propertyName": "All SAINTS RESIDENCE",
+    "latitude": 41.68164299889725,
+    "longitude": -87.62256599982027,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800245945",
+    "propertyName": "EDWARD BROWN AND TURLINGTON WEST",
+    "latitude": 41.64068999901173,
+    "longitude": -87.69955300037992,
+    "assistedUnits": 220,
+    "totalUnits": 223
+  },
+  {
+    "propertyId": "800112174",
+    "propertyName": "EMIL JONES JR. SENIOR HOUSING CENTER",
+    "latitude": 41.693785998742065,
+    "longitude": -87.62238800044337,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005813",
+    "propertyName": "GENESIS COMMUNITY APARTMENTS",
+    "latitude": 41.65815199917782,
+    "longitude": -87.61551699973586,
+    "assistedUnits": 297,
+    "totalUnits": 297
+  },
+  {
+    "propertyId": "800221307",
+    "propertyName": "HARVEY III",
+    "latitude": 41.61519899938006,
+    "longitude": -87.66738199982575,
+    "assistedUnits": 0,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800005968",
+    "propertyName": "HARVEY YMCA ELDERLY HOUSING",
+    "latitude": 41.60795099896085,
+    "longitude": -87.64606200021844,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800217611",
+    "propertyName": "Harvey II \u0026 III",
+    "latitude": 41.61520699880977,
+    "longitude": -87.6660190004182,
+    "assistedUnits": 120,
+    "totalUnits": 120
+  },
+  {
+    "propertyId": "800040225",
+    "propertyName": "INDIAN TRAILS APARTMENTS",
+    "latitude": 41.67418099881905,
+    "longitude": -87.61667099980436,
+    "assistedUnits": 174,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800005942",
+    "propertyName": "Oasis Senior Living",
+    "latitude": 41.69642099908795,
+    "longitude": -87.66057600031388,
+    "assistedUnits": 218,
+    "totalUnits": 218
+  },
+  {
+    "propertyId": "800005947",
+    "propertyName": "Orchard Place of Morgan Park/Beverly",
+    "latitude": 41.689412999316275,
+    "longitude": -87.66528299992613,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006183",
+    "propertyName": "Our Saviors Senior Housing",
+    "latitude": 41.62991799908323,
+    "longitude": -87.61742999986264,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800220322",
+    "propertyName": "RIVERSIDE VILLAGE",
+    "latitude": 41.655574998802024,
+    "longitude": -87.61343499955467,
+    "assistedUnits": 25,
+    "totalUnits": 258
+  },
+  {
+    "propertyId": "800006291",
+    "propertyName": "ROSELAND MANOR",
+    "latitude": 41.681339999395746,
+    "longitude": -87.62255800032268,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006129",
+    "propertyName": "ST. ANDREWS MANOR",
+    "latitude": 41.614763999094066,
+    "longitude": -87.63251300004556,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  }
+]

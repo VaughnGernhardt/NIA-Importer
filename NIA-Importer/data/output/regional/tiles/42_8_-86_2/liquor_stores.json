@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "225778",
+    "businessName": "136TH ONESTOP",
+    "address": "690 136th Ave, Holland, MI 49424-1834",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.818482082754,
+    "longitude": -86.11762078347,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229302",
+    "businessName": "CVS PHARMACY #10137",
+    "address": "132 Douglas Ave, Holland, MI 49424-6514",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.802158452577,
+    "longitude": -86.11318144725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166586",
+    "businessName": "D \u0026 W #1574",
+    "address": "50 Douglas Ave, Holland, MI 49424-2198",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.803370417847,
+    "longitude": -86.110489929354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141957",
+    "businessName": "FAMILY FARE #122",
+    "address": "993 Butternut Dr, Holland, MI 49424-1552",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.827568362636,
+    "longitude": -86.137331663789,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277259",
+    "businessName": "Holland Liquor",
+    "address": "156-158 W Lakewood Blvd, Holland, MI 49424-2142",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.80482815545,
+    "longitude": -86.115649015321,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278584",
+    "businessName": "NORTHSIDE LIQUOR STORE",
+    "address": "501 Butternut Dr, Holland, MI 49424-1578",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.812944187913,
+    "longitude": -86.122363300019,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15653",
+    "businessName": "WESCO #4",
+    "address": "14 W Lakewood Blvd, Holland, MI 49424-2149",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.804790520233,
+    "longitude": -86.109575382073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12824",
+    "businessName": "PORT SHELDON PARTY STORE",
+    "address": "6789 Butternut Dr, West Olive, MI 49460-9578",
+    "city": "Port Sheldon Twp",
+    "zipCode": "49460",
+    "latitude": 42.891605585224,
+    "longitude": -86.197511123911,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

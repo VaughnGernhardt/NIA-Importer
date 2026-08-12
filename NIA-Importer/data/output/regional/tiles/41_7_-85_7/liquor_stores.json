@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0278250",
+    "businessName": "NEW PUNJAB WHITE PIGEON LLC",
+    "address": "813 W CHICAGO RD, WHITE PIGEON, MI 49099",
+    "city": "White Pigeon",
+    "zipCode": "49099",
+    "latitude": 41.797188984451,
+    "longitude": -85.659944330967,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215357",
+    "businessName": "WAGONER\u0027S - YOUR HOMETOWN FOOD STORE",
+    "address": "350 W Chicago Rd, White Pigeon, MI 49099-8135",
+    "city": "White Pigeon",
+    "zipCode": "49099",
+    "latitude": 41.797818216308,
+    "longitude": -85.650331870715,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14271",
+    "businessName": "WHITE PIGEON SHELL #1950",
+    "address": "215 E Chicago Rd, White Pigeon, MI 49099-8795",
+    "city": "White Pigeon",
+    "zipCode": "49099",
+    "latitude": 41.798373088789,
+    "longitude": -85.640424497009,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0285384",
+    "businessName": "NORTHLAND FOOD MART INC",
+    "address": "129 E 1st St, Caspian, MI 49915-5100",
+    "city": "Caspian",
+    "zipCode": "49915",
+    "latitude": 46.064756745392,
+    "longitude": -88.630406046865,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247805",
+    "businessName": "FAMILY FOODS, IRON RIVER",
+    "address": "322 W Adams St, Iron River, MI 49935-1350",
+    "city": "Iron River",
+    "zipCode": "49935",
+    "latitude": 46.092459826561,
+    "longitude": -88.641646208411,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206176",
+    "businessName": "KRIST EXPRESS #038",
+    "address": "201 W Adams St, Iron River, MI 49935-1432",
+    "city": "Iron River",
+    "zipCode": "49935",
+    "latitude": 46.092330432794,
+    "longitude": -88.64023444527,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276619",
+    "businessName": "MINER\u0027S INCORPORATED (A MINNESOTA CORPORATION)",
+    "address": "833 Riverside Plz, Iron River, MI 49935-1527",
+    "city": "Iron River",
+    "zipCode": "49935",
+    "latitude": 46.089336111317,
+    "longitude": -88.635223825224,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

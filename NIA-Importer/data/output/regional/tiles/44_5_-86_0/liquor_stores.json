@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0278054",
+    "businessName": "ARCHER COUNTRY STORE",
+    "address": "7567 Michigan Ave, Thompsonville, MI 49683-9787",
+    "city": "Thompsonville",
+    "zipCode": "49683",
+    "latitude": 44.519536710225,
+    "longitude": -85.938799611687,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134950",
+    "businessName": "MOUNTAIN VIEW MINI-MART",
+    "address": "13033 Cadillac Hwy, Thompsonville, MI 49683-9281",
+    "city": "Weldon Twp",
+    "zipCode": "49683",
+    "latitude": 44.514324487924,
+    "longitude": -85.978555014897,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

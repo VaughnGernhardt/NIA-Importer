@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0283924",
+    "businessName": "DOYLE\u0027S MARKET II LLC",
+    "address": "210 Hyde Rd, Clarklake, MI 49234-9058",
+    "city": "Columbia Twp",
+    "zipCode": "49234",
+    "latitude": 42.116739717559,
+    "longitude": -84.34521506177,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249602",
+    "businessName": "KELLY EXPRESS MART 53",
+    "address": "3101 Jefferson Rd, Clarklake, MI 49234-9662",
+    "city": "Columbia Twp",
+    "zipCode": "49234",
+    "latitude": 42.116786980407,
+    "longitude": -84.36227153897,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133805",
+    "businessName": "L \u0026 B KWIK STOP",
+    "address": "4051 Brooklyn Rd, Jackson, MI 49201-8501",
+    "city": "Napoleon Twp",
+    "zipCode": "49201",
+    "latitude": 42.196839290534,
+    "longitude": -84.34660529009,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269676",
+    "businessName": "VANDY\u0027S LIQUOR",
+    "address": "401 Hague Ave, Jackson, MI 49203-5929",
+    "city": "Summit Twp",
+    "zipCode": "49203",
+    "latitude": 42.193713037751,
+    "longitude": -84.393548913859,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

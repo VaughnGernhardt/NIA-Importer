@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "5585-gull-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 5585, Gull Rd Kalamazoo, MI 49048-6703",
+    "city": "Gull Rd Kalamazoo",
+    "zipCode": "49048",
+    "latitude": 42.324751080301,
+    "longitude": -85.519215697619
+  },
+  {
+    "storeId": "812-shoppers-lane",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 812, Shoppers Lane Parchment, MI 49004-1119",
+    "city": "Shoppers Lane Parchment",
+    "zipCode": "49004",
+    "latitude": 42.319309401835,
+    "longitude": -85.571124311831
+  },
+  {
+    "storeId": "3504-e-main-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 3504, E Main Street Kalamazoo, MI 49048",
+    "city": "E Main Street Kalamazoo",
+    "zipCode": "49048",
+    "latitude": 42.303160956018,
+    "longitude": -85.536863340098
+  }
+]

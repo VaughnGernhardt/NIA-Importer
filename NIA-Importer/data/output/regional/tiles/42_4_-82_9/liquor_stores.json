@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "0290661",
+    "businessName": "JERRY\u0027S CLUB PARTY STORE",
+    "address": "381 KERCHEVAL Ave, GROSSE POINTE FARMS, MI 48236",
+    "city": "Grosse Pte Farms",
+    "zipCode": "48236",
+    "latitude": 42.410354439037,
+    "longitude": -82.891413499045,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286810",
+    "businessName": "27300 HARPER ENTERPRISES LLC",
+    "address": "27300 Harper Ave, Saint Clair Shores, MI 48081-1934",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.492292208412,
+    "longitude": -82.897306896257,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284695",
+    "businessName": "COUNTRY PARTY STORE",
+    "address": "23750 Greater Mack Ave, Saint Clair Shores, MI 48080-1405",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.468052391583,
+    "longitude": -82.896908241351,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214141",
+    "businessName": "CVS/PHARMACY #8040",
+    "address": "27700 Harper Ave, Saint Clair Shores, MI 48081-1506",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.496007709927,
+    "longitude": -82.897583679761,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222920",
+    "businessName": "EDDIE\u0027S LIQUOR",
+    "address": "26419 Harper Ave, Saint Clair Shores, MI 48081-1905",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.488159763761,
+    "longitude": -82.89826972016,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16377",
+    "businessName": "KROGER STORE #495",
+    "address": "23191 Marter Rd, Saint Clair Shores, MI 48080-2717",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.459473677407,
+    "longitude": -82.883352526316,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244951",
+    "businessName": "WINE DOCK LIQUOR",
+    "address": "24421 Jefferson Ave, Saint Clair Shores, MI 48080-1318",
+    "city": "St Clair Shores",
+    "zipCode": "48080",
+    "latitude": 42.471307377173,
+    "longitude": -82.888775457738,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

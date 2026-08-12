@@ -1,0 +1,72 @@
+[
+  {
+    "storeId": "16935",
+    "storeName": "Dollar General",
+    "chain": "Dollar General",
+    "address": "Find a Store near you wallet 26001, Eureka Rd Taylor, MI 48180",
+    "city": "Eureka Rd Taylor",
+    "zipCode": "48180",
+    "latitude": 42.196900329514,
+    "longitude": -83.289759722825
+  },
+  {
+    "storeId": "25101-allen-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 25101, Allen Rd Woodhaven, MI 48183-4301",
+    "city": "Allen Rd Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.125511460447,
+    "longitude": -83.225555061132
+  },
+  {
+    "storeId": "15080-dix-toledo-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 15080, Dix Toledo Road Southgate, MI 48195-2615",
+    "city": "Dix Toledo Road Southgate",
+    "zipCode": "48195",
+    "latitude": 42.197947405109,
+    "longitude": -83.212631414344
+  },
+  {
+    "storeId": "26101-eureka-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 26101, Eureka Rd Taylor, MI 48180-4902",
+    "city": "Eureka Rd Taylor",
+    "zipCode": "48180",
+    "latitude": 42.19686889208,
+    "longitude": -83.290824667567
+  },
+  {
+    "storeId": "23867-eureka-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 23867, Eureka Road Taylor, MI 48180-5253",
+    "city": "Eureka Road Taylor",
+    "zipCode": "48180",
+    "latitude": 42.197551196491,
+    "longitude": -83.265974920612
+  },
+  {
+    "storeId": "27327-telegraph-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 27327, Telegraph Rd Flat Rock, MI 48134",
+    "city": "Telegraph Rd Flat Rock",
+    "zipCode": "48134",
+    "latitude": 42.106856237711,
+    "longitude": -83.286730948462
+  },
+  {
+    "storeId": "26765-telegraph-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 26765, Telegraph Road Flat Rock, MI 48134",
+    "city": "Telegraph Road Flat Rock",
+    "zipCode": "48134",
+    "latitude": 42.110485635264,
+    "longitude": -83.284345386037
+  }
+]

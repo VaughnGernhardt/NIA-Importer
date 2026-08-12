@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "246954",
+    "businessName": "FOLK OIL COMPANY, INC.",
+    "address": "1488 N Dixie Hwy, Monroe, MI 48162-5203",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.927323354302,
+    "longitude": -83.356964166454,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276671",
+    "businessName": "FRENCHTOWN CHEERS",
+    "address": "1837 N Monroe St, Monroe, MI 48162-4248",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.941232086842,
+    "longitude": -83.386845784626,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267335",
+    "businessName": "FRENCHTOWN LIQUOR SHOPPE",
+    "address": "3616 N Dixie Hwy, Monroe, MI 48162-4433",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.945706737348,
+    "longitude": -83.314304469781,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270241",
+    "businessName": "KENNY\u0027S MARKET",
+    "address": "7850 N Telegraph Rd, Newport, MI 48166-9425",
+    "city": "Frenchtown Twp",
+    "zipCode": "48166",
+    "latitude": 41.991138587583,
+    "longitude": -83.365078025208,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142186",
+    "businessName": "KENNY\u0027S MINI MARKET",
+    "address": "2284 N Dixie Hwy, Monroe, MI 48162-5211",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.9335546137,
+    "longitude": -83.33619446155,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147183",
+    "businessName": "KROGER STORE #579",
+    "address": "3833 N Dixie Hwy, Monroe, MI 48162-4489",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.947184864227,
+    "longitude": -83.31220948653,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239239",
+    "businessName": "MONROE SUNOCO",
+    "address": "3080 N Monroe St, Monroe, MI 48162-5323",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.959384266933,
+    "longitude": -83.376747066519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204155",
+    "businessName": "WAL-MART SUPERCENTER #1790",
+    "address": "2150 N Telegraph Rd, Monroe, MI 48162-8901",
+    "city": "Frenchtown Twp",
+    "zipCode": "48162",
+    "latitude": 41.951716537124,
+    "longitude": -83.398693430058,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260481",
+    "businessName": "NEW JAKE\u0027S LIQUOR, INC.",
+    "address": "1092 N Dixie Hwy, Monroe, MI 48162-2547",
+    "city": "Monroe",
+    "zipCode": "48162",
+    "latitude": 41.9249535926,
+    "longitude": -83.367154193726,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268340",
+    "businessName": "THE BROADWAY MARKET",
+    "address": "510 N Monroe St, Monroe, MI 48162-2933",
+    "city": "Monroe",
+    "zipCode": "48162",
+    "latitude": 41.923812036781,
+    "longitude": -83.393359451819,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260497",
+    "businessName": "TOWN SQUARE FOOD MARKET",
+    "address": "1002 E 3rd St, Monroe, MI 48161-1998",
+    "city": "Monroe",
+    "zipCode": "48161",
+    "latitude": 41.908276214492,
+    "longitude": -83.38781066583,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

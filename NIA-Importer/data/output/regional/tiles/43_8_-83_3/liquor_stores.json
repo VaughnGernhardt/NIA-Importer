@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "17393",
+    "businessName": "PEOPLES CHOICE MARKET",
+    "address": "102 S Main St, Pigeon, MI 48755-5105",
+    "city": "Pigeon",
+    "zipCode": "48755",
+    "latitude": 43.828022780184,
+    "longitude": -83.270381717488,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242809",
+    "businessName": "VILLAGE QWIK STOP",
+    "address": "15 N Caseville Rd, Pigeon, MI 48755-9704",
+    "city": "Pigeon",
+    "zipCode": "48755",
+    "latitude": 43.830177941428,
+    "longitude": -83.279490737034,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

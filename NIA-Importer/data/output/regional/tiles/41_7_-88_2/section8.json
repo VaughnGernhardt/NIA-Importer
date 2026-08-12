@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800005785",
+    "propertyName": "CHARLES COURT",
+    "latitude": 41.77932399896778,
+    "longitude": -88.12943800038292,
+    "assistedUnits": 129,
+    "totalUnits": 130
+  },
+  {
+    "propertyId": "800006126",
+    "propertyName": "NAPERVILLE ELDERLY HOMES, INC.I",
+    "latitude": 41.76285499897041,
+    "longitude": -88.15321099989218,
+    "assistedUnits": 30,
+    "totalUnits": 73
+  },
+  {
+    "propertyId": "800249137",
+    "propertyName": "Naperville Elderly Homes Phase II",
+    "latitude": 41.76285499897041,
+    "longitude": -88.15321099989218,
+    "assistedUnits": 26,
+    "totalUnits": 26
+  },
+  {
+    "propertyId": "800006186",
+    "propertyName": "OGDEN MANOR",
+    "latitude": 41.78600899916194,
+    "longitude": -88.15431100043233,
+    "assistedUnits": 108,
+    "totalUnits": 108
+  }
+]

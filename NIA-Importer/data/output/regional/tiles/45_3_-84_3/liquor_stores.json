@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "248179",
+    "businessName": "PAINTER PETROLEUM",
+    "address": "4016 Michigan Ave, Onaway, MI 49765-8852",
+    "city": "Onaway",
+    "zipCode": "49765",
+    "latitude": 45.353858321819,
+    "longitude": -84.234014942854,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "181992",
+    "businessName": "TOM\u0027S FAMILY MARKET",
+    "address": "20597 State St, Onaway, MI 49765-8665",
+    "city": "Onaway",
+    "zipCode": "49765",
+    "latitude": 45.357575251915,
+    "longitude": -84.225866704899,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

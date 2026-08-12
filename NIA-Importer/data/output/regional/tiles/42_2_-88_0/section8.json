@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800245588",
+    "propertyName": "Fairhaven Crossing",
+    "latitude": 42.269428999092646,
+    "longitude": -87.99840800019106,
+    "assistedUnits": 4,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800006064",
+    "propertyName": "LAMBS RESIDENCE NO. 2, INC.",
+    "latitude": 42.279910999090056,
+    "longitude": -87.90955299978175,
+    "assistedUnits": 112,
+    "totalUnits": 113
+  },
+  {
+    "propertyId": "800006078",
+    "propertyName": "LIBERTY TOWERS",
+    "latitude": 42.28801699878645,
+    "longitude": -87.95343999984964,
+    "assistedUnits": 120,
+    "totalUnits": 122
+  },
+  {
+    "propertyId": "800006200",
+    "propertyName": "PEBBLESHIRE APARTMENTS II",
+    "latitude": 42.22228899923779,
+    "longitude": -87.98645599977748,
+    "assistedUnits": 58,
+    "totalUnits": 58
+  },
+  {
+    "propertyId": "800211385",
+    "propertyName": "THE LAMBS FARM",
+    "latitude": 42.279910999090056,
+    "longitude": -87.90955299978175,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  }
+]

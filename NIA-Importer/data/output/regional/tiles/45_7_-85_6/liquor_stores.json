@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "160259",
+    "businessName": "ISLAND ENERGIES",
+    "address": "36789 Kings Hwy, Beaver Island, MI 49782",
+    "city": "Peaine Twp",
+    "zipCode": "49782",
+    "latitude": 45.729406898266,
+    "longitude": -85.526119102353,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285101",
+    "businessName": "HARBOR MARKET",
+    "address": "26235 Main St, Beaver Island, MI 49782-5101",
+    "city": "St James Twp",
+    "zipCode": "49782",
+    "latitude": 45.746834007891,
+    "longitude": -85.519913931681,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

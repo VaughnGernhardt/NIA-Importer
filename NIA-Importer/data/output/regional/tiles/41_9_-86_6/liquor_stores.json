@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "225128",
+    "businessName": "MIDTOWN PARTY STORE",
+    "address": "9714 Red Arrow Hwy, Bridgman, MI 49106-9344",
+    "city": "Bridgman",
+    "zipCode": "49106",
+    "latitude": 41.942682761732,
+    "longitude": -86.56367473596,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160113",
+    "businessName": "BRIDGMAN BP",
+    "address": "10511 Red Arrow Hwy, Bridgman, MI 49106-8707",
+    "city": "Lake Twp",
+    "zipCode": "49106",
+    "latitude": 41.927993481842,
+    "longitude": -86.57273663251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9635",
+    "businessName": "HARDING\u0027S FRIENDLY MARKET",
+    "address": "3651 Shawnee Rd, Bridgman, MI 49106-9713",
+    "city": "Lake Twp",
+    "zipCode": "49106",
+    "latitude": 41.942978534022,
+    "longitude": -86.542090174447,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

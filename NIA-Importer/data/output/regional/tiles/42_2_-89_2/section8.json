@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800039733",
+    "propertyName": "AUBURN MANOR APARTMENTS",
+    "latitude": 42.288126999384424,
+    "longitude": -89.12290599966956,
+    "assistedUnits": 107,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800005812",
+    "propertyName": "CONCORD COMMONS APARTMENTS",
+    "latitude": 42.27648199926643,
+    "longitude": -89.13977200028292,
+    "assistedUnits": 216,
+    "totalUnits": 216
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "233449",
+    "businessName": "IRISH HILLS PERKY PANTRY",
+    "address": "7629 US Highway 12, Onsted, MI 49265-9752",
+    "city": "Cambridge Twp",
+    "zipCode": "49265",
+    "latitude": 42.056516671118,
+    "longitude": -84.140382148154,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "137767",
+    "businessName": "PERKY PANTRY",
+    "address": "9544 Pentecost Hwy, Onsted, MI 49265-9539",
+    "city": "Franklin Twp",
+    "zipCode": "49265",
+    "latitude": 42.02268287308,
+    "longitude": -84.124487572086,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283019",
+    "businessName": "ONSTED FOOD MART #2, LLC",
+    "address": "7991 Onsted Hwy, Onsted, MI 49265-9824",
+    "city": "Onsted",
+    "zipCode": "49265",
+    "latitude": 42.00097817557,
+    "longitude": -84.189379473101,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

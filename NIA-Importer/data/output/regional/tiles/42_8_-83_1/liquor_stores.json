@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "214224",
+    "businessName": "CVS/PHARMACY #8179",
+    "address": "71220 Van Dyke Rd, Romeo, MI 48065-5437",
+    "city": "Bruce Twp",
+    "zipCode": "48065",
+    "latitude": 42.818459223375,
+    "longitude": -83.019716272122,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265853",
+    "businessName": "Van Dyke Vape \u0026 Liquor",
+    "address": "70951 Van Dyke Rd, Romeo, MI 48065-4448",
+    "city": "Bruce Twp",
+    "zipCode": "48065",
+    "latitude": 42.816726349054,
+    "longitude": -83.019808805118,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274919",
+    "businessName": "UPTOWN LIQUOR",
+    "address": "211 E Saint Clair St, Romeo, MI 48065-5260",
+    "city": "Romeo",
+    "zipCode": "48065",
+    "latitude": 42.802420389941,
+    "longitude": -83.017714501801,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

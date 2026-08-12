@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "10039",
+    "businessName": "CARL\u0027S MARKET",
+    "address": "114 W Main St, Maple Rapids, MI 48853",
+    "city": "Maple Rapids",
+    "zipCode": "48853",
+    "latitude": 43.104633480132,
+    "longitude": -84.692037883563,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244592",
+    "businessName": "PERRINTON LIQUOR INC",
+    "address": "111 S Robinson St, Perrinton, MI 48871-9808",
+    "city": "Perrinton",
+    "zipCode": "48871",
+    "latitude": 43.182044946395,
+    "longitude": -84.679162123499,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

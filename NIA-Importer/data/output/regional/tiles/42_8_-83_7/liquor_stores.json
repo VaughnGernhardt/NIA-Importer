@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0271557",
+    "businessName": "MY STOP, LLC",
+    "address": "9118 Holly Rd, Grand Blanc, MI 48439-8336",
+    "city": "Grand Blanc Twp",
+    "zipCode": "48439",
+    "latitude": 42.898817060542,
+    "longitude": -83.631318672532,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270029",
+    "businessName": "HOLLY MARKET LLC",
+    "address": "15191 N Holly Rd, Holly, MI 48442-1140",
+    "city": "Holly",
+    "zipCode": "48442",
+    "latitude": 42.809731837613,
+    "longitude": -83.628171948876,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244062",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "15241 N Holly Rd, Holly, MI 48442-1142",
+    "city": "Holly",
+    "zipCode": "48442",
+    "latitude": 42.808759109219,
+    "longitude": -83.628140771781,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244832",
+    "businessName": "STAGE COACH MARKET",
+    "address": "15228 N Holly Rd, Holly, MI 48442-1141",
+    "city": "Holly",
+    "zipCode": "48442",
+    "latitude": 42.807936564106,
+    "longitude": -83.628275108203,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132601",
+    "businessName": "SEVEN LAKES PARTY STORE",
+    "address": "3024 Grange Hall Rd, Holly, MI 48442-1063",
+    "city": "Holly Twp",
+    "zipCode": "48442",
+    "latitude": 42.804599243797,
+    "longitude": -83.646875690266,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

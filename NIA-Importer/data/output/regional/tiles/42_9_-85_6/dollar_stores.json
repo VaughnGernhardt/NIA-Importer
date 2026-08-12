@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "6791-cascade-rd-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 6791, Cascade Rd SE Grand Rapids, MI 49546-6849",
+    "city": "Cascade Rd SE Grand Rapids",
+    "zipCode": "49546",
+    "latitude": 42.914982192584,
+    "longitude": -85.500613863384
+  },
+  {
+    "storeId": "4210-28th-st-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "4210 28th, St SE Kentwood, MI 49512-1987",
+    "city": "St SE Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.912489157983,
+    "longitude": -85.563000172283
+  },
+  {
+    "storeId": "2995-28th-st-se",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2995 28th, St SE. Kentwood, MI 49512",
+    "city": "St SE. Kentwood",
+    "zipCode": "49512",
+    "latitude": 42.912600348316,
+    "longitude": -85.592943439442
+  }
+]

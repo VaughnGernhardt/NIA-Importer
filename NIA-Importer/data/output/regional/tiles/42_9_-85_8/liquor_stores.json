@@ -1,0 +1,182 @@
+[
+  {
+    "businessId": "0284498",
+    "businessName": "BOTTLES \u0026 BARRELS",
+    "address": "670 Baldwin St, Jenison, MI 49428-9757",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.907135072683,
+    "longitude": -85.798239627754,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "151560",
+    "businessName": "G \u0026 K PARTY STORE",
+    "address": "393 Baldwin St, Jenison, MI 49428-7988",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.90719233871,
+    "longitude": -85.791013449173,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9793",
+    "businessName": "MEIJER #26",
+    "address": "550 Baldwin St, Jenison, MI 49428-9753",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.907096438768,
+    "longitude": -85.795131869925,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291039",
+    "businessName": "SAAVINAIRA\u0027S, LLC",
+    "address": "135 Chicago Dr, Jenison, MI 49428-9379",
+    "city": "Georgetown Twp",
+    "zipCode": "49428",
+    "latitude": 42.904249201895,
+    "longitude": -85.785801070032,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291213",
+    "businessName": "CHARLIE\u0027S PARTY STORE",
+    "address": "2000 LEONARD ST NW, GRAND RAPIDS, MI 49504",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.985943302472,
+    "longitude": -85.717456850413,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141958",
+    "businessName": "FAMILY FARE SUPERMARKETS #339",
+    "address": "2755 Lake Michigan Dr NW, Grand Rapids, MI 49504-5872",
+    "city": "Grand Rapids",
+    "zipCode": "49504",
+    "latitude": 42.971827843717,
+    "longitude": -85.736320939487,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275610",
+    "businessName": "SICILIANO\u0027S MARKET",
+    "address": "3880 LAKE MICHIGAN DR NW, GRAND RAPIDS, MI 49534",
+    "city": "Grand Rapids",
+    "zipCode": "49534",
+    "latitude": 42.97209571391,
+    "longitude": -85.763131140199,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286277",
+    "businessName": "GRAND VALLEY PARTY STORE",
+    "address": "3129 28th St SW, Grandville, MI 49418-1110",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.913656196087,
+    "longitude": -85.742104981951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287769",
+    "businessName": "GRANDVILLE MARKET \u0026 SPIRITS",
+    "address": "2939 WILSON AVE SW, GRANDVILLE, MI 49418",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.911175011023,
+    "longitude": -85.763271094205,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165693",
+    "businessName": "MEL\u0027S PARTY STORE",
+    "address": "3640 Chicago Dr SW, Grandville, MI 49418-1394",
+    "city": "Grandville",
+    "zipCode": "49418",
+    "latitude": 42.912216408941,
+    "longitude": -85.754131802225,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144358",
+    "businessName": "ARCHIE\u0027S II",
+    "address": "3990 Lake Michigan Dr NW, Walker, MI 49534-4523",
+    "city": "Walker",
+    "zipCode": "49534",
+    "latitude": 42.972133578487,
+    "longitude": -85.766234341743,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155503",
+    "businessName": "MEIJER #216",
+    "address": "315 Wilson Ave NW, Walker, MI 49534-3554",
+    "city": "Walker",
+    "zipCode": "49534",
+    "latitude": 42.970647985393,
+    "longitude": -85.776363328917,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273963",
+    "businessName": "PARTYTIME PARTY STORE",
+    "address": "411 WILSON AVE NW, WALKER, MI 49534",
+    "city": "Walker",
+    "zipCode": "49534",
+    "latitude": 42.972394343266,
+    "longitude": -85.776398569831,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241466",
+    "businessName": "WONDERLAND PARTY STORE",
+    "address": "3232 Leonard St NW, Grand Rapids, MI 49534-3670",
+    "city": "Walker",
+    "zipCode": "49534",
+    "latitude": 42.986474150274,
+    "longitude": -85.748128643308,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166587",
+    "businessName": "FAMILY FARE #1580",
+    "address": "2900 Burlingame Ave SW, Wyoming, MI 49509-2610",
+    "city": "Wyoming",
+    "zipCode": "49509",
+    "latitude": 42.911753493311,
+    "longitude": -85.705127353641,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "178953",
+    "businessName": "R \u0026 S PARTY STORE",
+    "address": "3543 Byron Center Ave SW, Wyoming, MI 49519-3259",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.900340140168,
+    "longitude": -85.724623337732,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "220982",
+    "businessName": "RAI PARTY STORE",
+    "address": "2305 Lee St SW, Wyoming, MI 49519-1620",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.921568296049,
+    "longitude": -85.722111170913,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "165373",
+    "businessName": "TWENTY EIGHTH STREET PARTY STORE",
+    "address": "1800 28th St SW, Wyoming, MI 49519-2506",
+    "city": "Wyoming",
+    "zipCode": "49519",
+    "latitude": 42.913547806186,
+    "longitude": -85.71015643989,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

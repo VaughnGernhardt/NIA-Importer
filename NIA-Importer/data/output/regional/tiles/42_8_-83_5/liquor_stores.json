@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "11160",
+    "businessName": "M-15 PARTY STORE",
+    "address": "2041 S Ortonville Rd, Ortonville, MI 48462-8518",
+    "city": "Brandon Twp",
+    "zipCode": "48462",
+    "latitude": 42.821912124889,
+    "longitude": -83.439154441266,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232226",
+    "businessName": "ORTONVILLE LIQUOR STORE",
+    "address": "1970 S Ortonville Rd, Ortonville, MI 48462-8895",
+    "city": "Brandon Twp",
+    "zipCode": "48462",
+    "latitude": 42.823393187306,
+    "longitude": -83.441152301611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236725",
+    "businessName": "SMOKERS PALACE",
+    "address": "1768 S Ortonville Rd, Ortonville, MI 48462-8819",
+    "city": "Brandon Twp",
+    "zipCode": "48462",
+    "latitude": 42.825876524469,
+    "longitude": -83.443388334964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267702",
+    "businessName": "MARATHON",
+    "address": "15 N Ortonville Rd, Ortonville, MI 48462-8531",
+    "city": "Groveland Twp",
+    "zipCode": "48462",
+    "latitude": 42.853736400705,
+    "longitude": -83.453278270808,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0264010",
+    "businessName": "TOM\u0027S MARKET",
+    "address": "465 South St, Ortonville, MI 48462-8636",
+    "city": "Ortonville",
+    "zipCode": "48462",
+    "latitude": 42.845139444838,
+    "longitude": -83.447825229832,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800009969",
+    "propertyName": "CAMBRIDGE TOWERS",
+    "latitude": 42.43001399934946,
+    "longitude": -83.2390909998656,
+    "assistedUnits": 250,
+    "totalUnits": 250
+  },
+  {
+    "propertyId": "800010081",
+    "propertyName": "ELLIS MANOR",
+    "latitude": 42.43068499932902,
+    "longitude": -83.27298399985251,
+    "assistedUnits": 88,
+    "totalUnits": 89
+  },
+  {
+    "propertyId": "800010102",
+    "propertyName": "FAITH MANOR",
+    "latitude": 42.40156599909671,
+    "longitude": -83.21641799999816,
+    "assistedUnits": 56,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800010163",
+    "propertyName": "GREENHOUSE APARTMENTS",
+    "latitude": 42.41737399915283,
+    "longitude": -83.21829599996482,
+    "assistedUnits": 208,
+    "totalUnits": 208
+  },
+  {
+    "propertyId": "800010484",
+    "propertyName": "REDFORD OPPORTUNITY HOUSE",
+    "latitude": 42.41703199923723,
+    "longitude": -83.29634700018129,
+    "assistedUnits": 6,
+    "totalUnits": 6
+  },
+  {
+    "propertyId": "800010488",
+    "propertyName": "RESTORATION TOWERS",
+    "latitude": 42.41082099875514,
+    "longitude": -83.25749099959077,
+    "assistedUnits": 147,
+    "totalUnits": 147
+  },
+  {
+    "propertyId": "800010497",
+    "propertyName": "RIVER PARK PLACE",
+    "latitude": 42.479100998929596,
+    "longitude": -83.27959500026903,
+    "assistedUnits": 244,
+    "totalUnits": 244
+  },
+  {
+    "propertyId": "800010557",
+    "propertyName": "WOODRIDGE APARTMENTS",
+    "latitude": 42.47436099876283,
+    "longitude": -83.28583199969343,
+    "assistedUnits": 98,
+    "totalUnits": 100
+  }
+]

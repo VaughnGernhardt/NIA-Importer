@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "237613",
+    "businessName": "EVART EZ MART",
+    "address": "310 W 7th St, Evart, MI 49631-9415",
+    "city": "Evart",
+    "zipCode": "49631",
+    "latitude": 43.900617968741,
+    "longitude": -85.262216278431,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100180",
+    "businessName": "KC\u0027S PARTY STORE",
+    "address": "303 W 7th St, Evart, MI 49631-5113",
+    "city": "Evart",
+    "zipCode": "49631",
+    "latitude": 43.900503377358,
+    "longitude": -85.262127471601,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162225",
+    "businessName": "WESCO #63",
+    "address": "660 W 7th St, Evart, MI 49631-9408",
+    "city": "Evart",
+    "zipCode": "49631",
+    "latitude": 43.900664606439,
+    "longitude": -85.267650519834,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

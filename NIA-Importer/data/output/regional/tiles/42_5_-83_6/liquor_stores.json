@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "236308",
+    "businessName": "BENSTEIN LIQUOR STORE",
+    "address": "1050 Benstein Rd, Walled Lake, MI 48390-2916",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.538860556918,
+    "longitude": -83.502381748664,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236971",
+    "businessName": "COMMERCE LAKE MARKET",
+    "address": "1740 Glengary Rd, Walled Lake, MI 48390-1129",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.56165475127,
+    "longitude": -83.502709786674,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16464",
+    "businessName": "KROGER STORE #634",
+    "address": "47060 W Pontiac Trl, Walled Lake, MI 48390-4030",
+    "city": "Commerce Twp",
+    "zipCode": "48390",
+    "latitude": 42.525083495547,
+    "longitude": -83.514193800087,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134044",
+    "businessName": "SHERWOOD LIQUOR SHOPPE",
+    "address": "1330 E Commerce St, Milford, MI 48381-1737",
+    "city": "Milford",
+    "zipCode": "48381",
+    "latitude": 42.594808887197,
+    "longitude": -83.58883852036,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267009",
+    "businessName": "CASTLE WINE SHOPPE",
+    "address": "30970 Beck Rd, Novi, MI 48377-1001",
+    "city": "Novi",
+    "zipCode": "48377",
+    "latitude": 42.522143239284,
+    "longitude": -83.517381862824,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234411",
+    "businessName": "EXXON GAS STATION",
+    "address": "28055 S Wixom Rd, Wixom, MI 48393-3405",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.500550266818,
+    "longitude": -83.5363528354,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13045",
+    "businessName": "SAROKI\u0027S MARKET",
+    "address": "2167 N Wixom Rd, Wixom, MI 48393-4249",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.552672121477,
+    "longitude": -83.537917269422,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230356",
+    "businessName": "VINO TRAIL",
+    "address": "47764 Pontiac Trl, Wixom, MI 48393-2543",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.52502033712,
+    "longitude": -83.516804722226,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12565",
+    "businessName": "WIXOM FOOD MARKET",
+    "address": "31100 Old Wixom Rd, Wixom, MI 48393-2424",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.522181482283,
+    "longitude": -83.537647281584,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223919",
+    "businessName": "WIXOM LIQUOR",
+    "address": "49122 Pontiac Trl, Wixom, MI 48393-2569",
+    "city": "Wixom",
+    "zipCode": "48393",
+    "latitude": 42.524432040381,
+    "longitude": -83.5347064583,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

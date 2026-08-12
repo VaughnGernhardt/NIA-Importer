@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800009940",
+    "propertyName": "BRADLEY HOUSE",
+    "latitude": 43.586959999079134,
+    "longitude": -83.8921939999055,
+    "assistedUnits": 179,
+    "totalUnits": 180
+  },
+  {
+    "propertyId": "800244129",
+    "propertyName": "MALONEY MANOR",
+    "latitude": 43.58838599898606,
+    "longitude": -83.88872699967715,
+    "assistedUnits": 113,
+    "totalUnits": 113
+  },
+  {
+    "propertyId": "800244130",
+    "propertyName": "PINE TOWER",
+    "latitude": 43.599720999162614,
+    "longitude": -83.89842899968005,
+    "assistedUnits": 115,
+    "totalUnits": 115
+  },
+  {
+    "propertyId": "800010452",
+    "propertyName": "PINEVIEW APARTMENTS",
+    "latitude": 43.58978199900586,
+    "longitude": -83.836731000066,
+    "assistedUnits": 83,
+    "totalUnits": 139
+  },
+  {
+    "propertyId": "800244128",
+    "propertyName": "SMITH MANOR",
+    "latitude": 43.59548699882901,
+    "longitude": -83.88141300017716,
+    "assistedUnits": 141,
+    "totalUnits": 141
+  },
+  {
+    "propertyId": "800222944",
+    "propertyName": "VILLAGE OF HAMPTON MEADOWS",
+    "latitude": 43.58376199894013,
+    "longitude": -83.83664300020246,
+    "assistedUnits": 50,
+    "totalUnits": 51
+  }
+]

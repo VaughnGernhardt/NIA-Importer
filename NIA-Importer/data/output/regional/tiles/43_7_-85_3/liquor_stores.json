@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0258999",
+    "businessName": "EAST BAY GENERAL STORE",
+    "address": "19961 E Chippewa Lake Dr, Chippewa Lake, MI 49320-5128",
+    "city": "Chippewa Twp",
+    "zipCode": "49320",
+    "latitude": 43.75510497299,
+    "longitude": -85.283569154183,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241461",
+    "businessName": "THE NEW TUBBS LAKE RESORT LLC",
+    "address": "5808 Madison Rd, Mecosta, MI 49332-9380",
+    "city": "Sheridan Twp",
+    "zipCode": "49332",
+    "latitude": 43.707053461586,
+    "longitude": -85.203877299897,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

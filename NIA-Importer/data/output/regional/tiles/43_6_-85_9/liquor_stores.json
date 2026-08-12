@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0272622",
+    "businessName": "SCHINDY\u0027S AT DIAMOND LAKE",
+    "address": "297 W Foss Ave, White Cloud, MI 49349-9412",
+    "city": "Lincoln Twp",
+    "zipCode": "49349",
+    "latitude": 43.601461796397,
+    "longitude": -85.809474533627,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "229090",
+    "businessName": "BROHMAN EZ MART",
+    "address": "7586 N Woodbridge, Brohman, MI 49312",
+    "city": "Merrill Twp",
+    "zipCode": "49312",
+    "latitude": 43.691058941611,
+    "longitude": -85.815388074967,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

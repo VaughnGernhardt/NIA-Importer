@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "244016",
+    "businessName": "M-21 BEVERAGE, LLC",
+    "address": "1788 E Main St, Owosso, MI 48867-9054",
+    "city": "Caledonia Twp",
+    "zipCode": "48867",
+    "latitude": 42.997972589955,
+    "longitude": -84.133328320761,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273569",
+    "businessName": "QIK-SRV MARKET",
+    "address": "1903 Corunna Ave, Owosso, MI 48867-3913",
+    "city": "Caledonia Twp",
+    "zipCode": "48867",
+    "latitude": 42.986649981022,
+    "longitude": -84.144518590162,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161890",
+    "businessName": "WAL-MART SUPER CENTER #1733",
+    "address": "1621 E M 21, Owosso, MI 48867-9053",
+    "city": "Caledonia Twp",
+    "zipCode": "48867",
+    "latitude": 42.997949011663,
+    "longitude": -84.13794816665,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244010",
+    "businessName": "MCNEIL STREET MARKET",
+    "address": "444 E McNeil St, Corunna, MI 48817-1753",
+    "city": "Corunna",
+    "zipCode": "48817",
+    "latitude": 42.976839721418,
+    "longitude": -84.112495986144,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281149",
+    "businessName": "THE TOWN TUB",
+    "address": "110 N Shiawassee St, Corunna, MI 48817-1436",
+    "city": "Corunna",
+    "zipCode": "48817",
+    "latitude": 42.980018773008,
+    "longitude": -84.11783956053,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162084",
+    "businessName": "CROSSROADS MARKET",
+    "address": "800 S Chipman St, Owosso, MI 48867-4154",
+    "city": "Owosso",
+    "zipCode": "48867",
+    "latitude": 42.990486706134,
+    "longitude": -84.186762320541,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268414",
+    "businessName": "FREDDIES PARTY STORE OF OWOSSO",
+    "address": "116 S Washington St, Owosso, MI 48867-2922",
+    "city": "Owosso",
+    "zipCode": "48867",
+    "latitude": 42.997331265223,
+    "longitude": -84.170723162951,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222300",
+    "businessName": "SHELL FOOD MART",
+    "address": "109 Corunna Ave, Owosso, MI 48867-3501",
+    "city": "Owosso",
+    "zipCode": "48867",
+    "latitude": 42.992991036329,
+    "longitude": -84.17060287903,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227580",
+    "businessName": "WESTOWN SHELL FOOD MART",
+    "address": "1119 W Main St, Owosso, MI 48867-2566",
+    "city": "Owosso",
+    "zipCode": "48867",
+    "latitude": 42.997645464106,
+    "longitude": -84.185464863008,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12201",
+    "businessName": "QUIK STOP",
+    "address": "1740 W M 21, Owosso, MI 48867-1384",
+    "city": "Owosso Twp",
+    "zipCode": "48867",
+    "latitude": 42.997680215596,
+    "longitude": -84.198449721379,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

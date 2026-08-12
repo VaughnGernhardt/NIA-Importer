@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "237548",
+    "businessName": "TOPP STOP AGO",
+    "address": "8768 Belding Rd NE, Rockford, MI 49341-9361",
+    "city": "Cannon Twp",
+    "zipCode": "49341",
+    "latitude": 43.085015690896,
+    "longitude": -85.450941300527,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "233346",
+    "businessName": "PARNELL GENERAL STORE",
+    "address": "10391 5 Mile Rd NE, ADA, MI 49301-9783",
+    "city": "Grattan Twp",
+    "zipCode": "49301",
+    "latitude": 43.043475448337,
+    "longitude": -85.409632959505,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

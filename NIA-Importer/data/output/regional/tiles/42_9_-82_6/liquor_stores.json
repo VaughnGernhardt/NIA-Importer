@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "159436",
+    "businessName": "1ST CHOICE LIQUOR",
+    "address": "5439 Lapeer Rd, Kimball, MI 48074-1310",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.988277220491,
+    "longitude": -82.542612710893,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226469",
+    "businessName": "CVS/PHARMACY #8053",
+    "address": "4514 Gratiot Rd, Smiths Creek, MI 48074-4508",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.909747795734,
+    "longitude": -82.500155364766,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286129",
+    "businessName": "RED BARN MARKET #19, LLC",
+    "address": "6349 Lapeer Rd, Kimball, MI 48074-1207",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.992179147646,
+    "longitude": -82.585417045661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247723",
+    "businessName": "SUNRISE STORE #51",
+    "address": "4565 Gratiot Rd, Kimball, MI 48074-4509",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.909316384629,
+    "longitude": -82.500810548775,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "202315",
+    "businessName": "VINCKIER FOODS",
+    "address": "5275 Lapeer Rd, Smiths Creek, MI 48074-1422",
+    "city": "Kimball Twp",
+    "zipCode": "48074",
+    "latitude": 42.986597279453,
+    "longitude": -82.535896762049,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "139915",
+    "businessName": "VIKING LIQUOR STORE",
+    "address": "4757 Gratiot Ave, Saint Clair, MI 48079-1518",
+    "city": "St Clair Twp",
+    "zipCode": "48079",
+    "latitude": 42.904880675789,
+    "longitude": -82.510860872877,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

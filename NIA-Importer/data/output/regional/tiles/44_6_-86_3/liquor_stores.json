@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "13033",
+    "businessName": "FRANKFORT E-Z MART",
+    "address": "629 Main St, Frankfort, MI 49635-9059",
+    "city": "Frankfort",
+    "zipCode": "49635",
+    "latitude": 44.632524904795,
+    "longitude": -86.235544010798,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282534",
+    "businessName": "GOODY\u0027S MARKET",
+    "address": "515 Main St, Frankfort, MI 49635-9046",
+    "city": "Frankfort",
+    "zipCode": "49635",
+    "latitude": 44.632517481086,
+    "longitude": -86.237549153508,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

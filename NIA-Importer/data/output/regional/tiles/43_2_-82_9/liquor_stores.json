@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "169812",
+    "businessName": "JOHNSTON\u0027S MEATS",
+    "address": "4470 Sandusky Rd, Peck, MI 48466-9715",
+    "city": "Elk Twp",
+    "zipCode": "48466",
+    "latitude": 43.288453430894,
+    "longitude": -82.819385253725,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0268395",
+    "businessName": "SUNRISE STORES, L.L.C.",
+    "address": "123 E Lapeer St, Peck, MI 48466-9654",
+    "city": "Peck",
+    "zipCode": "48466",
+    "latitude": 43.258751410709,
+    "longitude": -82.812490732142,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

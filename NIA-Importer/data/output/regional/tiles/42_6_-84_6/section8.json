@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800248570",
+    "propertyName": "CEDAR PLACE",
+    "latitude": 42.682862999301896,
+    "longitude": -84.55378499960534,
+    "assistedUnits": 94,
+    "totalUnits": 220
+  },
+  {
+    "propertyId": "800215840",
+    "propertyName": "HUNTLEY VILLAS",
+    "latitude": 42.628833998938894,
+    "longitude": -84.52349100009125,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800010235",
+    "propertyName": "INDEPENDENCE SQUARE APARTMENTS",
+    "latitude": 42.69771199897632,
+    "longitude": -84.57895099955769,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800254044",
+    "propertyName": "LA ROY FROH APARTMENTS",
+    "latitude": 42.6868599993849,
+    "longitude": -84.58521299999475,
+    "assistedUnits": 120,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010448",
+    "propertyName": "PINEBROOK MANOR",
+    "latitude": 42.669092999280515,
+    "longitude": -84.59906099991835,
+    "assistedUnits": 136,
+    "totalUnits": 136
+  },
+  {
+    "propertyId": "800010550",
+    "propertyName": "SOMERSET",
+    "latitude": 42.69735599921523,
+    "longitude": -84.5708040003796,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010555",
+    "propertyName": "SOUTH BROOK VILLA",
+    "latitude": 42.66441099930278,
+    "longitude": -84.54599200042958,
+    "assistedUnits": 128,
+    "totalUnits": 128
+  },
+  {
+    "propertyId": "800010596",
+    "propertyName": "TAMARACK",
+    "latitude": 42.6404129992263,
+    "longitude": -84.51944800010273,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010680",
+    "propertyName": "WASHINGTON WOODS",
+    "latitude": 42.673813999018854,
+    "longitude": -84.56269099974004,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  }
+]

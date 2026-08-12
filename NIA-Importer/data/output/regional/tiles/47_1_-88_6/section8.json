@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009883",
+    "propertyName": "ARBOR GREEN",
+    "latitude": 47.1153609992125,
+    "longitude": -88.5696449996316,
+    "assistedUnits": 140,
+    "totalUnits": 140
+  },
+  {
+    "propertyId": "800010388",
+    "propertyName": "OAK HOUSE",
+    "latitude": 47.12936899903475,
+    "longitude": -88.57905899975442,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800010453",
+    "propertyName": "PINEVIEW APARTMENTS",
+    "latitude": 47.11258799905835,
+    "longitude": -88.57629100020823,
+    "assistedUnits": 11,
+    "totalUnits": 11
+  }
+]

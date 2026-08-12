@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800253112",
+    "propertyName": "5th  Avenue Apartments",
+    "latitude": 41.88077099938479,
+    "longitude": -87.83913599963076,
+    "assistedUnits": 10,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800217649",
+    "propertyName": "Bishop Goedert Residence",
+    "latitude": 41.860843999201045,
+    "longitude": -87.83950600042492,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800005974",
+    "propertyName": "DOVER PLACE",
+    "latitude": 41.81413499888818,
+    "longitude": -87.88219800041641,
+    "assistedUnits": 12,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800005919",
+    "propertyName": "GARDEN HOUSE OF MAYWOOD",
+    "latitude": 41.883460999369795,
+    "longitude": -87.8351479998938,
+    "assistedUnits": 145,
+    "totalUnits": 145
+  },
+  {
+    "propertyId": "800006042",
+    "propertyName": "LINDEN HOUSE SENIOR APARTMENTS",
+    "latitude": 41.867949999205464,
+    "longitude": -87.81850899995946,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006138",
+    "propertyName": "MAYWOOD PHOENIX HOME",
+    "latitude": 41.87823799887385,
+    "longitude": -87.83791600033832,
+    "assistedUnits": 72,
+    "totalUnits": 73
+  }
+]

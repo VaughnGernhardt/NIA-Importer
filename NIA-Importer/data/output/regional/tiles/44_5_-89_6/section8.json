@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800257787",
+    "propertyName": "Berkshire at The Grove",
+    "latitude": 44.534059999161315,
+    "longitude": -89.57987999979741,
+    "assistedUnits": 22,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800221579",
+    "propertyName": "JOHN SLABY VILLA",
+    "latitude": 44.5402319990256,
+    "longitude": -89.58991200041152,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023312",
+    "propertyName": "RIVER COVE APARTMENTS",
+    "latitude": 44.510861999280145,
+    "longitude": -89.55394200026629,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  }
+]

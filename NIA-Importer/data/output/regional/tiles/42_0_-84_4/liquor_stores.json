@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0266931",
+    "businessName": "CEMENT CITY VILLAGE MARKET, L.L.C.",
+    "address": "133 Main St, Cement City, MI 49233-9809",
+    "city": "Cement City",
+    "zipCode": "49233",
+    "latitude": 42.069851899013,
+    "longitude": -84.326566369724,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "268036",
+    "businessName": "CONVENIENCE KING GROUP, INC.",
+    "address": "18715 US HIGHWAY 12, Cement City, MI 49233-9556",
+    "city": "Woodstock Twp",
+    "zipCode": "49233",
+    "latitude": 42.048476095114,
+    "longitude": -84.35402657393,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

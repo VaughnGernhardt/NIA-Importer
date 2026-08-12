@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "144684",
+    "businessName": "GURNEY\u0027S HARBOR BOTTLE SHOP",
+    "address": "215 E Main St, Harbor Springs, MI 49740-1511",
+    "city": "Harbor Springs",
+    "zipCode": "49740",
+    "latitude": 45.430065082207,
+    "longitude": -84.987497960472,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248204",
+    "businessName": "BLARNEY CASTLE OIL CO.",
+    "address": "510 W Conway Rd, Harbor Springs, MI 49740-9489",
+    "city": "Little Traverse Twp",
+    "zipCode": "49740",
+    "latitude": 45.427861655955,
+    "longitude": -84.904153251331,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11007",
+    "businessName": "PLEASANTVIEW E-Z MART",
+    "address": "5667 S Pleasantview Rd, Harbor Springs, MI 49740-9420",
+    "city": "Pleasant View Twp",
+    "zipCode": "49740",
+    "latitude": 45.469222716313,
+    "longitude": -84.914446366381,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "209119",
+    "businessName": "HARBOR SPRINGS EZ MART",
+    "address": "105 Franklin Park, Harbor Springs, MI 49740-9608",
+    "city": "West Traverse Twp",
+    "zipCode": "49740",
+    "latitude": 45.441954637055,
+    "longitude": -84.990392680449,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

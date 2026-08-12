@@ -1,0 +1,252 @@
+[
+  {
+    "businessId": "0275700",
+    "businessName": "16 \u0026 GRATIOT BP",
+    "address": "36843 S Gratiot Ave, Clinton Township, MI 48035-1728",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.568553273961,
+    "longitude": -82.892503012949,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225421",
+    "businessName": "BUSCHEMI\u0027S",
+    "address": "37458 Harper Ave, Clinton Township, MI 48036-3016",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.572351243135,
+    "longitude": -82.871439170224,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214306",
+    "businessName": "CVS/PHARMACY #8092",
+    "address": "37050 S Gratiot Ave, Clinton Township, MI 48036-2700",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.5708421182,
+    "longitude": -82.890667104516,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "241985",
+    "businessName": "GRATIOT - SCHAFER, INC.",
+    "address": "36640 S Gratiot Ave, Clinton Township, MI 48035-1721",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.566561279448,
+    "longitude": -82.892967580117,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "218583",
+    "businessName": "HARPER LIQUOR LAND",
+    "address": "35411 Harper Ave, Clinton Township, MI 48035-3208",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.557476586216,
+    "longitude": -82.870226223607,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "205897",
+    "businessName": "HOLIDAY MARKET CLINTON TOWNSHIP",
+    "address": "37155 Harper Ave, Clinton Township, MI 48036-3013",
+    "city": "Clinton Twp",
+    "zipCode": "48036",
+    "latitude": 42.570629397951,
+    "longitude": -82.871690678914,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150233",
+    "businessName": "MR. C\u0027S",
+    "address": "35990 S Gratiot Ave, Clinton Township, MI 48035-1713",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.56314844534,
+    "longitude": -82.894796108541,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239751",
+    "businessName": "PLATINUM PETROLEUM , INC.",
+    "address": "36900 Harper Ave, Clinton Township, MI 48035-2015",
+    "city": "Clinton Twp",
+    "zipCode": "48035",
+    "latitude": 42.568985530783,
+    "longitude": -82.871626270661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281173",
+    "businessName": "BOAT TOWN LIQUOR",
+    "address": "35550 Jefferson Ave, Harrison Township, MI 48045-3248",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.555875706082,
+    "longitude": -82.852693647431,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "210937",
+    "businessName": "HARRISON LIQUOR",
+    "address": "34391 Jefferson Ave, Harrison Township, MI 48045-3232",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.543148919057,
+    "longitude": -82.859349812432,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287355",
+    "businessName": "HT HARRISON INC",
+    "address": "36531 Jefferson Ave, Harrison Township, MI 48045-2910",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.56699571731,
+    "longitude": -82.841838103154,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14320",
+    "businessName": "KROGER STORE #622",
+    "address": "26300 Crocker Blvd, Harrison Township, MI 48045-2457",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.570509455183,
+    "longitude": -82.849371342934,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276720",
+    "businessName": "METRO PARTY SHOPPE",
+    "address": "38666 Jefferson Ave, Harrison Township, MI 48045-2650",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.579965800304,
+    "longitude": -82.811270654731,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "226568",
+    "businessName": "PETE\u0027S PARTY STORE",
+    "address": "25870 S River Rd, Harrison Township, MI 48045-5600",
+    "city": "Harrison Twp",
+    "zipCode": "48045",
+    "latitude": 42.589556394939,
+    "longitude": -82.849979758964,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272901",
+    "businessName": "CASS MARKET \u0026 LIQUOR",
+    "address": "276-278-280 Cass Ave, Mount Clemens, MI 48043",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.598065472415,
+    "longitude": -82.890874439309,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12850",
+    "businessName": "SOUTH VALLEY LIQUOR \u0026 DELI SHOP",
+    "address": "1336 Southbound Gratiot Ave, Mount Clemens, MI 48043-6532",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.580587379582,
+    "longitude": -82.88610226623,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228686",
+    "businessName": "TAMN, INC.",
+    "address": "136 Northbound Gratiot Ave, Mount Clemens, MI 48043-5602",
+    "city": "Mt Clemens",
+    "zipCode": "48043",
+    "latitude": 42.599954793104,
+    "longitude": -82.874295239301,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0258802",
+    "businessName": "BP",
+    "address": "31130 Harper Ave, Saint Clair Shores, MI 48082-1950",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.524103167524,
+    "longitude": -82.898155178003,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12717",
+    "businessName": "KING FOOD CENTER",
+    "address": "31328 Harper Ave, Saint Clair Shores, MI 48082-2450",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.525996302924,
+    "longitude": -82.896168484751,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265410",
+    "businessName": "MARINO\u0027S LIQUOR \u0026 PARTY STORE, INC.",
+    "address": "22335 Masonic Blvd, Saint Clair Shores, MI 48082-1013",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.532501077305,
+    "longitude": -82.889586265264,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10295",
+    "businessName": "ROSEVILLE VILLAGE INN, INC.",
+    "address": "28510 Harper Ave, Saint Clair Shores, MI 48081-1285",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.503263576022,
+    "longitude": -82.897881444057,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "155901",
+    "businessName": "SAM\u0027S PARTY SHOPPE",
+    "address": "33333 Harper Ave, Saint Clair Shores, MI 48082-1023",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.539772396007,
+    "longitude": -82.882486526713,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279973",
+    "businessName": "SETTO ENTERPRISES, INC.",
+    "address": "29955 Harper Ave, Saint Clair Shores, MI 48082-1639",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.513499930105,
+    "longitude": -82.89856932742,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240795",
+    "businessName": "SHORE\u0027S CANTEEN",
+    "address": "30631 Jefferson Ave, Saint Clair Shores, MI 48082-1734",
+    "city": "St Clair Shores",
+    "zipCode": "48082",
+    "latitude": 42.51851468734,
+    "longitude": -82.878044961788,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247674",
+    "businessName": "SUNOCO",
+    "address": "29157 Jefferson Ave, Saint Clair Shores, MI 48081-1331",
+    "city": "St Clair Shores",
+    "zipCode": "48081",
+    "latitude": 42.507102817903,
+    "longitude": -82.881589144314,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

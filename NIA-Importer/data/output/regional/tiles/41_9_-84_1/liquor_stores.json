@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0282371",
+    "businessName": "117 MCKENZIE LLC",
+    "address": "117 N McKenzie St, Adrian, MI 49221-1903",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.900323258652,
+    "longitude": -84.048949946414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259701",
+    "businessName": "FINE TIME BEVERAGE, INC.",
+    "address": "1145 N Main St, Adrian, MI 49221-1706",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.908716471809,
+    "longitude": -84.030733782414,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "147341",
+    "businessName": "KENCO INC.",
+    "address": "1535 W Maumee St, Adrian, MI 49221-1805",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.905217309858,
+    "longitude": -84.067216847041,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237950",
+    "businessName": "POINT GROCERY",
+    "address": "826 N Main St, Adrian, MI 49221-2154",
+    "city": "Adrian",
+    "zipCode": "49221",
+    "latitude": 41.905712392031,
+    "longitude": -84.032208690209,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222874",
+    "businessName": "CLARK\u0027S CORNER",
+    "address": "2512 Hunt Rd, Adrian, MI 49221-9230",
+    "city": "Adrian Twp",
+    "zipCode": "49221",
+    "latitude": 41.927242242219,
+    "longitude": -84.03576231057,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

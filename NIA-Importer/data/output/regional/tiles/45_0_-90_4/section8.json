@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800023079",
+    "propertyName": "DORCHESTER NON-PROFIT HOUSING CORP.",
+    "latitude": 45.00672999882135,
+    "longitude": -90.33369400040073,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023289",
+    "propertyName": "PRAIRIE VILLAGE",
+    "latitude": 45.07831999926643,
+    "longitude": -90.31997899964819,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  }
+]

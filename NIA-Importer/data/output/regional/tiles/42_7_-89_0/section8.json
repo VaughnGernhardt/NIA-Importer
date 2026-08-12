@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800213021",
+    "propertyName": "GREEN FOREST RUN I",
+    "latitude": 42.70479699900619,
+    "longitude": -88.98041600005702,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800215337",
+    "propertyName": "GREEN FOREST RUN II",
+    "latitude": 42.70458399914206,
+    "longitude": -88.98027600031494,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800023134",
+    "propertyName": "LEXINGTON COURT TOWNHOMES",
+    "latitude": 42.71487199877443,
+    "longitude": -88.99335000011163,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800223307",
+    "propertyName": "PARKVIEW TERRACE APARTMENTS",
+    "latitude": 42.777028999369485,
+    "longitude": -88.93803700005998,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  }
+]

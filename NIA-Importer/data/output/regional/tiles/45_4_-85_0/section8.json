@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010180",
+    "propertyName": "VILLAGE OF HILLSIDE EAST",
+    "latitude": 45.42825999874315,
+    "longitude": -84.99496099987292,
+    "assistedUnits": 24,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800061564",
+    "propertyName": "VILLAGE OF HILLSIDE WEST",
+    "latitude": 45.42826099925023,
+    "longitude": -84.99494900017737,
+    "assistedUnits": 16,
+    "totalUnits": 17
+  }
+]

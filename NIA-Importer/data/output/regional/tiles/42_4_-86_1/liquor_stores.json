@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0259282",
+    "businessName": "MR. GROCERY",
+    "address": "53941 County Road 388, Grand Junction, MI 49056-9000",
+    "city": "Columbia Twp",
+    "zipCode": "49056",
+    "latitude": 42.404352674638,
+    "longitude": -86.071797775378,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "244493",
+    "businessName": "PREFERRED MARKET INC.",
+    "address": "5615 109th Ave, Pullman, MI 49450-9635",
+    "city": "Lee Twp",
+    "zipCode": "49450",
+    "latitude": 42.484009253471,
+    "longitude": -86.091990954562,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

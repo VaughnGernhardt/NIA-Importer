@@ -1,0 +1,312 @@
+[
+  {
+    "businessId": "0266138",
+    "businessName": "7-Eleven #27420-C",
+    "address": "2489 Lapeer Rd, Auburn Hills, MI 48326-1922",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.678830503005,
+    "longitude": -83.250215701184,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11959",
+    "businessName": "CRYSTAL PALACE LIQUOR",
+    "address": "2255 E Walton Blvd, Auburn Hills, MI 48326-1953",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.678397532419,
+    "longitude": -83.246747808506,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11615",
+    "businessName": "HAPPY HOUR PARTY SHOPPE",
+    "address": "3359 Auburn Rd, Auburn Hills, MI 48326-3311",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.633725566473,
+    "longitude": -83.221619993914,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279397",
+    "businessName": "KNB OPDYKE, INC",
+    "address": "747 S Opdyke Rd, Auburn Hills, MI 48326-3436",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.622807825639,
+    "longitude": -83.248700333153,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274102",
+    "businessName": "OPDYKE AMOCO, INC.",
+    "address": "2019 N Opdyke Rd, Auburn Hills, MI 48326-2432",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.671335037156,
+    "longitude": -83.245927346308,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160848",
+    "businessName": "OPDYKE GAS STATION, INC.",
+    "address": "200 N Opdyke Rd, Auburn Hills, MI 48326-2973",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.637466111913,
+    "longitude": -83.249594072084,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9640",
+    "businessName": "STADIUM PARTY STORE",
+    "address": "2026 N Opdyke Rd, Auburn Hills, MI 48326-2431",
+    "city": "Auburn Hills",
+    "zipCode": "48326",
+    "latitude": 42.67147801527,
+    "longitude": -83.2457769311,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14856",
+    "businessName": "COSTCO WHOLESALE #1037",
+    "address": "2343 S Telegraph Rd, Bloomfield Hills, MI 48302-0254",
+    "city": "Bloomfield Twp",
+    "zipCode": "48302",
+    "latitude": 42.605268772778,
+    "longitude": -83.294429490591,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214209",
+    "businessName": "CVS/PHARMACY #8184",
+    "address": "42934 Woodward Ave, Bloomfield Hills, MI 48304-5034",
+    "city": "Bloomfield Twp",
+    "zipCode": "48304",
+    "latitude": 42.603102631689,
+    "longitude": -83.263413758714,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287981",
+    "businessName": "GHAFARI MOBIL, INC.",
+    "address": "43003 Woodward Ave, Bloomfield Hills, MI 48302-5010",
+    "city": "Bloomfield Twp",
+    "zipCode": "48302",
+    "latitude": 42.603907569328,
+    "longitude": -83.264753369136,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260616",
+    "businessName": "SOUTH BOULEVARD \u0026 OPDYKE STATION, INC.",
+    "address": "1501 S Opdyke Rd, Bloomfield Hills, MI 48304-1042",
+    "city": "Bloomfield Twp",
+    "zipCode": "48304",
+    "latitude": 42.619887364873,
+    "longitude": -83.248487414742,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223571",
+    "businessName": "TARGET #2178",
+    "address": "2400 S Telegraph Rd, Bloomfield Hills, MI 48302-0255",
+    "city": "Bloomfield Twp",
+    "zipCode": "48302",
+    "latitude": 42.604670993687,
+    "longitude": -83.294311299015,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10460",
+    "businessName": "BALDWIN\u0027S MARKET",
+    "address": "118 Baldwin Ave, Pontiac, MI 48342-1208",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.648009124019,
+    "longitude": -83.299164222251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12038",
+    "businessName": "BIG DADDY\u0027S LIQUOR",
+    "address": "805 Baldwin Ave, Pontiac, MI 48340-2504",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.659439761029,
+    "longitude": -83.299971934661,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216712",
+    "businessName": "CARNIVAL MARKET",
+    "address": "1101 E Walton Blvd, Pontiac, MI 48340-1591",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.678006026682,
+    "longitude": -83.261048809269,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227745",
+    "businessName": "CHRYSTAL LAKE LIQUOR",
+    "address": "331 Rockwell Ave, Pontiac, MI 48341-2456",
+    "city": "Pontiac",
+    "zipCode": "48341",
+    "latitude": 42.624218920388,
+    "longitude": -83.293333764319,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235786",
+    "businessName": "CITY SIDE MARKET",
+    "address": "1716 Joslyn Ave, Pontiac, MI 48340-1321",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.683807464624,
+    "longitude": -83.280704120121,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144502",
+    "businessName": "FRANKLIN MARKET",
+    "address": "360 Franklin Rd, Pontiac, MI 48341-2427",
+    "city": "Pontiac",
+    "zipCode": "48341",
+    "latitude": 42.619801408322,
+    "longitude": -83.288275432409,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144534",
+    "businessName": "HURON PARTY SHOPPE",
+    "address": "140 E Huron St, Pontiac, MI 48342-2608",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.639625127447,
+    "longitude": -83.287324909902,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "222044",
+    "businessName": "JOSLYN BEVERAGE",
+    "address": "1124 Joslyn Ave, Pontiac, MI 48340-2867",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.669460311186,
+    "longitude": -83.280422678599,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291357",
+    "businessName": "JOSLYN PETROLEUM LLC",
+    "address": "1430 Joslyn Ave, Pontiac, MI 48340-2065",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.677405240285,
+    "longitude": -83.280728574217,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261280",
+    "businessName": "KING\u0027S LIQUOR",
+    "address": "689 Martin Luther King Jr Blvd N, Pontiac, MI 48342-1627",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.655066432949,
+    "longitude": -83.276165229532,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235439",
+    "businessName": "MARATHON",
+    "address": "1260 Joslyn Ave, Pontiac, MI 48340-2061",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.672191230502,
+    "longitude": -83.280591163698,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "145272",
+    "businessName": "PERRY\u0027S PALACE",
+    "address": "441 N Perry St, Pontiac, MI 48342-2447",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.64792522994,
+    "longitude": -83.287313734597,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277736",
+    "businessName": "PIKE FOOD CENTER",
+    "address": "465 E Pike St, Pontiac, MI 48342-2833",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.638087499881,
+    "longitude": -83.274109961455,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16002",
+    "businessName": "PRIMETIME LIQUOR AND KITCHEN STORE",
+    "address": "687 University Dr, Pontiac, MI 48342-1758",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.648899741733,
+    "longitude": -83.271204316014,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240187",
+    "businessName": "RWTA, INC.",
+    "address": "640 Auburn Ave, Pontiac, MI 48342-3365",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.634719301767,
+    "longitude": -83.267472963844,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0272457",
+    "businessName": "STAR PARTY STORE",
+    "address": "84 Auburn Ave, Pontiac, MI 48342-3004",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.634156366601,
+    "longitude": -83.287943846267,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217300",
+    "businessName": "TRADEMARK FOOD \u0026 LIQUOR",
+    "address": "1220 N Perry St, Pontiac, MI 48340-3134",
+    "city": "Pontiac",
+    "zipCode": "48340",
+    "latitude": 42.663143392278,
+    "longitude": -83.268122566579,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11055",
+    "businessName": "UNIVERSITY FOOD \u0026 DRUGS",
+    "address": "904 University Dr, Pontiac, MI 48342-1865",
+    "city": "Pontiac",
+    "zipCode": "48342",
+    "latitude": 42.652882389893,
+    "longitude": -83.265620642687,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "219902",
+    "businessName": "MEIJER #260",
+    "address": "3610 Marketplace Cir, Rochester Hills, MI 48309-5515",
+    "city": "Rochester Hills",
+    "zipCode": "48309",
+    "latitude": 42.643436947934,
+    "longitude": -83.202799454106,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

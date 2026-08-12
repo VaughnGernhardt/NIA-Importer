@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "193264",
+    "businessName": "FAMILY FARE #1975",
+    "address": "56151 M 51 S, Dowagiac, MI 49047-9762",
+    "city": "Dowagiac",
+    "zipCode": "49047",
+    "latitude": 41.979617349356,
+    "longitude": -86.13002904913,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239584",
+    "businessName": "MEGA LIQUOR \u0026 SMOKE #101",
+    "address": "56190 M 51, DOWAGIAC, MI",
+    "city": "Dowagiac",
+    "zipCode": "",
+    "latitude": 41.981689173382,
+    "longitude": -86.127339639866,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "175935",
+    "businessName": "NORTHSIDE FOOD \u0026 LIQUOR STORE",
+    "address": "602 N Front St, Dowagiac, MI 49047-1251",
+    "city": "Dowagiac",
+    "zipCode": "49047",
+    "latitude": 41.991409912547,
+    "longitude": -86.107192611794,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234955",
+    "businessName": "BENT TREE MARKET",
+    "address": "58878 M 51 S, Dowagiac, MI 49047-9733",
+    "city": "Pokagon Twp",
+    "zipCode": "49047",
+    "latitude": 41.943568048344,
+    "longitude": -86.161082889739,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263527",
+    "businessName": "PALVI, LLC",
+    "address": "60893 M 51 S, Dowagiac, MI 49047-9769",
+    "city": "Pokagon Twp",
+    "zipCode": "49047",
+    "latitude": 41.91430831575,
+    "longitude": -86.176546660665,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

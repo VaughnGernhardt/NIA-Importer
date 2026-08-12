@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010515",
+    "propertyName": "RIVERVIEW TERRACE",
+    "latitude": 45.368936998980935,
+    "longitude": -84.96441899976341,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800010623",
+    "propertyName": "TRAVERSE WOODS II",
+    "latitude": 45.37817299901184,
+    "longitude": -84.94141199998512,
+    "assistedUnits": 44,
+    "totalUnits": 128
+  }
+]

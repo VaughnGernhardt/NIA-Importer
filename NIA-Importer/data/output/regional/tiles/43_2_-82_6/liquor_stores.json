@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "144621",
+    "businessName": "SUNRISE STORE #57",
+    "address": "5495 Main St, Lexington, MI 48450-9385",
+    "city": "Lexington",
+    "zipCode": "48450",
+    "latitude": 43.267756642786,
+    "longitude": -82.530892277007,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273024",
+    "businessName": "GREAT LAKES BEACH MARKET",
+    "address": "7023 Lakeshore Rd, Lexington, MI 48450-8943",
+    "city": "Worth Twp",
+    "zipCode": "48450",
+    "latitude": 43.225072208497,
+    "longitude": -82.528405174519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247718",
+    "businessName": "SUNRISE STORE #22",
+    "address": "7434 Lakeshore Rd, Lexington, MI 48450-9766",
+    "city": "Worth Twp",
+    "zipCode": "48450",
+    "latitude": 43.213002869377,
+    "longitude": -82.527751608692,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

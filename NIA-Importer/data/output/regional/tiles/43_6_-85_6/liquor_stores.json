@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "133740",
+    "businessName": "MEIJER #203",
+    "address": "15400 Waldron Way, Big Rapids, MI 49307-8890",
+    "city": "Big Rapids Twp",
+    "zipCode": "49307",
+    "latitude": 43.690341233335,
+    "longitude": -85.51558005717,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142087",
+    "businessName": "WAL-MART SUPERCENTER #1719",
+    "address": "21400 Perry Ave, Big Rapids, MI 49307-9262",
+    "city": "Big Rapids Twp",
+    "zipCode": "49307",
+    "latitude": 43.68864139538,
+    "longitude": -85.509916827996,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154544",
+    "businessName": "WESCO #60",
+    "address": "21380 Perry Ave, Big Rapids, MI 49307-9262",
+    "city": "Big Rapids Twp",
+    "zipCode": "49307",
+    "latitude": 43.688643862647,
+    "longitude": -85.509559071434,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

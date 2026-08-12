@@ -1,0 +1,32 @@
+[
+  {
+    "storeId": "32311-john-r-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 32311, John R Road Madison Heights, MI 48071-1324",
+    "city": "John R Road Madison Heights",
+    "zipCode": "48071",
+    "latitude": 42.530487932174,
+    "longitude": -83.106954428768
+  },
+  {
+    "storeId": "555-e-13-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "555 E. 13, Mile Rd Royal Oak, MI 48073-2868",
+    "city": "Mile Rd Royal Oak",
+    "zipCode": "48073",
+    "latitude": 42.519303590366,
+    "longitude": -83.137531605281
+  },
+  {
+    "storeId": "2037-w-maple-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2037, W Maple Road Troy, MI 48084-7100",
+    "city": "W Maple Road Troy",
+    "zipCode": "48084",
+    "latitude": 42.547683567748,
+    "longitude": -83.173618111937
+  }
+]

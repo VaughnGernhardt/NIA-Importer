@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800022926",
+    "propertyName": "CHATEAU/REGENCY APTS.",
+    "latitude": 42.77196099919936,
+    "longitude": -87.7866610003438,
+    "assistedUnits": 65,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800023138",
+    "propertyName": "LINCOLN VILLAS NORTH",
+    "latitude": 42.76858599894932,
+    "longitude": -87.78428999955932,
+    "assistedUnits": 74,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800023165",
+    "propertyName": "MCMYNN TOWER",
+    "latitude": 42.72616999907227,
+    "longitude": -87.78182999998468,
+    "assistedUnits": 123,
+    "totalUnits": 123
+  },
+  {
+    "propertyId": "800023370",
+    "propertyName": "ST. PAUL GARDENS APARTMENTS",
+    "latitude": 42.71938499935444,
+    "longitude": -87.78954799971571,
+    "assistedUnits": 33,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800023420",
+    "propertyName": "THE HOME COMPANY",
+    "latitude": 42.71812899934736,
+    "longitude": -87.79132799977307,
+    "assistedUnits": 25,
+    "totalUnits": 25
+  },
+  {
+    "propertyId": "800023434",
+    "propertyName": "TRINITY TERRACE",
+    "latitude": 42.70320499876346,
+    "longitude": -87.7893789996613,
+    "assistedUnits": 39,
+    "totalUnits": 40
+  }
+]

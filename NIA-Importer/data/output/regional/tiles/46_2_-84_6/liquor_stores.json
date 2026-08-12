@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "243990",
+    "businessName": "KINROSS EZ MART",
+    "address": "6737 W M 80, Kinross, MI 49752-9168",
+    "city": "Kinross Twp",
+    "zipCode": "49752",
+    "latitude": 46.273117751149,
+    "longitude": -84.505169856007,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243964",
+    "businessName": "RUDYARD EZ MART",
+    "address": "18896 S Mackinac Trl, Rudyard, MI 49780-9278",
+    "city": "Rudyard Twp",
+    "zipCode": "49780",
+    "latitude": 46.232468861501,
+    "longitude": -84.5925305109,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

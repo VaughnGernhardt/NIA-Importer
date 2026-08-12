@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "241310",
+    "businessName": "BELLAIRE EZ MART",
+    "address": "611 E Cayuga St, Bellaire, MI 49615-9770",
+    "city": "Bellaire",
+    "zipCode": "49615",
+    "latitude": 44.975512726357,
+    "longitude": -85.19974343969,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267060",
+    "businessName": "SPIRITS ON M88",
+    "address": "316 S Division St, Bellaire, MI 49615-9196",
+    "city": "Bellaire",
+    "zipCode": "49615",
+    "latitude": 44.971813546006,
+    "longitude": -85.198463974522,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

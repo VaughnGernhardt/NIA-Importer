@@ -1,0 +1,82 @@
+[
+  {
+    "businessId": "0275708",
+    "businessName": "B \u0026 B PARTY SHOPPE",
+    "address": "31723 23 Mile Rd, New Baltimore, MI 48047-1879",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.675191490528,
+    "longitude": -82.790060555809,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214302",
+    "businessName": "CVS/PHARMACY #8108",
+    "address": "33920 Twenty Three Mile, Chesterfield, MI 48047",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.675607099093,
+    "longitude": -82.768153146058,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15400",
+    "businessName": "KROGER STORE #724",
+    "address": "35000 Twenty Three Mile, New Baltimore, MI 48047",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.675923354043,
+    "longitude": -82.757407569085,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14607",
+    "businessName": "MAMA\u0027S PIZZERIA AND PARTY STORE",
+    "address": "48909 Jefferson Ave, New Baltimore, MI 48047-3431",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.65757674722,
+    "longitude": -82.783975763972,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11993",
+    "businessName": "WOODEN KEG PARTY SHOPPE",
+    "address": "49420 Jefferson Ave, New Baltimore, MI 48047-2306",
+    "city": "Chesterfield Twp",
+    "zipCode": "48047",
+    "latitude": 42.659525854648,
+    "longitude": -82.771643461708,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279440",
+    "businessName": "BIG GUYS MART",
+    "address": "10336 Dixie Hwy, Fair Haven, MI 48023-1756",
+    "city": "Ira Twp",
+    "zipCode": "48023",
+    "latitude": 42.689458721306,
+    "longitude": -82.704867368131,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227754",
+    "businessName": "A \u0026 B OF NEW BALTIMORE",
+    "address": "36450 Green St, New Baltimore, MI 48047-2542",
+    "city": "New Baltimore",
+    "zipCode": "48047",
+    "latitude": 42.68146576314,
+    "longitude": -82.736310397805,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288932",
+    "businessName": "SS1 SHELL, LLC",
+    "address": "37820 Green St, New Baltimore, MI 48047-4212",
+    "city": "New Baltimore",
+    "zipCode": "48047",
+    "latitude": 42.686944142901,
+    "longitude": -82.722141295252,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

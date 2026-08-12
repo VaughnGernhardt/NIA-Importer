@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "237616",
+    "businessName": "CLARE EZ MART",
+    "address": "10400 S Clare Ave, Clare, MI 48617-8909",
+    "city": "Clare",
+    "zipCode": "48617",
+    "latitude": 43.837206360554,
+    "longitude": -84.768293343445,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12730",
+    "businessName": "WITBECK\u0027S FAMILY FOODS",
+    "address": "1026 N McEwan St, Clare, MI 48617-1108",
+    "city": "Clare",
+    "zipCode": "48617",
+    "latitude": 43.824504489493,
+    "longitude": -84.768273357584,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290374",
+    "businessName": "BEACON \u0026 BRIDGE MARKET # 25",
+    "address": "9022 S Clare Ave, Clare, MI 48617-8610",
+    "city": "Grant Twp",
+    "zipCode": "48617",
+    "latitude": 43.85650795176,
+    "longitude": -84.768186657693,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

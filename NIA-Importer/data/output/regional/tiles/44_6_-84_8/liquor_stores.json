@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "157637",
+    "businessName": "FORWARD ENTERPRISES, INC.",
+    "address": "503 N James St, Grayling, MI 49738-1713",
+    "city": "Grayling",
+    "zipCode": "49738",
+    "latitude": 44.662388621727,
+    "longitude": -84.71600024194,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "170674",
+    "businessName": "SINGH\u0027S ROCHETTE PARTY STORE",
+    "address": "508 N James St, Grayling, MI 49738-1714",
+    "city": "Grayling",
+    "zipCode": "49738",
+    "latitude": 44.66251436593,
+    "longitude": -84.715950120775,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

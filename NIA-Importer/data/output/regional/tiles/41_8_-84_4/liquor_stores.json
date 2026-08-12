@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "236558",
+    "businessName": "C-MART",
+    "address": "150 W Main St, Hudson, MI 49247-1023",
+    "city": "Hudson",
+    "zipCode": "49247",
+    "latitude": 41.854993745385,
+    "longitude": -84.352524303573,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "150371",
+    "businessName": "127 PARTY STORE",
+    "address": "4938 S Meridian Rd, Hudson, MI 49247-9642",
+    "city": "Pittsford Twp",
+    "zipCode": "49247",
+    "latitude": 41.855994287067,
+    "longitude": -84.361912420909,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

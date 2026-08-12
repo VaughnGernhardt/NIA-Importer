@@ -1,0 +1,18 @@
+[
+  {
+    "propertyId": "800010132",
+    "propertyName": "FRIENDSHIP PLACE",
+    "latitude": 41.89820299915529,
+    "longitude": -84.03392199998501,
+    "assistedUnits": 58,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800010314",
+    "propertyName": "MAPLE VILLAGE",
+    "latitude": 41.88128099923548,
+    "longitude": -84.04306900014413,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  }
+]

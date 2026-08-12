@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800009978",
+    "propertyName": "CANTON PLACE",
+    "latitude": 42.32197799873539,
+    "longitude": -83.47890600000405,
+    "assistedUnits": 117,
+    "totalUnits": 118
+  },
+  {
+    "propertyId": "800010290",
+    "propertyName": "LINCOLNSHIRE",
+    "latitude": 42.350012999176315,
+    "longitude": -83.48394499987732,
+    "assistedUnits": 146,
+    "totalUnits": 147
+  },
+  {
+    "propertyId": "800010570",
+    "propertyName": "ST DAVIDS GATE",
+    "latitude": 42.358222999206816,
+    "longitude": -83.48362199983713,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800033412",
+    "propertyName": "THOMAS F. TAYLOR TOWERS",
+    "latitude": 42.31713399911467,
+    "longitude": -83.40089400014566,
+    "assistedUnits": 266,
+    "totalUnits": 266
+  }
+]

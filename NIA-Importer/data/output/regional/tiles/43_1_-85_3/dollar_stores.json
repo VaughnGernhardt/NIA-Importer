@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "300-s-greenville-w-dr",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 300, S Greenville W Dr Greenville, MI 48838-1594",
+    "city": "S Greenville W Dr Greenville",
+    "zipCode": "48838",
+    "latitude": 43.18084565965,
+    "longitude": -85.277922334156
+  },
+  {
+    "storeId": "114-w-grove-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 114, W Grove St Greenville, MI 48838-1838",
+    "city": "W Grove St Greenville",
+    "zipCode": "48838",
+    "latitude": 43.1807276781,
+    "longitude": -85.253430438511
+  }
+]

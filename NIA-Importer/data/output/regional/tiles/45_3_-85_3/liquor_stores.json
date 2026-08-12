@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0274172",
+    "businessName": "ANDY\u0027S PARTY STORE",
+    "address": "1411 Bridge St, Charlevoix, MI 49720-1609",
+    "city": "Charlevoix",
+    "zipCode": "49720",
+    "latitude": 45.307530519667,
+    "longitude": -85.258827383035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234985",
+    "businessName": "BRIDGE STREET WINE \u0026 SPIRITS",
+    "address": "100 Belvedere Ave, Charlevoix, MI 49720-1388",
+    "city": "Charlevoix",
+    "zipCode": "49720",
+    "latitude": 45.314708248098,
+    "longitude": -85.258597417894,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141393",
+    "businessName": "CHARLEVOIX NORTH EZ MART",
+    "address": "12665 US Highway 31 N, Charlevoix, MI 49720-1101",
+    "city": "Charlevoix",
+    "zipCode": "49720",
+    "latitude": 45.327265568987,
+    "longitude": -85.233365667597,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240528",
+    "businessName": "KRIST FOOD MART #41",
+    "address": "12969 US Highway 31 N, Charlevoix, MI 49720-2101",
+    "city": "Charlevoix Twp",
+    "zipCode": "49720",
+    "latitude": 45.325834280369,
+    "longitude": -85.238712386623,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243947",
+    "businessName": "KRIST FOOD MART #42",
+    "address": "6870 US Highway 31 S, Charlevoix, MI 49720-9701",
+    "city": "Charlevoix Twp",
+    "zipCode": "49720",
+    "latitude": 45.30065331477,
+    "longitude": -85.272355286151,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

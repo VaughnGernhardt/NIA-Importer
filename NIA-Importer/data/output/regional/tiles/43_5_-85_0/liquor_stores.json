@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0266667",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "2977 W Remus Rd, Mount Pleasant, MI 48858-9612",
+    "city": "Deerfield Twp",
+    "zipCode": "48858",
+    "latitude": 43.597425317989,
+    "longitude": -84.907050939148,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223575",
+    "businessName": "GOLDSWORTHY\u0027S, INC.",
+    "address": "6993 W Blanchard Rd, Blanchard, MI 49310-9754",
+    "city": "Rolland Twp",
+    "zipCode": "49310",
+    "latitude": 43.524086225099,
+    "longitude": -84.985941588426,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "212758",
+    "businessName": "CVS/PHARMACY #5741",
+    "address": "7488 Village Center, Whitmore Lake, MI 48189",
+    "city": "Hamburg Twp",
+    "zipCode": "48189",
+    "latitude": 42.456442269961,
+    "longitude": -83.79947767329,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "192354",
+    "businessName": "LAKESIDE PARTY SHOPPE",
+    "address": "52 Barker Rd, Whitmore Lake, MI 48189-9500",
+    "city": "Northfield Twp",
+    "zipCode": "48189",
+    "latitude": 42.423429766088,
+    "longitude": -83.763438214417,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288469",
+    "businessName": "MK MARKET, INC",
+    "address": "9589 Main St, Whitmore Lake, MI 48189-9401",
+    "city": "Northfield Twp",
+    "zipCode": "48189",
+    "latitude": 42.423652011466,
+    "longitude": -83.762452225481,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247678",
+    "businessName": "SUNOCO",
+    "address": "9254 Main St, Whitmore Lake, MI 48189-9403",
+    "city": "Northfield Twp",
+    "zipCode": "48189",
+    "latitude": 42.418604680318,
+    "longitude": -83.760630340748,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4117-17-mile-rd-ne",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "4117 17, Mile Rd NE Cedar Springs, MI 49319-9451",
+    "city": "Mile Rd NE Cedar Springs",
+    "zipCode": "49319",
+    "latitude": 43.219914017085,
+    "longitude": -85.568526779471
+  },
+  {
+    "storeId": "24-s-3rd-street",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "24 S 3rd, Street Sand Lake, MI 49343",
+    "city": "Street Sand Lake",
+    "zipCode": "49343",
+    "latitude": 43.291284307018,
+    "longitude": -85.514723004846
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "231435",
+    "businessName": "POSSUM\u0027S PUMP \u0026 PARTY STORE",
+    "address": "4007 Peet Rd, Chesaning, MI 48616-9633",
+    "city": "Maple Grove Twp",
+    "zipCode": "48616",
+    "latitude": 43.175625430603,
+    "longitude": -83.989207969684,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242565",
+    "businessName": "HOMESTEAD MARKET",
+    "address": "9390 Genesee St, New Lothrop, MI 48460-9786",
+    "city": "New Lothrop",
+    "zipCode": "48460",
+    "latitude": 43.11668540446,
+    "longitude": -83.973273268893,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

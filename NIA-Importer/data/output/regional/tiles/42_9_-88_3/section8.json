@@ -1,0 +1,50 @@
+[
+  {
+    "propertyId": "800023194",
+    "propertyName": "HILLCREST APARTMENTS",
+    "latitude": 42.98197699938548,
+    "longitude": -88.23253699965262,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800023114",
+    "propertyName": "LA CASA VILLAGE APT",
+    "latitude": 42.987963999227155,
+    "longitude": -88.22387900011336,
+    "assistedUnits": 46,
+    "totalUnits": 47
+  },
+  {
+    "propertyId": "800069648",
+    "propertyName": "LA CASA VILLAGE II",
+    "latitude": 42.987845999021445,
+    "longitude": -88.22387200044066,
+    "assistedUnits": 19,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800235755",
+    "propertyName": "LSS HICKORY HILL II",
+    "latitude": 42.994604998798266,
+    "longitude": -88.26555900032658,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800023395",
+    "propertyName": "SUNSET APARTMENTS",
+    "latitude": 42.986913998858896,
+    "longitude": -88.22429000001708,
+    "assistedUnits": 72,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800023396",
+    "propertyName": "SUNSET HEIGHTS",
+    "latitude": 42.98077299906582,
+    "longitude": -88.23454199984091,
+    "assistedUnits": 17,
+    "totalUnits": 18
+  }
+]

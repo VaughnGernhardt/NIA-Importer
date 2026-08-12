@@ -1,0 +1,9 @@
+{
+  "totalIncidents": 813717,
+  "uniqueOffenses": 32,
+  "uniqueNeighborhoods": 15949,
+  "uniqueZipCodes": 31,
+  "uniquePrecincts": 15,
+  "firstCrimeYear": 1915,
+  "lastCrimeYear": 2026
+}

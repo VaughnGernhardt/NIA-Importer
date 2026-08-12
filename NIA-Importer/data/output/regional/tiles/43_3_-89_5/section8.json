@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023277",
+    "propertyName": "PIONEER PLACE I \u0026 II",
+    "latitude": 43.392562999033196,
+    "longitude": -89.40650400011879,
+    "assistedUnits": 38,
+    "totalUnits": 38
+  },
+  {
+    "propertyId": "800023279",
+    "propertyName": "PIONEER PLACE III",
+    "latitude": 43.39252699923099,
+    "longitude": -89.40676799970943,
+    "assistedUnits": 22,
+    "totalUnits": 22
+  },
+  {
+    "propertyId": "800023280",
+    "propertyName": "PIONEER PLACE IV",
+    "latitude": 43.392801999081755,
+    "longitude": -89.40780499960205,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  }
+]

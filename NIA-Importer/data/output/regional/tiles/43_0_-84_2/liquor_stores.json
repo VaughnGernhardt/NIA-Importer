@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "228466",
+    "businessName": "KINGS CORNER MARKET OF OWOSSO",
+    "address": "701 N Washington St, Owosso, MI 48867-1760",
+    "city": "Owosso",
+    "zipCode": "48867",
+    "latitude": 43.004829682188,
+    "longitude": -84.170612041097,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215161",
+    "businessName": "VG\u0027S FOOD \u0026 PHARMACY #1932",
+    "address": "1341 N M 52, Owosso, MI 48867-1232",
+    "city": "Owosso Twp",
+    "zipCode": "48867",
+    "latitude": 43.013276533599,
+    "longitude": -84.176817307458,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

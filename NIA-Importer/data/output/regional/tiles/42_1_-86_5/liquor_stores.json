@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "0260238",
+    "businessName": "H\u0026B BEER AND WINE",
+    "address": "284 Broadway, Benton Harbor, MI 49022-4654",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.112769966695,
+    "longitude": -86.451583312512,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289738",
+    "businessName": "HS PARTY STORE INC",
+    "address": "790 E Main St, Benton Harbor, MI 49022-3362",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.117747743981,
+    "longitude": -86.439511499868,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246772",
+    "businessName": "MARATHON",
+    "address": "310 E Main St, Benton Harbor, MI 49022-4414",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.116913609902,
+    "longitude": -86.451187335277,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286601",
+    "businessName": "L\u0026S GROCERY",
+    "address": "1186 Paw Paw Ave, Benton Harbor, MI 49022-2726",
+    "city": "Benton Twp",
+    "zipCode": "49022",
+    "latitude": 42.135588711099,
+    "longitude": -86.443345414927,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269991",
+    "businessName": "GG MARKET",
+    "address": "2660 N M 63, Benton Harbor, MI 49022-2544",
+    "city": "Hagar Twp",
+    "zipCode": "49022",
+    "latitude": 42.159879550379,
+    "longitude": -86.436618278458,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161210",
+    "businessName": "MINI-MART",
+    "address": "110 Court St, Saint Joseph, MI 49085-1101",
+    "city": "St Joseph",
+    "zipCode": "49085",
+    "latitude": 42.109916082384,
+    "longitude": -86.478351283434,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

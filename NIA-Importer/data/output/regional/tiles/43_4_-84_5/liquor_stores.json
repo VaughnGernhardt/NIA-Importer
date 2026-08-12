@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0279796",
+    "businessName": "GHOTRA FIVE, INC.",
+    "address": "218 E Saginaw St, Breckenridge, MI 48615-2511",
+    "city": "Breckenridge",
+    "zipCode": "48615",
+    "latitude": 43.407933416975,
+    "longitude": -84.477108648561,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267482",
+    "businessName": "GILL PETROLEUM",
+    "address": "601 E Saginaw St, Breckenridge, MI 48615-8706",
+    "city": "Breckenridge",
+    "zipCode": "48615",
+    "latitude": 43.408048637994,
+    "longitude": -84.471487055206,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265632",
+    "businessName": "MARTIN\u0027S CORNER STORE",
+    "address": "8990 E Monroe Rd, Wheeler, MI 48662-9748",
+    "city": "Wheeler Twp",
+    "zipCode": "48662",
+    "latitude": 43.407923887683,
+    "longitude": -84.429416317935,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

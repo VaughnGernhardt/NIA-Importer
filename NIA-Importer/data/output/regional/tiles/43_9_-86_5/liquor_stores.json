@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0271947",
+    "businessName": "Y COUNTRY STORE",
+    "address": "1860 N Lakeshore Dr, Ludington, MI 49431-9037",
+    "city": "Hamlin Twp",
+    "zipCode": "49431",
+    "latitude": 43.99060377549,
+    "longitude": -86.459585021288,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236643",
+    "businessName": "AJ\u0027S PARTY PORT",
+    "address": "423 S James St, Ludington, MI 49431-2158",
+    "city": "Ludington",
+    "zipCode": "49431",
+    "latitude": 43.952234401166,
+    "longitude": -86.447698094883,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15932",
+    "businessName": "WESCO #25",
+    "address": "301 W Ludington Ave, Ludington, MI 49431-2025",
+    "city": "Ludington",
+    "zipCode": "49431",
+    "latitude": 43.955502435722,
+    "longitude": -86.450721475277,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141785",
+    "businessName": "AIRPORT E-Z MART",
+    "address": "5445 W US Highway 10, Ludington, MI 49431-2487",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.956111618023,
+    "longitude": -86.416047945451,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277088",
+    "businessName": "FAMILY FARE, LLC",
+    "address": "5539 W US Highway 10, Ludington, MI 49431-2455",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.956195077029,
+    "longitude": -86.417909216629,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "250008",
+    "businessName": "LUDINGTON LIQUOR",
+    "address": "5946 W US Highway 10, Ludington, MI 49431-2448",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.956184840905,
+    "longitude": -86.427972295982,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "134317",
+    "businessName": "NORTHSIDE MARKET",
+    "address": "6388 Bryant Rd, Ludington, MI 49431-1104",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.970530023987,
+    "longitude": -86.439050969557,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "183393",
+    "businessName": "PERE MARQUETTE EXPEDITIONS",
+    "address": "1649 S Pere Marquette Hwy, Ludington, MI 49431-9323",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.927288845945,
+    "longitude": -86.417649670811,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "141658",
+    "businessName": "WAL-MART SUPERCENTER #2102",
+    "address": "4854 W US Highway 10, Ludington, MI 49431-8703",
+    "city": "Pere Marquette Twp",
+    "zipCode": "49431",
+    "latitude": 43.955537122758,
+    "longitude": -86.400311838581,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

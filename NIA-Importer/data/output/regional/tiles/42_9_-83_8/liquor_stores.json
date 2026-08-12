@@ -1,0 +1,112 @@
+[
+  {
+    "businessId": "0282476",
+    "businessName": "WESTGATE LIQUOR",
+    "address": "1633 W Atherton Rd, Flint, MI 48507-5347",
+    "city": "Flint",
+    "zipCode": "48507",
+    "latitude": 42.988278689831,
+    "longitude": -83.702143430752,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232011",
+    "businessName": "WOODCROFT MARKET",
+    "address": "2856 Miller Rd, Flint, MI 48503-4618",
+    "city": "Flint",
+    "zipCode": "48503",
+    "latitude": 42.996633781714,
+    "longitude": -83.723453753639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292076",
+    "businessName": "KHIRFAN\u0027S BLUE COLLAR MARKET",
+    "address": "G3405 Van Slyke Rd, Flint, MI 48507-3261",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.973571467017,
+    "longitude": -83.712745016237,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266208",
+    "businessName": "MICHIGAN FOOD MARKET \u0026 LIQUOR",
+    "address": "G4508 Van Slyke Rd, Flint, MI 48507-3540",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.960585642338,
+    "longitude": -83.712594635622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142809",
+    "businessName": "MONTEGO\u0027S PARTY STORE",
+    "address": "3021 S Linden Rd, Flint, MI 48507-3001",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.986654913063,
+    "longitude": -83.772216102841,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283771",
+    "businessName": "MULTANI OF MM, INC.",
+    "address": "1395 W BRISTOL RD, FLINT, MI 48507",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.973818450613,
+    "longitude": -83.707635172686,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0259297",
+    "businessName": "RJ GOLD FUEL LLC",
+    "address": "3265 MILLER RD, FLINT, MI 48507",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.994387050461,
+    "longitude": -83.728119560022,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292100",
+    "businessName": "SUPER K",
+    "address": "2013 W Bristol Rd, Flint, MI 48507-3226",
+    "city": "Flint Twp",
+    "zipCode": "48507",
+    "latitude": 42.973722191235,
+    "longitude": -83.71332046196,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "153226",
+    "businessName": "LINDEN MARKET",
+    "address": "6514 Linden Rd, Swartz Creek, MI 48473-8848",
+    "city": "Mundy Twp",
+    "zipCode": "48473",
+    "latitude": 42.931291674415,
+    "longitude": -83.77078362587,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "249214",
+    "businessName": "LP\u0027S PLACE",
+    "address": "6012 Linden Rd, Swartz Creek, MI 48473-8864",
+    "city": "Mundy Twp",
+    "zipCode": "48473",
+    "latitude": 42.942144312911,
+    "longitude": -83.771201572276,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11168",
+    "businessName": "MEIJER #44",
+    "address": "2474 W Hill Rd, Flint, MI 48507-3821",
+    "city": "Mundy Twp",
+    "zipCode": "48507",
+    "latitude": 42.943985999051,
+    "longitude": -83.72902564655,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

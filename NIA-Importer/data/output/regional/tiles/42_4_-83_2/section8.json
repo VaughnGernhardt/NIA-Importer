@@ -1,0 +1,186 @@
+[
+  {
+    "propertyId": "800009906",
+    "propertyName": "BARTON TOWERS 2",
+    "latitude": 42.491786999210625,
+    "longitude": -83.14227099985307,
+    "assistedUnits": 210,
+    "totalUnits": 211
+  },
+  {
+    "propertyId": "800009939",
+    "propertyName": "BOWIN PLACE",
+    "latitude": 42.43061599924345,
+    "longitude": -83.19869699996535,
+    "assistedUnits": 193,
+    "totalUnits": 193
+  },
+  {
+    "propertyId": "800009993",
+    "propertyName": "CENTRAL PARK VILLAGE",
+    "latitude": 42.418264999073905,
+    "longitude": -83.18939800036857,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800238819",
+    "propertyName": "COVILLE APARTMENTS - PRENTIS I",
+    "latitude": 42.47408799905101,
+    "longitude": -83.19588599986311,
+    "assistedUnits": 14,
+    "totalUnits": 35
+  },
+  {
+    "propertyId": "800251480",
+    "propertyName": "Coolidge Place",
+    "latitude": 42.44829799885164,
+    "longitude": -83.18147999972268,
+    "assistedUnits": 10,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800010062",
+    "propertyName": "DEVON SQUARE",
+    "latitude": 42.46453899905009,
+    "longitude": -83.1217859995737,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800010075",
+    "propertyName": "EDEN MANOR",
+    "latitude": 42.42300099920922,
+    "longitude": -83.19446800020398,
+    "assistedUnits": 64,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800010092",
+    "propertyName": "EVANGELICAL MANOR",
+    "latitude": 42.42007799917598,
+    "longitude": -83.19403600038385,
+    "assistedUnits": 64,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800501142",
+    "propertyName": "Ferndale Park",
+    "latitude": 42.44743899933244,
+    "longitude": -83.16136699988732,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800079117",
+    "propertyName": "GABRIELLE APARTMENTS",
+    "latitude": 42.40631599895723,
+    "longitude": -83.10214700028955,
+    "assistedUnits": 336,
+    "totalUnits": 336
+  },
+  {
+    "propertyId": "800010190",
+    "propertyName": "HAZELCREST PLACE APARTMENTS",
+    "latitude": 42.46461999873914,
+    "longitude": -83.1056990000084,
+    "assistedUnits": 240,
+    "totalUnits": 241
+  },
+  {
+    "propertyId": "800226076",
+    "propertyName": "INDEPENDENT SUPPORTIVE HOUSING OAKLAND-II",
+    "latitude": 42.452559998750615,
+    "longitude": -83.10056499970057,
+    "assistedUnits": 12,
+    "totalUnits": 12
+  },
+  {
+    "propertyId": "800009844",
+    "propertyName": "LA BELLE TOWERS",
+    "latitude": 42.40304299893822,
+    "longitude": -83.1066840000225,
+    "assistedUnits": 210,
+    "totalUnits": 210
+  },
+  {
+    "propertyId": "800010330",
+    "propertyName": "MARYGROVE APTS AKA MCGIVNEY-BETHUNE",
+    "latitude": 42.415943999293965,
+    "longitude": -83.16004299993952,
+    "assistedUnits": 79,
+    "totalUnits": 159
+  },
+  {
+    "propertyId": "800010340",
+    "propertyName": "MEYERS ELDERLY HOUSING",
+    "latitude": 42.422598999137186,
+    "longitude": -83.17014800034855,
+    "assistedUnits": 74,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800010466",
+    "propertyName": "PRENTIS JEWISH APARTMENTS, PHASE I",
+    "latitude": 42.47408799905101,
+    "longitude": -83.19588599986311,
+    "assistedUnits": 96,
+    "totalUnits": 97
+  },
+  {
+    "propertyId": "800010467",
+    "propertyName": "PRENTIS JEWISH APARTMENTS, PHASE II",
+    "latitude": 42.47408799905101,
+    "longitude": -83.19588599986311,
+    "assistedUnits": 99,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800009849",
+    "propertyName": "ROYAL OAK MANOR",
+    "latitude": 42.48552199885261,
+    "longitude": -83.14314000041452,
+    "assistedUnits": 105,
+    "totalUnits": 243
+  },
+  {
+    "propertyId": "800010600",
+    "propertyName": "TEITEL JEWISH APARTMENTS",
+    "latitude": 42.474084998880116,
+    "longitude": -83.19623999986544,
+    "assistedUnits": 148,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010324",
+    "propertyName": "THERESA MAXIS APARTMENTS",
+    "latitude": 42.41578999876206,
+    "longitude": -83.16048200033065,
+    "assistedUnits": 79,
+    "totalUnits": 80
+  },
+  {
+    "propertyId": "800010611",
+    "propertyName": "TOWN CENTER APARTMENTS",
+    "latitude": 42.40723599911942,
+    "longitude": -83.10536500009756,
+    "assistedUnits": 63,
+    "totalUnits": 63
+  },
+  {
+    "propertyId": "800215060",
+    "propertyName": "VILLAGE OF HARMONY MANOR",
+    "latitude": 42.40080399931599,
+    "longitude": -83.16362899999355,
+    "assistedUnits": 43,
+    "totalUnits": 44
+  },
+  {
+    "propertyId": "800219565",
+    "propertyName": "VILLAGE OF OAKMAN MANOR",
+    "latitude": 42.400742998946555,
+    "longitude": -83.1130130004067,
+    "assistedUnits": 54,
+    "totalUnits": 55
+  }
+]

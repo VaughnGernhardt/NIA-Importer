@@ -1,0 +1,112 @@
+[
+  {
+    "storeId": "26235-greenfield-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 26235, Greenfield Road Southfield, MI 48076-4704",
+    "city": "Greenfield Road Southfield",
+    "zipCode": "48076",
+    "latitude": 42.483619028938,
+    "longitude": -83.202264021164
+  },
+  {
+    "storeId": "26058-w-6-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "26058 W 6, Mile Rd Redford, MI 48240-2215",
+    "city": "Mile Rd Redford",
+    "zipCode": "48240",
+    "latitude": 42.413926940067,
+    "longitude": -83.299621884287
+  },
+  {
+    "storeId": "20218-w-8-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "20218 W 8, Mile Rd Southfield, MI 48075-5660",
+    "city": "Mile Rd Southfield",
+    "zipCode": "48075",
+    "latitude": 42.444049110659,
+    "longitude": -83.242658177733
+  },
+  {
+    "storeId": "21700-w-11-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "21700 W. 11, Mile Rd. Southfield, MI 48076-3718",
+    "city": "Mile Rd. Southfield",
+    "zipCode": "48076",
+    "latitude": 42.48712182687,
+    "longitude": -83.257963398196
+  },
+  {
+    "storeId": "18845-beech-daly-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 18845, Beech Daly Rd. Redford, MI 48240",
+    "city": "Beech Daly Rd. Redford",
+    "zipCode": "48240",
+    "latitude": 42.426959327472,
+    "longitude": -83.297051275027
+  },
+  {
+    "storeId": "27131-greenfield-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 27131, Greenfield Rd Southfield, MI 48076-5135",
+    "city": "Greenfield Rd Southfield",
+    "zipCode": "48076",
+    "latitude": 42.489473686292,
+    "longitude": -83.202526297156
+  },
+  {
+    "storeId": "22663-greenfield-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 22663, Greenfield Rd. Southfield, MI 48075-3725",
+    "city": "Greenfield Rd. Southfield",
+    "zipCode": "48075",
+    "latitude": 42.458239146379,
+    "longitude": -83.201297688527
+  },
+  {
+    "storeId": "25640-w-8-mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "25640 W. 8, Mile Rd. Southfield, MI 48033-3749",
+    "city": "Mile Rd. Southfield",
+    "zipCode": "48033",
+    "latitude": 42.442732725545,
+    "longitude": -83.296287934786
+  },
+  {
+    "storeId": "20640-8-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "20640 8, Mile Road Southfield, MI 48075",
+    "city": "Mile Road Southfield",
+    "zipCode": "48075",
+    "latitude": 42.44395591299,
+    "longitude": -83.246516636153
+  },
+  {
+    "storeId": "21800-w-11-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "21800 W 11, Mile Road Southfield, MI 48076",
+    "city": "Mile Road Southfield",
+    "zipCode": "48076",
+    "latitude": 42.487105907272,
+    "longitude": -83.259075472715
+  },
+  {
+    "storeId": "20266-w-seven-mile-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 20266, W Seven Mile Rd Detroit, MI 48219-3469",
+    "city": "W Seven Mile Rd Detroit",
+    "zipCode": "48219",
+    "latitude": 42.429561678156,
+    "longitude": -83.241761433539
+  }
+]

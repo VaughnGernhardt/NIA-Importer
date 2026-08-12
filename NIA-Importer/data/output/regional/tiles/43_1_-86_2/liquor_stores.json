@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "244942",
+    "businessName": "ABIDE, INC.",
+    "address": "6530 Airline Rd, Fruitport, MI 49415-8909",
+    "city": "Fruitport Twp",
+    "zipCode": "49415",
+    "latitude": 43.133177426544,
+    "longitude": -86.155076412428,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15943",
+    "businessName": "WESCO #37",
+    "address": "3239 Heights Ravenna Rd, Muskegon, MI 49444-4107",
+    "city": "Fruitport Twp",
+    "zipCode": "49444",
+    "latitude": 43.190256096043,
+    "longitude": -86.164380133323,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0291235",
+    "businessName": "MY WILD WOLF",
+    "address": "5615 Heights Ravenna Rd, Fruitport, MI 49415-8692",
+    "city": "Sullivan Twp",
+    "zipCode": "49415",
+    "latitude": 43.190792512575,
+    "longitude": -86.106022907409,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

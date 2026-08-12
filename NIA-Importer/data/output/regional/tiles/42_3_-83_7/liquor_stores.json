@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "14265",
+    "businessName": "BUSCH\u0027S, INC.",
+    "address": "2020 Green Rd, Ann Arbor, MI 48105-2553",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.305252509001,
+    "longitude": -83.69285009611,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214148",
+    "businessName": "CVS/PHARMACY #8006",
+    "address": "3535 Plymouth Rd, Ann Arbor, MI 48105-2602",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.305189466795,
+    "longitude": -83.692444224829,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261958",
+    "businessName": "PLUM MARKET",
+    "address": "3601 Plymouth Rd, Ann Arbor, MI 48105-2659",
+    "city": "Ann Arbor",
+    "zipCode": "48105",
+    "latitude": 42.305370051846,
+    "longitude": -83.691781762769,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9744",
+    "businessName": "EDITH\u0027S MARKET",
+    "address": "6023 Pontiac Trl, South Lyon, MI 48178-9647",
+    "city": "Salem Twp",
+    "zipCode": "48178",
+    "latitude": 42.366386440527,
+    "longitude": -83.656064795659,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289361",
+    "businessName": "AS MARKET, INC.",
+    "address": "5700 Plymouth Rd, Ann Arbor, MI 48105-9312",
+    "city": "Superior Twp",
+    "zipCode": "48105",
+    "latitude": 42.313874374213,
+    "longitude": -83.650480417831,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

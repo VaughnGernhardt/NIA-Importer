@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0282449",
+    "businessName": "NORTHSHORE MARKET",
+    "address": "16177 Seymour Rd, Linden, MI 48451-9775",
+    "city": "Argentine Twp",
+    "zipCode": "48451",
+    "latitude": 42.790414690502,
+    "longitude": -83.845861243286,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267465",
+    "businessName": "THE BLACK WATER MARKET",
+    "address": "7150 Bennett Lake Rd, Fenton, MI 48430-9087",
+    "city": "Deerfield Twp",
+    "zipCode": "48430",
+    "latitude": 42.775926490711,
+    "longitude": -83.819381489425,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260940",
+    "businessName": "VENTURE\u0027S TAP",
+    "address": "6521 Argentine Rd, Howell, MI 48855-9237",
+    "city": "Deerfield Twp",
+    "zipCode": "48855",
+    "latitude": 42.704301890845,
+    "longitude": -83.840702484884,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

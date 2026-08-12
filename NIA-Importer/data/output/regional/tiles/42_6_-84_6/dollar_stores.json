@@ -1,0 +1,82 @@
+[
+  {
+    "storeId": "2380-cedar-street-ste-204",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2380 Cedar Street Ste 204, Holt, MI 48842-2211",
+    "city": "Holt",
+    "zipCode": "48842",
+    "latitude": 42.65072288496,
+    "longitude": -84.528198152545
+  },
+  {
+    "storeId": "3222-s-martin-luther-king-blvd-ste-27a",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "3222 S. Martin Luther King Blvd Ste 27-A, Lansing, MI 48910-2985",
+    "city": "Lansing",
+    "zipCode": "48910",
+    "latitude": 42.699762678391,
+    "longitude": -84.567419695976
+  },
+  {
+    "storeId": "438-e-edgewood-blvd-d112",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "438 E. Edgewood Blvd. D112, Lansing, MI 48911-5860",
+    "city": "Lansing",
+    "zipCode": "48911",
+    "latitude": 42.664040705184,
+    "longitude": -84.545688516096
+  },
+  {
+    "storeId": "4210-south-cedar-street",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 4210, South Cedar Street Lansing, MI 48910-4510",
+    "city": "South Cedar Street Lansing",
+    "zipCode": "48910",
+    "latitude": 42.690854928052,
+    "longitude": -84.548119816706
+  },
+  {
+    "storeId": "4218-aurelius-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 4218, Aurelius Road Lansing, MI 48910",
+    "city": "Aurelius Road Lansing",
+    "zipCode": "48910",
+    "latitude": 42.690897228646,
+    "longitude": -84.523485597289
+  },
+  {
+    "storeId": "2380-cedar-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "2380 Cedar St Ste 17, Delhi Township, MI 48842-2143",
+    "city": "Delhi Township",
+    "zipCode": "48842",
+    "latitude": 42.65072288496,
+    "longitude": -84.528198152545
+  },
+  {
+    "storeId": "5814-s-pennsylvania-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 5814, S Pennsylvania Ave Lansing, MI 48911-5229",
+    "city": "S Pennsylvania Ave Lansing",
+    "zipCode": "48911",
+    "latitude": 42.673182106672,
+    "longitude": -84.538260138844
+  },
+  {
+    "storeId": "909-w-holmes-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 909, W Holmes Rd Lansing, MI 48910",
+    "city": "W Holmes Rd Lansing",
+    "zipCode": "48910",
+    "latitude": 42.697474708127,
+    "longitude": -84.564556026435
+  }
+]

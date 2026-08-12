@@ -12,20 +12,22 @@ repositories {
 
 dependencies {
 
-    // Kotlin
     implementation(kotlin("stdlib"))
 
-    // CSV Parser
     implementation("org.apache.commons:commons-csv:1.14.1")
 
-    // SQLite
     implementation("org.xerial:sqlite-jdbc:3.50.3.0")
 
-    // Logging
+    implementation("com.google.code.gson:gson:2.14.0")
+
+    implementation("org.apache.poi:poi:5.4.1")
+    implementation("org.apache.poi:poi-ooxml:5.4.1")
+
+    implementation("org.jsoup:jsoup:1.21.2")
+
     implementation("io.github.oshai:kotlin-logging-jvm:7.0.7")
     implementation("ch.qos.logback:logback-classic:1.5.18")
 
-    // Tests
     testImplementation(kotlin("test"))
 }
 

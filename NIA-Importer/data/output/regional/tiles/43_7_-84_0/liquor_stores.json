@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0292043",
+    "businessName": "MEYER M-13 MARKET",
+    "address": "1491 N Huron Rd, Pinconning, MI 48650-7903",
+    "city": "Fraser Twp",
+    "zipCode": "48650",
+    "latitude": 43.781127201121,
+    "longitude": -83.973302647253,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232281",
+    "businessName": "SUNRISE STORE #67",
+    "address": "84 N Huron Rd, Linwood, MI 48634-9527",
+    "city": "Fraser Twp",
+    "zipCode": "48634",
+    "latitude": 43.741530356205,
+    "longitude": -83.976118058075,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

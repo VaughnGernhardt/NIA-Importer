@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0284976",
+    "businessName": "KINGS TRADING POST COMPANY, LLC",
+    "address": "8493 5 Mile Rd, Mecosta, MI 49332-9382",
+    "city": "Hinton Twp",
+    "zipCode": "49332",
+    "latitude": 43.539837437014,
+    "longitude": -85.252961126625,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12042",
+    "businessName": "COUNTRY CORNER FOOD MARKET",
+    "address": "10039 Buchanan Rd, Stanwood, MI 49346-9762",
+    "city": "Morton Twp",
+    "zipCode": "49346",
+    "latitude": 43.590477808316,
+    "longitude": -85.28592986858,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

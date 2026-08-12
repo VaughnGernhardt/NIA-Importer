@@ -1,0 +1,42 @@
+[
+  {
+    "propertyId": "800009918",
+    "propertyName": "BENTON MANOR COOPERATIVE I",
+    "latitude": 42.132499999188674,
+    "longitude": -86.45292099990021,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800010225",
+    "propertyName": "COUNTRY VIEW APARTMENTS III",
+    "latitude": 42.108568999109096,
+    "longitude": -86.41122399996856,
+    "assistedUnits": 71,
+    "totalUnits": 198
+  },
+  {
+    "propertyId": "800211630",
+    "propertyName": "E. RAYFORD SENIOR HOUSING",
+    "latitude": 42.1016189990422,
+    "longitude": -86.4141270001323,
+    "assistedUnits": 46,
+    "totalUnits": 46
+  },
+  {
+    "propertyId": "800248985",
+    "propertyName": "Harbor City Flats",
+    "latitude": 42.10656999899484,
+    "longitude": -86.45732899976174,
+    "assistedUnits": 8,
+    "totalUnits": 73
+  },
+  {
+    "propertyId": "800010498",
+    "propertyName": "RIVER TERRACE",
+    "latitude": 42.11010899903018,
+    "longitude": -86.45812800000299,
+    "assistedUnits": 270,
+    "totalUnits": 270
+  }
+]

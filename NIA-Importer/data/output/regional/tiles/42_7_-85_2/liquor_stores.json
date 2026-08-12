@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "216333",
+    "businessName": "LAKE ODESSA SHELL",
+    "address": "1203 Jordan Lake St, Lake Odessa, MI 48849-1213",
+    "city": "Lake Odessa",
+    "zipCode": "48849",
+    "latitude": 42.777628861464,
+    "longitude": -85.135238462117,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225505",
+    "businessName": "LAKEO MART",
+    "address": "1142 Jordan Lake Ave, Lake Odessa, MI 48849-1131",
+    "city": "Lake Odessa",
+    "zipCode": "48849",
+    "latitude": 42.784362624624,
+    "longitude": -85.133240531193,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

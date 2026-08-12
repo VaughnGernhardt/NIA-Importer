@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "4110-10th-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "4110 10th, St. Menominee, MI 49858-1310",
+    "city": "St. Menominee",
+    "zipCode": "49858",
+    "latitude": 45.137066909393,
+    "longitude": -87.612281633014
+  },
+  {
+    "storeId": "1000-16th-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "1000 16th Avenue M \u0026, M Plaza Menominee, MI 49858-2854",
+    "city": "M Plaza Menominee",
+    "zipCode": "49858",
+    "latitude": 45.113385911305,
+    "longitude": -87.614418085781
+  }
+]

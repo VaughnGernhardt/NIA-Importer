@@ -1,0 +1,226 @@
+[
+  {
+    "propertyId": "800253435",
+    "propertyName": "1535 N. PULASKI ROAD ELDERY",
+    "latitude": 41.909136999165206,
+    "longitude": -87.72625900019015,
+    "assistedUnits": 0,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800257955",
+    "propertyName": "5150 Northwest Highway",
+    "latitude": 41.97435199889989,
+    "longitude": -87.76735500024726,
+    "assistedUnits": 5,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800254437",
+    "propertyName": "6001 West Lawrence",
+    "latitude": 41.967475998945524,
+    "longitude": -87.77767099964518,
+    "assistedUnits": 11,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800005705",
+    "propertyName": "ARMITAGE COMMONS",
+    "latitude": 41.917424999016916,
+    "longitude": -87.719933000179,
+    "assistedUnits": 104,
+    "totalUnits": 104
+  },
+  {
+    "propertyId": "800005706",
+    "propertyName": "ARMITAGE HUMBOLDT APTS",
+    "latitude": 41.9176149992495,
+    "longitude": -87.70264200031649,
+    "assistedUnits": 45,
+    "totalUnits": 45
+  },
+  {
+    "propertyId": "800246613",
+    "propertyName": "Aurora Downtown Revitalization",
+    "latitude": 41.98336599934983,
+    "longitude": -87.77500699985606,
+    "assistedUnits": 7,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800211351",
+    "propertyName": "BETH ANNE EXTENDED LIVING",
+    "latitude": 41.90171999907215,
+    "longitude": -87.7506290002743,
+    "assistedUnits": 85,
+    "totalUnits": 85
+  },
+  {
+    "propertyId": "800067893",
+    "propertyName": "BETH-ANNE RESIDENCES",
+    "latitude": 41.900650998910535,
+    "longitude": -87.7492070004172,
+    "assistedUnits": 124,
+    "totalUnits": 125
+  },
+  {
+    "propertyId": "800005735",
+    "propertyName": "BLOOMINGDALE APARTMENTS",
+    "latitude": 41.912976999219794,
+    "longitude": -87.7274030002129,
+    "assistedUnits": 111,
+    "totalUnits": 111
+  },
+  {
+    "propertyId": "800040067",
+    "propertyName": "DIVERSEY SQUARE PH II",
+    "latitude": 41.932209998861985,
+    "longitude": -87.70786799978751,
+    "assistedUnits": 48,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800005830",
+    "propertyName": "Diversey Square I",
+    "latitude": 41.93219799906223,
+    "longitude": -87.70895099971091,
+    "assistedUnits": 196,
+    "totalUnits": 196
+  },
+  {
+    "propertyId": "800225900",
+    "propertyName": "EDWARD M. MARX APARTMENTS",
+    "latitude": 41.9864269989118,
+    "longitude": -87.72831500043206,
+    "assistedUnits": 31,
+    "totalUnits": 31
+  },
+  {
+    "propertyId": "800005988",
+    "propertyName": "HUMBOLDT BUILDING",
+    "latitude": 41.91253299895798,
+    "longitude": -87.70249900020136,
+    "assistedUnits": 29,
+    "totalUnits": 29
+  },
+  {
+    "propertyId": "800257829",
+    "propertyName": "Humboldt Park Residence Apartments",
+    "latitude": 41.90241199902822,
+    "longitude": -87.71085799998988,
+    "assistedUnits": 12,
+    "totalUnits": 65
+  },
+  {
+    "propertyId": "800040042",
+    "propertyName": "JORGE HERNANDEZ",
+    "latitude": 41.910411998936915,
+    "longitude": -87.73344800001665,
+    "assistedUnits": 54,
+    "totalUnits": 57
+  },
+  {
+    "propertyId": "800006015",
+    "propertyName": "KEDZIE APARTMENTS",
+    "latitude": 41.90829399904175,
+    "longitude": -87.70717599967638,
+    "assistedUnits": 8,
+    "totalUnits": 9
+  },
+  {
+    "propertyId": "800006024",
+    "propertyName": "KORAM SENIOR HOUSING",
+    "latitude": 41.961872999044,
+    "longitude": -87.72683800032338,
+    "assistedUnits": 59,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800006086",
+    "propertyName": "LOGAN \u0026 KEDZIE APARTMENTS",
+    "latitude": 41.928981998764826,
+    "longitude": -87.70652700012127,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800006087",
+    "propertyName": "LOGAN VISTAS",
+    "latitude": 41.92851699938802,
+    "longitude": -87.70806299978118,
+    "assistedUnits": 48,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800006096",
+    "propertyName": "LORINGTON APTS",
+    "latitude": 41.921637999366396,
+    "longitude": -87.70667899955892,
+    "assistedUnits": 54,
+    "totalUnits": 54
+  },
+  {
+    "propertyId": "800006153",
+    "propertyName": "MOO GOONG TERRACE",
+    "latitude": 41.969344999190014,
+    "longitude": -87.70873399997592,
+    "assistedUnits": 74,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800243616",
+    "propertyName": "Milwaukee Avenue Apartments",
+    "latitude": 41.93674199924755,
+    "longitude": -87.72031499977041,
+    "assistedUnits": 8,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800006175",
+    "propertyName": "NORTHWEST CHICAGO GROUP HOMES/aka/Hutchinson House",
+    "latitude": 41.95860799895012,
+    "longitude": -87.71194099991328,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800250570",
+    "propertyName": "Oso Apartments",
+    "latitude": 41.9609709989881,
+    "longitude": -87.71443399999818,
+    "assistedUnits": 5,
+    "totalUnits": 48
+  },
+  {
+    "propertyId": "800006195",
+    "propertyName": "PALMER SQUARE APARTMENTS",
+    "latitude": 41.92034999928529,
+    "longitude": -87.70688699997139,
+    "assistedUnits": 160,
+    "totalUnits": 160
+  },
+  {
+    "propertyId": "800006256",
+    "propertyName": "PRETE HOUSE APARTMENTS",
+    "latitude": 41.986334998947605,
+    "longitude": -87.72851700009844,
+    "assistedUnits": 75,
+    "totalUnits": 75
+  },
+  {
+    "propertyId": "800067910",
+    "propertyName": "SACRAMENTO ELDERLY APARTMENTS",
+    "latitude": 41.9263529989227,
+    "longitude": -87.70212099990957,
+    "assistedUnits": 40,
+    "totalUnits": 41
+  },
+  {
+    "propertyId": "800006315",
+    "propertyName": "SENATE APTS",
+    "latitude": 41.986334998947605,
+    "longitude": -87.72851700009844,
+    "assistedUnits": 240,
+    "totalUnits": 240
+  }
+]

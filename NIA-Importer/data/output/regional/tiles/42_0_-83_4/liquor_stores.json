@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "233899",
+    "businessName": "SIMON Z MARKET",
+    "address": "9015 Telegraph Rd, Carleton, MI 48117-9321",
+    "city": "Ash Twp",
+    "zipCode": "48117",
+    "latitude": 42.007666746909,
+    "longitude": -83.354005724708,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285670",
+    "businessName": "LEE\u0027S MARKET OF NEWPORT",
+    "address": "8593 Swan Creek Rd, Newport, MI 48166-9122",
+    "city": "Berlin Twp",
+    "zipCode": "48166",
+    "latitude": 42.000737158339,
+    "longitude": -83.302198647186,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217819",
+    "businessName": "MARATHON",
+    "address": "14166 Telegraph Rd, Flat Rock, MI 48134-9611",
+    "city": "Berlin Twp",
+    "zipCode": "48134",
+    "latitude": 42.08308882413,
+    "longitude": -83.302465067249,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

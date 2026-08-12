@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800232196",
+    "propertyName": "BALLARD VILLAGE",
+    "latitude": 43.01561399924052,
+    "longitude": -83.51267799961714,
+    "assistedUnits": 61,
+    "totalUnits": 61
+  },
+  {
+    "propertyId": "800009941",
+    "propertyName": "BRAIDWOOD MANOR",
+    "latitude": 43.03218299912203,
+    "longitude": -83.5165549999243,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010143",
+    "propertyName": "DAVISON LANDINGS",
+    "latitude": 43.02831199884641,
+    "longitude": -83.516934000041,
+    "assistedUnits": 88,
+    "totalUnits": 191
+  },
+  {
+    "propertyId": "800061713",
+    "propertyName": "TAECKENS TERRACE",
+    "latitude": 43.01557399893653,
+    "longitude": -83.51291299979377,
+    "assistedUnits": 90,
+    "totalUnits": 91
+  }
+]

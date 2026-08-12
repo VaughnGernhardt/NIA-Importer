@@ -1,0 +1,21 @@
+[
+  {"latitude":42.37,"longitude":-83.08,"intensity":5350},
+  {"latitude":42.38,"longitude":-83.08,"intensity":3078},
+  {"latitude":42.37,"longitude":-83.07,"intensity":2575},
+  {"latitude":42.36,"longitude":-83.07,"intensity":1816},
+  {"latitude":42.39,"longitude":-83.09,"intensity":1224},
+  {"latitude":42.39,"longitude":-83.08,"intensity":1106},
+  {"latitude":42.36,"longitude":-83.06,"intensity":1100},
+  {"latitude":42.38,"longitude":-83.09,"intensity":996},
+  {"latitude":42.38,"longitude":-83.07,"intensity":953},
+  {"latitude":42.37,"longitude":-83.09,"intensity":546},
+  {"latitude":42.35,"longitude":-83.07,"intensity":442},
+  {"latitude":42.37,"longitude":-83.06,"intensity":425},
+  {"latitude":42.39,"longitude":-83.1,"intensity":247},
+  {"latitude":42.36,"longitude":-83.08,"intensity":224},
+  {"latitude":42.36,"longitude":-83.05,"intensity":153},
+  {"latitude":42.38,"longitude":-83.1,"intensity":49},
+  {"latitude":42.36,"longitude":-83.09,"intensity":27},
+  {"latitude":42.39,"longitude":-83.07,"intensity":14},
+  {"latitude":42.4,"longitude":-83.08,"intensity":13}
+]

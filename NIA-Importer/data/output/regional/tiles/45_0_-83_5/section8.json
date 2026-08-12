@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009931",
+    "propertyName": "BIRCHWOOD MEADOWS",
+    "latitude": 45.0473379993544,
+    "longitude": -83.45958099964095,
+    "assistedUnits": 112,
+    "totalUnits": 112
+  },
+  {
+    "propertyId": "800010300",
+    "propertyName": "LUTHER COMMUNITY MANOR",
+    "latitude": 45.08217699892391,
+    "longitude": -83.45134999989894,
+    "assistedUnits": 65,
+    "totalUnits": 66
+  },
+  {
+    "propertyId": "800010607",
+    "propertyName": "W. B . APARTMENTS L.L.C.",
+    "latitude": 45.07779499885678,
+    "longitude": -83.4723680002808,
+    "assistedUnits": 40,
+    "totalUnits": 88
+  }
+]

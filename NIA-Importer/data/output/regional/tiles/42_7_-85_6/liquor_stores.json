@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "166583",
+    "businessName": "FAMILY FARE #1577",
+    "address": "9375 Cherry Valley Ave SE, Caledonia, MI 49316-9506",
+    "city": "Caledonia",
+    "zipCode": "49316",
+    "latitude": 42.793845756543,
+    "longitude": -85.507006889819,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "213546",
+    "businessName": "MARATHON - CHERRY VALLEY",
+    "address": "9807 Cherry Valley Ave SE, Caledonia, MI 49316-7656",
+    "city": "Caledonia",
+    "zipCode": "49316",
+    "latitude": 42.78649117641,
+    "longitude": -85.506896961041,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

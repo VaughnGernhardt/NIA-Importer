@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0282520",
+    "businessName": "BP STEVENSVILLE",
+    "address": "4107 Red Arrow Hwy, Stevensville, MI 49127-9392",
+    "city": "Lincoln Twp",
+    "zipCode": "49127",
+    "latitude": 42.043255559298,
+    "longitude": -86.514079945434,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "158089",
+    "businessName": "LIQUOR LOCKER",
+    "address": "3872 Red Arrow Hwy, Saint Joseph, MI 49085-8221",
+    "city": "Lincoln Twp",
+    "zipCode": "49085",
+    "latitude": 42.047307504384,
+    "longitude": -86.514263465195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223864",
+    "businessName": "MEIJER #251",
+    "address": "5019 Red Arrow Hwy, Stevensville, MI 49127-1013",
+    "city": "Lincoln Twp",
+    "zipCode": "49127",
+    "latitude": 42.026777618708,
+    "longitude": -86.518766766516,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "businessId": "0279809",
+    "businessName": "20th STREET CORNER STORE",
+    "address": "1015 Territorial Rd W, Battle Creek, MI 49015-1719",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.30466695775,
+    "longitude": -85.219213493939,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286124",
+    "businessName": "FAMILY UNIT MARKET",
+    "address": "1040 Territorial Rd W, Battle Creek, MI 49015-1720",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.304779456894,
+    "longitude": -85.219499852072,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260053",
+    "businessName": "HANDY DANDY STORE",
+    "address": "1332 Michigan Ave W, Battle Creek, MI 49037-1921",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.34306503094,
+    "longitude": -85.225348397097,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237803",
+    "businessName": "LIBERTY ONE STOP",
+    "address": "820 Michigan Ave W, Battle Creek, MI 49037-2025",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.332676245343,
+    "longitude": -85.211318852158,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "217500",
+    "businessName": "SAM\u0027S DISCOUNT PARTY STORE",
+    "address": "1205 W Dickman Rd, Battle Creek, MI 49037-4841",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.319739367218,
+    "longitude": -85.209612038106,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271281",
+    "businessName": "SUNSET PARTY STORE",
+    "address": "515 Michigan Ave W, Battle Creek, MI 49037-2240",
+    "city": "Battle Creek",
+    "zipCode": "49037",
+    "latitude": 42.327846400255,
+    "longitude": -85.203586755151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223541",
+    "businessName": "GOLD PETROLEUM, INC.",
+    "address": "459 Bedford Rd N, Battle Creek, MI 49037-1469",
+    "city": "Bedford Twp",
+    "zipCode": "49037",
+    "latitude": 42.357864701653,
+    "longitude": -85.232507661867,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236096",
+    "businessName": "H \u0026 J MARKET",
+    "address": "3117 Michigan Ave W, Battle Creek, MI 49037-1138",
+    "city": "Bedford Twp",
+    "zipCode": "49037",
+    "latitude": 42.357600828717,
+    "longitude": -85.268919386201,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "133078",
+    "businessName": "CUSTER PARTY STORE",
+    "address": "4315 W Dickman Rd, Springfield, MI 49037-7502",
+    "city": "Springfield",
+    "zipCode": "49037",
+    "latitude": 42.33035775984,
+    "longitude": -85.267890796214,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266637",
+    "businessName": "M\u0026M FOOD MART",
+    "address": "1004 Goguac St W, Springfield, MI 49015-1753",
+    "city": "Springfield",
+    "zipCode": "49015",
+    "latitude": 42.312061533938,
+    "longitude": -85.222990143148,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290022",
+    "businessName": "PUNJAB LLC",
+    "address": "504 Upton Ave, Springfield, MI 49037-8341",
+    "city": "Springfield",
+    "zipCode": "49037",
+    "latitude": 42.32215060336,
+    "longitude": -85.212242180133,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237280",
+    "businessName": "SAM\u0027S DISCOUNT LIQUOR",
+    "address": "4556 W Dickman Rd, Springfield, MI 49037-7326",
+    "city": "Springfield",
+    "zipCode": "49037",
+    "latitude": 42.33313649222,
+    "longitude": -85.270373574833,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237694",
+    "businessName": "SPRINGFIELD PARTY STORE",
+    "address": "599 Avenue A, Springfield, MI 49037-7832",
+    "city": "Springfield",
+    "zipCode": "49037",
+    "latitude": 42.326375930285,
+    "longitude": -85.239107398251,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0287952",
+    "businessName": "WHITTS PARTY STORE",
+    "address": "286 30th St N, Springfield, MI 49037-7909",
+    "city": "Springfield",
+    "zipCode": "49037",
+    "latitude": 42.317964484268,
+    "longitude": -85.231540023016,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "businessId": "0282395",
+    "businessName": "BROWNSTON LIQUOR STORE",
+    "address": "18427 Telegraph Rd, Brownstown, MI 48174-9546",
+    "city": "Brownstown Twp",
+    "zipCode": "48174",
+    "latitude": 42.17186119718,
+    "longitude": -83.26675035832,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "178252",
+    "businessName": "CVS/PHARMACY #211",
+    "address": "18900 Telegraph Rd, ROMULUS, MI 48174",
+    "city": "Brownstown Twp",
+    "zipCode": "48174",
+    "latitude": 42.168009923487,
+    "longitude": -83.266854876162,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "248237",
+    "businessName": "EASY PICK MINI MARKET",
+    "address": "22764 West Rd, Trenton, MI 48183-3020",
+    "city": "Brownstown Twp",
+    "zipCode": "48183",
+    "latitude": 42.138312648367,
+    "longitude": -83.256793691232,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197495",
+    "businessName": "KROGER STORE #458",
+    "address": "23849 West Rd, Flat Rock, MI 48134-9310",
+    "city": "Brownstown Twp",
+    "zipCode": "48134",
+    "latitude": 42.138065155289,
+    "longitude": -83.264136114902,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283025",
+    "businessName": "MARIO\u0027S FOOD MARKET",
+    "address": "21925 Dix Toledo Hwy, Trenton, MI 48183-1332",
+    "city": "Brownstown Twp",
+    "zipCode": "48183",
+    "latitude": 42.14597826609,
+    "longitude": -83.259659401379,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282850",
+    "businessName": "PACIFIC, INC.",
+    "address": "21980 Sibley Rd, Brownstown, MI 48193-8432",
+    "city": "Brownstown Twp",
+    "zipCode": "48193",
+    "latitude": 42.170032219192,
+    "longitude": -83.247134960462,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11223",
+    "businessName": "PIC PAC MARKET",
+    "address": "27000 Fort St, Trenton, MI 48183-4908",
+    "city": "Brownstown Twp",
+    "zipCode": "48183",
+    "latitude": 42.11189895083,
+    "longitude": -83.215415427647,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288234",
+    "businessName": "SIBLEY FUEL, INC.",
+    "address": "18971 Telegraph Rd, Brownstown Township, MI 48174-9546",
+    "city": "Brownstown Twp",
+    "zipCode": "48174",
+    "latitude": 42.167578591629,
+    "longitude": -83.266690788639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11771",
+    "businessName": "STANLEY MARKET",
+    "address": "25000 Telegraph Rd, Flat Rock, MI 48134-1004",
+    "city": "Brownstown Twp",
+    "zipCode": "48134",
+    "latitude": 42.123655556475,
+    "longitude": -83.275852359422,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14640",
+    "businessName": "THE MARKET",
+    "address": "20175 Telegraph Rd, Brownstown, MI 48174-9318",
+    "city": "Brownstown Twp",
+    "zipCode": "48174",
+    "latitude": 42.158545628066,
+    "longitude": -83.266434048433,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214153",
+    "businessName": "CVS/PHARMACY #8072",
+    "address": "27000 Telegraph Rd, Flat Rock, MI 48134-1657",
+    "city": "Flat Rock",
+    "zipCode": "48134",
+    "latitude": 42.108994587281,
+    "longitude": -83.28549584697,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "234779",
+    "businessName": "MEIJER STORE #278",
+    "address": "26100 Vreeland Rd, Flat Rock, MI 48134-1692",
+    "city": "Flat Rock",
+    "zipCode": "48134",
+    "latitude": 42.109078916938,
+    "longitude": -83.285468748098,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16861",
+    "businessName": "ANGELO\u0027S PARTY STOP \u0026 DELI",
+    "address": "15151 Dix Toledo Rd, Southgate, MI 48195-2636",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.197950450432,
+    "longitude": -83.212426138992,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214290",
+    "businessName": "CVS/PHARMACY #8114",
+    "address": "15300 Eureka Rd, Southgate, MI 48195-3261",
+    "city": "Southgate",
+    "zipCode": "48195",
+    "latitude": 42.199078061464,
+    "longitude": -83.208642950958,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "265841",
+    "businessName": "BJ\u0027S WHOLESALE CLUB",
+    "address": "15523 Racho Blvd, Taylor, MI 48180-5213",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.195948009285,
+    "longitude": -83.247994786509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0290443",
+    "businessName": "GNOOR TAYLOR13, INC.",
+    "address": "26201 Eureka Rd, Taylor, MI 48180-4920",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.196837192631,
+    "longitude": -83.292153521226,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0265115",
+    "businessName": "JONNA\u0027S MARKET",
+    "address": "16937 Beech Daly Rd, Taylor, MI 48180-6444",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.183371178691,
+    "longitude": -83.286735022662,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263753",
+    "businessName": "MITCH\u0027S PARTY STORE",
+    "address": "16950 Allen Rd, Taylor, MI 48180-5389",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.184637073438,
+    "longitude": -83.228247462033,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288988",
+    "businessName": "SHEETZ #922",
+    "address": "20623 Eureka Rd, Taylor, MI 48180-5315",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.198151050924,
+    "longitude": -83.236123909056,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228673",
+    "businessName": "THE FOOD BASKET",
+    "address": "24600 Eureka Rd, Taylor, MI 48180-5160",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.197455829103,
+    "longitude": -83.273916886769,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0258967",
+    "businessName": "TRENTON GAS, INC.",
+    "address": "3610 West Rd, Trenton, MI 48183-2224",
+    "city": "Trenton",
+    "zipCode": "48183",
+    "latitude": 42.141043671166,
+    "longitude": -83.211928178577,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "245475",
+    "businessName": "CIRCLE K #6313",
+    "address": "21860 West Rd, Woodhaven, MI 48183-3249",
+    "city": "Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.138513565009,
+    "longitude": -83.245170941795,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9695",
+    "businessName": "N \u0026 J MARKET",
+    "address": "26832 Allen Rd, Woodhaven, MI 48183-4350",
+    "city": "Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.11366806444,
+    "longitude": -83.225286182428,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11500",
+    "businessName": "REVO\u0027S FOOD \u0026 LIQUOR",
+    "address": "18601 Van Horn Rd, Woodhaven, MI 48183-3804",
+    "city": "Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.126305311922,
+    "longitude": -83.218427065035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "201935",
+    "businessName": "WAL-MART STORE #3336",
+    "address": "23800 Allen Rd, Woodhaven, MI 48183-3374",
+    "city": "Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.134961712947,
+    "longitude": -83.225974888337,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10253",
+    "businessName": "WEST MARKET",
+    "address": "22061 West Rd, Woodhaven, MI 48183-3225",
+    "city": "Woodhaven",
+    "zipCode": "48183",
+    "latitude": 42.138334091066,
+    "longitude": -83.247296135675,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

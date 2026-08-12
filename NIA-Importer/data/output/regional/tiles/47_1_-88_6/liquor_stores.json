@@ -1,0 +1,62 @@
+[
+  {
+    "businessId": "138605",
+    "businessName": "KRIST FOOD MART # 25",
+    "address": "706 Quincy St, Hancock, MI 49930-1501",
+    "city": "Hancock",
+    "zipCode": "49930",
+    "latitude": 47.126503591972,
+    "longitude": -88.592208312194,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239342",
+    "businessName": "THE SHOTTLE BOP",
+    "address": "125 Quincy St, Hancock, MI 49930-1848",
+    "city": "Hancock",
+    "zipCode": "49930",
+    "latitude": 47.127045647661,
+    "longitude": -88.579308458622,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10623",
+    "businessName": "JIM\u0027S FOODMART",
+    "address": "300 Pearl St, Houghton, MI 49931-1330",
+    "city": "Houghton",
+    "zipCode": "49931",
+    "latitude": 47.11970936823,
+    "longitude": -88.554648658162,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161183",
+    "businessName": "WAL-MART SUPERCENTER #2192",
+    "address": "995 Razorback Dr, Houghton, MI 49931-2801",
+    "city": "Houghton",
+    "zipCode": "49931",
+    "latitude": 47.10821108231,
+    "longitude": -88.588901054149,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0267895",
+    "businessName": "RICHIE\u0027S MARKET",
+    "address": "48655 Main St, Dollar Bay, MI 49922-9745",
+    "city": "Osceola Twp",
+    "zipCode": "49922",
+    "latitude": 47.1209810709,
+    "longitude": -88.503430772747,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283310",
+    "businessName": "CAMPIONI CONVENIENCE",
+    "address": "19975 W Sharon Ave, Houghton, MI 49931-2515",
+    "city": "Portage Twp",
+    "zipCode": "49931",
+    "latitude": 47.112329352978,
+    "longitude": -88.574766592605,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

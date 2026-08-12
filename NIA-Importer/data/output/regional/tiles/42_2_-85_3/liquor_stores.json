@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0280000",
+    "businessName": "DIESEL MAN, INC.",
+    "address": "4647 Columbia Ave W, Battle Creek, MI 49015-8643",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.27901781185,
+    "longitude": -85.28694870861,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227520",
+    "businessName": "KATIE PLAZA DISCOUNT LIQUOR",
+    "address": "594 Columbia Ave W, Battle Creek, MI 49015-3182",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.298620746749,
+    "longitude": -85.210630665008,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10234",
+    "businessName": "MEIJER #316",
+    "address": "2191 Columbia Ave W, Battle Creek, MI 49015-2847",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.297291780314,
+    "longitude": -85.237860739339,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206235",
+    "businessName": "THE LIBERTY PARTY STORE",
+    "address": "1950 Columbia Ave W, Battle Creek, MI 49015-2892",
+    "city": "Battle Creek",
+    "zipCode": "49015",
+    "latitude": 42.297443472836,
+    "longitude": -85.230478207236,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

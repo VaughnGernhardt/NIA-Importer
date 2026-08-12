@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "172752",
+    "businessName": "SANDUSKY MARATHON",
+    "address": "473 W Sanilac Rd, Sandusky, MI 48471-1072",
+    "city": "Sandusky",
+    "zipCode": "48471",
+    "latitude": 43.420888853064,
+    "longitude": -82.845969755776,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285690",
+    "businessName": "SANDUSKY PARTY STORE",
+    "address": "73 W Sanilac Rd, Sandusky, MI 48471-1060",
+    "city": "Sandusky",
+    "zipCode": "48471",
+    "latitude": 43.421203295502,
+    "longitude": -82.831696564587,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "160879",
+    "businessName": "WAL-MART SUPERCENTER #3632",
+    "address": "655 W Sanilac Rd, Sandusky, MI 48471-9667",
+    "city": "Sandusky",
+    "zipCode": "48471",
+    "latitude": 43.420711428222,
+    "longitude": -82.855420133266,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

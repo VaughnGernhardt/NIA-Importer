@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "205176",
+    "businessName": "B \u0026 B LIQUOR",
+    "address": "16712 26 Mile Rd, Macomb, MI 48042",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.71613311897,
+    "longitude": -82.959457756654,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "216674",
+    "businessName": "KROGER STORE #716",
+    "address": "16450 26 Mile Rd, Macomb, MI 48042",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.716085320875,
+    "longitude": -82.962321548077,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235353",
+    "businessName": "MACOMB PITSTOP",
+    "address": "16500 26 Mile Rd, Macomb, MI 48042-1023",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.716094156634,
+    "longitude": -82.961802130151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242084",
+    "businessName": "SILVER HOUSE LIQUOR",
+    "address": "16661 25 Mile Rd, Macomb, MI 48042",
+    "city": "Macomb Twp",
+    "zipCode": "48042",
+    "latitude": 42.700831057474,
+    "longitude": -82.958349395759,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288749",
+    "businessName": "JOSEPH LIQUOR LLC",
+    "address": "58865 Romeo Plank Rd, Ray, MI 48096-4132",
+    "city": "Ray Twp",
+    "zipCode": "48096",
+    "latitude": 42.729808772108,
+    "longitude": -82.960105071887,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

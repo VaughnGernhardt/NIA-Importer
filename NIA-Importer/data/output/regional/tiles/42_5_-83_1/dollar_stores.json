@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": "2932-e-long-lake-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2932, E Long Lake Rd Troy, MI 48085-3780",
+    "city": "E Long Lake Rd Troy",
+    "zipCode": "48085",
+    "latitude": 42.592915794464,
+    "longitude": -83.091359647633
+  },
+  {
+    "storeId": "2212-e-14-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "2212 E 14, Mile Rd Warren, MI 48092",
+    "city": "Mile Rd Warren",
+    "zipCode": "48092",
+    "latitude": 42.534864089998,
+    "longitude": -83.083184932403
+  },
+  {
+    "storeId": "5590-12-mile-road",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "5590 12, Mile Road. Warren, MI 48092-4637",
+    "city": "Mile Road. Warren",
+    "zipCode": "48092",
+    "latitude": 42.506002427689,
+    "longitude": -83.050925823415
+  },
+  {
+    "storeId": "40828-ryan-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 40828, Ryan Rd Sterling Heights, MI 48310",
+    "city": "Ryan Rd Sterling Heights",
+    "zipCode": "48310",
+    "latitude": 42.592357485546,
+    "longitude": -83.070725709605
+  },
+  {
+    "storeId": "37130-van-dyke-ave",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 37130, Van Dyke Ave. Sterling Heights, MI 48312-1826",
+    "city": "Van Dyke Ave. Sterling Heights",
+    "zipCode": "48312",
+    "latitude": 42.569091528222,
+    "longitude": -83.029575656857
+  },
+  {
+    "storeId": "5735-e-13-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "5735 E. 13, Mile Road Warren, MI 48092",
+    "city": "Mile Road Warren",
+    "zipCode": "48092",
+    "latitude": 42.520803666598,
+    "longitude": -83.050191051109
+  }
+]

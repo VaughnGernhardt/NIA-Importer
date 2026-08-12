@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "229096",
+    "businessName": "DAVISON LIQUOR",
+    "address": "11018 Davison Rd, Davison, MI 48423-8100",
+    "city": "Davison Twp",
+    "zipCode": "48423",
+    "latitude": 43.035158559868,
+    "longitude": -83.497608405674,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12782",
+    "businessName": "FICK\u0027S MARKET",
+    "address": "2490 N Elba Rd, Lapeer, MI 48446-8030",
+    "city": "Oregon Twp",
+    "zipCode": "48446",
+    "latitude": 43.097578604326,
+    "longitude": -83.443355170523,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

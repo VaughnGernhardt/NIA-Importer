@@ -1,0 +1,34 @@
+[
+  {
+    "propertyId": "800226119",
+    "propertyName": "GARDENS ON CAROLINA",
+    "latitude": 41.601133999145695,
+    "longitude": -87.32809299993139,
+    "assistedUnits": 38,
+    "totalUnits": 39
+  },
+  {
+    "propertyId": "800006721",
+    "propertyName": "GARY NSA I \u0026 II",
+    "latitude": 41.60178499897513,
+    "longitude": -87.35858800018525,
+    "assistedUnits": 249,
+    "totalUnits": 249
+  },
+  {
+    "propertyId": "800006896",
+    "propertyName": "GARY NSA III",
+    "latitude": 41.602112999317185,
+    "longitude": -87.35854100032957,
+    "assistedUnits": 222,
+    "totalUnits": 222
+  },
+  {
+    "propertyId": "800006580",
+    "propertyName": "WILLOWS ON CLARK ROAD",
+    "latitude": 41.60312799922982,
+    "longitude": -87.39382400038653,
+    "assistedUnits": 70,
+    "totalUnits": 202
+  }
+]

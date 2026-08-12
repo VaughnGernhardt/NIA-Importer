@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "9633",
+    "businessName": "MACKINAW IGA",
+    "address": "101 E Central Ave, Mackinaw City, MI 49701-9696",
+    "city": "Mackinaw City",
+    "zipCode": "49701",
+    "latitude": 45.781671314973,
+    "longitude": -84.732180593141,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261684",
+    "businessName": "MICKEYS MINI MART",
+    "address": "404 S HURON AVE, MACKINAW CITY, MI 49701",
+    "city": "Mackinaw City",
+    "zipCode": "49701",
+    "latitude": 45.784799941443,
+    "longitude": -84.725577825969,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

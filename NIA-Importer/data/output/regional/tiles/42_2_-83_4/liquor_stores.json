@@ -1,0 +1,272 @@
+[
+  {
+    "businessId": "0267327",
+    "businessName": "HARRISON LIQUOR ACQUISITION, LLC",
+    "address": "3710 Harrison St, Inkster, MI 48141-2967",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.282458973688,
+    "longitude": -83.319399661817,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269843",
+    "businessName": "NEW ALLEN B \u0026 D MARKET",
+    "address": "3760 Inkster Rd, Inkster, MI 48141-3070",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.282223026737,
+    "longitude": -83.309621936409,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "132951",
+    "businessName": "REMY ENTERPRISES, INC.",
+    "address": "3153 Inkster Rd, Inkster, MI 48141-2557",
+    "city": "Inkster",
+    "zipCode": "48141",
+    "latitude": 42.287488848773,
+    "longitude": -83.309689844008,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215531",
+    "businessName": "GET-N-GO",
+    "address": "9152 Inkster Rd, Romulus, MI 48174-2614",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.239694347929,
+    "longitude": -83.30814415078,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10197",
+    "businessName": "KEGGERS PARTY SHOPPE",
+    "address": "8284 Wayne Rd, Romulus, MI 48174-1678",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.243187346331,
+    "longitude": -83.386282156424,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "218919",
+    "businessName": "MOBIL MART",
+    "address": "35426 Goddard Rd, Romulus, MI 48174-1437",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.22317426333,
+    "longitude": -83.385766444643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "238124",
+    "businessName": "ROMULUS CONVENIENCE",
+    "address": "7610 Merriman Rd, Romulus, MI 48174-1911",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.250251324413,
+    "longitude": -83.347781822051,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288495",
+    "businessName": "SHEETZ #881",
+    "address": "29225 Smith Rd, Romulus, MI 48174-2250",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.246113100808,
+    "longitude": -83.32508417854,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228721",
+    "businessName": "SUPER J FOOD MARKET",
+    "address": "31370 Ecorse Rd, Romulus, MI 48174-3537",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.252923940275,
+    "longitude": -83.34747201379,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12356",
+    "businessName": "SUPER Y MARKET",
+    "address": "7130 Middlebelt Rd, Romulus, MI 48174-2131",
+    "city": "Romulus",
+    "zipCode": "48174",
+    "latitude": 42.252875945879,
+    "longitude": -83.328512215311,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274693",
+    "businessName": "TOMA PLACE, INC.",
+    "address": "26959 Van Born Rd, Taylor, MI 48180-1068",
+    "city": "Taylor",
+    "zipCode": "48180",
+    "latitude": 42.268301910133,
+    "longitude": -83.30361524348,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285802",
+    "businessName": "7 STAR LIQUOR",
+    "address": "4422 S Wayne Rd, Wayne, MI 48184-2115",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.275156275031,
+    "longitude": -83.387973856112,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215017",
+    "businessName": "7-ELEVEN #34156-B",
+    "address": "33920 Van Born Rd, Wayne, MI 48184-2473",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.266976263395,
+    "longitude": -83.372537623731,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "228509",
+    "businessName": "FOOD BASKET 2",
+    "address": "5703 S Wayne Rd, Wayne, MI 48184-2403",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.267451245029,
+    "longitude": -83.388844120039,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0281572",
+    "businessName": "SKY LIGHT LIQUOR",
+    "address": "4092-4098 HOWE RD, WAYNE, MI 48184",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.277745353882,
+    "longitude": -83.372817280512,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231212",
+    "businessName": "UNCLE JOE\u0027S MARKET",
+    "address": "5750 S Merriman Rd, Wayne, MI 48184-2288",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.267906223628,
+    "longitude": -83.34816590579,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "236775",
+    "businessName": "VENOY GAS",
+    "address": "2910 Venoy Rd, Wayne, MI 48184-1330",
+    "city": "Wayne",
+    "zipCode": "48184",
+    "latitude": 42.288690873389,
+    "longitude": -83.363646675038,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13737",
+    "businessName": "7-ELEVEN #20630-F",
+    "address": "1826 S Merriman Rd, Westland, MI 48186-5308",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.295400889961,
+    "longitude": -83.349274855168,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214201",
+    "businessName": "CVS/PHARMACY #8059",
+    "address": "1750 S Wayne Rd, Westland, MI 48186-5430",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.295924780243,
+    "longitude": -83.388225962328,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15019",
+    "businessName": "KROGER STORE #630",
+    "address": "31300 Michigan Ave, Westland, MI 48186-9599",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.285900357591,
+    "longitude": -83.347103215854,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214678",
+    "businessName": "MARATHON",
+    "address": "2646 S Wayne Rd, Westland, MI 48186-5427",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.29019617465,
+    "longitude": -83.386011140837,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131543",
+    "businessName": "NEW REGAL LIQUOR AND FOOD MARKET",
+    "address": "1520 S Merriman Rd, Westland, MI 48186-5302",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.298949175136,
+    "longitude": -83.349391581159,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279713",
+    "businessName": "ROBERTSON LIQUOR",
+    "address": "2329 S Venoy Rd, Westland, MI 48186-4662",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.291911427735,
+    "longitude": -83.363557195253,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "12829",
+    "businessName": "VAN BORN FOOD CENTER",
+    "address": "29234 Van Born Rd, Westland, MI 48186-7320",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.267914801777,
+    "longitude": -83.327904392943,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "232348",
+    "businessName": "WAYNE EXPRESS",
+    "address": "1810 S Wayne Rd, Westland, MI 48186-5471",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.295369658489,
+    "longitude": -83.388200774897,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "14250",
+    "businessName": "WESTLAND FOOD STORES",
+    "address": "1690 S Venoy Rd, Westland, MI 48186-7833",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.29700054746,
+    "longitude": -83.363958490509,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "240679",
+    "businessName": "WESTLAND LIQUOR",
+    "address": "27414 Van Born Rd, Westland, MI 48186-5118",
+    "city": "Westland",
+    "zipCode": "48186",
+    "latitude": 42.268282754148,
+    "longitude": -83.309354759405,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

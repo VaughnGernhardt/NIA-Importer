@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0285984",
+    "businessName": "FM DRUGS LLC",
+    "address": "868 Michigan Ave, Baldwin, MI 49304-7123",
+    "city": "Baldwin",
+    "zipCode": "49304",
+    "latitude": 43.896198284537,
+    "longitude": -85.851521321227,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13149",
+    "businessName": "WESCO #38",
+    "address": "777 Michigan Ave, Baldwin, MI 49304-7129",
+    "city": "Baldwin",
+    "zipCode": "49304",
+    "latitude": 43.894931269938,
+    "longitude": -85.851729747779,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "230353",
+    "businessName": "BALDWIN QUICK STOP",
+    "address": "711 Michigan Ave, Baldwin, MI 49304-7129",
+    "city": "Pleasant Plains Twp",
+    "zipCode": "49304",
+    "latitude": 43.89403256337,
+    "longitude": -85.851760449028,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142758",
+    "businessName": "HOUSEMAN\u0027S FOOD STORE, INC.",
+    "address": "M 37, Baldwin, MI 49304",
+    "city": "Pleasant Plains Twp",
+    "zipCode": "49304",
+    "latitude": 43.886484112101,
+    "longitude": -85.802797514496,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

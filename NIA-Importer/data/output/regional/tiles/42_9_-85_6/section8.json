@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800009970",
+    "propertyName": "CAMELOT WOODS I",
+    "latitude": 42.91972699924038,
+    "longitude": -85.57545300032595,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800009971",
+    "propertyName": "CAMELOT WOODS II",
+    "latitude": 42.920050999009526,
+    "longitude": -85.57260799988853,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010602",
+    "propertyName": "THE FOUNTAINS",
+    "latitude": 42.92421199927576,
+    "longitude": -85.57262899980492,
+    "assistedUnits": 53,
+    "totalUnits": 168
+  }
+]

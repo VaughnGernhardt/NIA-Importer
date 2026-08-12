@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0278026",
+    "businessName": "CHAPPY\u0027S",
+    "address": "5019 E Arnold Lake Rd, Harrison, MI 48625-9688",
+    "city": "Frost Twp",
+    "zipCode": "48625",
+    "latitude": 44.07475637646,
+    "longitude": -84.74777006715,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237644",
+    "businessName": "CROSSROADS CORNER STORE",
+    "address": "6976 E Townline Lake Rd, Harrison, MI 48625-8960",
+    "city": "Hamilton Twp",
+    "zipCode": "48625",
+    "latitude": 44.031970351168,
+    "longitude": -84.706999733346,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144616",
+    "businessName": "SUNRISE CONVENIENCE STORE",
+    "address": "111 N 1st St, Harrison, MI 48625-7710",
+    "city": "Harrison",
+    "zipCode": "48625",
+    "latitude": 44.019799331191,
+    "longitude": -84.799528937911,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235420",
+    "businessName": "THE PARTY DOC",
+    "address": "1470 N Clare Ave, Harrison, MI 48625-8218",
+    "city": "Hayes Twp",
+    "zipCode": "48625",
+    "latitude": 44.007347080107,
+    "longitude": -84.787833701612,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

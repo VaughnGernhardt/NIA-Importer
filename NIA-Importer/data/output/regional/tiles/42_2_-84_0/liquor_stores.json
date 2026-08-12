@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "13448",
+    "businessName": "FREDONIA GROCERY",
+    "address": "11515 E Pleasant Lake Rd, Manchester, MI 48158-9569",
+    "city": "Freedom Twp",
+    "zipCode": "48158",
+    "latitude": 42.207869632351,
+    "longitude": -83.953805066921,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273557",
+    "businessName": "CHELSEA BP",
+    "address": "5 S Fletcher Rd, Chelsea, MI 48118-9617",
+    "city": "Lima Twp",
+    "zipCode": "48118",
+    "latitude": 42.29698809666,
+    "longitude": -83.97461885291,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

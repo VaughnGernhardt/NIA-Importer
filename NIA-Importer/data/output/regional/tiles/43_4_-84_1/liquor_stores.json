@@ -1,0 +1,122 @@
+[
+  {
+    "businessId": "232699",
+    "businessName": "7-ELEVEN #36934-A",
+    "address": "5770 State St, Saginaw, MI 48603-3417",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.437000979495,
+    "longitude": -84.029708084457,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140230",
+    "businessName": "DEPOT PARTY STORE",
+    "address": "6055 Tittabawassee Rd, Saginaw, MI 48603-9627",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.480772490988,
+    "longitude": -84.035446492728,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215279",
+    "businessName": "KROGER STORE #738",
+    "address": "4672 State St, Saginaw, MI 48603-3805",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.436850911001,
+    "longitude": -84.008358996947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237944",
+    "businessName": "LAWNDALE MARKET",
+    "address": "3005 Lawndale Rd, Saginaw, MI 48603-1618",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.451469738334,
+    "longitude": -84.034471122934,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "225795",
+    "businessName": "SHAMROCK PARTY STORE",
+    "address": "105 S Center Rd, Saginaw, MI 48638-6110",
+    "city": "Saginaw Twp",
+    "zipCode": "48638",
+    "latitude": 43.414523017721,
+    "longitude": -84.014735815123,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271832",
+    "businessName": "STATE ST. LIQUOR STORE",
+    "address": "4785 State St, Saginaw, MI 48603-3808",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.436768285066,
+    "longitude": -84.010523636997,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "176614",
+    "businessName": "WAL-MART SUPERCENTER #2644",
+    "address": "5825 Brockway Rd, Saginaw, MI 48638-4474",
+    "city": "Saginaw Twp",
+    "zipCode": "48638",
+    "latitude": 43.435178424844,
+    "longitude": -84.030769208857,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "144066",
+    "businessName": "WESTWOOD PARTY STORE",
+    "address": "5645 State St, Saginaw, MI 48603-3691",
+    "city": "Saginaw Twp",
+    "zipCode": "48603",
+    "latitude": 43.436870686409,
+    "longitude": -84.026735157639,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16004",
+    "businessName": "JACK\u0027S FRUIT MARKET",
+    "address": "7000 Gratiot Rd, Saginaw, MI 48609-6901",
+    "city": "Thomas Twp",
+    "zipCode": "48609",
+    "latitude": 43.415815539002,
+    "longitude": -84.052162280946,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "10984",
+    "businessName": "MEIJER #42",
+    "address": "8400 Gratiot Rd, Saginaw, MI 48609-4804",
+    "city": "Thomas Twp",
+    "zipCode": "48609",
+    "latitude": 43.416053081444,
+    "longitude": -84.078965182314,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231637",
+    "businessName": "SINGH\u0027S PARTY STORE",
+    "address": "7877 Gratiot Rd, Saginaw, MI 48609-5020",
+    "city": "Thomas Twp",
+    "zipCode": "48609",
+    "latitude": 43.415864578689,
+    "longitude": -84.06905366382,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "231836",
+    "businessName": "TOBACCO \u0026 LIQUOR 1",
+    "address": "7570 Gratiot Rd, Saginaw, MI 48609-6911",
+    "city": "Thomas Twp",
+    "zipCode": "48609",
+    "latitude": 43.415903035097,
+    "longitude": -84.063167195653,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800006004",
+    "propertyName": "INDIAN HILL",
+    "latitude": 42.30500699881064,
+    "longitude": -89.35925000027999,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006438",
+    "propertyName": "VILLAGE GREEN PECATONICA II",
+    "latitude": 42.30648499937035,
+    "longitude": -89.35914700034783,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800006440",
+    "propertyName": "VILLAGE GREEN-PECATONICA I",
+    "latitude": 42.30755599916209,
+    "longitude": -89.35867699999454,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  }
+]

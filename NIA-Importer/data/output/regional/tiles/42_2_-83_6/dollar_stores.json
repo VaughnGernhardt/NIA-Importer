@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1621-holmes-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1621, Holmes Rd. Ypsilanti, MI 48198-4155",
+    "city": "Holmes Rd. Ypsilanti",
+    "zipCode": "48198",
+    "latitude": 42.253852840345,
+    "longitude": -83.578370015978
+  },
+  {
+    "storeId": "6119-rawsonville-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 6119, Rawsonville Road Belleville, MI 48111",
+    "city": "Rawsonville Road Belleville",
+    "zipCode": "48111",
+    "latitude": 42.202840075603,
+    "longitude": -83.543039608372
+  }
+]

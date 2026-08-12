@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "161884",
+    "businessName": "ITALIAN VILLAGE MARKET",
+    "address": "4794 Lapeer Rd, Columbiaville, MI 48421-9744",
+    "city": "Deerfield Twp",
+    "zipCode": "48421",
+    "latitude": 43.16789343419,
+    "longitude": -83.311771404318,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215177",
+    "businessName": "SAWDUST CORNERS",
+    "address": "3528 N Lapeer Rd, Lapeer, MI 48446-8753",
+    "city": "Mayfield Twp",
+    "zipCode": "48446",
+    "latitude": 43.131849597442,
+    "longitude": -83.310335409061,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

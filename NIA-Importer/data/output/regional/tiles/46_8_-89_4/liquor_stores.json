@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "137406",
+    "businessName": "PATS JUBILEE FOODS",
+    "address": "751 Greenland Rd, Ontonagon, MI 49953-1423",
+    "city": "Ontonagon",
+    "zipCode": "49953",
+    "latitude": 46.86308511737,
+    "longitude": -89.300655280799,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0289944",
+    "businessName": "GIGI\u0027S COFFEEHOUSE LLC",
+    "address": "537 River St, Ontonagon, MI 49953-1615",
+    "city": "Ontonagon Twp",
+    "zipCode": "49953",
+    "latitude": 46.872727912916,
+    "longitude": -89.317643336883,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

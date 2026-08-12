@@ -1,0 +1,102 @@
+[
+  {
+    "businessId": "240322",
+    "businessName": "BOTTLE \u0026 BARREL PARTY STORE",
+    "address": "1635 E Broomfield St, Mount Pleasant, MI 48858-5421",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.582783436756,
+    "longitude": -84.752205462334,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "235318",
+    "businessName": "MISSION STORE II",
+    "address": "1022 S Mission St, Mount Pleasant, MI 48858-3550",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.594940820977,
+    "longitude": -84.767634959699,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9464",
+    "businessName": "RIC\u0027S FOOD CENTER",
+    "address": "705 S Mission St, Mount Pleasant, MI 48858-2765",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.598059404328,
+    "longitude": -84.767495820713,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0260036",
+    "businessName": "THE STORE",
+    "address": "2128 S Mission St, Mount Pleasant, MI 48858-4427",
+    "city": "Mt Pleasant",
+    "zipCode": "48858",
+    "latitude": 43.5808533074,
+    "longitude": -84.767528238875,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "243007",
+    "businessName": "K \u0026 S LIQUOR",
+    "address": "4855 E Blue Grass Rd, Mount Pleasant, MI 48858-7527",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.575324403451,
+    "longitude": -84.74966172258,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0273100",
+    "businessName": "MT. PLEASANT PARTNERS, LLC",
+    "address": "4962 E BROOMFIELD RD, MOUNT PLEASANT, MI 48858",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.582494111077,
+    "longitude": -84.732895733258,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0266581",
+    "businessName": "OLD MISSION WINE CELLAR",
+    "address": "5030 S Mission Rd, Mount Pleasant, MI 48858-4529",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.567759738908,
+    "longitude": -84.767397110012,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "183974",
+    "businessName": "SAM\u0027S CLUB #4982",
+    "address": "4850 Encore Blvd, Mount Pleasant, MI 48858-6013",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.570836955819,
+    "longitude": -84.757668220931,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "223565",
+    "businessName": "TARGET 0924",
+    "address": "4097 E Blue Grass Rd, Mount Pleasant, MI 48858-7997",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.575438995598,
+    "longitude": -84.76377759803,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "183975",
+    "businessName": "WAL-MART SUPERCENTER #1428",
+    "address": "4730 Encore Blvd, Mount Pleasant, MI 48858-6016",
+    "city": "Union Twp",
+    "zipCode": "48858",
+    "latitude": 43.572990949278,
+    "longitude": -84.75766623363,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

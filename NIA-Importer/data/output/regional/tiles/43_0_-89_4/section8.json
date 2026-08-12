@@ -1,0 +1,106 @@
+[
+  {
+    "propertyId": "800022887",
+    "propertyName": "BRAM HILL APTS",
+    "latitude": 43.04559199916227,
+    "longitude": -89.39251700027802,
+    "assistedUnits": 34,
+    "totalUnits": 34
+  },
+  {
+    "propertyId": "800022911",
+    "propertyName": "CAPITOL CENTRE",
+    "latitude": 43.07365699893347,
+    "longitude": -89.38946599997628,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800023262",
+    "propertyName": "ELAINE MEYERS APARTMENTS",
+    "latitude": 43.036519998979834,
+    "longitude": -89.39679999956773,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800023016",
+    "propertyName": "FORDEM CENTER TOWERS",
+    "latitude": 43.093369999183146,
+    "longitude": -89.36346899999563,
+    "assistedUnits": 27,
+    "totalUnits": 108
+  },
+  {
+    "propertyId": "800023169",
+    "propertyName": "MEADOW PARK TOWN HOMES",
+    "latitude": 43.09953599891324,
+    "longitude": -89.31293000040166,
+    "assistedUnits": 40,
+    "totalUnits": 40
+  },
+  {
+    "propertyId": "800023191",
+    "propertyName": "MONONA HILLS",
+    "latitude": 43.05716299878006,
+    "longitude": -89.32857699975091,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800023192",
+    "propertyName": "MONONA MEADOWS",
+    "latitude": 43.052804999334036,
+    "longitude": -89.32289599999523,
+    "assistedUnits": 76,
+    "totalUnits": 76
+  },
+  {
+    "propertyId": "800023011",
+    "propertyName": "QUAKER HOUSING",
+    "latitude": 43.043111999047646,
+    "longitude": -89.39208799993261,
+    "assistedUnits": 71,
+    "totalUnits": 72
+  },
+  {
+    "propertyId": "800256467",
+    "propertyName": "Red Caboose",
+    "latitude": 43.0976829989134,
+    "longitude": -89.35034699962003,
+    "assistedUnits": 9,
+    "totalUnits": 23
+  },
+  {
+    "propertyId": "800023381",
+    "propertyName": "STEIN APARTMENTS",
+    "latitude": 43.097255999016106,
+    "longitude": -89.35893200026267,
+    "assistedUnits": 10,
+    "totalUnits": 10
+  },
+  {
+    "propertyId": "800255524",
+    "propertyName": "WISCONSIN HOUSING AND ECONOMIC DEVELOPMENT AUTHOR",
+    "latitude": 43.08193799891847,
+    "longitude": -89.37188300003572,
+    "assistedUnits": 0,
+    "totalUnits": 132
+  },
+  {
+    "propertyId": "800501945",
+    "propertyName": "Wisconsin Housing \u0026 Economic Development Authorit",
+    "latitude": 43.08193799891847,
+    "longitude": -89.37188300003572,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800243083",
+    "propertyName": "Wisconsin Housing and Economic Development",
+    "latitude": 43.07312099891372,
+    "longitude": -89.38607200044117,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  }
+]

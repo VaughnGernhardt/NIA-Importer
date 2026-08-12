@@ -1,0 +1,22 @@
+[
+  {
+    "storeId": "1589-haslett-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1589, Haslett Rd Haslett, MI 48840-8424",
+    "city": "Haslett Rd Haslett",
+    "zipCode": "48840",
+    "latitude": 42.747212791545,
+    "longitude": -84.40651424495
+  },
+  {
+    "storeId": "1941-w-grand-river-ave-suite-101",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "1941 W Grand River Ave. Suite 101, Okemos, MI 48864-1701",
+    "city": "Okemos",
+    "zipCode": "48864",
+    "latitude": 42.720262334264,
+    "longitude": -84.419204479969
+  }
+]

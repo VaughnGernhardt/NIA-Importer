@@ -1,0 +1,52 @@
+[
+  {
+    "storeId": "22084-farmington-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 22084, Farmington Rd Farmington, MI 48336-4418",
+    "city": "Farmington Rd Farmington",
+    "zipCode": "48336",
+    "latitude": 42.453989576373,
+    "longitude": -83.375835707379
+  },
+  {
+    "storeId": "29570-7-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "29570 7, Mile Rd Livonia, MI 48152-1910",
+    "city": "Mile Rd Livonia",
+    "zipCode": "48152",
+    "latitude": 42.426963517691,
+    "longitude": -83.34295285697
+  },
+  {
+    "storeId": "33330-west-12-mile-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "33330 West 12, Mile Rd. Farmington Hills, MI 48334",
+    "city": "Mile Rd. Farmington Hills",
+    "zipCode": "48334",
+    "latitude": 42.4987586627,
+    "longitude": -83.377167162271
+  },
+  {
+    "storeId": "27401-w-6-mile",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "27401 W 6, Mile Livonia, MI 48152",
+    "city": "Mile Livonia",
+    "zipCode": "48152",
+    "latitude": 42.413151039422,
+    "longitude": -83.315678068935
+  },
+  {
+    "storeId": "31410-w-8-mile-road",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "31410 W 8, Mile Road Farmington Hills, MI 48336",
+    "city": "Mile Road Farmington Hills",
+    "zipCode": "48336",
+    "latitude": 42.441138171144,
+    "longitude": -83.356052349708
+  }
+]

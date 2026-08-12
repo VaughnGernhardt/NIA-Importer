@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "143128",
+    "businessName": "JACK\u0027S QUICK STOP #3",
+    "address": "6330 Holton Rd, Twin Lake, MI 49457-9301",
+    "city": "Cedar Creek Twp",
+    "zipCode": "49457",
+    "latitude": 43.369337720146,
+    "longitude": -86.152560026891,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239892",
+    "businessName": "J \u0026 H FAMILY STORES - TWIN LAKE",
+    "address": "5536 Holton Rd, Twin Lake, MI 49457-9323",
+    "city": "Dalton Twp",
+    "zipCode": "49457",
+    "latitude": 43.355218617758,
+    "longitude": -86.167477239327,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

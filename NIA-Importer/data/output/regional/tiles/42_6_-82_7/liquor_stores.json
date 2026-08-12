@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0260551",
+    "businessName": "COLONY PIZZA",
+    "address": "6525 Dyke Rd, Clay, MI 48001-3605",
+    "city": "Clay Twp",
+    "zipCode": "48001",
+    "latitude": 42.634027183309,
+    "longitude": -82.616090502468,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "227755",
+    "businessName": "LAZOVSKI, BORIS",
+    "address": "7205 Dyke Rd, Algonac, MI 48001-3009",
+    "city": "Clay Twp",
+    "zipCode": "48001",
+    "latitude": 42.668577304433,
+    "longitude": -82.621002182073,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0286545",
+    "businessName": "BARRELS \u0026 VINES ST. CLAIR, INC.",
+    "address": "8751 Dixie Hwy, Fair Haven, MI 48023-2403",
+    "city": "Ira Twp",
+    "zipCode": "48023",
+    "latitude": 42.679365435968,
+    "longitude": -82.654517057173,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "businessId": "0274571",
+    "businessName": "A \u0026 D LIQUOR",
+    "address": "990 Pipestone St, Benton Harbor, MI 49022-4015",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.099934500772,
+    "longitude": -86.438209315814,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271535",
+    "businessName": "MAY STREET MARKET",
+    "address": "131 E May St, Benton Harbor, MI 49022-5332",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.098098339645,
+    "longitude": -86.455617374434,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277523",
+    "businessName": "PIPESTONE PARTY STORE",
+    "address": "1117 Pipestone Rd, Benton Harbor, MI 49022-4018",
+    "city": "Benton Harbor",
+    "zipCode": "49022",
+    "latitude": 42.098710598788,
+    "longitude": -86.436329505924,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9883",
+    "businessName": "ANGELO\u0027S",
+    "address": "1859 M 139, Benton Harbor, MI 49022-6103",
+    "city": "Benton Twp",
+    "zipCode": "49022",
+    "latitude": 42.086007331452,
+    "longitude": -86.436516696618,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246725",
+    "businessName": "MS PETROLEUM INC",
+    "address": "2670 M 139, Benton Harbor, MI 49022",
+    "city": "Benton Twp",
+    "zipCode": "49022",
+    "latitude": 42.070533043048,
+    "longitude": -86.436570593555,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "177634",
+    "businessName": "SLOSSON\u0027S",
+    "address": "812 E Napier Ave, Benton Harbor, MI 49022-6124",
+    "city": "Benton Twp",
+    "zipCode": "49022",
+    "latitude": 42.087023930331,
+    "longitude": -86.438868323359,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "151679",
+    "businessName": "WAL-MART SUPERCENTER #2062",
+    "address": "1400 Mall Dr, Benton Harbor, MI 49022-2325",
+    "city": "Benton Twp",
+    "zipCode": "49022",
+    "latitude": 42.079377059607,
+    "longitude": -86.423338457208,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0261615",
+    "businessName": "LAKESIDE LIQUOR",
+    "address": "1733 W John Beers Rd, Stevensville, MI 49127-9470",
+    "city": "Lincoln Twp",
+    "zipCode": "49127",
+    "latitude": 42.014443356288,
+    "longitude": -86.496031420079,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "149203",
+    "businessName": "MARTIN\u0027S SUPERMARKETS",
+    "address": "5637 Cleveland Ave, Stevensville, MI 49127-9613",
+    "city": "Lincoln Twp",
+    "zipCode": "49127",
+    "latitude": 42.014444360641,
+    "longitude": -86.494787831519,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0263622",
+    "businessName": "MEGA LIQUOR \u0026 SMOKE #105",
+    "address": "4031 M 139, ST JOSEPH, MI 49085",
+    "city": "Royalton Twp",
+    "zipCode": "49085",
+    "latitude": 42.044882664219,
+    "longitude": -86.435215435858,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "162365",
+    "businessName": "ROGER\u0027S FOODLAND",
+    "address": "4039 Hollywood Rd, Saint Joseph, MI 49085-9156",
+    "city": "Royalton Twp",
+    "zipCode": "49085",
+    "latitude": 42.045807591299,
+    "longitude": -86.455737942059,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239712",
+    "businessName": "CVS/PHARMACY #10592",
+    "address": "2506 Niles Ave, Saint Joseph, MI 49085-1924",
+    "city": "St Joseph",
+    "zipCode": "49085",
+    "latitude": 42.09039878872,
+    "longitude": -86.485154625764,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "148444",
+    "businessName": "ROOSTER\u0027S PARTY STORE",
+    "address": "1609 Lakeshore Dr, Saint Joseph, MI 49085-1635",
+    "city": "St Joseph",
+    "zipCode": "49085",
+    "latitude": 42.098480820173,
+    "longitude": -86.490836618758,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0282897",
+    "businessName": "SILVER BEVERAGE CORPORATION",
+    "address": "2926 Niles Ave, Saint Joseph, MI 49085-2418",
+    "city": "St Joseph",
+    "zipCode": "49085",
+    "latitude": 42.082779009555,
+    "longitude": -86.485527737142,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "215526",
+    "businessName": "LIQUOR CABINET",
+    "address": "1332 Hilltop Rd, Saint Joseph, MI 49085-2846",
+    "city": "St Joseph Twp",
+    "zipCode": "49085",
+    "latitude": 42.079824791751,
+    "longitude": -86.486364705693,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138721",
+    "businessName": "MARTIN\u0027S SUPERMARKET",
+    "address": "2121 S Cleveland Ave, Saint Joseph, MI 49085-2601",
+    "city": "St Joseph Twp",
+    "zipCode": "49085",
+    "latitude": 42.079504867368,
+    "longitude": -86.495228376021,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0288227",
+    "businessName": "ST JOE LIQUOR LLC",
+    "address": "2043 Niles Rd, St Joseph, MI 49085-2505",
+    "city": "St Joseph Twp",
+    "zipCode": "49085",
+    "latitude": 42.081140955011,
+    "longitude": -86.4847359546,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

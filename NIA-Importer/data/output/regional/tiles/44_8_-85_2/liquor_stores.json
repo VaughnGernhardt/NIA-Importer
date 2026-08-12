@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0284722",
+    "businessName": "MANCELONA NORTH EZ MART",
+    "address": "8150 US Highway 131 NE, Mancelona, MI 49659-8997",
+    "city": "Mancelona Twp",
+    "zipCode": "49659",
+    "latitude": 44.832368869186,
+    "longitude": -85.131188543152,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0270183",
+    "businessName": "VILLAGE GAS",
+    "address": "6133 US HIGHWAY 131 NE, KALKASKA, MI 49646",
+    "city": "Rapid River Twp",
+    "zipCode": "49646",
+    "latitude": 44.804275352989,
+    "longitude": -85.1453634969,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

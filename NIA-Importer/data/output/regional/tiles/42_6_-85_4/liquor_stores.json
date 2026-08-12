@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0278277",
+    "businessName": "STOP \u0026 SHOP MINI MART",
+    "address": "2978 W State Rd, Hastings, MI 49058-9549",
+    "city": "Rutland Twp",
+    "zipCode": "49058",
+    "latitude": 42.674073868937,
+    "longitude": -85.34789642703,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "204284",
+    "businessName": "WAL-MART STORE #2620",
+    "address": "1618 W M 43 Hwy, Hastings, MI 49058-8376",
+    "city": "Rutland Twp",
+    "zipCode": "49058",
+    "latitude": 42.645793184426,
+    "longitude": -85.330398273433,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

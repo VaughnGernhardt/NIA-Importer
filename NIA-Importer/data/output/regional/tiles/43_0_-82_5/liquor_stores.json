@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "10943",
+    "businessName": "MEIJER #163",
+    "address": "4775 24th Ave, Fort Gratiot, MI 48059-3476",
+    "city": "Fort Gratiot Twp",
+    "zipCode": "48059",
+    "latitude": 43.046829492347,
+    "longitude": -82.457271650563,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11559",
+    "businessName": "NORTHGATE LIQUOR AND WINES",
+    "address": "3853 Pine Grove Ave, Fort Gratiot, MI 48059-4266",
+    "city": "Fort Gratiot Twp",
+    "zipCode": "48059",
+    "latitude": 43.021318348505,
+    "longitude": -82.456188887483,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "175533",
+    "businessName": "PARTY PORT",
+    "address": "3832 Keewahdin Rd, Fort Gratiot, MI 48059-3311",
+    "city": "Fort Gratiot Twp",
+    "zipCode": "48059",
+    "latitude": 43.038739466015,
+    "longitude": -82.489378640198,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279851",
+    "businessName": "SMOKEY MOE\u0027S PARTY STORE",
+    "address": "4146 24th Ave, Fort Gratiot, MI 48059-3803",
+    "city": "Fort Gratiot Twp",
+    "zipCode": "48059",
+    "latitude": 43.028291464848,
+    "longitude": -82.456012622643,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "247726",
+    "businessName": "SUNRISE STORE #55",
+    "address": "4664 24th Ave, Fort Gratiot, MI 48059-3402",
+    "city": "Fort Gratiot Twp",
+    "zipCode": "48059",
+    "latitude": 43.043974469986,
+    "longitude": -82.456943051515,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197633",
+    "businessName": "JOE\u0027S PARTY STOP",
+    "address": "2304 Hancock St, Port Huron, MI 48060-2634",
+    "city": "Port Huron",
+    "zipCode": "48060",
+    "latitude": 43.00071445801,
+    "longitude": -82.446895451468,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15585",
+    "businessName": "KROGER STORE #515",
+    "address": "2907 Krafft Rd, Port Huron, MI 48060-8628",
+    "city": "Port Huron",
+    "zipCode": "48060",
+    "latitude": 43.02515477131,
+    "longitude": -82.454387331136,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0284580",
+    "businessName": "MATTHEW\u0027S BEVERAGE CENTER",
+    "address": "3550 Gratiot Ave, Port Huron, MI 48060-2247",
+    "city": "Port Huron",
+    "zipCode": "48060",
+    "latitude": 43.0168238527,
+    "longitude": -82.430552699441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "264127",
+    "businessName": "WALSH\u0027S PARTY STORE",
+    "address": "2741 Pine Grove Ave, Port Huron, MI 48060-2872",
+    "city": "Port Huron",
+    "zipCode": "48060",
+    "latitude": 43.003436270793,
+    "longitude": -82.440689879116,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

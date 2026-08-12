@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800212995",
+    "propertyName": "OLYMPIAN VILLAGE II",
+    "latitude": 42.51621899925248,
+    "longitude": -89.04357499988623,
+    "assistedUnits": 29,
+    "totalUnits": 29
+  },
+  {
+    "propertyId": "800023344",
+    "propertyName": "SCOVILLE CENTER",
+    "latitude": 42.5007139990346,
+    "longitude": -89.0316750002495,
+    "assistedUnits": 150,
+    "totalUnits": 152
+  },
+  {
+    "propertyId": "800023386",
+    "propertyName": "WOODSIDE TERRACE",
+    "latitude": 42.525654998729635,
+    "longitude": -89.07054299963728,
+    "assistedUnits": 116,
+    "totalUnits": 120
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": "1745-e-sherman-blvd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1745, E Sherman Blvd Muskegon, MI 49444-1862",
+    "city": "E Sherman Blvd Muskegon",
+    "zipCode": "49444",
+    "latitude": 43.205242788612,
+    "longitude": -86.200736000329
+  },
+  {
+    "storeId": "1636-e-apple-avenue",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 1636, E. Apple Avenue Muskegon, MI 49442-4241",
+    "city": "E. Apple Avenue Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.234294132469,
+    "longitude": -86.202829866656
+  },
+  {
+    "storeId": "2695-henry-st-unit-a",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2695, Henry St Unit A Muskegon, MI 49441",
+    "city": "Henry St Unit A Muskegon",
+    "zipCode": "49441",
+    "latitude": 43.203429621058,
+    "longitude": -86.263205497859
+  },
+  {
+    "storeId": "389-e-apple-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 389, E Apple Ave Muskegon, MI 49442-3465",
+    "city": "E Apple Ave Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.234159208189,
+    "longitude": -86.234669782945
+  },
+  {
+    "storeId": "120-e-broadway-avenue",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 120, E. Broadway Avenue Muskegon Heights, MI 49444-2102",
+    "city": "E. Broadway Avenue Muskegon Heights",
+    "zipCode": "49444",
+    "latitude": 43.20107395979,
+    "longitude": -86.242135342446
+  },
+  {
+    "storeId": "1461-e-apple-ave",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "1461 E Apple Ave Apple 31, Shopping Center Muskegon, MI 49442-3748",
+    "city": "Shopping Center Muskegon",
+    "zipCode": "49442",
+    "latitude": 43.234123593873,
+    "longitude": -86.20755981144
+  }
+]

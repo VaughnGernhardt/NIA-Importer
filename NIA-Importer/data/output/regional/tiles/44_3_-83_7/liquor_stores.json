@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "132656",
+    "businessName": "LAKEBREEZE PARTY STORE",
+    "address": "3985 Saginaw St, National City, MI 48748-9620",
+    "city": "Grant Twp",
+    "zipCode": "48748",
+    "latitude": 44.31915982273,
+    "longitude": -83.683606213411,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292539",
+    "businessName": "SEVEN LAKES GENERAL STORE",
+    "address": "3502 Indian Lake Rd, National City, MI 48748-9635",
+    "city": "Grant Twp",
+    "zipCode": "48748",
+    "latitude": 44.334361071489,
+    "longitude": -83.666749111762,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

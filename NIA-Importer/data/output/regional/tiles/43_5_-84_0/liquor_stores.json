@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0271742",
+    "businessName": "IDEAL PARTY STORE",
+    "address": "401 Salzburg Ave, Bay City, MI 48706-5347",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.580193357287,
+    "longitude": -83.907933795182,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15677",
+    "businessName": "JACK\u0027S FRUIT MARKET, INC.",
+    "address": "1000 Salzburg Ave, Bay City, MI 48706-5336",
+    "city": "Bay",
+    "zipCode": "48706",
+    "latitude": 43.580371734369,
+    "longitude": -83.913836694171,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

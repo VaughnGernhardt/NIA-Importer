@@ -1,0 +1,92 @@
+[
+  {
+    "businessId": "0277863",
+    "businessName": "BAY CITY LIQUOR",
+    "address": "2015 Columbus Ave, Bay City, MI 48708-6832",
+    "city": "Bay",
+    "zipCode": "48708",
+    "latitude": 43.589476403697,
+    "longitude": -83.866778706387,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "154313",
+    "businessName": "CB DISCOUNT",
+    "address": "1500 Broadway St, Bay City, MI 48708-8539",
+    "city": "Bay",
+    "zipCode": "48708",
+    "latitude": 43.572741543412,
+    "longitude": -83.893772545886,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0271740",
+    "businessName": "IDEAL PARTY STORE",
+    "address": "910 N Johnson St, Bay City, MI 48708-6250",
+    "city": "Bay",
+    "zipCode": "48708",
+    "latitude": 43.597979932025,
+    "longitude": -83.871404582869,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "15582",
+    "businessName": "JACK\u0027S FRUIT MARKET",
+    "address": "1511 W Center Rd, Essexville, MI 48732-2196",
+    "city": "Hampton Twp",
+    "zipCode": "48732",
+    "latitude": 43.594177993424,
+    "longitude": -83.837496116184,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157291",
+    "businessName": "KING LIQUOR",
+    "address": "536 W Center Rd, Essexville, MI 48732-2022",
+    "city": "Hampton Twp",
+    "zipCode": "48732",
+    "latitude": 43.594277287979,
+    "longitude": -83.801181527614,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "9634",
+    "businessName": "KROGER STORE #635",
+    "address": "2910 Center Ave, Essexville, MI 48732-1704",
+    "city": "Hampton Twp",
+    "zipCode": "48732",
+    "latitude": 43.594771561094,
+    "longitude": -83.847123355927,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "131688",
+    "businessName": "MEIJER #187",
+    "address": "595 N Pine Rd, Bay City, MI 48708-9190",
+    "city": "Hampton Twp",
+    "zipCode": "48708",
+    "latitude": 43.58255000816,
+    "longitude": -83.836955747957,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0275830",
+    "businessName": "ASMS21, LLC",
+    "address": "1500 Cass Ave, Bay City, MI 48708-8741",
+    "city": "Portsmouth Twp",
+    "zipCode": "48708",
+    "latitude": 43.565730756287,
+    "longitude": -83.885905091355,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "13756",
+    "businessName": "SOUTH SIDE MARKET",
+    "address": "1700 Cass Avenue Rd, Bay City, MI 48708-9117",
+    "city": "Portsmouth Twp",
+    "zipCode": "48708",
+    "latitude": 43.565622726448,
+    "longitude": -83.844994249469,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

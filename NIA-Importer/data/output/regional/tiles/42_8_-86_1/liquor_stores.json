@@ -1,0 +1,72 @@
+[
+  {
+    "businessId": "240534",
+    "businessName": "ANEW",
+    "address": "6398 Ninety Sixth, Zeeland, MI 49464",
+    "city": "Blendon Twp",
+    "zipCode": "49464",
+    "latitude": 42.885285589793,
+    "longitude": -86.021178431861,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "239800",
+    "businessName": "BORCULO EXPRESS",
+    "address": "6210 96th Ave, Zeeland, MI 49464-9543",
+    "city": "Blendon Twp",
+    "zipCode": "49464",
+    "latitude": 42.881785853255,
+    "longitude": -86.021055252292,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246312",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "12575 Riley St, Holland, MI 49424-8217",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.826577146605,
+    "longitude": -86.093166495635,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "157342",
+    "businessName": "MEIJER #217",
+    "address": "3320 W Shore Dr, Holland, MI 49424-7753",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.827532772524,
+    "longitude": -86.091477049035,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "142859",
+    "businessName": "REPETE\u0027S",
+    "address": "12719 Riley St, Holland, MI 49424-7247",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.826552690636,
+    "longitude": -86.095957783678,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "138630",
+    "businessName": "SAM\u0027S CLUB #6417",
+    "address": "2190 N Park Dr, Holland, MI 49424-9595",
+    "city": "Holland Twp",
+    "zipCode": "49424",
+    "latitude": 42.80680749799,
+    "longitude": -86.091018870587,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "214938",
+    "businessName": "A J\u0027S GROCERY \u0026 LIQUOR",
+    "address": "59 W Washington Ave, ZEELAND, MI 49464",
+    "city": "Zeeland",
+    "zipCode": "49464",
+    "latitude": 42.813922193339,
+    "longitude": -86.021863013598,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

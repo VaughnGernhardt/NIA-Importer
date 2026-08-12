@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "0272574",
+    "businessName": "LEPPINK\u0027S, INC.",
+    "address": "1623 142nd Ave, Dorr, MI 49323-9426",
+    "city": "Dorr Twp",
+    "zipCode": "49323",
+    "latitude": 42.725111240523,
+    "longitude": -85.704721499393,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "100060",
+    "businessName": "NORTH DORR GENERAL STORE",
+    "address": "4793 22nd St, Dorr, MI 49323-9760",
+    "city": "Dorr Twp",
+    "zipCode": "49323",
+    "latitude": 42.767757557513,
+    "longitude": -85.761840493809,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "237126",
+    "businessName": "SHORT STOP PARTY STORE OF DORR",
+    "address": "1730 142nd Ave, Dorr, MI 49323-9434",
+    "city": "Dorr Twp",
+    "zipCode": "49323",
+    "latitude": 42.725005583369,
+    "longitude": -85.715318046004,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0276410",
+    "businessName": "NEW SALEM COUNTRY STORE",
+    "address": "2584 146th Ave SW, Byron Center, MI 49315-9603",
+    "city": "Salem Twp",
+    "zipCode": "49315",
+    "latitude": 42.753959643499,
+    "longitude": -85.799915079803,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

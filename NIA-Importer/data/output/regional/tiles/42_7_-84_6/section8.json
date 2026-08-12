@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800010200",
+    "propertyName": "CAMELOT HILLS",
+    "latitude": 42.75501699919549,
+    "longitude": -84.56074099980334,
+    "assistedUnits": 102,
+    "totalUnits": 102
+  },
+  {
+    "propertyId": "800009979",
+    "propertyName": "CAPITAL GARDENS APTS",
+    "latitude": 42.755618999100044,
+    "longitude": -84.55992400001875,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  },
+  {
+    "propertyId": "800009980",
+    "propertyName": "CAPITOL COMMONS",
+    "latitude": 42.72679099917504,
+    "longitude": -84.56187499978036,
+    "assistedUnits": 30,
+    "totalUnits": 146
+  },
+  {
+    "propertyId": "800079949",
+    "propertyName": "CAPITOL COMMONS",
+    "latitude": 42.72827699915699,
+    "longitude": -84.56032700042488,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800253649",
+    "propertyName": "HILDEBRANDT PARK",
+    "latitude": 42.76558499909717,
+    "longitude": -84.55551199995928,
+    "assistedUnits": 60,
+    "totalUnits": 60
+  },
+  {
+    "propertyId": "800501947",
+    "propertyName": "Michigan State Housing Development Authority",
+    "latitude": 42.7337529991115,
+    "longitude": -84.54184599961056,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800243088",
+    "propertyName": "Michigan State Housing Development Authority",
+    "latitude": 42.7337529991115,
+    "longitude": -84.54184599961056,
+    "assistedUnits": 0,
+    "totalUnits": 0
+  },
+  {
+    "propertyId": "800010605",
+    "propertyName": "PORTER APARTMENTS",
+    "latitude": 42.72832599884458,
+    "longitude": -84.55527900033077,
+    "assistedUnits": 98,
+    "totalUnits": 98
+  },
+  {
+    "propertyId": "800010503",
+    "propertyName": "RIVERFRONT",
+    "latitude": 42.73969699907202,
+    "longitude": -84.5467339998711,
+    "assistedUnits": 212,
+    "totalUnits": 278
+  },
+  {
+    "propertyId": "800252042",
+    "propertyName": "SOUTH WASHINGTON",
+    "latitude": 42.700418998967464,
+    "longitude": -84.56222799995777,
+    "assistedUnits": 187,
+    "totalUnits": 374
+  },
+  {
+    "propertyId": "800034015",
+    "propertyName": "WILLOW VISTA 4",
+    "latitude": 42.748956999062095,
+    "longitude": -84.56005999956287,
+    "assistedUnits": 31,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800250809",
+    "propertyName": "WILLOW VISTA 9",
+    "latitude": 42.748956999062095,
+    "longitude": -84.56005999956287,
+    "assistedUnits": 19,
+    "totalUnits": 19
+  }
+]

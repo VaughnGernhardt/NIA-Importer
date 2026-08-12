@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0276285",
+    "businessName": "THE ANCHOR MARKET",
+    "address": "5160 N Hubbard Lake Rd, Spruce, MI 48762-9764",
+    "city": "Alcona Twp",
+    "zipCode": "48762",
+    "latitude": 44.803662451902,
+    "longitude": -83.525185946932,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0274537",
+    "businessName": "HUBBARD LAKE GENERAL STORE",
+    "address": "6914 Hubert Rd, Hubbard Lake, MI 49747-9707",
+    "city": "Ossineke Twp",
+    "zipCode": "49747",
+    "latitude": 44.859119646017,
+    "longitude": -83.586650503192,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

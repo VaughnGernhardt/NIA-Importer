@@ -1,0 +1,66 @@
+[
+  {
+    "propertyId": "800222274",
+    "propertyName": "GATES MANOR APARTMENTS",
+    "latitude": 42.07779499907936,
+    "longitude": -87.70565699973491,
+    "assistedUnits": 51,
+    "totalUnits": 51
+  },
+  {
+    "propertyId": "800005957",
+    "propertyName": "GROSS POINT ELDERLY HOUSING",
+    "latitude": 42.05729799907062,
+    "longitude": -87.73772399963369,
+    "assistedUnits": 48,
+    "totalUnits": 49
+  },
+  {
+    "propertyId": "800006156",
+    "propertyName": "MORTON GROVE HOUSING FOR THE ELDERL",
+    "latitude": 42.04542299928255,
+    "longitude": -87.79944800008533,
+    "assistedUnits": 56,
+    "totalUnits": 56
+  },
+  {
+    "propertyId": "800006328",
+    "propertyName": "NORTH SHORE HOMES",
+    "latitude": 42.02919699924365,
+    "longitude": -87.75497900040949,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006269",
+    "propertyName": "OVER THE RAINBOW UNIT II",
+    "latitude": 42.05488599935865,
+    "longitude": -87.700642999976,
+    "assistedUnits": 33,
+    "totalUnits": 33
+  },
+  {
+    "propertyId": "800006284",
+    "propertyName": "ROBINEAU GROUP LIVING FACILITY",
+    "latitude": 42.01855499918014,
+    "longitude": -87.7382869998734,
+    "assistedUnits": 24,
+    "totalUnits": 24
+  },
+  {
+    "propertyId": "800006371",
+    "propertyName": "SWARTZBERG HOUSE",
+    "latitude": 42.0117729991663,
+    "longitude": -87.70678999988701,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800006426",
+    "propertyName": "VILLAGE CENTER",
+    "latitude": 42.0249729993666,
+    "longitude": -87.75659799991007,
+    "assistedUnits": 150,
+    "totalUnits": 151
+  }
+]

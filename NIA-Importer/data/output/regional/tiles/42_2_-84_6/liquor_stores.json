@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0281570",
+    "businessName": "FASTLANE CONVENIENCE STORES",
+    "address": "2428 N Dearing Rd, Parma, MI 49269-9415",
+    "city": "Sandstone Twp",
+    "zipCode": "49269",
+    "latitude": 42.267170313215,
+    "longitude": -84.539446587642,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0278847",
+    "businessName": "SANDSTONE PARTY STORE",
+    "address": "6710 W MICHIGAN AVE, JACKSON, MI 49201",
+    "city": "Sandstone Twp",
+    "zipCode": "49201",
+    "latitude": 42.252866299039,
+    "longitude": -84.516391106843,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0285279",
+    "businessName": "BEV N SLICES, LLC",
+    "address": "8025 Spring Arbor Rd, Spring Arbor, MI 49283-9764",
+    "city": "Spring Arbor Twp",
+    "zipCode": "49283",
+    "latitude": 42.208518775018,
+    "longitude": -84.539212825888,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "propertyId": "800023251",
+    "propertyName": "PARKVIEW I APARTMENTS",
+    "latitude": 44.87476899934921,
+    "longitude": -88.14163799959529,
+    "assistedUnits": 30,
+    "totalUnits": 30
+  },
+  {
+    "propertyId": "800023252",
+    "propertyName": "PARKVIEW II APARTMENTS",
+    "latitude": 44.87476899934921,
+    "longitude": -88.14163799959529,
+    "assistedUnits": 32,
+    "totalUnits": 32
+  },
+  {
+    "propertyId": "800022942",
+    "propertyName": "RIDGEVIEW APARTMENTS",
+    "latitude": 44.86643999896234,
+    "longitude": -88.12831699992638,
+    "assistedUnits": 20,
+    "totalUnits": 20
+  }
+]

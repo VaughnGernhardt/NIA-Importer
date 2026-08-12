@@ -1,0 +1,98 @@
+[
+  {
+    "propertyId": "800041002",
+    "propertyName": "BEACON HEIGHTS",
+    "latitude": 41.68860699910068,
+    "longitude": -86.29727399975201,
+    "assistedUnits": 174,
+    "totalUnits": 174
+  },
+  {
+    "propertyId": "800006658",
+    "propertyName": "CORBY HOMES",
+    "latitude": 41.68897099934485,
+    "longitude": -86.20569699982724,
+    "assistedUnits": 150,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800006699",
+    "propertyName": "FAIRINGTON APARTMENTS SOUTH BEND",
+    "latitude": 41.62313299913575,
+    "longitude": -86.23163500025667,
+    "assistedUnits": 201,
+    "totalUnits": 201
+  },
+  {
+    "propertyId": "800006797",
+    "propertyName": "KARL KING TOWER",
+    "latitude": 41.67118099876406,
+    "longitude": -86.24405299992725,
+    "assistedUnits": 219,
+    "totalUnits": 219
+  },
+  {
+    "propertyId": "800040949",
+    "propertyName": "LASALLE PARK HOMES",
+    "latitude": 41.675521998775174,
+    "longitude": -86.29709300000204,
+    "assistedUnits": 149,
+    "totalUnits": 150
+  },
+  {
+    "propertyId": "800219996",
+    "propertyName": "LASALLE PARK HOMES II",
+    "latitude": 41.67573699922998,
+    "longitude": -86.29755400013448,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800006846",
+    "propertyName": "MADISON GROUP HOME",
+    "latitude": 41.69835299930494,
+    "longitude": -86.26094700012972,
+    "assistedUnits": 8,
+    "totalUnits": 8
+  },
+  {
+    "propertyId": "800006868",
+    "propertyName": "MIAMI HILLS APARTMENTS",
+    "latitude": 41.640633998929886,
+    "longitude": -86.23943400017856,
+    "assistedUnits": 150,
+    "totalUnits": 151
+  },
+  {
+    "propertyId": "800223878",
+    "propertyName": "RIVER COURT APARTMENTS",
+    "latitude": 41.68704099887642,
+    "longitude": -86.25030399959535,
+    "assistedUnits": 14,
+    "totalUnits": 14
+  },
+  {
+    "propertyId": "800006978",
+    "propertyName": "SAINT JOSEPH TOWER",
+    "latitude": 41.673647999112575,
+    "longitude": -86.24862599964521,
+    "assistedUnits": 84,
+    "totalUnits": 84
+  },
+  {
+    "propertyId": "800501703",
+    "propertyName": "SB Thrive",
+    "latitude": 41.680454999205686,
+    "longitude": -86.2007590002363,
+    "assistedUnits": 13,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800006845",
+    "propertyName": "UHRIG APARTMENTS",
+    "latitude": 41.690075998945936,
+    "longitude": -86.20514500035652,
+    "assistedUnits": 20,
+    "totalUnits": 21
+  }
+]

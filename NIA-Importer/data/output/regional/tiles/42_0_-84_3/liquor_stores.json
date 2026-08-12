@@ -1,0 +1,32 @@
+[
+  {
+    "businessId": "0283031",
+    "businessName": "BROOKLYN CONVENIENCE #2, LLC",
+    "address": "11700 M 50, Brooklyn, MI 49230-8347",
+    "city": "Cambridge Twp",
+    "zipCode": "49230",
+    "latitude": 42.057627361302,
+    "longitude": -84.219429586312,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0283017",
+    "businessName": "BROOKLYN MARKET #2, LLC",
+    "address": "14335 US Highway 12, Brooklyn, MI 49230-9007",
+    "city": "Woodstock Twp",
+    "zipCode": "49230",
+    "latitude": 42.048857317209,
+    "longitude": -84.273431187176,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0269588",
+    "businessName": "WOODSTOCK WINE \u0026 CHEESE",
+    "address": "6409 US Highway 223, Addison, MI 49220-9732",
+    "city": "Woodstock Twp",
+    "zipCode": "49220",
+    "latitude": 42.00802922782,
+    "longitude": -84.292648043556,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

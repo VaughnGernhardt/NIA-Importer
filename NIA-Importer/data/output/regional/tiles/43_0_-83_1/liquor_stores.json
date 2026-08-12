@@ -1,0 +1,52 @@
+[
+  {
+    "businessId": "0287910",
+    "businessName": "M \u0026 A COUNTRYSIDE MARKET",
+    "address": "1015 N Van Dyke Rd, Imlay City, MI 48444-9433",
+    "city": "Goodland Twp",
+    "zipCode": "48444",
+    "latitude": 43.066132156857,
+    "longitude": -83.074634412195,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0277405",
+    "businessName": "J \u0026 J IMLAY CITY",
+    "address": "546 N Cedar St, Imlay City, MI 48444-1166",
+    "city": "Imlay",
+    "zipCode": "48444",
+    "latitude": 43.031447213682,
+    "longitude": -83.071473452736,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "197461",
+    "businessName": "KROGER STORE #465",
+    "address": "1821 S Cedar St, Imlay City, MI 48444-1344",
+    "city": "Imlay",
+    "zipCode": "48444",
+    "latitude": 43.011267273698,
+    "longitude": -83.071578429938,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "206438",
+    "businessName": "LEN\u0027S PARTY STORE",
+    "address": "318 E Capac Rd, Imlay City, MI 48444-1116",
+    "city": "Imlay",
+    "zipCode": "48444",
+    "latitude": 43.030733643725,
+    "longitude": -83.074481921664,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "161807",
+    "businessName": "SMOKERS PALACE",
+    "address": "586 S Cedar St, Imlay City, MI 48444-1358",
+    "city": "Imlay",
+    "zipCode": "48444",
+    "latitude": 43.01953556941,
+    "longitude": -83.072151348389,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

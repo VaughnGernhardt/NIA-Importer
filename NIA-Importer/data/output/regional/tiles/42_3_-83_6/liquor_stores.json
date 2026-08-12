@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "191738",
+    "businessName": "CIGAR \u0026 LIQUOR EMPORIUM",
+    "address": "47159 Five Mile Rd, Plymouth, MI 48170-2420",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.394151316204,
+    "longitude": -83.508353646151,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11589",
+    "businessName": "WINE MERCHANTS MARKET",
+    "address": "49471 Ann Arbor Rd W, Plymouth, MI 48170-3206",
+    "city": "Plymouth Twp",
+    "zipCode": "48170",
+    "latitude": 42.353801888706,
+    "longitude": -83.52843384599,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

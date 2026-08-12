@@ -1,0 +1,102 @@
+[
+  {
+    "storeId": "3647-dix-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3647, Dix Hwy Lincoln Park, MI 48146",
+    "city": "Dix Hwy Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.231644350968,
+    "longitude": -83.194551993103
+  },
+  {
+    "storeId": "3698-fort-st",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 3698, Fort St Lincoln Park, MI 48146-4117",
+    "city": "Fort St Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.231253472775,
+    "longitude": -83.180901146292
+  },
+  {
+    "storeId": "13894-northline-rd",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 13894, Northline Rd. Southgate, MI 48195",
+    "city": "Northline Rd. Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213722044617,
+    "longitude": -83.193850020277
+  },
+  {
+    "storeId": "2545-s-schaefer-hwy",
+    "storeName": "Dollar Tree",
+    "chain": "Dollar Tree",
+    "address": "00PM Shop NowOrder Same Day Delivery Store Info 2545, S Schaefer Hwy Detroit, MI 48217-1622",
+    "city": "S Schaefer Hwy Detroit",
+    "zipCode": "48217",
+    "latitude": 42.275316123949,
+    "longitude": -83.147658278844
+  },
+  {
+    "storeId": "2617-a-dix-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 2617, A Dix Hwy Lincoln Park, MI 48146-2512",
+    "city": "A Dix Hwy Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.246639006713,
+    "longitude": -83.195249736417
+  },
+  {
+    "storeId": "1368-coolidge-hwy",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 1368, Coolidge Hwy River Rouge, MI 48218-1118",
+    "city": "Coolidge Hwy River Rouge",
+    "zipCode": "48218",
+    "latitude": 42.273713250871,
+    "longitude": -83.135417259469
+  },
+  {
+    "storeId": "165-maple-st",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 165, Maple St Wyandotte, MI 48192-5927",
+    "city": "Maple St Wyandotte",
+    "zipCode": "48192",
+    "latitude": 42.202039088969,
+    "longitude": -83.150985905721
+  },
+  {
+    "storeId": "13690-northline-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 13690, Northline Rd. Southgate, MI 48195-1803",
+    "city": "Northline Rd. Southgate",
+    "zipCode": "48195",
+    "latitude": 42.213739476807,
+    "longitude": -83.19160863303
+  },
+  {
+    "storeId": "24950-outer-drive",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "Now Weekly AdSame Day Delivery Store Info 24950, Outer Drive Lincoln Park, MI 48146",
+    "city": "Outer Drive Lincoln Park",
+    "zipCode": "48146",
+    "latitude": 42.270201597647,
+    "longitude": -83.181865966545
+  },
+  {
+    "storeId": "174-southfield-rd",
+    "storeName": "Family Dollar",
+    "chain": "Family Dollar",
+    "address": "00PM Weekly AdSame Day Delivery Store Info 174, Southfield Rd Ecorse, MI 48229",
+    "city": "Southfield Rd Ecorse",
+    "zipCode": "48229",
+    "latitude": 42.243240068293,
+    "longitude": -83.152182350765
+  }
+]

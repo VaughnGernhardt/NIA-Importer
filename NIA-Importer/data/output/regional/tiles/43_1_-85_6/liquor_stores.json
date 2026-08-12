@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "131006",
+    "businessName": "CEDAR ROCK GENERAL STORE",
+    "address": "4667 14 Mile Rd NE, Rockford, MI 49341-7425",
+    "city": "Algoma Twp",
+    "zipCode": "49341",
+    "latitude": 43.177651462216,
+    "longitude": -85.55486422705,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "246290",
+    "businessName": "EXIT 76 CORPORATION",
+    "address": "11800 Northland Dr NE, Rockford, MI 49341-9724",
+    "city": "Courtland Twp",
+    "zipCode": "49341",
+    "latitude": 43.179242470413,
+    "longitude": -85.550942998233,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "242206",
+    "businessName": "NUVU FUELS",
+    "address": "8413 Myers Lake Ave, Rockford, MI 49341-9314",
+    "city": "Courtland Twp",
+    "zipCode": "49341",
+    "latitude": 43.11781956995,
+    "longitude": -85.500316529785,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "166588",
+    "businessName": "D \u0026 W FOOD CENTER #1572",
+    "address": "201 Marcell Dr NE, Rockford, MI 49341-1364",
+    "city": "Rockford",
+    "zipCode": "49341",
+    "latitude": 43.115794535624,
+    "longitude": -85.54603120807,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

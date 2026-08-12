@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "0277032",
+    "businessName": "LAKEVILLE MARKET \u0026 LIQUOR",
+    "address": "503 Lakeville Rd, Leonard, MI 48367-3437",
+    "city": "Addison Twp",
+    "zipCode": "48367",
+    "latitude": 42.82131884035,
+    "longitude": -83.150347672441,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "140914",
+    "businessName": "LEONARD\u0027S MARKET",
+    "address": "4 W Elmwood, Leonard, MI 48367-1700",
+    "city": "Leonard",
+    "zipCode": "48367",
+    "latitude": 42.865381929691,
+    "longitude": -83.142953402246,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

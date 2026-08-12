@@ -1,0 +1,42 @@
+[
+  {
+    "businessId": "223492",
+    "businessName": "MUGG \u0026 BOPPS",
+    "address": "2940 Baker Rd, Dexter, MI 48130-1117",
+    "city": "Dexter",
+    "zipCode": "48130",
+    "latitude": 42.332091027555,
+    "longitude": -83.887176520478,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0292021",
+    "businessName": "WOW!",
+    "address": "7177 Dexter Ann Arbor Rd, Dexter, MI 48130-8575",
+    "city": "Dexter",
+    "zipCode": "48130",
+    "latitude": 42.328387598451,
+    "longitude": -83.873435768632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "11790",
+    "businessName": "C - J\u0027S PARTY STORE",
+    "address": "4511 N Territorial Rd, Dexter, MI 48130-9632",
+    "city": "Webster Twp",
+    "zipCode": "48130",
+    "latitude": 42.383331995868,
+    "longitude": -83.829799855632,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "0279914",
+    "businessName": "NEW DEXTER LIQUOR, INC.",
+    "address": "7490 Huron River Dr, Dexter, MI 48130-1065",
+    "city": "Webster Twp",
+    "zipCode": "48130",
+    "latitude": 42.341928313477,
+    "longitude": -83.879160534449,
+    "licenseType": "Specially Designated Distributor"
+  }
+]

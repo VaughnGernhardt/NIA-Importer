@@ -1,0 +1,74 @@
+[
+  {
+    "propertyId": "800009903",
+    "propertyName": "BARCLAY SENIOR VILLAGE",
+    "latitude": 43.21580199877532,
+    "longitude": -86.27070400038423,
+    "assistedUnits": 70,
+    "totalUnits": 70
+  },
+  {
+    "propertyId": "800009911",
+    "propertyName": "BAYVIEW TOWER",
+    "latitude": 43.236076998844325,
+    "longitude": -86.24156400004031,
+    "assistedUnits": 200,
+    "totalUnits": 200
+  },
+  {
+    "propertyId": "800061608",
+    "propertyName": "CHRISTIAN MANOR",
+    "latitude": 43.23072199929743,
+    "longitude": -86.20837300021026,
+    "assistedUnits": 42,
+    "totalUnits": 42
+  },
+  {
+    "propertyId": "800010417",
+    "propertyName": "PARK WOODS APTS",
+    "latitude": 43.235176998911435,
+    "longitude": -86.20153800038608,
+    "assistedUnits": 100,
+    "totalUnits": 100
+  },
+  {
+    "propertyId": "800010457",
+    "propertyName": "PIONEER ARBOUR",
+    "latitude": 43.210012999298165,
+    "longitude": -86.27040399991026,
+    "assistedUnits": 16,
+    "totalUnits": 16
+  },
+  {
+    "propertyId": "800010458",
+    "propertyName": "PIONEER HOUSE-UCPA",
+    "latitude": 43.24889899876532,
+    "longitude": -86.21050399989694,
+    "assistedUnits": 12,
+    "totalUnits": 13
+  },
+  {
+    "propertyId": "800254379",
+    "propertyName": "Ten21 Apartments",
+    "latitude": 43.233746998811526,
+    "longitude": -86.24679399970928,
+    "assistedUnits": 11,
+    "totalUnits": 62
+  },
+  {
+    "propertyId": "800211618",
+    "propertyName": "WHISPERING TIMBERS",
+    "latitude": 43.22366399875537,
+    "longitude": -86.23949100007997,
+    "assistedUnits": 18,
+    "totalUnits": 18
+  },
+  {
+    "propertyId": "800010626",
+    "propertyName": "WOODSIDE HAVEN",
+    "latitude": 43.245565999025224,
+    "longitude": -86.20120799977488,
+    "assistedUnits": 45,
+    "totalUnits": 46
+  }
+]

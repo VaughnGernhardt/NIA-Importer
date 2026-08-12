@@ -1,0 +1,22 @@
+[
+  {
+    "businessId": "225859",
+    "businessName": "DEEP\u0027S CORNER STORE, INC.",
+    "address": "102 Waukazoo St, Northport, MI 49670",
+    "city": "Northport",
+    "zipCode": "49670",
+    "latitude": 45.129644252895,
+    "longitude": -85.616671484947,
+    "licenseType": "Specially Designated Distributor"
+  },
+  {
+    "businessId": "16020",
+    "businessName": "TOM\u0027S FOOD MARKET",
+    "address": "105 E Nagonaba St, Northport, MI 49670",
+    "city": "Northport",
+    "zipCode": "49670",
+    "latitude": 45.129792788979,
+    "longitude": -85.615635584884,
+    "licenseType": "Specially Designated Distributor"
+  }
+]
